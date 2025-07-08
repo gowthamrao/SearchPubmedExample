@@ -26,7 +26,7 @@ from terms import ALL_TERMS_LIST
 # Config
 # ------------------------------------------------------------------
 PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
-RETURN_MAX  = int(os.getenv("RETURN_MAX", "100"))
+RETURN_MAX  = int(os.getenv("RETURN_MAX", "999999999"))
 DEFAULT_START = 2025
 DEFAULT_END   = datetime.now(timezone.utc).year
 
