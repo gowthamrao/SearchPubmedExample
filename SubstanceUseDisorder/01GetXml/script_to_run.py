@@ -204,14 +204,14 @@ today_suffix     = datetime.now(tz).strftime("%Y%m%d")
 
 TABLE_NAME = f"{BASE_NAME}_{today_suffix}"
 PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
-RETURN_MAX  = int(os.getenv("RETURN_MAX", "99"))
+RETURN_MAX  = int(os.getenv("RETURN_MAX", "150"))
 CATALOG      = "odysseus"        # catalog
 SCHEMA       = "ods_pd_0160"     # schema / database
 year_start = 2016
 year_end   = 2025
 
 ##Entrez.email   = os.getenv("ENTREZ_EMAIL", "you@example.com")
-##Entrez.api_key = PM_KEY
+Entrez.api_key = PM_KEY
 
 DEFAULT_START = 2016
 DEFAULT_END   = datetime.now(timezone.utc).year
@@ -251,47 +251,83 @@ n_unique = len(set(pmids))
 print(f"ESearch returned {n_unique} unique PMIDs")
 table_full_name = f"{CATALOG}.{SCHEMA}.{TABLE_NAME}_01_pmid_pmcid"
 
-# script to get pmids - save them (array - sorted)  # commit
-
 # ─────────────────────────────────────────────────────────────────────────────
 # script to get pmids - save them (array - sorted)  # commit
 # ─────────────────────────────────────────────────────────────────────────────
 import json
 import pandas as pd
 
+# Paths
+pmid_json    = "outputs/pmids.json"
+pmid_csv     = "outputs/pmids.csv"
+mapping_csv  = f"outputs/{TABLE_NAME}_01_pmid_pmcid.csv"
+dist_csv     = f"outputs/{TABLE_NAME}_01_pmcid_distribution.csv"
+
+def remove_if_exists(path):
+    if os.path.isfile(path):
+        os.remove(path)
+        print(f"⚠️  Removed stale cache: {path}")
+
+
 pmid_list = sorted(set(pmids))
 os.makedirs("outputs", exist_ok=True)
 
-# JSON
-with open("outputs/pmids.json", "w") as f:
-    json.dump(pmid_list, f, indent=2)
+# ─────────────────────────────────────────────────────────────────────────────
+# 0  Load or fetch PMID list (and invalidate caches if stale)
+# ─────────────────────────────────────────────────────────────────────────────
 
-# CSV (one PMID per line)
-pd.Series(pmid_list, name="pmid") \
-  .to_csv("outputs/pmids.csv", index=False)
+if os.path.isfile(pmid_json):
+    with open(pmid_json) as f:
+        loaded_pmids = json.load(f)
+    print(f"✔ Loaded {len(loaded_pmids)} PMIDs from {pmid_json}")
 
-print(f"✔ Saved {len(pmid_list)} PMIDs to outputs/pmids.json and outputs/pmids.csv")
+    # check true hit count
+    handle = Entrez.esearch(db="pubmed", term=pubmed_query, retmax=0, api_key=PM_KEY)
+    true_count = int(Entrez.read(handle)["Count"])
 
+    if len(loaded_pmids) == true_count:
+        pmids = loaded_pmids
+        print("✔ PMID list is up to date; skipping ESearch")
+    else:
+        print(f"ℹ️ PMID list ({len(loaded_pmids)}) is stale vs true count ({true_count}); re-running ESearch")
+        # remove old downstream caches
+        remove_if_exists(mapping_csv)
+        remove_if_exists(dist_csv)
 
+        pmids = get_pmid_from_pubmed(query=pubmed_query, retmax=RETURN_MAX, api_key=PM_KEY)
+        pmids = sorted(set(pmids))
+        # overwrite PMID cache
+        with open(pmid_json, "w") as f:
+            json.dump(pmids, f, indent=2)
+        pd.Series(pmids, name="pmid").to_csv(pmid_csv, index=False)
+        print(f"✔ Saved updated PMID list ({len(pmids)}) to {pmid_json} & {pmid_csv}")
+else:
+    # first run ever
+    pmids = get_pmid_from_pubmed(query=pubmed_query, retmax=RETURN_MAX, api_key=PM_KEY)
+    pmids = sorted(set(pmids))
+    with open(pmid_json, "w") as f:
+        json.dump(pmids, f, indent=2)
+    pd.Series(pmids, name="pmid").to_csv(pmid_csv, index=False)
+    print(f"✔ Saved PMID list ({len(pmids)}) to {pmid_json} & {pmid_csv}")
+
+    
 # ─────────────────────────────────────────────────────────────────────────────
 # 1  Map PMIDs → PMCIDs (pandas DataFrame)
 # ─────────────────────────────────────────────────────────────────────────────
 # (re-use the same pmids list & PM_KEY from above)
-mapping_df = map_pmids_to_pmcids(pmids, api_key=PM_KEY)
-
-# ensure a uniform list-of-dict if your helper returns a list
-if isinstance(mapping_df, list):
-    mapping_df = pd.DataFrame(mapping_df)
-
-# add a retrieval timestamp
-now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-mapping_df["retrieved"] = now_utc
-
-# (optional) save out to CSV instead of a Hive table
-os.makedirs("outputs", exist_ok=True)
-csv_path = os.path.join("outputs", f"{TABLE_NAME}_01_pmid_pmcid.csv")
-mapping_df.to_csv(csv_path, index=False)
-print(f"✔ Wrote PMCID mapping to {csv_path}")
+mapping_csv = f"outputs/{TABLE_NAME}_01_pmid_pmcid.csv"
+if os.path.isfile(mapping_csv):
+    # Load existing mapping
+    mapping_df = pd.read_csv(mapping_csv)
+    print(f"✔ Loaded existing mapping CSV; skipping PMID→PMCID download: {mapping_csv}")
+else:
+    # Do the ELink batch download
+    mapping_df = map_pmids_to_pmcids(pmids, api_key=PM_KEY)
+    if isinstance(mapping_df, list):
+        mapping_df = pd.DataFrame(mapping_df)
+    mapping_df["retrieved"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    mapping_df.to_csv(mapping_csv, index=False)
+    print(f"✔ Wrote PMID→PMCID mapping to {mapping_csv}")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 2  Basic cardinalities (unique counts)
@@ -314,20 +350,29 @@ print(summary_df.to_string(index=False))
 # ─────────────────────────────────────────────────────────────────────────────
 # 3  Distribution of #PMCIDs per PMID (only where ≥1 PMCID)
 # ─────────────────────────────────────────────────────────────────────────────
-dist_df = (
-    mapping_df
-    .dropna(subset=["pmcid"])
-    .groupby("pmid")["pmcid"]
-    .nunique()
-    .reset_index(name="pmcid_count")
-    .sort_values("pmcid_count")
-)
-
-print("\n▶ Distribution of PMCIDs per PMID (first 10 rows):")
-print(dist_df.head(10).to_string(index=False))
+dist_csv = f"outputs/{TABLE_NAME}_01_pmcid_distribution.csv"
+if os.path.isfile(dist_csv):
+    dist_df = pd.read_csv(dist_csv)
+    print(f"✔ Loaded existing distribution CSV; skipping aggregation: {dist_csv}")
+else:
+    dist_df = (
+        mapping_df
+        .dropna(subset=["pmcid"])
+        .groupby("pmid")["pmcid"]
+        .nunique()
+        .reset_index(name="pmcid_count")
+        .sort_values("pmcid_count")
+    )
+    dist_df.to_csv(dist_csv, index=False)
+    print(f"✔ Wrote PMCIDs‐per‐PMID distribution to {dist_csv}")
 
 # (optional) save the distribution
-dist_df.to_csv(os.path.join("outputs", f"{TABLE_NAME}_01_pmcid_distribution.csv"), index=False)
+csv_dist = f"outputs/{TABLE_NAME}_01_pmcid_distribution.csv"
+if not os.path.isfile(csv_dist):
+    dist_df.to_csv(csv_dist, index=False)
+    print(f"Wrote distribution CSV: {csv_dist}")
+else:
+    print(f"Distribution CSV already exists—skipping: {csv_dist}")
 
 
 
