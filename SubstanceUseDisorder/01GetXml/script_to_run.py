@@ -29,7 +29,8 @@ from searchpubmed.pubmed import (
     get_pmid_from_pubmed, 
     map_pmids_to_pmcids,
     get_pmc_full_xml,
-    get_pubmed_metadata_pmid
+    get_pubmed_metadata_pmid,
+    get_pubmed_metadata_pmcid
 )
 import pytz, os
 
@@ -498,6 +499,169 @@ print(f"▶ Saved year distribution chart to {chart_path}")
 
 
 # (Optionally) plt.show() if you want it displayed in an interactive session
+
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 5  Load PMCID list → Fetch PMC metadata → Save raw CSV & run QC
+# ─────────────────────────────────────────────────────────────────────────────
+import pandas as pd
+import json
+import time
+
+# Paths & dirs
+map_csv   = f"outputs/{TABLE_NAME}_01_pmid_pmcid.csv"
+pmc_meta_dir = "outputs/meta/pmc"
+qc_pmc_dir   = os.path.join(pmc_meta_dir, "qc")
+os.makedirs(qc_pmc_dir, exist_ok=True)
+
+# 5.1 Load mapping CSV and get unique PMCIDs
+map_df = pd.read_csv(map_csv, dtype=str)
+pmcids = sorted(
+    map_df["pmcid"].dropna().unique().tolist()
+)
+print(f"▶ Found {len(pmcids)} unique PMCIDs for metadata fetch")
+
+# 5.2 Optional: strip 'PMC' prefix if your helper expects digits only
+# pmcids = [x.lstrip("PMC") for x in pmcids]
+
+# 5.3 Fetch PMC metadata in chunks (retry on failure)
+def chunked_get_pmc_metadata(ids, chunk_size=50, max_retries=3, backoff=5):
+    all_dfs = []
+    for i in range(0, len(ids), chunk_size):
+        batch = ids[i:i+chunk_size]
+        for attempt in range(1, max_retries+1):
+            try:
+                df = get_pubmed_metadata_pmcid(pmcids=batch, api_key=PM_KEY)
+                if isinstance(df, list):
+                    df = pd.DataFrame(df)
+                all_dfs.append(df)
+                break
+            except Exception as e:
+                if attempt < max_retries:
+                    print(f"⚠️  Batch {i//chunk_size+1} failed (attempt {attempt}): {e!r}, retrying in {backoff}s")
+                    time.sleep(backoff)
+                else:
+                    raise
+    return pd.concat(all_dfs, ignore_index=True)
+
+pmc_meta_df = chunked_get_pmc_metadata(pmcids, chunk_size=100)
+
+# 5.4 Save raw PMC metadata (sorted by pmcid)
+pmc_meta_df = pmc_meta_df.sort_values("pmcid")
+raw_csv = os.path.join(pmc_meta_dir, f"pmc_metadata_{TABLE_NAME}.csv")
+pmc_meta_df.to_csv(raw_csv, index=False)
+print(f"✔ Wrote PMC metadata ({len(pmc_meta_df)} rows) to {raw_csv}")
+
+# 5.5 QC Step 1: Dedupe counts
+total_rows    = len(pmc_meta_df)
+unique_pmcids = pmc_meta_df["pmcid"].nunique()
+unique_pmids  = pmc_meta_df["pmid"].nunique()
+qc1 = {
+    "rows_in_table": total_rows,
+    "unique_pmcids": unique_pmcids,
+    "unique_pmids":  unique_pmids
+}
+pd.DataFrame([qc1])\
+  .to_csv(os.path.join(qc_pmc_dir, "qc_pmc_headline_counts.csv"), index=False)
+print("▶ PMC headline QC saved to qc_pmc_headline_counts.csv")
+
+# 5.6 QC Step 2: Distribution of PMCIDs per PMID & PMIDs per PMCID
+dist_pmcid_per_pmid = (
+    pmc_meta_df.groupby("pmid")["pmcid"]
+               .nunique()
+               .rename("pmcid_count")
+               .reset_index()
+               .pmcid_count.value_counts()
+               .sort_index()
+               .rename_axis("pmcid_per_pmid")
+               .reset_index(name="freq")
+)
+dist_pmid_per_pmcid = (
+    pmc_meta_df.groupby("pmcid")["pmid"]
+               .nunique()
+               .rename("pmid_count")
+               .reset_index()
+               .pmid_count.value_counts()
+               .sort_index()
+               .rename_axis("pmid_per_pmcid")
+               .reset_index(name="freq")
+)
+dist_pmcid_per_pmid.to_csv(os.path.join(qc_pmc_dir, "qc_pmcid_per_pmid.csv"), index=False)
+dist_pmid_per_pmcid.to_csv(os.path.join(qc_pmc_dir, "qc_pmid_per_pmcid.csv"), index=False)
+print("▶ PMC/PMID distributions saved to qc_pmcid_per_pmid.csv & qc_pmid_per_pmcid.csv")
+
+# 5.7 QC Step 3: Top‐20 journals
+top_journals_pmc = (
+    pmc_meta_df["journal"].dropna()
+    .value_counts()
+    .head(20)
+    .rename_axis("journal")
+    .reset_index(name="count")
+)
+top_journals_pmc.to_csv(os.path.join(qc_pmc_dir, "qc_top_journals_pmc.csv"), index=False)
+print("▶ PMC top journals saved to qc_top_journals_pmc.csv")
+
+# 5.8 QC Step 4: Year histogram
+years_pmc = (
+    pmc_meta_df["publicationDate"]
+    .str.extract(r"(\d{4})", expand=False)
+    .dropna().astype(int)
+)
+year_counts_pmc = (
+    years_pmc.value_counts()
+             .sort_index()
+             .rename_axis("year")
+             .reset_index(name="count")
+)
+year_counts_pmc.to_csv(os.path.join(qc_pmc_dir, "qc_year_histogram_pmc.csv"), index=False)
+print("▶ PMC year histogram saved to qc_year_histogram_pmc.csv")
+
+# 5.9 QC Step 5: MeSH tags & keywords
+def explode_and_count(df, col, sep=r";\s*", top_n=30):
+    return (
+        df[col].dropna()
+             .str.split(sep).explode().str.strip()
+             .value_counts().head(top_n)
+             .rename_axis(col)
+             .reset_index(name="count")
+    )
+
+mesh_pmc = explode_and_count(pmc_meta_df, "meshTags", top_n=50)
+kw_pmc   = explode_and_count(pmc_meta_df, "keywords", top_n=50)
+mesh_pmc.to_csv(os.path.join(qc_pmc_dir, "qc_top_mesh_tags_pmc.csv"), index=False)
+kw_pmc.to_csv(os.path.join(qc_pmc_dir, "qc_top_keywords_pmc.csv"), index=False)
+print("▶ PMC MeSH & keyword counts saved to qc_top_mesh_tags_pmc.csv & qc_top_keywords_pmc.csv")
+
+
+# ─────────────────────────────────────────────
+# 5.10  Generate PMC Year‐of‐Publication Histogram (PNG)
+# ─────────────────────────────────────────────
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+
+# Reuse the year_counts_pmc DataFrame from Step 5.8
+years = year_counts_pmc["year"].tolist()
+counts = year_counts_pmc["count"].tolist()
+
+plt.figure(figsize=(12, 4))
+plt.bar(years, counts)
+plt.xlabel("Publication Year")
+plt.ylabel("Number of Articles")
+plt.title("PMC Articles by Publication Year")
+
+# Force integer ticks on the x‐axis
+ax = plt.gca()
+ax.xaxis.set_major_locator(mticker.MaxNLocator(integer=True))
+plt.xticks(rotation=90)
+plt.tight_layout()
+
+# Save the figure
+hist_png = os.path.join(qc_pmc_dir, "qc_year_histogram_pmc.png")
+plt.savefig(hist_png, bbox_inches="tight")
+print(f"▶ Saved PMC year histogram chart to {hist_png}")
+
+
 
 
 xxx
