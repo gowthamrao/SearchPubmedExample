@@ -376,7 +376,128 @@ else:
 
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# 4  Load PMIDs → Fetch PubMed metadata → Save raw metadata & run QC
+# ─────────────────────────────────────────────────────────────────────────────
+import json
 
+# Paths and directories
+pmid_json = "outputs/pmids.json"
+meta_dir  = "outputs/meta"
+qc_dir    = os.path.join(meta_dir, "qc")
+os.makedirs(qc_dir, exist_ok=True)
+
+# 4.1 Load PMID list
+with open(pmid_json) as f:
+    pmids = json.load(f)
+print(f"▶ Loaded {len(pmids)} PMIDs for metadata fetch")
+
+# 4.2 Fetch PubMed metadata
+meta_df = get_pubmed_metadata_pmid(pmids=pmids, api_key=PM_KEY)
+
+# 4.3 Save raw metadata
+meta_csv = os.path.join(meta_dir, f"pmid_metadata_{TABLE_NAME}.csv")
+meta_df.to_csv(meta_csv, index=False)
+print(f"✔ Wrote PubMed metadata ({len(meta_df)} rows) to {meta_csv}")
+
+# 4.4 QC Step 1: Headline missing‐field counts & duplicates
+cols = ["title","abstract","journal","publicationDate",
+        "doi","firstAuthor","lastAuthor","meshTags","keywords"]
+missing_counts = {f"missing_{c}": int(meta_df[c].isna().sum()) for c in cols}
+total_rows     = len(meta_df)
+unique_pmids   = meta_df["pmid"].nunique()
+duplicate_pmids = total_rows - unique_pmids
+
+headline_qc = {
+    **missing_counts,
+    "rows_in_table":    total_rows,
+    "unique_pmids":     unique_pmids,
+    "duplicate_pmids":  duplicate_pmids,
+}
+pd.DataFrame([headline_qc])\
+  .to_csv(os.path.join(qc_dir, "qc_headline_counts.csv"), index=False)
+print("▶ Headline QC saved to qc_headline_counts.csv")
+
+# 4.5 QC Step 2: Publication‐year distribution
+years = (
+    meta_df["publicationDate"]
+    .str.extract(r"(\d{4})", expand=False)
+    .dropna()
+    .astype(int)
+)
+year_counts = (
+    years.value_counts()
+         .sort_index()
+         .rename_axis("year")
+         .reset_index(name="count")
+)
+year_counts.to_csv(os.path.join(qc_dir, "qc_year_distribution.csv"), index=False)
+print("▶ Year distribution saved to qc_year_distribution.csv")
+
+# 4.6 QC Step 3: Top‐20 journals by article count
+top_journals = (
+    meta_df["journal"]
+    .dropna()
+    .value_counts()
+    .head(20)
+    .rename_axis("journal")
+    .reset_index(name="count")
+)
+top_journals.to_csv(os.path.join(qc_dir, "qc_top_journals.csv"), index=False)
+print("▶ Top journals saved to qc_top_journals.csv")
+
+# 4.7 QC Step 4: MeSH‐tag & keyword frequencies (top-30 each)
+def explode_and_count(df, col, sep=r";\s*", top_n=30):
+    return (
+        df[col]
+        .dropna()
+        .str.split(sep)
+        .explode()
+        .str.strip()
+        .value_counts()
+        .head(top_n)
+        .rename_axis(col)
+        .reset_index(name="count")
+    )
+
+mesh_counts = explode_and_count(meta_df, "meshTags", top_n=30)
+kw_counts   = explode_and_count(meta_df, "keywords", top_n=30)
+
+mesh_counts.to_csv(os.path.join(qc_dir, "qc_top_mesh_tags.csv"), index=False)
+kw_counts.to_csv(os.path.join(qc_dir, "qc_top_keywords.csv"), index=False)
+print("▶ MeSH & keyword counts saved to qc_top_mesh_tags.csv & qc_top_keywords.csv")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 4.8 Generate Publication‐Year Bar Chart (PNG)
+# ─────────────────────────────────────────────────────────────────────────────
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+
+# Use the year_counts DataFrame from Step 4.5
+years = year_counts["year"].tolist()
+counts = year_counts["count"].tolist()
+
+plt.figure(figsize=(10, 5))
+plt.bar(years, counts)  
+plt.title("Articles per Publication Year")
+plt.xlabel("Year")
+plt.ylabel("Number of Articles")
+
+# ─── Force integer ticks ─────────────────────────────────────────────────────
+ax = plt.gca()
+ax.xaxis.set_major_locator(mticker.MaxNLocator(integer=True))
+plt.xticks(rotation=90)
+
+plt.tight_layout()
+
+# Save as before
+chart_path = os.path.join(qc_dir, "qc_year_distribution.png")
+plt.savefig(chart_path, bbox_inches="tight")
+print(f"▶ Saved year distribution chart to {chart_path}")
+
+
+# (Optionally) plt.show() if you want it displayed in an interactive session
 
 
 xxx
