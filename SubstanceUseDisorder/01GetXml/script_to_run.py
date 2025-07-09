@@ -15,8 +15,6 @@
 
 
 
-
-
 # set up
 
 import os
@@ -26,12 +24,14 @@ import os, pandas as pd
 from datetime import datetime, timezone
 from typing import List, Dict, Any
 from Bio import Entrez
+from searchpubmed.query_builder import build_query, STRATEGY2_OPTS
 from searchpubmed.pubmed import (
-    get_pmid_from_pubmed,
+    get_pmid_from_pubmed, 
     map_pmids_to_pmcids,
     get_pmc_full_xml,
     get_pubmed_metadata_pmid
 )
+import pytz, os
 
 PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
 
@@ -39,8 +39,18 @@ PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
 os.makedirs('outputs', exist_ok=True)
 os.makedirs('xmls', exist_ok=True)
 
+# Current UTC timestamp (timezone-aware)
+now_utc = datetime.now(timezone.utc)
+
 
 # step 1: return pmids by boolean search
+
+# ---------------------------------------------------------------------------
+# Search-specific configuration
+# ---------------------------------------------------------------------------
+RWD_TERMS     = build_query(STRATEGY2_OPTS)
+
+
 # -------------------------------------------------------------------
 # Addiction, SUD – MeSH + free-text
 # -------------------------------------------------------------------
@@ -180,17 +190,151 @@ ALL_TERMS_LIST = (
     + ALCOHOL_TERMS
 )
 
-# Configuration
+
+# COMMAND ----------
+
+# ------------------------------------------------------------------
+# Config
+# ------------------------------------------------------------------
+
+# base constants
+BASE_NAME        = "pubmedsearch"
+tz               = pytz.timezone("Asia/Kolkata")
+today_suffix     = datetime.now(tz).strftime("%Y%m%d")
+
+TABLE_NAME = f"{BASE_NAME}_{today_suffix}"
+PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
+RETURN_MAX  = int(os.getenv("RETURN_MAX", "99"))
+CATALOG      = "odysseus"        # catalog
+SCHEMA       = "ods_pd_0160"     # schema / database
 year_start = 2016
 year_end   = 2025
 
-query = '((("Substance-Related Disorders"[Mesh] OR "Behavior, Addictive"[Mesh] OR "Substance Abuse, Intravenous"[Mesh] OR "Drug Users"[Mesh] OR "Addiction Medicine"[Mesh] OR "Substance Withdrawal Syndrome"[Mesh] OR "Substance Abuse, Oral"[Mesh] OR substance use disorder*[tiab] OR drug use disorder*[tiab] OR substance misuse[tiab] OR drug misuse[tiab] OR substance depend*[tiab] OR drug depend*[tiab] OR substance abuse[tiab] OR drug abuse[tiab] OR addictive behavio?r[tiab] OR addiction[tiab] OR addicted person*[tiab] OR "nonmedical use"[tiab] OR "non-medical use"[tiab] OR illicit drug use[tiab] OR recreational drug use[tiab] OR problematic use[tiab] OR polysubstance use[tiab] OR poly-substance use[tiab] OR chemical depend*[tiab] OR compulsive drug use[tiab] OR drug seeking[tiab] OR SUD[tiab] OR "Tobacco Use Disorder"[Mesh] OR "Smoking"[Mesh] OR "Vaping"[Mesh] OR "Electronic Nicotine Delivery Systems"[Mesh] OR cigarette smoking[tiab] OR cigarette depend*[tiab] OR tobacco use[tiab] OR tobacco misuse[tiab] OR tobacco depend*[tiab] OR nicotine depend*[tiab] OR nicotine addiction[tiab] OR smoker*[tiab] OR vaping[tiab] OR e-cigarette*[tiab] OR e cigarette*[tiab] OR ENDS[tiab] OR "heated tobacco product*"[tiab] OR HTP[tiab] OR electronic cigarette*[tiab] OR "Marijuana Abuse"[Mesh] OR "Marijuana Smoking"[Mesh] OR cannabis use disorder*[tiab] OR marijuana use disorder*[tiab] OR cannabis misuse[tiab] OR marijuana misuse[tiab] OR cannabis depend*[tiab] OR marijuana depend*[tiab] OR cannabis abuse[tiab] OR marijuana abuse[tiab] OR THC use[tiab] OR cannabinoid use[tiab] OR THC misuse[tiab] OR tetrahydrocannabinol misuse[tiab] OR weed use[tiab] OR weed misuse[tiab] OR cannabis smoking[tiab] OR CBD misuse[tiab] OR "Opioid-Related Disorders"[Mesh] OR opioid use disorder*[tiab] OR opiate use disorder*[tiab] OR opioid misuse[tiab] OR opiate misuse[tiab] OR opioid depend*[tiab] OR opiate depend*[tiab] OR opioid abuse[tiab] OR opiate abuse[tiab] OR heroin depend*[tiab] OR heroin misuse[tiab] OR fentanyl misuse[tiab] OR "nonmedical prescription opioid use"[tiab] OR OUD[tiab] OR MAT[tiab] OR opioid addiction[tiab] OR synthetic opioid*[tiab] OR "medication-assisted treatment"[tiab] OR "medication assisted treatment"[tiab] OR "Alcohol-Related Disorders"[Mesh] OR "Alcoholism"[Mesh] OR "Binge Drinking"[Mesh] OR alcohol use disorder*[tiab] OR AUD[tiab] OR alcohol misuse[tiab] OR hazardous drink*[tiab] OR problem drink*[tiab] OR alcohol depend*[tiab] OR alcohol addiction[tiab] OR heavy drink*[tiab] OR binge drink*[tiab] OR harmful alcohol use[tiab] OR excessive alcohol[tiab] OR "alcohol overuse"[tiab] OR alcohol consumption disorder*[tiab]) AND (((Electronic Health Records[MeSH] OR Medical Record Systems, Computerized[MeSH] OR "routinely collected health data"[MeSH] OR EHR[TIAB] OR EMR[TIAB] OR "electronic health record"[TIAB] OR "electronic medical record"[TIAB] OR Insurance Claim Review[MeSH] OR Insurance Claim Reporting[MeSH] OR "claims data"[TIAB] OR "administrative data"[TIAB] OR "insurance claims"[TIAB] OR Databases, Factual[MeSH] OR "Real-World Data"[TIAB] OR "Real-World Evidence"[TIAB] OR "real-world data"[TIAB] OR "real-world evidence"[TIAB] OR "SEER"[TIAB] OR "NHANES"[TIAB] OR "CPRD"[TIAB] OR "MarketScan"[TIAB] OR "Optum"[TIAB] OR "Truven"[TIAB] OR "IQVIA"[TIAB] OR "PharMetrics"[TIAB] OR "Symphony Health"[TIAB] OR "Premier Healthcare"[TIAB] OR "Medicare"[TIAB] OR "Medicaid"[TIAB] OR "All-Payer"[TIAB] OR "All Payer"[TIAB] OR "TriNetX"[TIAB] OR "Cerner"[TIAB] OR "Komodo"[TIAB] OR "Kaiser"[TIAB] OR "Explorys"[TIAB] OR "The Health Improvement Network"[TIAB] OR "Vizient"[TIAB] OR "HealthVerity"[TIAB] OR "Datavant"[TIAB] OR "Merative"[TIAB]) AND (Observational Study[PT] OR Observational Studies as Topic[MeSH] OR observational[TIAB] OR "observational study"[TIAB] OR observational stud*[TIAB] OR Retrospective Studies[MeSH] OR retrospective[TIAB] OR "retrospective study"[TIAB] OR Secondary Data Analysis[MeSH] OR "secondary analysis"[TIAB] OR "secondary data analysis"[TIAB] OR Health Services Research[MeSH] OR Outcome Assessment, Health Care[MeSH] OR Comparative Effectiveness Research[MeSH] OR Cohort Studies[MeSH] OR cohort[TIAB] OR "cohort study"[TIAB] OR cohort stud*[TIAB] OR Longitudinal Studies[MeSH] OR "longitudinal study"[TIAB])) english[lang] ("2010"[dp] : "3000"[dp]) NOT (Clinical Trials as Topic[MeSH] OR Controlled Clinical Trials as Topic[MeSH] OR Randomized Controlled Trial[PT] OR Clinical Trial[PT]))) AND (("2016"[PDAT] : "2025"[PDAT])))'
+##Entrez.email   = os.getenv("ENTREZ_EMAIL", "you@example.com")
+##Entrez.api_key = PM_KEY
 
-all_pmids = get_pmid_from_pubmed(query=query,
-                                 retmax=99999999,
-                                 api_key=PM_KEY)
+DEFAULT_START = 2016
+DEFAULT_END   = datetime.now(timezone.utc).year
+
+
+# DBTITLE 1,pubmed query constructor
+
+# Construct query
+base = " OR ".join(ALL_TERMS_LIST)
+q = f"({base})"
+q = f"({q} AND ({RWD_TERMS}))"
+date_block = (
+    f'("{2016}"[PDAT] : "{2025}"[PDAT])'
+)
+pubmed_query = f"({q} AND ({date_block}))"
+
+##print(pubmed_query) # DEBUG Statement
+
+#query = '((("Substance-Related Disorders"[Mesh] OR "Behavior, Addictive"[Mesh] OR "Substance Abuse, Intravenous"[Mesh] OR "Drug Users"[Mesh] OR "Addiction Medicine"[Mesh] OR "Substance Withdrawal Syndrome"[Mesh] OR "Substance Abuse, Oral"[Mesh] OR substance use disorder*[tiab] OR drug use disorder*[tiab] OR substance misuse[tiab] OR drug misuse[tiab] OR substance depend*[tiab] OR drug depend*[tiab] OR substance abuse[tiab] OR drug abuse[tiab] OR addictive behavio?r[tiab] OR addiction[tiab] OR addicted person*[tiab] OR "nonmedical use"[tiab] OR "non-medical use"[tiab] OR illicit drug use[tiab] OR recreational drug use[tiab] OR problematic use[tiab] OR polysubstance use[tiab] OR poly-substance use[tiab] OR chemical depend*[tiab] OR compulsive drug use[tiab] OR drug seeking[tiab] OR SUD[tiab] OR "Tobacco Use Disorder"[Mesh] OR "Smoking"[Mesh] OR "Vaping"[Mesh] OR "Electronic Nicotine Delivery Systems"[Mesh] OR cigarette smoking[tiab] OR cigarette depend*[tiab] OR tobacco use[tiab] OR tobacco misuse[tiab] OR tobacco depend*[tiab] OR nicotine depend*[tiab] OR nicotine addiction[tiab] OR smoker*[tiab] OR vaping[tiab] OR e-cigarette*[tiab] OR e cigarette*[tiab] OR ENDS[tiab] OR "heated tobacco product*"[tiab] OR HTP[tiab] OR electronic cigarette*[tiab] OR "Marijuana Abuse"[Mesh] OR "Marijuana Smoking"[Mesh] OR cannabis use disorder*[tiab] OR marijuana use disorder*[tiab] OR cannabis misuse[tiab] OR marijuana misuse[tiab] OR cannabis depend*[tiab] OR marijuana depend*[tiab] OR cannabis abuse[tiab] OR marijuana abuse[tiab] OR THC use[tiab] OR cannabinoid use[tiab] OR THC misuse[tiab] OR tetrahydrocannabinol misuse[tiab] OR weed use[tiab] OR weed misuse[tiab] OR cannabis smoking[tiab] OR CBD misuse[tiab] OR "Opioid-Related Disorders"[Mesh] OR opioid use disorder*[tiab] OR opiate use disorder*[tiab] OR opioid misuse[tiab] OR opiate misuse[tiab] OR opioid depend*[tiab] OR opiate depend*[tiab] OR opioid abuse[tiab] OR opiate abuse[tiab] OR heroin depend*[tiab] OR heroin misuse[tiab] OR fentanyl misuse[tiab] OR "nonmedical prescription opioid use"[tiab] OR OUD[tiab] OR MAT[tiab] OR opioid addiction[tiab] OR synthetic opioid*[tiab] OR "medication-assisted treatment"[tiab] OR "medication assisted treatment"[tiab] OR "Alcohol-Related Disorders"[Mesh] OR "Alcoholism"[Mesh] OR "Binge Drinking"[Mesh] OR alcohol use disorder*[tiab] OR AUD[tiab] OR alcohol misuse[tiab] OR hazardous drink*[tiab] OR problem drink*[tiab] OR alcohol depend*[tiab] OR alcohol addiction[tiab] OR heavy drink*[tiab] OR binge drink*[tiab] OR harmful alcohol use[tiab] OR excessive alcohol[tiab] OR "alcohol overuse"[tiab] OR alcohol consumption disorder*[tiab]) AND (((Electronic Health Records[MeSH] OR Medical Record Systems, Computerized[MeSH] OR "routinely collected health data"[MeSH] OR EHR[TIAB] OR EMR[TIAB] OR "electronic health record"[TIAB] OR "electronic medical record"[TIAB] OR Insurance Claim Review[MeSH] OR Insurance Claim Reporting[MeSH] OR "claims data"[TIAB] OR "administrative data"[TIAB] OR "insurance claims"[TIAB] OR Databases, Factual[MeSH] OR "Real-World Data"[TIAB] OR "Real-World Evidence"[TIAB] OR "real-world data"[TIAB] OR "real-world evidence"[TIAB] OR "SEER"[TIAB] OR "NHANES"[TIAB] OR "CPRD"[TIAB] OR "MarketScan"[TIAB] OR "Optum"[TIAB] OR "Truven"[TIAB] OR "IQVIA"[TIAB] OR "PharMetrics"[TIAB] OR "Symphony Health"[TIAB] OR "Premier Healthcare"[TIAB] OR "Medicare"[TIAB] OR "Medicaid"[TIAB] OR "All-Payer"[TIAB] OR "All Payer"[TIAB] OR "TriNetX"[TIAB] OR "Cerner"[TIAB] OR "Komodo"[TIAB] OR "Kaiser"[TIAB] OR "Explorys"[TIAB] OR "The Health Improvement Network"[TIAB] OR "Vizient"[TIAB] OR "HealthVerity"[TIAB] OR "Datavant"[TIAB] OR "Merative"[TIAB]) AND (Observational Study[PT] OR Observational Studies as Topic[MeSH] OR observational[TIAB] OR "observational study"[TIAB] OR observational stud*[TIAB] OR Retrospective Studies[MeSH] OR retrospective[TIAB] OR "retrospective study"[TIAB] OR Secondary Data Analysis[MeSH] OR "secondary analysis"[TIAB] OR "secondary data analysis"[TIAB] OR Health Services Research[MeSH] OR Outcome Assessment, Health Care[MeSH] OR Comparative Effectiveness Research[MeSH] OR Cohort Studies[MeSH] OR cohort[TIAB] OR "cohort study"[TIAB] OR cohort stud*[TIAB] OR Longitudinal Studies[MeSH] OR "longitudinal study"[TIAB])) english[lang] ("2010"[dp] : "3000"[dp]) NOT (Clinical Trials as Topic[MeSH] OR Controlled Clinical Trials as Topic[MeSH] OR Randomized Controlled Trial[PT] OR Clinical Trial[PT]))) AND (("2016"[PDAT] : "2025"[PDAT])))'
+
+##all_pmids = get_pmid_from_pubmed(query=query,
+##                                 retmax=99999999,
+##                                 api_key=PM_KEY)
                                  
                                  
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 0  Query PubMed & report unique PMIDs
+# ─────────────────────────────────────────────────────────────────────────────
+pmids = get_pmid_from_pubmed(
+    query=pubmed_query,
+    retmax=RETURN_MAX,
+    api_key=PM_KEY,
+)
+
+n_unique = len(set(pmids))
+print(f"ESearch returned {n_unique} unique PMIDs")
+table_full_name = f"{CATALOG}.{SCHEMA}.{TABLE_NAME}_01_pmid_pmcid"
+
+# script to get pmids - save them (array - sorted)  # commit
+
+# ─────────────────────────────────────────────────────────────────────────────
+# script to get pmids - save them (array - sorted)  # commit
+# ─────────────────────────────────────────────────────────────────────────────
+import json
+import pandas as pd
+
+pmid_list = sorted(set(pmids))
+os.makedirs("outputs", exist_ok=True)
+
+# JSON
+with open("outputs/pmids.json", "w") as f:
+    json.dump(pmid_list, f, indent=2)
+
+# CSV (one PMID per line)
+pd.Series(pmid_list, name="pmid") \
+  .to_csv("outputs/pmids.csv", index=False)
+
+print(f"✔ Saved {len(pmid_list)} PMIDs to outputs/pmids.json and outputs/pmids.csv")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 1  Map PMIDs → PMCIDs (pandas DataFrame)
+# ─────────────────────────────────────────────────────────────────────────────
+# (re-use the same pmids list & PM_KEY from above)
+mapping_df = map_pmids_to_pmcids(pmids, api_key=PM_KEY)
+
+# ensure a uniform list-of-dict if your helper returns a list
+if isinstance(mapping_df, list):
+    mapping_df = pd.DataFrame(mapping_df)
+
+# add a retrieval timestamp
+now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+mapping_df["retrieved"] = now_utc
+
+# (optional) save out to CSV instead of a Hive table
+os.makedirs("outputs", exist_ok=True)
+csv_path = os.path.join("outputs", f"{TABLE_NAME}_01_pmid_pmcid.csv")
+mapping_df.to_csv(csv_path, index=False)
+print(f"✔ Wrote PMCID mapping to {csv_path}")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 2  Basic cardinalities (unique counts)
+# ─────────────────────────────────────────────────────────────────────────────
+unique_pmid         = mapping_df["pmid"].nunique()
+unique_pmcid        = mapping_df["pmcid"].dropna().nunique()
+pmid_with_pmcid     = mapping_df.dropna(subset=["pmcid"])["pmid"].nunique()
+pmid_without_pmcid  = unique_pmid - pmid_with_pmcid
+
+summary = {
+    "unique_pmid":        unique_pmid,
+    "unique_pmcid":       unique_pmcid,
+    "pmid_with_pmcid":    pmid_with_pmcid,
+    "pmid_without_pmcid": pmid_without_pmcid,
+}
+summary_df = pd.DataFrame([summary])
+print("\n▶ PMCID Mapping Summary:")
+print(summary_df.to_string(index=False))
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 3  Distribution of #PMCIDs per PMID (only where ≥1 PMCID)
+# ─────────────────────────────────────────────────────────────────────────────
+dist_df = (
+    mapping_df
+    .dropna(subset=["pmcid"])
+    .groupby("pmid")["pmcid"]
+    .nunique()
+    .reset_index(name="pmcid_count")
+    .sort_values("pmcid_count")
+)
+
+print("\n▶ Distribution of PMCIDs per PMID (first 10 rows):")
+print(dist_df.head(10).to_string(index=False))
+
+# (optional) save the distribution
+dist_df.to_csv(os.path.join("outputs", f"{TABLE_NAME}_01_pmcid_distribution.csv"), index=False)
+
+
+
+
+
+
+xxx
 
 
 # 1) Download all article XMLs (PMC full-text or PubMed fallback)
