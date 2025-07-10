@@ -1,0 +1,505 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cureus</journal-id><journal-id journal-id-type="iso-abbrev">Cureus</journal-id><journal-id journal-id-type="pmc-domain-id">2757</journal-id><journal-id journal-id-type="pmc-domain">cureus</journal-id><journal-title-group><journal-title>Cureus</journal-title></journal-title-group><issn pub-type="epub">2168-8184</issn><publisher><publisher-name>Cureus Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12037202</article-id><article-id pub-id-type="pmcid-ver">PMC12037202.1</article-id><article-id pub-id-type="pmcaid">12037202</article-id><article-id pub-id-type="pmcaiid">12037202</article-id><article-id pub-id-type="pmid">40296928</article-id><article-id pub-id-type="doi">10.7759/cureus.81405</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Internal Medicine</subject></subj-group><subj-group><subject>Therapeutics</subject></subj-group></article-categories><title-group><article-title>Predictors of Mortality Among Patients With Opioid Use Disorder: Insights From the Healthcare Cost and Utilization Project (HCUP) Nationwide Readmission Database</article-title></title-group><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Muacevic</surname><given-names initials="A">Alexander</given-names></name></contrib><contrib contrib-type="editor"><name name-style="western"><surname>Adler</surname><given-names initials="JR">John R</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Bodapati</surname><given-names initials="NVSB">Naga Venkata Satish Babu</given-names></name><xref rid="aff-1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Patel</surname><given-names initials="S">Sandipkumar</given-names></name><xref rid="aff-2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Sihman Bharattej Rupavath</surname><given-names initials="RVS">Rana Veer Samara</given-names></name><xref rid="aff-3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Polu</surname><given-names initials="OR">Omkar Reddy</given-names></name><xref rid="aff-4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chamarthi</surname><given-names initials="B">Balaiah</given-names></name><xref rid="aff-5" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Anna Joseph</surname><given-names initials="C">Chrishanti</given-names></name><xref rid="aff-6" ref-type="aff">6</xref></contrib></contrib-group><aff id="aff-1">
+<label>1</label>
+Department of Psyhciatry, Sunshine Behavioral Health Services, Bakersfield, USA </aff><aff id="aff-2">
+<label>2</label>
+Department of Computer Engineering, Gujarat Technological University, Ahmedabad, IND </aff><aff id="aff-3">
+<label>3</label>
+Department of Business Administration, National Louis University, Tampa, USA </aff><aff id="aff-4">
+<label>4</label>
+Department of Technology and Innovation, City National Bank, Los Angeles, USA </aff><aff id="aff-5">
+<label>5</label>
+Department of Technology and Innovation, Info Services LLC, Livonia, USA </aff><aff id="aff-6">
+<label>6</label>
+Department of Anesthesiology and Perioperative Medicine, University of Pittsburgh, Pennsylvania, USA </aff><author-notes><corresp id="cor1">
+Naga Venkata Satish Babu Bodapati <email>bodapati.satish09@gmail.com</email></corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>29</day><month>3</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><month>3</month><year>2025</year></pub-date><volume>17</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">483223</issue-id><elocation-id>e81405</elocation-id><history><date date-type="accepted"><day>29</day><month>3</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>03</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>28</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-29 16:25:33.297"><day>29</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright &#169; 2025, Bodapati et al.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Bodapati et al.</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="cureus-0017-00000081405.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cureus.com/articles/352513-predictors-of-mortality-among-patients-with-opioid-use-disorder-insights-from-the-healthcare-cost-and-utilization-project-hcup-nationwide-readmission-database">This article is available from https://www.cureus.com/articles/352513-predictors-of-mortality-among-patients-with-opioid-use-disorder-insights-from-the-healthcare-cost-and-utilization-project-hcup-nationwide-readmission-database</self-uri><abstract><p>Background: Opioid use disorder (OUD) is associated with significantly increased mortality rates compared to the general population, driven by overdose risk, high-risk behaviors, and comorbid conditions. While opioid agonist treatment reduces mortality, identifying risk factors for death among individuals with OUD remains critical for improving outcomes.</p><p>Methods: A retrospective analysis of the 2020 National Readmission Database identified OUD admissions using International Classification of Diseases, 10th Revision, Clinical Modification codes. Patients over 18 years of age were included, and statistical analyses, including logistic regression, assessed 30-day readmission and mortality predictors. Data were analyzed using IBM Statistical Package for the Social Sciences Statistics for Windows, version 1.0.0.1327 (IBM Corp., Armonk, NY).</p><p>Results: Nonsurvivors were generally older (median age: 58 vs. 47 years) and had a higher prevalence of severe comorbidities, including cardiac arrest (24.1% vs. 0.4%, p &lt; 0.001), respiratory failure (83.0% vs. 16.2%, p &lt; 0.001), and acute kidney injury (61.9% vs. 16.8%, p &lt; 0.001). Mortality was more common among patients with Medicare (44.4% vs. 31.7%) and in larger hospitals. Psychiatric conditions, such as depression and suicidal ideation, were more frequent in survivors, suggesting potential protective effects or earlier intervention. Multivariable analysis identified cardiac arrest (odds ratio, OR: 20.210, p &lt; 0.001), respiratory failure (OR: 9.993, p &lt; 0.001), and liver failure (OR: 4.298, p &lt; 0.001) as the strongest mortality predictors, while female sex and psychiatric disorders were associated with lower mortality risk.</p><p>Conclusion: Mortality among patients with OUD is influenced by age, comorbidities, hospital characteristics, and healthcare disparities. Integrated care approaches that address both medical and psychiatric conditions are essential for improving survival outcomes. Future research should focus on targeted interventions to mitigate high-risk factors and enhance harm reduction strategies for this vulnerable population.</p></abstract><kwd-group kwd-group-type="author"><kwd>30-day readmission</kwd><kwd>comorbidities and risk factors</kwd><kwd>healthcare cost and utilization project (hcup)</kwd><kwd>mortality predictors</kwd><kwd>opioid use disorder (oud)</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Opioid use disorder (OUD) is a complex and multifaceted condition related to significantly increased mortality rates compared to the general population [<xref rid="REF1" ref-type="bibr">1</xref>]. Individuals with OUD face challenges such as heightened risks of overdose, diseases related to high-risk behaviors such as injecting drugs, and traumatic deaths. The standardized mortality ratio for individuals using nonmedical opioids is significantly elevated, with studies reporting standardized mortality ratios&#160;ranging from 10 to 24 times higher than the general population, indicating a substantial increase in mortality risk [<xref rid="REF2" ref-type="bibr">2</xref>]. Despite these challenges, opioid agonist treatment has been shown to reduce all-cause and overdose-related mortality among individuals with OUD [<xref rid="REF3" ref-type="bibr">3</xref>].</p><p>The implementation of opioid agonist treatment has been widely recognized as an effective strategy for managing OUD [<xref rid="REF4" ref-type="bibr">4</xref>]. Studies have consistently demonstrated that being on opioid agonist treatment significantly decreases the risk of death compared to periods of treatment [<xref rid="REF5" ref-type="bibr">5</xref>,<xref rid="REF6" ref-type="bibr">6</xref>]. A study found that the off-versus-on opioid agonist treatment, all-cause mortality ratio was 2.31, showing the protective effect of continuous treatment engagement. Moreover, research shows that while on opioid agonist treatment, somatic causes account for a larger proportion of deaths than drug-induced causes [<xref rid="REF2" ref-type="bibr">2</xref>].</p><p>Predictors of fatal outcomes in OUD are diverse and include both individual-level factors and broader societal influences. Individual characteristics such as increasing baseline age and a history of somatic hospital treatments have been linked to higher all-cause mortality risk [<xref rid="REF2" ref-type="bibr">2</xref>]. Additionally, mental health comorbidities and coprescription of sedatives are known predictors of opioid overdose risk [<xref rid="REF7" ref-type="bibr">7</xref>]. Social determinants like socioeconomic status also play a significant role in drug poisoning mortality rates across different populations [<xref rid="REF8" ref-type="bibr">8</xref>].</p><p>Beyond individual health factors, environmental predictors such as release from prison or being on probation have been identified as significant risks for overdose among individuals with substance use disorders. These findings show the need for comprehensive approaches that address both medical vulnerabilities through interventions like methadone therapy or maintenance programs and social vulnerabilities by providing support services postrelease from incarceration [<xref rid="REF9" ref-type="bibr">9</xref>].</p><p>This study of predictors of mortality for opioid disorder is crucial due to the alarming rise in opioid-related deaths. Factors such as higher doses, mental health comorbidities, and socioeconomic status are significant risk factors. Predictive modeling can guide targeted interventions by estimating overdose risk accurately. Understanding these factors is important for optimizing care strategies to reduce fatality rates among individuals with opioid addiction.</p></sec><sec sec-type="materials|methods"><title>Materials and methods</title><p>Study design</p><p>A retrospective analysis was conducted utilizing a publicly accessible database of all patients for 2020. We identified index admissions using diagnosis codes related to OUD. Because we employed a publicly accessible database, our work was exempt from Institutional Review Board requirements.</p><p>Data source</p><p>The National Readmission Database (NRD) provided data from January 1, 2020, to December 1, 2020. In the United States, NRD is the biggest all-patient, all-payer inpatient database. The NRD contains publicly accessible hospitalization data from nonfederal hospitals and is created and maintained by the Agency for Healthcare Research and Quality for the Healthcare Cost and Utilization Project (HCUP). The NRD 2020 includes discharge data from about 17 million unweighted discharges from 31 geographically separated states, representing 60.8% of all hospitalizations in the United States and 62.2% of all residents in the United States. It includes data at the hospital and patient levels. For each patient, the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM/Procedure Coding System) is used to gather up to 40 discharge diagnoses and 25 procedures. A primary diagnosis is the cause for hospitalization, while a secondary diagnosis is any additional diagnostic that results in discharge. Hospitals are categorized by geographic region, teaching status, number of beds, ownership control, and urban/rural location. The NRD enables weighted analysis to determine all hospitalizations in the United States during a specific year.</p><p>Patients 18 years of age or older and whose primary diagnosis was an OUD, according to the ICD-10-CM codes, met the inclusion criteria. The exclusion criteria included the following: (1) individuals under 18 years old and (2) missing death data from the index admission.</p><p>Covariates</p><p>Age, gender, insurance status, median household income, loss of function, and discharge disposition were among the patient demographics gathered for the index admission. ICD-10-CM codes were also used to include comorbidities. We also collected hospital information, including bed size, ownership (private vs. government), designation (big, small, micropolitan, nonurban), and teaching status. ICD-10 procedure codes were used to identify the procedures performed throughout the hospital stay. The All Patients Refined Diagnosis Related Group (APRDRG) was used to determine the severity of the condition.</p><p>Statistical analysis</p><p>IBM Statistical Package for the Social Sciences Statistics for Windows, version 1.0.0.1327 (IBM Corp., Armonk, NY), was used for all statistical analyses. The Pearson chi-square test for categorical variables and the Mann-Whitney U-test for continuous variables with no mortality as the reference group were used to test for statistical differences in baseline participant characteristics, including age, gender, weekend vs. weekday admissions, household income, payer status, loss of function, and the likelihood of dying. Multivariable logistic regression was used to examine clinical factors for 30-day readmission. Additionally, each clinical variable's predictors of death were independently identified using multiple logistic regressions, and the results were displayed as odds ratios (OR) with 95% confidence intervals.</p><p>Patient and public involvement</p><p>This study uses the NRD, a publicly accessible all-payer inpatient medical readmission database in the United States derived from the Agency for Healthcare Research and Quality HCUP.</p><p>Data availability statement</p><p>The NRD is a sizable, publicly accessible all-payer inpatient care database in the United States, with information on over 17 million hospital visits [<xref rid="REF10" ref-type="bibr">10</xref>].</p></sec><sec sec-type="results"><title>Results</title><p>The study analyzed patients admitted with opioid disorders, categorizing them by mortality status. Nonsurvivors were generally older (median age: 58 years) compared to survivors (47 years), with slightly more women in the mortality group. Elective admissions were significantly lower among nonsurvivors (2.2% vs. 9.2%, p &lt; 0.001), while weekend admissions were marginally higher. Insurance status also differed, with Medicare being more common among nonsurvivors (44.4% vs. 31.7%, p &lt; 0.001) and Medicaid coverage more frequent in survivors (42.7% vs. 33.6%, p &lt; 0.001). The median hospitalization cost and length of stay were both significantly higher in nonsurvivors. Additionally, a greater proportion of nonsurvivors were classified in the extreme risk category of APRDRG, were more likely to be admitted to large hospitals, and had a higher likelihood of treatment at private nonprofit institutions (Table <xref rid="TAB1" ref-type="table">1</xref>).</p><table-wrap position="float" id="TAB1" orientation="portrait"><label>Table 1</label><caption><title>Baseline characteristics during index admission for opioid disorder</title><p>LOS: length of stay; IQR: interquartile range; APRDRG: all patients refined diagnosis-related group</p><p><sup>*</sup>p &lt; 0.05; <sup>**</sup>p &lt; 0.01&#160;(statistically significant values)</p><p>&#160;View larger</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Characteristics</td><td rowspan="1" colspan="1">Mortality (n = 12,033; 1.8%)</td><td rowspan="1" colspan="1">No mortality (n = 644,030; 98.2%)</td><td rowspan="1" colspan="1">Overall (n = 656,063; 48.2%)</td><td rowspan="1" colspan="1">p value</td></tr><tr><td rowspan="1" colspan="1">Age (years), median (IQR)</td><td rowspan="1" colspan="1">47 (36-59)</td><td rowspan="1" colspan="1">58 (47-69)</td><td rowspan="1" colspan="1">46 (35-58)</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Women</td><td rowspan="1" colspan="1">304,378; 47.3%</td><td rowspan="1" colspan="1">5,472; 45.5%</td><td rowspan="1" colspan="1">309,850; 47.2%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Elective</td><td rowspan="1" colspan="1">59,364; 9.2%</td><td rowspan="1" colspan="1">264; 2.2%</td><td rowspan="1" colspan="1">59,628; 9.1%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Weekend admission</td><td rowspan="1" colspan="1">157,568; 24.5%</td><td rowspan="1" colspan="1">3,168; 26.3%</td><td rowspan="1" colspan="1">160,736; 24.5%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td colspan="5" rowspan="1">Insurance status</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Medicare</td><td rowspan="1" colspan="1">203,654; 31.7%</td><td rowspan="1" colspan="1">5,322; 44.4%</td><td rowspan="1" colspan="1">208,976; 31.9%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Medicaid</td><td rowspan="1" colspan="1">274,688; 42.7%</td><td rowspan="1" colspan="1">4,029; 33.6%</td><td rowspan="1" colspan="1">278,717; 42.6%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Private</td><td rowspan="1" colspan="1">89,823; 14%</td><td rowspan="1" colspan="1">1,428; 11.9%</td><td rowspan="1" colspan="1">91,251; 13.9%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Self-pay</td><td rowspan="1" colspan="1">48,732; 7.6%</td><td rowspan="1" colspan="1">704; 5.9%</td><td rowspan="1" colspan="1">49,436; 7.5%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">No charge</td><td rowspan="1" colspan="1">7,037; 1.1%</td><td rowspan="1" colspan="1">53; 0.4%</td><td rowspan="1" colspan="1">7,090; 1.1%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">19,002; 3%</td><td rowspan="1" colspan="1">457; 3.8%</td><td rowspan="1" colspan="1">19,459; 3%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Cost of hospitalization in US$, median (IQR)</td><td rowspan="1" colspan="1">32,675 (24,189-42,897)</td><td rowspan="1" colspan="1">100,386.21 (75,210-128,530)</td><td rowspan="1" colspan="1">32,113 (24,000-42,500)</td><td rowspan="1" colspan="1">-</td></tr><tr><td rowspan="1" colspan="1">LOS, median (IQR)</td><td rowspan="1" colspan="1">4 (3-6)</td><td rowspan="1" colspan="1">6 (4-9)</td><td rowspan="1" colspan="1">4 (3-6)</td><td rowspan="1" colspan="1">-</td></tr><tr style="background-color:#ccc"><td colspan="5" rowspan="1">Quartile of median household income</td></tr><tr><td rowspan="1" colspan="1">0th-25th</td><td rowspan="1" colspan="1">231,672; 36.4%</td><td rowspan="1" colspan="1">4,219; 35.5%</td><td rowspan="1" colspan="1">235,891; 36.4%</td><td rowspan="1" colspan="1">0.045<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">26th-50th<sup>*</sup>
+</td><td rowspan="1" colspan="1">176,953; 27.8%</td><td rowspan="1" colspan="1">3,286; 27.7%</td><td rowspan="1" colspan="1">180,239; 27.8%</td><td rowspan="1" colspan="1">0.045<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">51st-75th</td><td rowspan="1" colspan="1">135,265; 21.2%</td><td rowspan="1" colspan="1">2,643; 22.3%</td><td rowspan="1" colspan="1">137,908; 21.3%</td><td rowspan="1" colspan="1">0.045<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">76th-100th</td><td rowspan="1" colspan="1">92,755; 14.6%</td><td rowspan="1" colspan="1">1,727; 14.5%</td><td rowspan="1" colspan="1">94,482; 14.6%</td><td rowspan="1" colspan="1">0.045<sup>*</sup>
+</td></tr><tr><td colspan="5" rowspan="1">APRDRG, likelihood of dying</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Minor</td><td rowspan="1" colspan="1">126,171; 19.6%</td><td rowspan="1" colspan="1">48; 0.4%</td><td rowspan="1" colspan="1">126,219; 19.2%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Moderate</td><td rowspan="1" colspan="1">262,426; 40.7%</td><td rowspan="1" colspan="1">258; 2.1%</td><td rowspan="1" colspan="1">262,684; 40.0%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Major</td><td rowspan="1" colspan="1">170,606; 26.5%</td><td rowspan="1" colspan="1">1,531; 12.7%</td><td rowspan="1" colspan="1">172,137; 26.2%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Extreme</td><td rowspan="1" colspan="1">84,668; 13.1%</td><td rowspan="1" colspan="1">10,195; 84.7%</td><td rowspan="1" colspan="1">94,863; 14.5%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td colspan="5" rowspan="1">Hospital bed size</td></tr><tr><td rowspan="1" colspan="1">Small</td><td rowspan="1" colspan="1">117,399; 18.2%</td><td rowspan="1" colspan="1">1,843; 15.3%</td><td rowspan="1" colspan="1">119,242; 18.2%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Medium</td><td rowspan="1" colspan="1">180,192; 28%</td><td rowspan="1" colspan="1">3,364; 28%</td><td rowspan="1" colspan="1">183,556; 28.0%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Large</td><td rowspan="1" colspan="1">346,438; 53.8%</td><td rowspan="1" colspan="1">6,826; 56.7%</td><td rowspan="1" colspan="1">353,264; 53.8%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td colspan="5" rowspan="1">Control/ownership of hospital</td></tr><tr><td rowspan="1" colspan="1">Government</td><td rowspan="1" colspan="1">78,211; 12.1%</td><td rowspan="1" colspan="1">1,437; 11.9%</td><td rowspan="1" colspan="1">79,648; 12.1%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Private nonprofit</td><td rowspan="1" colspan="1">483,590; 75.1%</td><td rowspan="1" colspan="1">9,210; 76.5%</td><td rowspan="1" colspan="1">492,800; 75.1%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Private for-profit</td><td rowspan="1" colspan="1">82,229; 12.8%</td><td rowspan="1" colspan="1">1,386; 11.5%</td><td rowspan="1" colspan="1">83,615; 12.7%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td colspan="5" rowspan="1">Hospital designation</td></tr><tr><td rowspan="1" colspan="1">Large metropolitan, &#8805;1 million residents</td><td rowspan="1" colspan="1">392,699; 61%</td><td rowspan="1" colspan="1">7,032; 58.4%</td><td rowspan="1" colspan="1">399,731; 60.9%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Small metropolitan, &#8804;1 million residents</td><td rowspan="1" colspan="1">210,693; 32.7%</td><td rowspan="1" colspan="1">4,459; 37.1%</td><td rowspan="1" colspan="1">215,152; 32.8%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Micropolitan</td><td rowspan="1" colspan="1">32,117; 5%</td><td rowspan="1" colspan="1">463; 3.8%</td><td rowspan="1" colspan="1">32,580; 5%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Nonurban residual</td><td rowspan="1" colspan="1">8,521; 1.3%</td><td rowspan="1" colspan="1">79; 0.7%</td><td rowspan="1" colspan="1">8,600; 1.3%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td colspan="5" rowspan="1">Hospital teaching status</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Metropolitan, nonteaching</td><td rowspan="1" colspan="1">120,923; 18.8%</td><td rowspan="1" colspan="1">2,317; 19.3%</td><td rowspan="1" colspan="1">123,240; 18.8%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Metropolitan, teaching</td><td rowspan="1" colspan="1">482,468; 74.9%</td><td rowspan="1" colspan="1">9,174; 76.2%</td><td rowspan="1" colspan="1">491,642; 74.9%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Nonmetropolitan</td><td rowspan="1" colspan="1">40,638; 6.3%</td><td rowspan="1" colspan="1">542; 4.5%</td><td rowspan="1" colspan="1">41,180; 6.3%</td><td rowspan="1" colspan="1">0.001<sup>**</sup>
+</td></tr></tbody></table></table-wrap><p>Comorbidities played a critical role in mortality outcomes, with severe conditions significantly more prevalent among nonsurvivors. Cardiac arrest (24.1% vs. 0.4%, p &lt; 0.001), respiratory failure (83.0% vs. 16.2%, p &lt; 0.001), and shock (19.9% vs. 1.2%, p &lt; 0.001) were notably higher in the mortality group. Renal complications, including acute kidney injury (61.9% vs. 16.8%, p &lt; 0.001) and chronic kidney disease (22.1% vs. 11.1%, p &lt; 0.001), were also significantly more frequent. Interestingly, psychiatric conditions such as depression and suicidal ideation were more common in survivors, suggesting a possible protective effect or earlier intervention. While survivors had higher rates of substance use disorders, pneumonia (36.8% vs. 9.9%, p &lt; 0.001) and coronavirus disease 2019 (COVID-19) (11.6% vs. 2.0%, p &lt; 0.001) were significantly more frequent among nonsurvivors (Table <xref rid="TAB2" ref-type="table">2</xref>).</p><table-wrap position="float" id="TAB2" orientation="portrait"><label>Table 2</label><caption><title>Comorbidities and procedure related factors during index admission for opioid disorder</title><p>AKI: acute kidney injury; COPD: chronic obstructive pulmonary disease; CKD:&#160;chronic kidney disease; PCI: percutaneous coronary intervention; GI: gastrointestinal; OCD: obsessive-compulsive disorder; COVID-19: coronavirus disease 2019</p><p><sup>*</sup>p &lt; 0.01&#160;(statistically significant values)</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Comorbidities</td><td rowspan="1" colspan="1">Mortality (n = 12,033; 1.8%)</td><td rowspan="1" colspan="1">No mortality (n = 644,030; 98.2%)</td><td rowspan="1" colspan="1">Overall (n = 656,063; 47.1%)</td><td rowspan="1" colspan="1">p value</td></tr><tr><td rowspan="1" colspan="1">Cardiac arrest</td><td rowspan="1" colspan="1">2,417; 0.4%</td><td rowspan="1" colspan="1">2,895; 24.1%</td><td rowspan="1" colspan="1">5,312; 0.8%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Heart failure</td><td rowspan="1" colspan="1">82,646; 12.8%</td><td rowspan="1" colspan="1">3,724; 31%</td><td rowspan="1" colspan="1">86,370; 13.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Coronary atherosclerosis</td><td rowspan="1" colspan="1">80,434; 12.5%</td><td rowspan="1" colspan="1">2,505; 20.8%</td><td rowspan="1" colspan="1">82,939; 12.6%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Shock</td><td rowspan="1" colspan="1">7,893; 1.2%</td><td rowspan="1" colspan="1">2,394; 19.9%</td><td rowspan="1" colspan="1">10,287; 1.6%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Cardiac dysrhythmias</td><td rowspan="1" colspan="1">59,866; 9.3%</td><td rowspan="1" colspan="1">3,471; 28.8%</td><td rowspan="1" colspan="1">63,337; 9.7%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">AKI</td><td rowspan="1" colspan="1">107,937; 16.8%</td><td rowspan="1" colspan="1">7,451; 61.9%</td><td rowspan="1" colspan="1">115,388; 17.6%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">COPD</td><td rowspan="1" colspan="1">119,927; 18.6%</td><td rowspan="1" colspan="1">3,285; 27.3%</td><td rowspan="1" colspan="1">123,212; 18.8%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">CKD</td><td rowspan="1" colspan="1">71,574; 11.1%</td><td rowspan="1" colspan="1">2,661; 22.1%</td><td rowspan="1" colspan="1">74,235; 11.3%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Respiratory failure</td><td rowspan="1" colspan="1">104,604; 16.2%</td><td rowspan="1" colspan="1">9,991; 83%</td><td rowspan="1" colspan="1">114,595; 17.5%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Fluid and electrolyte disorders</td><td rowspan="1" colspan="1">232,011; 36%</td><td rowspan="1" colspan="1">9,626; 80%</td><td rowspan="1" colspan="1">241,637; 36.8%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Cardiogenic shock</td><td rowspan="1" colspan="1">2,260; 0.4%</td><td rowspan="1" colspan="1">1,023; 8.5%</td><td rowspan="1" colspan="1">3,283; 0.5%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Tobacco disorder</td><td rowspan="1" colspan="1">4,264; 0.7%</td><td rowspan="1" colspan="1">31; 0.3%</td><td rowspan="1" colspan="1">4,295; 0.7%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Alcohol-related disorders</td><td rowspan="1" colspan="1">110,302; 17.1%</td><td rowspan="1" colspan="1">1,521; 12.6%</td><td rowspan="1" colspan="1">111,823; 17%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Lipid disorders</td><td rowspan="1" colspan="1">122,929; 19.1%</td><td rowspan="1" colspan="1">2,632; 21.9%</td><td rowspan="1" colspan="1">125,561; 19.1%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Hypertension</td><td rowspan="1" colspan="1">189,071; 29.4%</td><td rowspan="1" colspan="1">2,927; 24.3%</td><td rowspan="1" colspan="1">191,998; 29.3%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Diabetes</td><td rowspan="1" colspan="1">125,007; 19.4%</td><td rowspan="1" colspan="1">2,861; 23.8%</td><td rowspan="1" colspan="1">127,868; 19.5%</td><td rowspan="1" colspan="1">0.007<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Obesity</td><td rowspan="1" colspan="1">88,499; 13.7%</td><td rowspan="1" colspan="1">1,680; 14%</td><td rowspan="1" colspan="1">90,179; 13.7%</td><td rowspan="1" colspan="1">0.487</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">GI bleed</td><td rowspan="1" colspan="1">14,783; 2.3%</td><td rowspan="1" colspan="1">1,114; 9.3%</td><td rowspan="1" colspan="1">15,897; 2.4%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Liver failure</td><td rowspan="1" colspan="1">12,045; 1.9%</td><td rowspan="1" colspan="1">2,674; 22.2%</td><td rowspan="1" colspan="1">14,719; 2.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Thyroid disorders</td><td rowspan="1" colspan="1">60,257; 9.4%</td><td rowspan="1" colspan="1">1,312; 10.9%</td><td rowspan="1" colspan="1">61,569; 9.4%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Cancer</td><td rowspan="1" colspan="1">43,201; 6.7%</td><td rowspan="1" colspan="1">2,032; 16.9%</td><td rowspan="1" colspan="1">45,233; 6.9%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Depression</td><td rowspan="1" colspan="1">179,278; 27.8%</td><td rowspan="1" colspan="1">1,989; 16.5%</td><td rowspan="1" colspan="1">181,267; 27.6%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Pneumonia</td><td rowspan="1" colspan="1">63,639; 9.9%</td><td rowspan="1" colspan="1">4,432; 36.8%</td><td rowspan="1" colspan="1">68,071; 10.4%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Pulmonary circulatory disorders</td><td rowspan="1" colspan="1">20,033; 3.1%</td><td rowspan="1" colspan="1">904; 7.5%</td><td rowspan="1" colspan="1">20,937; 3.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Conduction disorder</td><td rowspan="1" colspan="1">14,117; 2.2%</td><td rowspan="1" colspan="1">641; 5.3%</td><td rowspan="1" colspan="1">14,758; 2.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">COVID-19</td><td rowspan="1" colspan="1">12,868; 2%</td><td rowspan="1" colspan="1">1,391; 11.6%</td><td rowspan="1" colspan="1">14,259; 2.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Suicide attempt intentional self-harm</td><td rowspan="1" colspan="1">672; 0.1%</td><td rowspan="1" colspan="1">0; 0%</td><td rowspan="1" colspan="1">672; 0.1%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Mental and substance use disorders</td><td rowspan="1" colspan="1">15,592; 2.4%</td><td rowspan="1" colspan="1">219; 1.8%</td><td rowspan="1" colspan="1">15,811; 2.4%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Other specified substance-related disorders</td><td rowspan="1" colspan="1">38,692; 6%</td><td rowspan="1" colspan="1">412; 3.4%</td><td rowspan="1" colspan="1">39,104; 6%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Hallucinogen-related disorders</td><td rowspan="1" colspan="1">286; 0%</td><td rowspan="1" colspan="1">3; 0%</td><td rowspan="1" colspan="1">289; 0%</td><td rowspan="1" colspan="1">0.313</td></tr><tr><td rowspan="1" colspan="1">Stimulant-related disorders</td><td rowspan="1" colspan="1">168,381; 26.1%</td><td rowspan="1" colspan="1">2,097; 17.4%</td><td rowspan="1" colspan="1">170,478; 26%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Sedative-related disorders</td><td rowspan="1" colspan="1">53,567; 8.3%</td><td rowspan="1" colspan="1">501; 4.2%</td><td rowspan="1" colspan="1">54,068; 8.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Cannabis-related disorders</td><td rowspan="1" colspan="1">87,802; 13.6%</td><td rowspan="1" colspan="1">714; 5.9%</td><td rowspan="1" colspan="1">88,516; 13.5%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Neurodevelopmental disorders</td><td rowspan="1" colspan="1">25,015; 3.9%</td><td rowspan="1" colspan="1">135; 1.1%</td><td rowspan="1" colspan="1">25,150; 3.8%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Miscellaneous mental and behavioral disorders conditions</td><td rowspan="1" colspan="1">2,115; 0.3%</td><td rowspan="1" colspan="1">19; 0.2%</td><td rowspan="1" colspan="1">2,134; 0.3%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Suicidal ideation attempt intentional self-harm</td><td rowspan="1" colspan="1">70,107; 10.9%</td><td rowspan="1" colspan="1">214; 1.8%</td><td rowspan="1" colspan="1">70,321; 10.7%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Somatic disorders</td><td rowspan="1" colspan="1">1,584; 0.2%</td><td rowspan="1" colspan="1">13; 0.1%</td><td rowspan="1" colspan="1">1,597; 0.2%</td><td rowspan="1" colspan="1">0.002<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Feeding and eating disorders</td><td rowspan="1" colspan="1">1,155; 0.2%</td><td rowspan="1" colspan="1">9; 0.1%</td><td rowspan="1" colspan="1">1,164; 0.2%</td><td rowspan="1" colspan="1">0.007<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Personality disorders</td><td rowspan="1" colspan="1">20,826; 3.2%</td><td rowspan="1" colspan="1">58; 0.5%</td><td rowspan="1" colspan="1">20884; 3.2%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Disruptive impulse control and conduct disorders</td><td rowspan="1" colspan="1">2,384; 0.4%</td><td rowspan="1" colspan="1">9; 0.1%</td><td rowspan="1" colspan="1">2,393; 0.4%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Trauma and stressor-related disorders</td><td rowspan="1" colspan="1">62,334; 9.7%</td><td rowspan="1" colspan="1">304; 2.5%</td><td rowspan="1" colspan="1">62,638; 9.5%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">OCD</td><td rowspan="1" colspan="1">3,532; 0.5%</td><td rowspan="1" colspan="1">23; 0.2%</td><td rowspan="1" colspan="1">3,555; 0.5%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Anxiety and fear-related disorders</td><td rowspan="1" colspan="1">216,112; 33.6%</td><td rowspan="1" colspan="1">2241; 18.6%</td><td rowspan="1" colspan="1">218,353; 33.3%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Other mood disorders</td><td rowspan="1" colspan="1">11,060; 1.7%</td><td rowspan="1" colspan="1">73; 0.6%</td><td rowspan="1" colspan="1">11,133; 1.7%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">Bipolar disorders</td><td rowspan="1" colspan="1">78,540; 12.2%</td><td rowspan="1" colspan="1">611; 5.1%</td><td rowspan="1" colspan="1">79,151; 12.1%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Schizophrenia</td><td rowspan="1" colspan="1">43,228; 6.7%</td><td rowspan="1" colspan="1">341; 2.8%</td><td rowspan="1" colspan="1">43,569; 6.6%</td><td rowspan="1" colspan="1">0.001<sup>*</sup>
+</td></tr></tbody></table></table-wrap><p>Multivariable analysis identified key predictors of mortality, with younger age groups (18-44 and 45-64 years) having significantly lower odds of death compared to those aged &#8805;75 years. Female patients had a reduced mortality risk (OR: 0.904, p &lt; 0.001), and Medicaid patients had higher mortality odds compared to Medicare and privately insured patients. Hospital characteristics also influenced outcomes, with larger hospitals associated with greater mortality risk (OR: 1.136, p &lt; 0.001). Among comorbidities, cardiac arrest (OR: 20.210, p &lt; 0.001), respiratory failure (OR: 9.993, p &lt; 0.001), and liver failure (OR: 4.298, p &lt; 0.001) were the strongest predictors of death. In contrast, mental health conditions such as depression and bipolar disorder were linked to lower mortality risk, while suicidal ideation also had an inverse association with mortality (OR: 0.558, p &lt; 0.001) (Table <xref rid="TAB3" ref-type="table">3</xref>,&#160;Figure <xref rid="FIG1" ref-type="fig">1</xref>).</p><table-wrap position="float" id="TAB3" orientation="portrait"><label>Table 3</label><caption><title>Multivariable logistic regression analysis for predicting mortality</title><p>OR: odds ratio; CI: confidence interval; AKI: acute kidney injury; COPD: chronic obstructive pulmonary disease; CKD:&#160;chronic kidney disease; GI: gastrointestinal; COVID-19: coronavirus disease 2019; OCD: obsessive-compulsive disorder</p><p><sup>*</sup>p&#160;&lt; 0.05, <sup>**</sup>p &lt; 0.01&#160;(statistically significant values)</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Variable
+</td><td rowspan="1" colspan="1">
+OR (95% CI)
+</td><td rowspan="1" colspan="1">
+p value
+</td></tr><tr><td colspan="3" rowspan="1">
+Age (years)
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+&#8805;75
+</td><td rowspan="1" colspan="1">
+1 (reference)
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+18-44
+</td><td rowspan="1" colspan="1">
+0.379 (0.343-0.418)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+45-64
+</td><td rowspan="1" colspan="1">
+0.556 (0.513-0.603)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+65-74
+</td><td rowspan="1" colspan="1">
+0.711 (0.658-0.769)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td colspan="3" rowspan="1">
+Sex
+</td></tr><tr><td rowspan="1" colspan="1">
+Male
+</td><td rowspan="1" colspan="1">
+1 (reference)
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Female
+</td><td rowspan="1" colspan="1">
+0.904 (0.864-0.946)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td colspan="3" rowspan="1">
+Insurance status
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Medicaid
+</td><td rowspan="1" colspan="1">
+1 (reference)
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr><td rowspan="1" colspan="1">
+Medicare
+</td><td rowspan="1" colspan="1">
+0.890 (0.834-0.949)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Private insurance
+</td><td rowspan="1" colspan="1">
+0.838 (0.777-0.903)
+</td><td rowspan="1" colspan="1">
+0.185
+</td></tr><tr><td rowspan="1" colspan="1">
+Self-pay
+</td><td rowspan="1" colspan="1">
+1.022 (0.925-1.129)
+</td><td rowspan="1" colspan="1">
+0.666
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+No charge
+</td><td rowspan="1" colspan="1">
+0.590 (0.426-0.817)
+</td><td rowspan="1" colspan="1">
+0.002<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Other
+</td><td rowspan="1" colspan="1">
+1.418 (1.257-1.601)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td colspan="3" rowspan="1">
+Hospital bed size
+</td></tr><tr><td rowspan="1" colspan="1">
+Small
+</td><td rowspan="1" colspan="1">
+1 (reference)
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Medium
+</td><td rowspan="1" colspan="1">
+1.084 (1.013-1.160)
+</td><td rowspan="1" colspan="1">
+0.020<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Large
+</td><td rowspan="1" colspan="1">
+1.136 (1.067-1.208)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td colspan="3" rowspan="1">
+Control/ownership of hospital
+</td></tr><tr><td rowspan="1" colspan="1">
+Government
+</td><td rowspan="1" colspan="1">
+1 (reference)
+</td><td rowspan="1" colspan="1">
+-
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Private nonprofit
+</td><td rowspan="1" colspan="1">
+1.001 (0.936-1.071)
+</td><td rowspan="1" colspan="1">
+0.969
+</td></tr><tr><td rowspan="1" colspan="1">
+Private for profit
+</td><td rowspan="1" colspan="1">
+0.957 (0.874-1.048)
+</td><td rowspan="1" colspan="1">
+0.348
+</td></tr><tr style="background-color:#ccc"><td colspan="3" rowspan="1">
+Hospital designation
+</td></tr><tr><td rowspan="1" colspan="1">
+Large metropolitan, &#8805;1 million residents
+</td><td rowspan="1" colspan="1">
+1.166 (1.113-1.221)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Small metropolitan, &#8804;1 million residents
+</td><td rowspan="1" colspan="1">
+0.970 (0.870-1.082)
+</td><td rowspan="1" colspan="1">
+0.589
+</td></tr><tr><td rowspan="1" colspan="1">
+Micropolitan
+</td><td rowspan="1" colspan="1">
+0.871 (0.676-1.123)
+</td><td rowspan="1" colspan="1">
+0.287
+</td></tr><tr style="background-color:#ccc"><td colspan="3" rowspan="1">
+Comorbidities
+</td></tr><tr><td rowspan="1" colspan="1">
+Cardiac arrest
+</td><td rowspan="1" colspan="1">
+20.210 (18.774-21.756)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Heart failure
+</td><td rowspan="1" colspan="1">
+0.870 (0.821-0.920)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Coronary atherosclerosis
+</td><td rowspan="1" colspan="1">
+0.978 (0.923-1.037)
+</td><td rowspan="1" colspan="1">
+0.453
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Shock
+</td><td rowspan="1" colspan="1">
+2.335 (2.149-2.537)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Cardiac dysrhythmias
+</td><td rowspan="1" colspan="1">
+1.346 (1.276-1.420)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+AKI
+</td><td rowspan="1" colspan="1">
+2.259 (2.155-2.368)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+COPD
+</td><td rowspan="1" colspan="1">
+0.677 (0.643-0.714)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+CKD
+</td><td rowspan="1" colspan="1">
+0.975 (0.920-1.033)
+</td><td rowspan="1" colspan="1">
+0.394
+</td></tr><tr><td rowspan="1" colspan="1">
+Respiratory failure
+</td><td rowspan="1" colspan="1">
+9.993 (9.445-10.571)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Fluid and electrolyte disorders
+</td><td rowspan="1" colspan="1">
+2.013 (1.910-2.122)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Cardiogenic shock
+</td><td rowspan="1" colspan="1">
+1.543 (1.362-1.749)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Tobacco disorders
+</td><td rowspan="1" colspan="1">
+0.602 (0.399-0.906)
+</td><td rowspan="1" colspan="1">
+0.015<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Alcohol-related disorders
+</td><td rowspan="1" colspan="1">
+0.842 (0.787-0.902)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Lipid disorders
+</td><td rowspan="1" colspan="1">
+0.878 (0.829-0.929)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Hypertension
+</td><td rowspan="1" colspan="1">
+0.779 (0.737-0.823)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Diabetes
+</td><td rowspan="1" colspan="1">
+0.831 (0.787-0.877)
+</td><td rowspan="1" colspan="1">
+0.016<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Obesity
+</td><td rowspan="1" colspan="1">
+0.687 (0.645-0.731)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+GI bleed
+</td><td rowspan="1" colspan="1">
+1.573 (1.447-1.711)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Liver failure
+</td><td rowspan="1" colspan="1">
+4.298 (4.029-4.586)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Thyroid disorders
+</td><td rowspan="1" colspan="1">
+0.941 (0.878-1.008)
+</td><td rowspan="1" colspan="1">
+0.083
+</td></tr><tr><td rowspan="1" colspan="1">
+Cancer
+</td><td rowspan="1" colspan="1">
+2.537 (2.392-2.691)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Depression
+</td><td rowspan="1" colspan="1">
+0.779 (0.734-0.826)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Pneumonia
+</td><td rowspan="1" colspan="1">
+1.218 (1.158-1.281)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Pulmonary circulatory disorders
+</td><td rowspan="1" colspan="1">
+0.898 (0.826-0.976)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Conduction disorder
+</td><td rowspan="1" colspan="1">
+0.917 (0.824-1.021)
+</td><td rowspan="1" colspan="1">
+0.113
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+COVID-19
+</td><td rowspan="1" colspan="1">
+2.966 (2.747-3.203)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Mental and substance use disorders
+</td><td rowspan="1" colspan="1">
+0.940 (0.807-1.094)
+</td><td rowspan="1" colspan="1">
+0.423
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Other specified substance-related disorders
+</td><td rowspan="1" colspan="1">
+0.800 (0.709-0.902)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Hallucinogen-related disorders
+</td><td rowspan="1" colspan="1">
+0.912 (0.263-3.166)
+</td><td rowspan="1" colspan="1">
+0.885
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Stimulant-related disorders
+</td><td rowspan="1" colspan="1">
+0.929 (0.872-0.990)
+</td><td rowspan="1" colspan="1">
+0.022<sup>*</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Sedative-related disorders
+</td><td rowspan="1" colspan="1">
+0.643 (0.578-0.715)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Cannabis-related disorders
+</td><td rowspan="1" colspan="1">
+0.742 (0.675-0.816)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Neurodevelopmental disorders
+</td><td rowspan="1" colspan="1">
+0.720 (0.592-0.876)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Miscellaneous mental and behavioral disorders conditions
+</td><td rowspan="1" colspan="1">
+0.748 (0.442-1.265)
+</td><td rowspan="1" colspan="1">
+0.279
+</td></tr><tr><td rowspan="1" colspan="1">
+Suicidal ideation attempt intentional self-harm
+</td><td rowspan="1" colspan="1">
+0.558 (0.477-0.653)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Somatic disorders
+</td><td rowspan="1" colspan="1">
+1.008 (0.545-1.865)
+</td><td rowspan="1" colspan="1">
+0.980
+</td></tr><tr><td rowspan="1" colspan="1">
+Feeding and eating disorders
+</td><td rowspan="1" colspan="1">
+1.231 (0.606-2.500)
+</td><td rowspan="1" colspan="1">
+0.566
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Personality disorders
+</td><td rowspan="1" colspan="1">
+0.628 (0.467-0.845)
+</td><td rowspan="1" colspan="1">
+0.002<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Disruptive impulse control and conduct disorders
+</td><td rowspan="1" colspan="1">
+0.560 (0.256-1.226)
+</td><td rowspan="1" colspan="1">
+0.147
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Trauma and stressor-related disorders
+</td><td rowspan="1" colspan="1">
+0.553 (0.484-0.632)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+OCD
+</td><td rowspan="1" colspan="1">
+1.149 (0.722-1.829)
+</td><td rowspan="1" colspan="1">
+0.557
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Anxiety and fear-related disorders
+</td><td rowspan="1" colspan="1">
+0.736 (0.695-0.778)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Other mood disorders
+</td><td rowspan="1" colspan="1">
+0.609 (0.469-0.793)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Bipolar disorders
+</td><td rowspan="1" colspan="1">
+0.756 (0.686-0.833)
+</td><td rowspan="1" colspan="1">
+0.001<sup>**</sup>
+</td></tr><tr><td rowspan="1" colspan="1">
+Schizophrenia
+</td><td rowspan="1" colspan="1">
+0.974 (0.856-1.108)
+</td><td rowspan="1" colspan="1">
+0.689
+</td></tr></tbody></table></table-wrap><fig position="anchor" fig-type="figure" id="FIG1" orientation="portrait"><label>Figure 1</label><caption><title>Forest plot of comorbidities associated with mortality in opioid use disorder</title><p>AKI: acute kidney injury; GI:&#160;gastrointestinal; CKD:&#160;chronic kidney disease;&#160;OCD: obsessive-compulsive disorder;&#160;COPD: chronic obstructive pulmonary disease</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="cureus-0017-00000081405-i01.jpg"/></fig></sec><sec sec-type="discussion"><title>Discussion</title><p>This study highlights the multifaceted interplay of demographic, socioeconomic, clinical, and institutional factors influencing mortality among patients with OUD. The findings underscore significant disparities in healthcare access, comorbidity burden, and hospital-related factors contributing to differential survival outcomes in this vulnerable population.</p><p>Our study demonstrates that older adults with OUD are at a substantially higher risk of mortality, with nonsurvivors being significantly older than survivors (median age: 58 vs. 47 years). This finding is consistent with previous research, which suggests that aging individuals with OUD face unique challenges, including increased physiological vulnerability to opioid toxicity, a higher burden of multimorbidity, and decreased engagement in harm reduction services [<xref rid="REF11" ref-type="bibr">11</xref>]. Moreover, Medicare recipients were more prevalent among nonsurvivors, further reinforcing that older adults with OUD may have reduced access to timely and specialized addiction treatment. Studies have shown that older adults with OUD are less likely to be prescribed opioid agonist therapy (OAT) and more likely to have unmanaged chronic pain, which can lead to inappropriate opioid prescribing and a higher risk of adverse outcomes [<xref rid="REF12" ref-type="bibr">12</xref>].</p><p>The lower rate of elective admissions and a higher rate of weekend admissions in nonsurvivors suggest that these patients may delay seeking care until their condition becomes critical, necessitating emergency intervention. This aligns with previous studies indicating that patients with OUD often experience barriers to preventive care, leading to more severe acute presentations upon hospital admission [<xref rid="REF13" ref-type="bibr">13</xref>]. Furthermore, the significant disparity in insurance status between survivors and nonsurvivors, where Medicaid was more prevalent among survivors, points to the role of healthcare accessibility in reducing mortality. Medicaid expansion has been associated with improved access to OAT and harm reduction programs, which are critical in preventing opioid-related deaths [<xref rid="REF14" ref-type="bibr">14</xref>].</p><p>Comorbidities were among the strongest determinants of mortality in our study, with nonsurvivors exhibiting a significantly higher prevalence of conditions such as cardiac arrest, respiratory failure, shock, and renal complications. These findings align with previous research demonstrating that OUD is frequently accompanied by serious medical conditions that increase the risk of in-hospital mortality [<xref rid="REF12" ref-type="bibr">12</xref>]. Respiratory failure was particularly prevalent in the nonsurvivor group, consistent with established knowledge that opioid overdose-induced respiratory depression is the leading cause of opioid-related deaths [<xref rid="REF15" ref-type="bibr">15</xref>]. Prior studies have also highlighted that opioid use impairs immune function, increasing susceptibility to severe respiratory infections such as pneumonia and COVID-19, which were significantly more frequent among nonsurvivors in our cohort [<xref rid="REF16" ref-type="bibr">16</xref>].</p><p>Interestingly, psychiatric conditions such as depression and suicidal ideation were more common in survivors, suggesting that patients receiving mental health care may have better engagement with healthcare services, ultimately reducing their mortality risk. This is consistent with studies showing that individuals with co-occurring psychiatric disorders are more likely to seek medical care and be enrolled in treatment programs, which may serve as a protective factor [<xref rid="REF3" ref-type="bibr">3</xref>]. However, it is also possible that psychiatric diagnoses were underreported in nonsurvivors due to lower healthcare utilization or stigma surrounding mental health conditions in patients with substance use disorders.</p><p>Our multivariable analysis identified older age as one of the strongest predictors of mortality, corroborating previous studies that have demonstrated an exponential increase in opioid-related deaths among aging populations [<xref rid="REF17" ref-type="bibr">17</xref>]. The protective effect of female sex observed in our study may be attributed to biological and behavioral differences, including variations in opioid metabolism, hormonal influences, and healthcare-seeking behaviors. Prior research has similarly found that opioid-related mortality rates are consistently higher in men than in women, potentially due to differences in risk-taking behavior and opioid prescription patterns [<xref rid="REF18" ref-type="bibr">18</xref>].</p><p>The finding that Medicaid patients had higher mortality odds compared to those with Medicare or private insurance highlights persistent disparities in healthcare quality and access. While Medicaid covers OUD treatment, variations in state-level policies and provider availability may contribute to inconsistent access to evidence-based interventions such as buprenorphine and methadone maintenance therapy. Similar studies have reported that Medicaid recipients with OUD often face longer wait times for treatment and higher rates of discontinuation, both of which increase mortality risk [<xref rid="REF19" ref-type="bibr">19</xref>].</p><p>Sex differences in psychiatric comorbidities may further influence mortality in OUD. Women with OUD have higher rates of depression, anxiety, and posttraumatic stress disorder, which may enhance healthcare engagement and access to integrated treatment, contributing to lower mortality [<xref rid="REF20" ref-type="bibr">20</xref>]. Conversely, men may face greater stigma in seeking mental health care, leading to untreated psychiatric conditions and worse outcomes [<xref rid="REF21" ref-type="bibr">21</xref>]. The higher prevalence of psychiatric diagnoses in survivors suggests that mental health care access may play a protective role, though underreporting in nonsurvivors remains a concern.</p><p>Additionally, our study found that larger hospitals were associated with greater mortality risk, a finding that may reflect the complexity of care in these institutions. While large hospitals often have more resources, they may also have higher patient loads, which can lead to longer wait times, increased risk of medical errors, and challenges in providing individualized addiction treatment. Previous research has suggested that patients with OUD treated in large, urban hospitals may experience fragmented care due to poor coordination between emergency departments, addiction specialists, and primary care providers [<xref rid="REF4" ref-type="bibr">4</xref>].</p><p>Cardiac arrest, respiratory failure, and liver failure were among the strongest predictors of mortality in our study, emphasizing the importance of addressing these critical complications in patients with OUD. These findings align with prior studies demonstrating that opioid use is associated with progressive organ damage, including cardiopulmonary and hepatic dysfunction, which significantly increases the risk of death [<xref rid="REF22" ref-type="bibr">22</xref>]. The strong association between respiratory failure and mortality highlights the need for widespread availability of naloxone and improved hospital-based interventions for opioid-induced respiratory depression.</p><p>Study limitations</p><p>This study has several limitations. First, the retrospective design and reliance on administrative data may introduce coding errors or misclassification biases. Second, the dataset does not capture nonhospitalized opioid-related deaths, potentially underestimating mortality rates. Third, factors such as the type and dosage of opioids used, adherence to OAT, and social determinants of health were not available in the dataset, limiting the ability to explore their impact on mortality. Additionally, while the study identifies associations, causal relationships cannot be inferred. Future research should incorporate prospective designs and more granular patient-level data to better understand the mechanisms driving mortality in OUD populations.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>In conclusion, this study provides valuable insights into the factors contributing to mortality among patients with OUD. The findings highlight the need for comprehensive, integrated care that addresses medical and psychiatric comorbidities, reduces disparities in healthcare access, and promotes harm reduction strategies. Future research should focus on identifying specific interventions to mitigate the identified risk factors and improve outcomes for this vulnerable population</p></sec></body><back><fn-group content-type="conflict"><title>Disclosures</title><fn fn-type="COI-statement"><p><bold>Human subjects:</bold> Consent for treatment and open access publication was obtained or waived by all participants in this study.</p><p><bold>Animal subjects:</bold> All authors have confirmed that this study did not involve animal subjects or tissue.</p><p><bold>Conflicts of interest:</bold> In compliance with the ICMJE uniform disclosure form, all authors declare the following:</p><p><bold>Payment/services info:</bold> All authors have declared that no financial support was received from any organization for the submitted work.</p><p><bold>Financial relationships:</bold> All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work.</p><p><bold>Other relationships:</bold> All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.</p></fn></fn-group><fn-group content-type="other"><title>Author Contributions</title><fn fn-type="other"><p><bold>Concept and design:</bold>&#160; Naga Venkata Satish Babu Bodapati, Sandipkumar Patel, Rana Veer Samara Sihman Bharattej Rupavath, Omkar Reddy Polu, Balaiah Chamarthi, Chrishanti Anna Joseph</p><p><bold>Drafting of the manuscript:</bold>&#160; Naga Venkata Satish Babu Bodapati, Sandipkumar Patel, Rana Veer Samara Sihman Bharattej Rupavath, Omkar Reddy Polu, Balaiah Chamarthi, Chrishanti Anna Joseph</p><p><bold>Critical review of the manuscript for important intellectual content:</bold>&#160; Naga Venkata Satish Babu Bodapati, Sandipkumar Patel, Rana Veer Samara Sihman Bharattej Rupavath, Omkar Reddy Polu, Balaiah Chamarthi, Chrishanti Anna Joseph</p><p><bold>Supervision:</bold>&#160; Naga Venkata Satish Babu Bodapati</p><p><bold>Acquisition, analysis, or interpretation of data:</bold>&#160; Sandipkumar Patel, Rana Veer Samara Sihman Bharattej Rupavath, Omkar Reddy Polu, Balaiah Chamarthi, Chrishanti Anna Joseph</p></fn></fn-group><ref-list><title>References</title><ref id="REF1"><label>1</label><element-citation publication-type="journal"><article-title>Prevalence of comorbid substance use disorders among people with opioid use disorder: a systematic review &amp; meta-analysis</article-title><source>Int J Drug Policy</source><person-group><name name-style="western"><surname>Santo T</surname><given-names>Jr</given-names></name><name name-style="western"><surname>Gisev</surname><given-names>N</given-names></name><name name-style="western"><surname>Campbell</surname><given-names>G</given-names></name><etal/></person-group><fpage>104434</fpage><volume>128</volume><year>2024</year><pub-id pub-id-type="pmid">38677160</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugpo.2024.104434</pub-id></element-citation></ref><ref id="REF2"><label>2</label><element-citation publication-type="journal"><article-title>Mortality, causes of death, and predictors of death among patients on and off opioid agonist treatment: results from a 19-year cohort study</article-title><source>Eur Addict Res</source><person-group><name name-style="western"><surname>Skeie</surname><given-names>I</given-names></name><name name-style="western"><surname>Clausen</surname><given-names>T</given-names></name><name name-style="western"><surname>Hjems&#230;ter</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Landheim</surname><given-names>AS</given-names></name><name name-style="western"><surname>Monsbakken</surname><given-names>B</given-names></name><name name-style="western"><surname>Thoresen</surname><given-names>M</given-names></name><name name-style="western"><surname>Waal</surname><given-names>H</given-names></name></person-group><fpage>358</fpage><lpage>367</lpage><volume>28</volume><year>2022</year><pub-id pub-id-type="pmid">35998586</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000525694</pub-id><pub-id pub-id-type="pmcid">PMC9533433</pub-id></element-citation></ref><ref id="REF3"><label>3</label><element-citation publication-type="journal"><article-title>Big data and predictive modelling for the opioid crisis: existing research and future potential</article-title><source>Lancet Digit Health</source><person-group><name name-style="western"><surname>Bharat</surname><given-names>C</given-names></name><name name-style="western"><surname>Hickman</surname><given-names>M</given-names></name><name name-style="western"><surname>Barbieri</surname><given-names>S</given-names></name><name name-style="western"><surname>Degenhardt</surname><given-names>L</given-names></name></person-group><fpage>397</fpage><lpage>407</lpage><volume>3</volume><year>2021</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2589-7500(21)00058-3</pub-id><pub-id pub-id-type="pmid">34045004</pub-id></element-citation></ref><ref id="REF4"><label>4</label><element-citation publication-type="journal"><article-title>Management of opioid use disorder in the USA: present status and future directions</article-title><source>Lancet</source><person-group><name name-style="western"><surname>Blanco</surname><given-names>C</given-names></name><name name-style="western"><surname>Volkow</surname><given-names>ND</given-names></name></person-group><fpage>1760</fpage><lpage>1772</lpage><volume>393</volume><year>2019</year><pub-id pub-id-type="pmid">30878228</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(18)33078-2</pub-id></element-citation></ref><ref id="REF5"><label>5</label><element-citation publication-type="journal"><article-title>Reduction in mortality risk with opioid agonist therapy: a systematic review and meta-analysis</article-title><source>Acta Psychiatr Scand</source><person-group><name name-style="western"><surname>Bahji</surname><given-names>A</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>B</given-names></name><name name-style="western"><surname>Gray</surname><given-names>S</given-names></name><name name-style="western"><surname>Stuart</surname><given-names>H</given-names></name></person-group><fpage>313</fpage><lpage>339</lpage><volume>140</volume><year>2019</year><pub-id pub-id-type="pmid">31419306</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/acps.13088</pub-id></element-citation></ref><ref id="REF6"><label>6</label><element-citation publication-type="journal"><article-title>Opioid agonist treatment and risk of mortality during opioid overdose public health emergency: population based retrospective cohort study</article-title><source>BMJ</source><person-group><name name-style="western"><surname>Pearce</surname><given-names>LA</given-names></name><name name-style="western"><surname>Min</surname><given-names>JE</given-names></name><name name-style="western"><surname>Piske</surname><given-names>M</given-names></name><etal/></person-group><fpage>0</fpage><volume>368</volume><year>2020</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.m772</pub-id><pub-id pub-id-type="pmcid">PMC7190018</pub-id><pub-id pub-id-type="pmid">32234712</pub-id></element-citation></ref><ref id="REF7"><label>7</label><element-citation publication-type="journal"><article-title>Predictors of fatal and nonfatal overdose after prescription of opioids for chronic pain: a systematic review and meta-analysis of observational studies</article-title><source>CMAJ</source><person-group><name name-style="western"><surname>Wang</surname><given-names>L</given-names></name><name name-style="western"><surname>Hong</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>W</given-names></name><etal/></person-group><fpage>0</fpage><lpage>411</lpage><volume>195</volume><year>2023</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1503/cmaj.230459</pub-id><pub-id pub-id-type="pmcid">PMC10593195</pub-id><pub-id pub-id-type="pmid">37871953</pub-id></element-citation></ref><ref id="REF8"><label>8</label><element-citation publication-type="journal"><article-title>Social vulnerability predictors of drug poisoning mortality: a machine learning analysis in the United States</article-title><source>Am J Addict</source><person-group><name name-style="western"><surname>Tatar</surname><given-names>M</given-names></name><name name-style="western"><surname>Faraji</surname><given-names>MR</given-names></name><name name-style="western"><surname>Keyes</surname><given-names>K</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>FA</given-names></name><name name-style="western"><surname>Jalali</surname><given-names>MS</given-names></name></person-group><fpage>539</fpage><lpage>546</lpage><volume>32</volume><year>2023</year><pub-id pub-id-type="pmid">37344967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ajad.13445</pub-id></element-citation></ref><ref id="REF9"><label>9</label><element-citation publication-type="journal"><article-title>Predictors of opioid-related death during methadone therapy</article-title><source>J Subst Abuse Treat</source><person-group><name name-style="western"><surname>Leece</surname><given-names>P</given-names></name><name name-style="western"><surname>Cavacuiti</surname><given-names>C</given-names></name><name name-style="western"><surname>Macdonald</surname><given-names>EM</given-names></name><etal/></person-group><fpage>30</fpage><lpage>35</lpage><volume>57</volume><year>2015</year><pub-id pub-id-type="pmid">26014916</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2015.04.008</pub-id></element-citation></ref><ref id="REF10"><label>10</label><element-citation publication-type="webpage"><article-title>Agency for Healthcare Research and Quality (AHRQ): introduction to the HCUP Nationwide Readmissions Database (NRD)</article-title><date-in-citation content-type="access-date"><month>11</month><year>2023</year></date-in-citation><year>2023</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.hcup-us.ahrq.gov/db/nation/nrd/nrddbdocumentation.jsp">https://www.hcup-us.ahrq.gov/db/nation/nrd/nrddbdocumentation.jsp</uri></element-citation></ref><ref id="REF11"><label>11</label><element-citation publication-type="journal"><article-title>Risk factors for opioid-use disorder and overdose</article-title><source>Anesth Analg</source><person-group><name name-style="western"><surname>Webster</surname><given-names>LR</given-names></name></person-group><fpage>1741</fpage><lpage>1748</lpage><volume>125</volume><year>2017</year><pub-id pub-id-type="pmid">29049118</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1213/ANE.0000000000002496</pub-id></element-citation></ref><ref id="REF12"><label>12</label><element-citation publication-type="journal"><article-title>Mortality among people with opioid use disorder: a systematic review and meta-analysis</article-title><source>J Addict Med</source><person-group><name name-style="western"><surname>Bahji</surname><given-names>A</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>B</given-names></name><name name-style="western"><surname>Gray</surname><given-names>S</given-names></name><name name-style="western"><surname>Stuart</surname><given-names>H</given-names></name></person-group><fpage>0</fpage><lpage>32</lpage><volume>14</volume><year>2020</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ADM.0000000000000606</pub-id><pub-id pub-id-type="pmid">32011406</pub-id></element-citation></ref><ref id="REF13"><label>13</label><element-citation publication-type="journal"><article-title>Global, regional, and national epidemiology of opioid use disorder among adolescents and young adults, 1990-2019. [Online ahead of print]</article-title><source>J Adolesc Health</source><person-group><name name-style="western"><surname>Han</surname><given-names>F</given-names></name><name name-style="western"><surname>Liu</surname><given-names>B</given-names></name><name name-style="western"><surname>Wang</surname><given-names>L</given-names></name><etal/></person-group><year>2025</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jadohealth.2024.12.015</pub-id><pub-id pub-id-type="pmid">39945686</pub-id></element-citation></ref><ref id="REF14"><label>14</label><element-citation publication-type="journal"><article-title>Drug overdose deaths among persons aged 10-19 years--United States, July 2019-December 2021</article-title><source>MMWR Morb Mortal Wkly Rep</source><person-group><name name-style="western"><surname>Tanz</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Dinwiddie</surname><given-names>AT</given-names></name><name name-style="western"><surname>Mattson</surname><given-names>CL</given-names></name><name name-style="western"><surname>O'Donnell</surname><given-names>J</given-names></name><name name-style="western"><surname>Davis</surname><given-names>NL</given-names></name></person-group><fpage>1576</fpage><lpage>1582</lpage><volume>71</volume><year>2022</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/mmwr/volumes/71/wr/mm7150a2.htm?utm_source=burnaby%20now&amp;utm_campaign=burnaby%20now%3A%20outbound&amp;utm_medium=referral">https://www.cdc.gov/mmwr/volumes/71/wr/mm7150a2.htm?utm_source=burnaby%20now&amp;utm_campaign=burnaby%20now%3A%20outbound&amp;utm_medium=referral</uri><pub-id pub-id-type="pmid">36520659</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7150a2</pub-id><pub-id pub-id-type="pmcid">PMC9762908</pub-id></element-citation></ref><ref id="REF15"><label>15</label><element-citation publication-type="journal"><article-title>Overdose mortality rates for opioids and stimulant drugs are substantially higher in men than in women: state-level analysis</article-title><source>Neuropsychopharmacology</source><person-group><name name-style="western"><surname>Butelman</surname><given-names>ER</given-names></name><name name-style="western"><surname>Huang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Epstein</surname><given-names>DH</given-names></name><name name-style="western"><surname>Shaham</surname><given-names>Y</given-names></name><name name-style="western"><surname>Goldstein</surname><given-names>RZ</given-names></name><name name-style="western"><surname>Volkow</surname><given-names>ND</given-names></name><name name-style="western"><surname>Alia-Klein</surname><given-names>N</given-names></name></person-group><fpage>1639</fpage><lpage>1647</lpage><volume>48</volume><year>2023</year><pub-id pub-id-type="pmid">37316576</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41386-023-01601-8</pub-id><pub-id pub-id-type="pmcid">PMC10517130</pub-id></element-citation></ref><ref id="REF16"><label>16</label><element-citation publication-type="journal"><article-title>Opioid use disorder in women and the implications for treatment</article-title><source>Psychiatr Res Clin Pract</source><person-group><name name-style="western"><surname>Barbosa-Leiker</surname><given-names>C</given-names></name><name name-style="western"><surname>Campbell</surname><given-names>AN</given-names></name><name name-style="western"><surname>McHugh</surname><given-names>RK</given-names></name><name name-style="western"><surname>Guille</surname><given-names>C</given-names></name><name name-style="western"><surname>Greenfield</surname><given-names>SF</given-names></name></person-group><fpage>3</fpage><lpage>11</lpage><volume>3</volume><year>2021</year><pub-id pub-id-type="pmid">34870109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1176/appi.prcp.20190051</pub-id><pub-id pub-id-type="pmcid">PMC8639162</pub-id></element-citation></ref><ref id="REF17"><label>17</label><element-citation publication-type="journal"><article-title>Pulmonary hypertension in congenital heart disease</article-title><source>Future Cardiol</source><person-group><name name-style="western"><surname>Pascall</surname><given-names>E</given-names></name><name name-style="western"><surname>Tulloh</surname><given-names>RM</given-names></name></person-group><fpage>343</fpage><lpage>353</lpage><volume>14</volume><year>2018</year><pub-id pub-id-type="pmid">29792339</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/fca-2017-0065</pub-id><pub-id pub-id-type="pmcid">PMC6136120</pub-id></element-citation></ref><ref id="REF18"><label>18</label><element-citation publication-type="journal"><article-title>Trends in epidemiology and microbiology of severe sepsis and septic shock in children</article-title><source>Hosp Pediatr</source><person-group><name name-style="western"><surname>Sehgal</surname><given-names>M</given-names></name><name name-style="western"><surname>Ladd</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Totapally</surname><given-names>B</given-names></name></person-group><fpage>1021</fpage><lpage>1030</lpage><volume>10</volume><year>2020</year><pub-id pub-id-type="pmid">33208389</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1542/hpeds.2020-0174</pub-id></element-citation></ref><ref id="REF19"><label>19</label><element-citation publication-type="journal"><article-title>Demographics characteristics and risk factors for 30-day unplanned pediatric sepsis readmissions</article-title><source>Crit Care Med</source><person-group><name name-style="western"><surname>Sehgal</surname><given-names>M</given-names></name><name name-style="western"><surname>Custodio</surname><given-names>H</given-names></name><name name-style="western"><surname>Amritphale</surname><given-names>N</given-names></name><etal/></person-group><fpage>609</fpage><volume>49</volume><year>2021</year></element-citation></ref><ref id="REF20"><label>20</label><element-citation publication-type="journal"><article-title>Substance abuse in women</article-title><source>Psychiatr Clin North Am</source><person-group><name name-style="western"><surname>Greenfield</surname><given-names>SF</given-names></name><name name-style="western"><surname>Back</surname><given-names>SE</given-names></name><name name-style="western"><surname>Lawson</surname><given-names>K</given-names></name><name name-style="western"><surname>Brady</surname><given-names>KT</given-names></name></person-group><fpage>339</fpage><lpage>355</lpage><volume>33</volume><year>2010</year><pub-id pub-id-type="pmid">20385341</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.psc.2010.01.004</pub-id><pub-id pub-id-type="pmcid">PMC3124962</pub-id></element-citation></ref><ref id="REF21"><label>21</label><element-citation publication-type="journal"><article-title>Reasons for opioid use among patients with dependence on prescription opioids: the role of chronic pain</article-title><source>J Subst Abuse Treat</source><person-group><name name-style="western"><surname>Weiss</surname><given-names>RD</given-names></name><name name-style="western"><surname>Potter</surname><given-names>JS</given-names></name><name name-style="western"><surname>Griffin</surname><given-names>ML</given-names></name><etal/></person-group><fpage>140</fpage><lpage>145</lpage><volume>47</volume><year>2014</year><pub-id pub-id-type="pmid">24814051</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2014.03.004</pub-id><pub-id pub-id-type="pmcid">PMC4074437</pub-id></element-citation></ref><ref id="REF22"><label>22</label><element-citation publication-type="journal"><article-title>Readmission and late mortality after pediatric severe sepsis</article-title><source>Pediatrics</source><person-group><name name-style="western"><surname>Czaja</surname><given-names>AS</given-names></name><name name-style="western"><surname>Zimmerman</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Nathens</surname><given-names>AB</given-names></name></person-group><fpage>849</fpage><lpage>857</lpage><volume>123</volume><year>2009</year><pub-id pub-id-type="pmid">19255013</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1542/peds.2008-0856</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

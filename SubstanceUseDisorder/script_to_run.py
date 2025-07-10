@@ -30,10 +30,7 @@ from searchpubmed.pubmed import (
     get_pubmed_metadata_pmcid
 )
 import pytz
-import matplotlib.pyplot as plt
-import matplotlib.ticker as mticker
 
-PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
 
 # Create outputs/ and xmls/ under this script’s folder
 BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
@@ -49,13 +46,13 @@ today_suffix     = datetime.now(tz).strftime("%Y%m%d")
 
 TABLE_NAME = f"{BASE_NAME}_{today_suffix}"
 PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
-RETURN_MAX  = int(os.getenv("RETURN_MAX", "80"))
+RETURN_MAX  = int(os.getenv("RETURN_MAX", "150"))
 CATALOG      = "odysseus"        # catalog
 SCHEMA       = "ods_pd_0160"     # schema / database
 
 ##Entrez.email   = os.getenv("ENTREZ_EMAIL", "you@example.com")
+Entrez.email   = 'sudeep1129@gmail.com'
 Entrez.api_key = PM_KEY
-
 
 # -------------------------------------------------------------------
 # 0 Create search criteria pubmed query constructor
@@ -217,8 +214,7 @@ pubmed_query = f"({q} AND ({date_block}))"
                          
                                  
 # ─────────────────────────────────────────────────────────────────────────────
-# 0 Query PubMed & report unique PMIDs
-# script to get pmids - save them (array - sorted)  # commit
+# 0 Query PubMed & report unique PMIDs - save them (array - sorted)
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Paths & dirs
@@ -234,24 +230,19 @@ pmids = get_pmid_from_pubmed(
 )
 
 n_unique = len(set(pmids))
-print(f"ESearch returned {n_unique} unique PMIDs")
 table_full_name = f"{CATALOG}.{SCHEMA}.{TABLE_NAME}_01_pmid_pmcid"
-
 pmid_list = sorted(set(pmids))
 pd.Series(pmid_list, name="pmid").to_csv(pmid_csv, index=False)
-print(f"✔ Saved {len(pmid_list)} PMIDs to {pmid_csv}")
+print(f"{len(pmids)} PMIDs saved → {pmid_csv}")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 1  Read PMIDs from CSV → Fetch PMID metadata → Save sorted CSV
 # ─────────────────────────────────────────────────────────────────────────────
 
-##mapping_csv   = os.path.join(OUTPUT_DIR, f"{TABLE_NAME}_01_pmid_pmcid.csv")
-##dist_csv      = os.path.join(OUTPUT_DIR, f"{TABLE_NAME}_01_pmcid_distribution.csv")
-
 # 1.1 Load the saved PMIDs
 pmid_df      = pd.read_csv(pmid_csv, dtype=str)
 pmids        = pmid_df["pmid"].dropna().unique().tolist()
-print(f"▶ Loaded {len(pmids)} PMIDs from {pmid_csv}")
+## print(f"▶ Loaded {len(pmids)} PMIDs from {pmid_csv}")
 
 # 1.2 Fetch metadata for each PMID
 meta_df_pmid = get_pubmed_metadata_pmid(pmids=pmids, api_key=PM_KEY)
@@ -260,8 +251,7 @@ meta_df_pmid = get_pubmed_metadata_pmid(pmids=pmids, api_key=PM_KEY)
 meta_df_pmid = meta_df_pmid.sort_values("pmid")
 pmid_meta_csv = f"{TABLE_NAME}_pmid_METADATA.csv"
 meta_df_pmid.to_csv(pmid_meta_csv, index=False)
-print(f"✔ Wrote PubMed metadata ({len(meta_df_pmid)} rows) to {pmid_meta_csv}")
-
+##print(f"✔ Wrote PubMed metadata ({len(meta_df_pmid)} rows) to {pmid_meta_csv}") # DEBUG
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 2  Read PMIDs → Map to PMCIDs → Save mapping CSV (sorted)   # commit
@@ -271,20 +261,34 @@ print(f"✔ Wrote PubMed metadata ({len(meta_df_pmid)} rows) to {pmid_meta_csv}"
 # 2.1 Reload the saved PMIDs
 ##print(f"▶ Loaded {len(pmids)} PMIDs from {pmid_csv}")
 
-# 2.2 Map PMIDs → PMCIDs using your helper
-mapping_records = map_pmids_to_pmcids(pmids, api_key=PM_KEY)
-mapping_df      = pd.DataFrame(mapping_records)
+def chunked_map_pmids_to_pmcids(pmids, chunk_size=15, retries=3, backoff=5):
+    all_frames = []
+    for i in range(0, len(pmids), chunk_size):
+        batch = pmids[i : i + chunk_size]
+        for attempt in range(1, retries + 1):
+            try:
+                recs = map_pmids_to_pmcids(batch, api_key=PM_KEY)
+                all_frames.append(pd.DataFrame(recs))
+                break
+            except Exception as e:
+                if attempt < retries:
+                    print(f"⚠️  PMID→PMCID batch {i//chunk_size+1} failed ({e}), retrying in {backoff}s…")
+                    time.sleep(backoff)
+                else:
+                    raise RuntimeError(f"Batch {i//chunk_size+1} failed after {retries} attempts") from e
+    return pd.concat(all_frames, ignore_index=True)
+
+# 2.2 Map PMIDs → PMCIDs in small batches with retries
+mapping_df = chunked_map_pmids_to_pmcids(pmids, chunk_size=15)
 
 # 2.3 Sort and save
 mapping_df = mapping_df.sort_values(["pmid", "pmcid"])
 mapping_csv = f"{TABLE_NAME}_01_pmid_pmcid.csv"
 mapping_df.to_csv(mapping_csv, index=False)
-print(f"✔ Wrote PMID→PMCID mapping ({len(mapping_df)} rows) to {mapping_csv}")
+##print(f"✔ Wrote PMID→PMCID mapping ({len(mapping_df)} rows) to {mapping_csv}") #DEBUG
       
 
 ## read from csv in step 1 - and get crosswak csv read pmid - get pmcid  - save them (csv - pmid, pmcid, sorted by pmid pmcid)  # commit
-## Completed - next stats
-
 # ─────────────────────────────────────────────────────────────────────────────
 # 3  Basic cardinalities (unique counts) and save QC CSV
 # ─────────────────────────────────────────────────────────────────────────────
@@ -308,7 +312,7 @@ print(summary_df.to_string(index=False))
 # Save QC CSV
 qc_csv = f"{TABLE_NAME}_qc_pmid_pmcid_SUMMARY.csv"
 summary_df.to_csv(qc_csv, index=False)
-print(f"✔ Wrote mapping QC summary to {qc_csv}")
+##print(f"✔ Wrote mapping QC summary to {qc_csv}") #DEBUG
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -318,7 +322,7 @@ print(f"✔ Wrote mapping QC summary to {qc_csv}")
 
 # 4.1 Load the PubMed‐level metadata you saved in Step 1
 meta_df_pmid  = pd.read_csv(pmid_meta_csv, dtype=str)
-print(f"▶ Loaded PubMed metadata ({len(meta_df_pmid)} rows) from {pmid_meta_csv}")
+##print(f"▶ Loaded PubMed metadata ({len(meta_df_pmid)} rows) from {pmid_meta_csv}") # DEBUG
   
 # 4.2 Headline QC: missing fields & duplicates
 cols = ["title","abstract","journal","publicationDate","doi","firstAuthor","lastAuthor","meshTags","keywords"]
@@ -331,27 +335,16 @@ qc["duplicate_pmids"] = qc["rows_in_table"] - qc["unique_pmids"]
 qc_df = pd.DataFrame([qc])
 qc_filename = "qc_PMID_headline_counts.csv"
 qc_df.to_csv(qc_filename, index=False)
-print(f"✔ Saved QC data to {qc_filename}")
+## print(f"✔ Saved QC data to {qc_filename}") # DEBUG
 
 # 4.3 Year distribution
-
 # 4.4 Top journals
-
 # 4.5 MeSH & keyword frequencies
-
 # 4.6 Publication‐year bar chart
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 5  Distribution of #PMCIDs per PMID (only where ≥1 PMCID) and save CSV
 # ─────────────────────────────────────────────────────────────────────────────
-##dist_df = (
-##    mapping_df
-##    .dropna(subset=["pmcid"])
-##    .groupby("pmid")["pmcid"]
-##    .nunique()
-##    .reset_index(name="pmcid_count")
-##    .sort_values("pmcid_count")
-##)
 dist_df = (
     mapping_df
     .loc[mapping_df["pmcid"].notna()]
@@ -362,7 +355,7 @@ dist_df = (
 
 dist_csv = f"{TABLE_NAME}_01_pmcid_distribution.csv"
 dist_df.to_csv(dist_csv, index=False)
-print(f"✔ Wrote PMCIDs‐per‐PMID distribution to {dist_csv}")
+## print(f"✔ Wrote PMCIDs‐per‐PMID distribution to {dist_csv}") # DEBUG
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 6  Load PMCID list → Fetch PMC metadata → Save raw CSV & run QC
@@ -394,58 +387,109 @@ def chunked_get_pmc_metadata(ids, chunk_size=50, retries=3, backoff=5):
 
 pmc_meta_df = chunked_get_pmc_metadata(pmcids, chunk_size=100)
 
-# 6.4  Save raw PMC metadata (sorted by pmcid)
+# 6.3  Save raw PMC metadata (sorted by pmcid)
 pmc_meta_df.sort_values("pmcid", inplace=True)
 raw_csv = f"{TABLE_NAME}_pmc_METADATA.csv"
 pmc_meta_df.to_csv(raw_csv, index=False)
-print(f"✔ Wrote PMC metadata ({len(pmc_meta_df)} rows) to {raw_csv}")
+##print(f"✔ Wrote PMC metadata ({len(pmc_meta_df)} rows) to {raw_csv}") # DEBUG
     
 
 # 6.5  QC Step 1: headline counts (rows, unique PMCIDs, unique PMIDs)
-  
 # 6.6  QC Step 2: distribution – PMCIDs per PMID & PMIDs per PMCID
-
-# 6.7  QC Step 3: top 20 journals
-    
+# 6.7  QC Step 3: top 20 journals  
 # 6.9  QC Step 5: MeSH tags & keyword freqs (top 50)
-
 # 6.10  Generate PMC publication‐year bar chart (PNG)
 
 
+# ─────────────────────────────────────────────────────────────
+# Part 7 Match PMIDs → PMCIDs → merge metadata → download XML
+# ─────────────────────────────────────────────────────────────
 
-xxx
+# A. Load PubMed metadata & PMID→PMCID mapping (only once each)
+pubmed_meta = pd.read_csv(f"{TABLE_NAME}_pmid_METADATA.csv", dtype=str)
+pmid2pmcid  = pd.read_csv(f"{TABLE_NAME}_01_pmid_pmcid.csv", dtype=str)
+
+# B. Compute overall match stats
+all_pmids    = set(pubmed_meta["pmid"])
+mapped_pmids = set(pmid2pmcid["pmid"])
+n_total      = len(all_pmids)
+n_matched    = len(all_pmids & mapped_pmids)
+n_unmatched  = n_total - n_matched
+print(f"Total PMIDs: {n_total}, with PMCID: {n_matched}, without: {n_unmatched}")
+
+# C. Build 1:1 mapping, merge, and save:
+pmid2pmcid_unique = (
+    pmid2pmcid
+    .dropna(subset=["pmcid"])
+    .sort_values(["pmid", "pmcid"])
+    .drop_duplicates("pmid", keep="first")
+)
+
+merged = (
+    pubmed_meta
+    .merge(pmid2pmcid_unique, on="pmid", how="left")
+    .sort_values("pmid")
+)
+
+out_mapped = os.path.join(BASE_DIR, f"{TABLE_NAME}_pmid_pmcid_METADATA.csv")
+merged.to_csv(out_mapped, index=False)
+## print(f"✔ Wrote merged metadata → {out_mapped}") # DEBUG
+
+out_nomatch = os.path.join(BASE_DIR, f"{TABLE_NAME}_pmid_without_pmcid.csv")
+merged.loc[merged["pmcid"].isna(), ["pmid"]].to_csv(out_nomatch, index=False)
+## print(f"✔ Wrote PMIDs without PMCID → {out_nomatch}")  # DEBUG
 
 
-# 1) Download all article XMLs (PMC full-text or PubMed fallback)
-print("📄 Downloading article XMLs (PMC + PubMed fallback)...")
-xml_paths = download_pubmed_files(year_start, year_end, out_dir='xmls')
-print(f"Downloaded {len(xml_paths)} XML files to 'xmls/'")
+# D. Download each mapped PMCID’s XML (skip existing)
+# ─── Configuration ──────────────────────────────────────────────────────────────
 
-# 2) PubMed loader summary
-print("🔍 Running PubMed loader summary...")
-loader_result = run_pubmed_loader(year_start, year_end)
-print(pd.DataFrame([loader_result['summary']]))
+MERGED_CSV = f'{TABLE_NAME}_pmid_pmcid_METADATA.csv'
+xml_dir = os.path.join(BASE_DIR, "xmls")
+os.makedirs(xml_dir, exist_ok=True)
 
-# 3) Download PubMed metadata & QC
-print("📥 Downloading PubMed metadata...")
-meta_df = download_pubmed_metadata(year_start, year_end, out_dir='outputs')
-print(f"{len(meta_df)} PubMed records fetched")
+# ─── Load & normalize PMCIDs ────────────────────────────────────────────────────
+df = pd.read_csv(MERGED_CSV, dtype=str)
+raw = (df['pmcid'].dropna()
+         .str.replace(r'\s+', '', regex=True)
+         .str.split('[,;]')
+         .explode()
+         .str.upper()
+         .drop_duplicates())
 
-print("📊 Running PubMed QC...")
-qc_pubmed_metadata(meta_df, out_dir='outputs')
+pmcids = raw.loc[raw.str.fullmatch(r'(?:PMC)?\d+')].tolist()
+total  = len(pmcids)
+print(f"Found {total} PMCIDs to fetch")
 
-# 4) PMC reconciliation
-if xml_paths:
-    print("🔍 Running PMC reconciliation...")
-    qc_pmc_reconciliation(meta_df, 'xmls', out_dir='outputs')
-else:
-    print("⚠️ No XML files found, skipping PMC reconciliation.")
+# ─── Download via Entrez ─────────────────────────────────────────────────────────
+downloaded = 0
+missing    = []
 
-# 5) PMC XML QA
-if xml_paths:
-    print("✅ Running PMC XML QA...")
-    qc_pmc_xml('xmls', out_dir='outputs')
-else:
-    print("⚠️ No XML files found, skipping PMC XML QA.")
+for pmc in pmcids:
+    pmc = pmc if pmc.startswith('PMC') else 'PMC'+pmc
+    out_file = os.path.join(xml_dir, f"{pmc}.xml")
+    if os.path.exists(out_file) and os.path.getsize(out_file) > 200:
+        continue
+    try:
+        handle = Entrez.efetch(db="pmc", id=pmc, retmode="xml")
+        raw_xml = handle.read()
+        handle.close()
+    except Exception as e:
+        print(f"⚠️  Fetch error for {pmc}: {e}")
+        missing.append(pmc)
+        continue
+    xml = raw_xml.decode('utf-8', errors='ignore') if isinstance(raw_xml, (bytes, bytearray)) else raw_xml
+    if not xml.strip():
+        print(f"⚠️  Empty XML for {pmc}")
+        missing.append(pmc)
+        continue
 
-print("🎉 Pipeline complete! Check 'outputs/' and 'xmls/' for results.")
+    with open(out_file, 'w', encoding='utf-8') as f:
+        f.write(xml)
+    downloaded += 1
+
+# ─── Summary ─────────────────────────────────────────────────────────────────────
+print("\n" + "="*40)
+print(f"Downloaded {downloaded} of {total} PMC full-texts into {xml_dir}")
+if missing:
+    print(f"⚠️  No XML for {len(missing)} IDs: {', '.join(missing)}")
+
