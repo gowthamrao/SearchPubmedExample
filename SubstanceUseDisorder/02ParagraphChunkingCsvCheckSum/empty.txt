@@ -1,3 +1,0 @@
-for each XML
-parse with XML tree
-if chunk size small - group till next large chunk
