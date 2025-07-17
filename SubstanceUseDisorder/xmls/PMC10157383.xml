@@ -1,0 +1,374 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">JAMA Health Forum</journal-id><journal-id journal-id-type="iso-abbrev">JAMA Health Forum</journal-id><journal-id journal-id-type="pmc-domain-id">3211</journal-id><journal-id journal-id-type="pmc-domain">jamasd</journal-id><journal-title-group><journal-title>JAMA Health Forum</journal-title></journal-title-group><issn pub-type="epub">2689-0186</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>JAMA Network</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10157383</article-id><article-id pub-id-type="pmcid-ver">PMC10157383.2</article-id><article-id pub-id-type="pmcaid">10157383</article-id><article-id pub-id-type="pmcaiid">12244340</article-id><article-id pub-id-type="pmid">36331441</article-id><article-id pub-id-type="doi">10.1001/jamahealthforum.2022.4001</article-id><article-id pub-id-type="publisher-id">aoi220074</article-id><article-version article-version-type="pmc-version">2</article-version><article-categories><subj-group subj-group-type="category" specific-use="electronic"><subject>Research</subject></subj-group><subj-group subj-group-type="domain" specific-use="print"><subject>Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Investigation</subject></subj-group><subj-group subj-group-type="online-only"><subject>Online Only</subject></subj-group><subj-group subj-group-type="allowCommenting"><subject>Comments</subject></subj-group></article-categories><title-group><article-title>Coverage and Prior Authorization Policies for Medications for Opioid Use
+Disorder in Medicaid Managed Care</article-title><alt-title alt-title-type="headline">Medicaid Coverage and Prior Authorization for
+Medications for Opioid Use Disorder</alt-title><alt-title alt-title-type="running-head">Medicaid Coverage and Prior Authorization for
+Medications for Opioid Use Disorder</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Abraham</surname><given-names initials="AJ">Amanda J.</given-names></name><degrees>PhD</degrees><xref rid="aoi220074aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Andrews</surname><given-names initials="CM">Christina M.</given-names></name><degrees>PhD</degrees><xref rid="aoi220074aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Harris</surname><given-names initials="SJ">Samantha J.</given-names></name><degrees>PhD</degrees><xref rid="aoi220074aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Westlake</surname><given-names initials="MM">Melissa M.</given-names></name><degrees>MSW</degrees><xref rid="aoi220074aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Grogan</surname><given-names initials="CM">Colleen M.</given-names></name><degrees>PhD</degrees><xref rid="aoi220074aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="aoi220074aff1"><label>1</label>Department of Public Administration and Policy,
+University of Georgia School of Public and International Affairs, Athens</aff><aff id="aoi220074aff2"><label>2</label>Arnold School of Public Health, Health Services Policy
+and Management Department, University of South Carolina, Columbia</aff><aff id="aoi220074aff3"><label>3</label>Department of Health Policy and Management, Johns
+Hopkins University Bloomberg School of Public Health, Baltimore, Maryland</aff><aff id="aoi220074aff4"><label>4</label>Crown Family School of Social Work, Policy, and
+Practice, The University of Chicago, Illinois</aff><author-notes><title>Article Information</title><p><bold>Accepted for Publication:</bold> September 14, 2022.</p><p content-type="published-online"><bold>Published:</bold> November 4, 2022.
+doi:<uri content-type="doi">10.1001/jamahealthforum.2022.4001</uri></p><p content-type="open-access-note"><bold>Open Access:</bold> This is an open access article
+distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://jamanetwork.com/pages/cc-by-license-permissions" ext-link-type="uri">CC-BY
+License</ext-link>. &#169; 2022 Abraham AJ et al. <italic toggle="yes">JAMA Health
+Forum</italic>.</p><corresp id="aoi220074cor1"><bold>Corresponding Author:</bold> Amanda J. Abraham, PhD,
+Department of Public Administration and Policy, University of Georgia School of Public and
+International Affairs, 355 S Jackson St, 280F Baldwin Hall, Athens, GA 30602 (<email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aabraham@uga.edu">aabraham@uga.edu</email>).</corresp><p content-type="author-contributions"><bold>Author Contributions:</bold> Dr Abraham had
+full access to all of the data in the study and takes responsibility for the integrity of
+the data and the accuracy of the data analysis.</p><p><italic toggle="yes">Concept and design:</italic> All authors.</p><p><italic toggle="yes">Acquisition, analysis, or interpretation of data:</italic> All authors.</p><p><italic toggle="yes">Drafting of the manuscript:</italic> Abraham, Andrews, Harris.</p><p><italic toggle="yes">Critical revision of the manuscript for important intellectual content:</italic>
+All authors.</p><p><italic toggle="yes">Statistical analysis:</italic> Abraham, Westlake.</p><p><italic toggle="yes">Obtained funding:</italic> Abraham, Andrews.</p><p><italic toggle="yes">Administrative, technical, or material support:</italic> Abraham, Westlake.</p><p><italic toggle="yes">Supervision:</italic> Abraham, Grogan.</p><p content-type="COI-statement"><bold>Conflict of Interest Disclosures:</bold> None
+reported.</p><p content-type="funding-statement"><bold>Funding/Support:</bold> This study was funded by
+NIDA grants R01 DA034634 and R01 DA052425 from the National Institute on Drug Abuse and
+grant R01 AA029097 from the National Institute on Alcohol Abuse and Alcoholism (Dr
+Abraham).</p><p><bold>Role of the Funder/Sponsor:</bold> The funder had no role in the design and conduct
+of the study; collection, management, analysis, and interpretation of the data;
+preparation, review, or approval of the manuscript; and decision to submit the manuscript
+for publication.</p></author-notes><pub-date pub-type="epub" iso-8601-date="2022-11-04T10:00"><day>4</day><month>11</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2022</year></pub-date><volume>3</volume><issue>11</issue><issue-id pub-id-type="pmc-issue-id">420905</issue-id><elocation-id>e224001</elocation-id><history><date date-type="received"><day>22</day><month>7</month><year>2022</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>11</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>04</day><month>05</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-11 11:25:38.883"><day>11</day><month>07</month><year>2025</year></date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">10157383</article-id><article-id pub-id-type="doi">10.1001/jamahealthforum.2022.4001</article-id><article-id pub-id-type="manuscript-id">NIHMS1891966</article-id><article-version>1</article-version><pub-date><day>04</day><month>11</month><year>2022</year></pub-date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">12244340</article-id><article-id pub-id-type="doi">10.1001/jamahealthforum.2022.4001</article-id><article-version>2</article-version><pub-date><day>04</day><month>11</month><year>2022</year></pub-date></event></pub-history><permissions><copyright-statement>Copyright 2022 Abraham AJ et al. <italic toggle="yes">JAMA Health
+Forum</italic>.</copyright-statement><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the CC-BY
+License.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jamahealthforum-e224001.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf-version" xlink:href="jamahealthforum-e224001.pdf">jamahealthforum-e224001.pdf</self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="silverchair" xlink:href="https://jamanetwork.com/channels/health-forum/fullarticle/10.1001/jamahealthforum.2022.4001"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" journal-id="JAMA Health Forum" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC9674998"><article-title>Error in Figure Titles</article-title><volume>3</volume><issue>11</issue><date><day>18</day><month>11</month><year>2022</year></date><elocation-id>e224653</elocation-id><source>JAMA Health Forum</source><pub-id pub-id-type="pmcid">PMC9674998</pub-id><pub-id pub-id-type="pmid">36399354</pub-id></related-article><abstract abstract-type="key-points"><title>Key Points</title><sec id="ab-aoi220074-1"><title>Question</title><p>How do coverage and prior authorization (PA) policies for medications for opioid use
+disorder (MOUD) vary across Medicaid fee-for-service (FFS) programs and managed care
+organization (MCO) plans and across states?</p></sec><sec id="ab-aoi220074-2"><title>Findings</title><p>In this cross-sectional study of 266 Medicaid MCO plans and 39 FFS programs, FFS
+programs offered more generous MOUD coverage, but a higher percentage of FFS programs
+imposed PA than MCO plans. Although most Medicaid MCO and FFS beneficiaries were
+enrolled in a plan that covered MOUD, approximately 50% were subject to PA.</p></sec><sec id="ab-aoi220074-3"><title>Meaning</title><p>Despite concerns that PA policies are a barrier to MOUD access, these policies remain
+widespread in the nation&#8217;s Medicaid programs.</p></sec></abstract><abstract abstract-type="teaser" specific-use="electronic"><p>This cross-sectional study uses state Medicaid managed care data to investigate coverage
+and prior authorization policies for medications for opioid use disorder (MOUD).</p></abstract><abstract><sec id="ab-aoi220074-4"><title>Importance</title><p>Medicaid is a key policy lever to improve opioid use disorder treatment, covering
+approximately 40% of Americans with opioid use disorder. Although approximately 70% of
+Medicaid beneficiaries are enrolled in comprehensive managed care organization (MCO)
+plans, little is known about coverage and prior authorization (PA) policies for
+medications for opioid use disorder (MOUD) in these plans.</p></sec><sec id="ab-aoi220074-5"><title>Objective</title><p>To compare coverage and PA policies for buprenorphine, methadone, and injectable
+naltrexone across Medicaid MCO plans and fee-for-service (FFS) programs and across
+states.</p></sec><sec id="ab-aoi220074-6"><title>Design, Setting, and Participants</title><p>This cross-sectional study analyzed MOUD data from 266 Medicaid MCO plans and FFS
+programs in 38 states and the District of Columbia in 2018.</p></sec><sec id="ab-aoi220074-7"><title>Main Outcomes and Measures</title><p>For each medication, the percentages of MCO plans and FFS programs that covered the
+medication without PA, covered the medication with PA, and did not cover the medication
+were calculated, as were the percentages of MCO, FFS, and all (MCO and FFS)
+beneficiaries who were covered with no PA, covered with PA, and not covered. In
+addition, MCO plan coverage and PA policies were mapped by state. Analyses were
+conducted from January 1 through May 31, 2022.</p></sec><sec id="ab-aoi220074-8"><title>Results</title><p>Coverage and PA policies were compared for MOUD in 266 MCO plans and 39 FFS programs,
+representing approximately 70 million Medicaid beneficiaries. Overall, FFS programs had
+more generous MOUD coverage than MCO plans. However, a higher percentage of FFS programs
+imposed PA for the 3 medications (47.0%) than did MCOs (35.9%). Furthermore, although
+most Medicaid beneficiaries were enrolled in a plan that covered MOUD, 53.2% of all MCO-
+and FFS-enrolled beneficiaries were subject to PA. Results also showed wide state
+variation in MCO plan coverage and PA policies for MOUD and the percentage of Medicaid
+beneficiaries subject to PA.</p></sec><sec id="ab-aoi220074-9"><title>Conclusions and Relevance</title><p>This cross-sectional study found variation in MOUD coverage and PA policies across
+Medicaid MCO plans and FFS programs and across states. Thus, Medicaid
+beneficiaries&#8217; access to MOUD may be heavily influenced by their state of
+residency and the Medicaid plan in which they are enrolled. Left unaddressed, PA
+policies are likely to remain a barrier to MOUD access in the nation&#8217;s Medicaid
+programs.</p></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="H1-1-AOI220074"><title>Introduction</title><p>Expanding access to treatment for opioid use disorder (OUD) remains a top public health
+priority. Opioid-related mortality reached an all-time high in 2021, exceeding 80&#8201;000
+deaths.<sup><xref rid="aoi220074r1" ref-type="bibr">1</xref></sup> In 2020,
+approximately 2.5 million people met diagnostic criteria for OUD, but only 11.2% received
+any Food and Drug Administration (FDA)&#8211;approved medications for OUD (MOUD), including
+buprenorphine, methadone, and injectable naltrexone.<sup><xref rid="aoi220074r2" ref-type="bibr">2</xref></sup> Medications for OUD are associated with significant
+reductions in opioid use and fatal overdose, reductions in health care utilization related
+to opioid use, and increases in treatment retention rates.<sup><xref rid="aoi220074r3" ref-type="bibr">3</xref>,<xref rid="aoi220074r4" ref-type="bibr">4</xref>,<xref rid="aoi220074r5" ref-type="bibr">5</xref>,<xref rid="aoi220074r6" ref-type="bibr">6</xref>,<xref rid="aoi220074r7" ref-type="bibr">7</xref></sup></p><p>Medicaid is a key policy lever to improve OUD treatment because it covers approximately 40%
+of Americans with OUD. However, previous research has revealed wide state variation in
+benefits for OUD treatment across Medicaid fee-for-service (FFS) programs.<sup><xref rid="aoi220074r8" ref-type="bibr">8</xref>,<xref rid="aoi220074r9" ref-type="bibr">9</xref></sup> Such variation in OUD treatment benefit design, including MOUD, may lead
+to differences in patient access to treatment and health outcomes for Medicaid enrollees
+with OUD.</p><p>Although the Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment
+for Patients and Communities Act (SUPPORT Act) of 2018 requires that all Medicaid plans
+provide coverage for MOUD as of January 2020, it does not prohibit utilization management
+policies, such as prior authorization (PA).<sup><xref rid="aoi220074r10" ref-type="bibr">10</xref>,<xref rid="aoi220074r11" ref-type="bibr">11</xref></sup> Prior authorization
+is primarily used by insurers as a cost control mechanism. This tool may be particularly
+important for administration of state Medicaid programs because Medicaid is consistently the
+most expensive item in state budgets. However, payers have also relied on PA to ensure
+appropriate use of care. For example, a recent study of 2 state Medicaid programs that
+completely removed PA on buprenorphine for OUD found an increase in buprenorphine
+prescribing in Illinois but no difference in prescribing after PA removal in
+California.<sup><xref rid="aoi220074r12" ref-type="bibr">12</xref></sup></p><p>This mixed result is important because although use of PA to control costs and limit
+unnecessary care can be effective, it can also unnecessarily restrict access to MOUD if its
+use denies necessary care or if PA decisions take too long and the opportunity for care
+engagement is lost. Many other studies identify the use of PA as a barrier to timely receipt
+of MOUD and continuity of care.<sup><xref rid="aoi220074r12" ref-type="bibr">12</xref>,<xref rid="aoi220074r13" ref-type="bibr">13</xref>,<xref rid="aoi220074r14" ref-type="bibr">14</xref>,<xref rid="aoi220074r15" ref-type="bibr">15</xref>,<xref rid="aoi220074r16" ref-type="bibr">16</xref>,<xref rid="aoi220074r17" ref-type="bibr">17</xref>,<xref rid="aoi220074r18" ref-type="bibr">18</xref>,<xref rid="aoi220074r19" ref-type="bibr">19</xref>,<xref rid="aoi220074r20" ref-type="bibr">20</xref>,<xref rid="aoi220074r21" ref-type="bibr">21</xref></sup> Removal of PA in Medicare Part D plans, following an
+FDA labeling change for buprenorphine products and related Centers for Medicare &amp;
+Medicaid Services (CMS) guidance,<sup><xref rid="aoi220074r22" ref-type="bibr">22</xref></sup> was associated with an increase in prescribing of buprenorphine and
+naloxone and a decrease in substance use disorder&#8211;related inpatient admissions and
+emergency department visits.<sup><xref rid="aoi220074r16" ref-type="bibr">16</xref></sup>
+Relatedly, removal of PA for MOUD was associated with a decrease in the likelihood of
+relapse among patients with OUD enrolled in a Medicare Advantage plan.<sup><xref rid="aoi220074r20" ref-type="bibr">20</xref></sup> Research also shows that specialty
+substance use disorder treatment programs are less likely to offer buprenorphine in states
+where Medicaid FFS programs impose PA on the medication.<sup><xref rid="aoi220074r13" ref-type="bibr">13</xref></sup> Prior authorization is also identified as a major
+barrier by buprenorphine prescribers serving Medicaid enrollees.<sup><xref rid="aoi220074r15" ref-type="bibr">15</xref>,<xref rid="aoi220074r17" ref-type="bibr">17</xref></sup></p><p>Although there is documentation of widespread use of PA for MOUD in Medicaid FFS programs
+in 2017,<sup><xref rid="aoi220074r9" ref-type="bibr">9</xref></sup> little is known about
+MOUD coverage and PA policies in comprehensive Medicaid managed care organization (MCO)
+plans, which cover approximately 70% of all Medicaid beneficiaries.<sup><xref rid="aoi220074r23" ref-type="bibr">23</xref></sup> A comparison of PA policies in
+Medicaid FFS programs and MCO plans in 3 states found variation in the use of PA for
+MOUD,<sup><xref rid="aoi220074r24" ref-type="bibr">24</xref></sup> suggesting that
+additional research in this area is warranted. To address this gap in the literature, this
+study uses publicly available documentation from all Medicaid comprehensive MCOs to compare
+coverage and PA policies for buprenorphine, methadone, and injectable naltrexone across
+Medicaid MCO plans and FFS programs as well as across states.</p></sec><sec id="H1-2-AOI220074"><title>Methods</title><sec id="H2-1-AOI220074"><title>Study Design and Data</title><p>In this cross-sectional study, we conducted a content analysis of all 266 Medicaid MCO
+plans that had active contracts in 38 states and the District of Columbia in 2018. We
+reviewed publicly available documentation on benefits and PA policies for buprenorphine,
+methadone, and injectable naltrexone. Documents reviewed were member handbooks, provider
+manuals, and prescription drug formularies. When multiple plans were available for
+different enrollee groups within a single MCO, we selected the largest comprehensive plan
+that served adult, nonelderly (aged 18-64 years) enrollees. The study was limited to
+comprehensive MCO plans and did not include primary care case management plans.</p><p>A search protocol (detailed in the Measures section) was used to collect MCO plan
+documents, which were reviewed and coded by trained research assistants. The research
+assistants met weekly with the research team to discuss coding decisions. All coding
+discrepancies were resolved through consultation with the research team. A doctorate-level
+research assistant was responsible for cleaning the data for analyses (M.M.W.). The
+University of Chicago&#8217;s institutional review board approved this study and waived
+the requirement for informed consent because non&#8211;human participant data were used.
+The study followed the Strengthening the Reporting of Observational Studies in
+Epidemiology (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.equator-network.org/reporting-guidelines/strobe/" ext-link-type="uri">STROBE</ext-link>) reporting guideline.</p></sec><sec id="H2-2-AOI220074"><title>Measures</title><p>Buprenorphine, methadone, and injectable naltrexone were coded as covered if an MCO plan
+reported covering the medication in either its enrollee or provider handbook or if the
+medication was listed in its formulary. For each medication, plans were coded as imposing
+PA if the plan mentioned the need for PA in the member handbook, as a requirement for
+medication reimbursement in the provider handbook, or as a requirement in its
+formulary.</p><p>Coverage data for buprenorphine and injectable naltrexone were not specified for 1 MCO
+plan; there were no missing coverage data for methadone. Information on PA was not
+specified in 30 MCO plans for methadone, 5 plans for buprenorphine, and 1 plan for
+injectable naltrexone. We excluded from analyses all MCO plans for which coverage
+information was missing (1 plan for buprenorphine and injectable naltrexone) and/or PA
+information was not specified (30 plans for methadone, 5 plans for buprenorphine, and 1
+plan for injectable naltrexone). Twelve states (11 for methadone and 1 for buprenorphine)
+with more than 50% of information not specified for PA were categorized as not specified.
+Of note, although we were unable to categorize these MCO plans&#8217; PA policies,
+&#8220;not specified&#8221; is important because an individual with OUD who wanted to
+understand the details of a plan&#8217;s MOUD benefits would be unable to locate that
+information in the enrollee or provider handbook or formulary.</p></sec><sec id="H2-3-AOI220074"><title>Statistical Analysis</title><p>We compared MCO medication benefits with those specified by Medicaid FFS programs using
+FFS data from a survey of state Medicaid agencies conducted from May to December
+2017.<sup><xref rid="aoi220074r9" ref-type="bibr">9</xref></sup> The current analysis
+was performed from January 1 through May 31, 2022.</p><p>Several measures of MOUD coverage and PA policies were constructed. First, for each
+medication (buprenorphine, methadone, and injectable naltrexone), we calculated the
+percentage of Medicaid MCO plans and FFS programs that (1) covered the medication without
+PA, (2) covered the medication with PA, and (3) did not cover the medication. Second, we
+used enrollment data from CMS<sup><xref rid="aoi220074r23" ref-type="bibr">23</xref></sup>
+to calculate the percentage of MCO, FFS, and all (MCO and FFS) beneficiaries who were (1)
+covered with no PA, (2) covered with PA, and (3) not covered. Third, to capture state
+variation in MOUD coverage and PA policies, we mapped the percentage of MCO plans covering
+each medication and the percentage of MCO plans requiring PA by state. Fourth, we mapped
+the percentage of all Medicaid beneficiaries (MCO and FFS) enrolled in a plan covering
+each medication and the percentage of all beneficiaries subject to PA for each medication
+by state. Analyses were performed using Stata, version 17.0 (StataCorp LLC).</p></sec></sec><sec id="H1-3-AOI220074"><title>Results</title><sec id="H2-4-AOI220074"><title>Medicaid MCO Plan vs FFS Program Coverage and PA Policies for MOUD</title><p>This study examined coverage and PA policies in 266 MCO plans and 39 Medicaid FFS
+programs, representing approximately 70 million Medicaid beneficiaries in 2018. Overall, a
+lower percentage of MCO plans vs FFS programs covered MOUD in 2018 (<xref rid="aoi220074f1" ref-type="fig">Figure 1</xref>A). We found that all 39 Medicaid FFS programs (100%)
+covered buprenorphine, 32 (82.1%) covered methadone, and 37 (94.9%) covered injectable
+naltrexone. A lower percentage of MCO plans covered buprenorphine (255 [98.1%]), methadone
+(164 [69.5%]), and injectable naltrexone (188 [71.2%]).</p><fig position="float" id="aoi220074f1" fig-type="figure" orientation="portrait"><label>Figure 1. </label><caption><title>Percentage of Medicaid Managed Care Organization (MCO) Plans vs Fee-for-Service
+(FFS) Programs and Percentage of MCO vs FFS Enrollees With Coverage for Medications
+for Opioid Use Disorder (MOUD) With and Without Prior Authorization, 2018</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jamahealthforum-e224001-g001.jpg"/></fig><p>Similarly, we found stark differences in the percentage of Medicaid beneficiaries
+enrolled in Medicaid FFS programs and MCO plans covering each medication (<xref rid="aoi220074f1" ref-type="fig">Figure 1</xref>B). Although almost all Medicaid
+beneficiaries, whether in an FFS program or MCO plan, had buprenorphine coverage (FFS,
+17&#8201;061&#8201;820 [100%]; MCO, 51&#8201;526&#8201;807 [99.0%]), fewer MCO
+beneficiaries had coverage for methadone (FFS, 15&#8201;713&#8201;936 [92.1%]; MCO,
+39&#8201;708&#8201;732 [75.6%]) and injectable naltrexone (FFS, 16&#8201;089&#8201;296
+[94.3%]; MCO, 40&#8201;399&#8201;030 [76.8%]).</p><p>Turning to PA policies (<xref rid="aoi220074f1" ref-type="fig">Figure 1</xref>A), we
+found that a higher percentage of Medicaid FFS programs than MCO plans covered
+buprenorphine (25 [64.1%] vs 110 [42.3%]) and injectable naltrexone (18 [46.2%] and 79
+[29.9%]) with a PA requirement. However, a slightly higher percentage of MCO plans than
+FFS programs covered methadone with a PA requirement (84 [35.6%] vs 12 [30.8%]). Overall,
+for the 3 medications, 47.0% of FFS programs imposed PA compared with 35.9% of MCO
+plans.</p><p>A higher percentage of FFS-enrolled beneficiaries than MCO-enrolled beneficiaries faced
+PA requirements for buprenorphine (FFS, 10&#8201;322&#8201;401 [60.5%]; MCO,
+21&#8201;902&#8201;832 [41.7%]) and injectable naltrexone (FFS, 10&#8201;953&#8201;688
+[64.2%]; MCO, 21&#8201;797&#8201;783 [41.5%]) (<xref rid="aoi220074f1" ref-type="fig">Figure 1</xref>B). A similar proportion of FFS- and MCO-enrolled beneficiaries had
+methadone coverage subject to PA (6&#8201;398&#8201;183 [37.5%] and 20&#8201;222&#8201;040
+[38.5%], respectively).</p><p>Finally, of the total percentage of all Medicaid beneficiaries (MCO and FFS) facing PA
+requirements (<xref rid="aoi220074f1" ref-type="fig">Figure 1</xref>B), approximately 50%
+had buprenorphine coverage (36&#8201;811&#8201;310 [52.9%]) or injectable naltrexone
+coverage (32&#8201;775&#8201;288 [47.1%]) that required PA. In addition, almost 40% of all
+Medicaid beneficiaries had methadone coverage that required PA (27&#8201;069&#8201;187
+[38.5%]). Overall, among beneficiaries with MOUD coverage, 53.2% were subject to PA.</p></sec><sec id="H2-5-AOI220074"><title>State Variation in Percentage of MCO Plans Covering MOUD</title><p>In 36 states (92.3%), all MCO plans covered buprenorphine, whereas no MCO plan covered
+buprenorphine in 1 state (2.6%) (<xref rid="aoi220074f2" ref-type="fig">Figure 2</xref>A).
+In contrast, in 19 states (48.7%), all MCO plans covered methadone, and in 6 states
+(15.4%), no MCO plans covered the medication (<xref rid="aoi220074f2" ref-type="fig">Figure 2</xref>B). Similarly, in 14 states (35.9%), all MCO plans covered injectable
+naltrexone, and in 7 states (18.0%), no plans covered the medication (<xref rid="aoi220074f2" ref-type="fig">Figure 2</xref>C).</p><fig position="float" id="aoi220074f2" fig-type="figure" orientation="portrait"><label>Figure 2. </label><caption><title>Percentage of Medicaid Managed Care Organization (MCO) Plans Covering Medications
+for Opioid Use Disorder by State, 2018</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jamahealthforum-e224001-g002.jpg"/></fig></sec><sec id="H2-6-AOI220074"><title>State Variation in Percentage of All Medicaid Beneficiaries Enrolled in Plans
+Covering MOUD</title><p>For Medicaid beneficiaries (MCO and FFS) enrolled in plans that covered MOUD, coverage
+was less generous for methadone and injectable naltrexone than buprenorphine (<xref rid="aoi220074f3" ref-type="fig">Figure 3</xref>). In 10 states (25.6%), less than 50%
+of beneficiaries were enrolled in plans covering methadone or injectable naltrexone,
+whereas there was only 1 state (2.6%) with less than 50% of beneficiaries enrolled in a
+plan covering buprenorphine.</p><fig position="float" id="aoi220074f3" fig-type="figure" orientation="portrait"><label>Figure 3. </label><caption><title>Percentage of All Medicaid Beneficiaries Enrolled in Managed Care Organization
+(MCO) Plans Covering Medications for Opioid Use Disorder by State, 2018</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jamahealthforum-e224001-g003.jpg"/></fig></sec><sec id="H2-7-AOI220074"><title>State Variation in Percentage of MCO Plans Requiring PA for MOUD</title><p>Prior authorization policies for buprenorphine were not specified in 1 state (<xref rid="aoi220074f4" ref-type="fig">Figure 4</xref>A). Among the remaining 37 states and
+the District of Columbia with PA information, all required PA for buprenorphine in 11
+states (29.0%), whereas none required PA for the medication in 12 states (31.6%).</p><fig position="float" id="aoi220074f4" fig-type="figure" orientation="portrait"><label>Figure 4. </label><caption><title>Percentage of Medicaid Managed Care Organization (MCO) Plans Requiring Prior
+Authorization by State, 2018</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jamahealthforum-e224001-g004.jpg"/></fig><p>Prior authorization policies were not specified for methadone in 11 states (<xref rid="aoi220074f4" ref-type="fig">Figure 4</xref>B). Among the 22 states with MCOs that
+covered methadone and provided PA data, all MCO plans required PA for methadone in 7
+states (31.8%), and none required PA for methadone in 6 states (27.3%). Among 32 states
+with MCO plans that covered injectable naltrexone (<xref rid="aoi220074f4" ref-type="fig">Figure 4</xref>C), all required PA in 6 states (18.8%), and none required PA in 15
+states (46.9%).</p></sec><sec id="H2-8-AOI220074"><title>State Variation in Percentage of All Medicaid Beneficiaries Subject to PA for
+MOUD</title><p>In 9 states (23.7%), all Medicaid (MCO and FFS) enrollees had buprenorphine coverage
+subject to PA (<xref rid="aoi220074f5" ref-type="fig">Figure 5</xref>A) vs 4 states
+(18.2%) for methadone (<xref rid="aoi220074f5" ref-type="fig">Figure 5</xref>B) and 4
+states (12.5%) for injectable naltrexone (<xref rid="aoi220074f5" ref-type="fig">Figure
+5</xref>C). No enrollees had buprenorphine coverage that required PA in 7 states (18.4%)
+(<xref rid="aoi220074f5" ref-type="fig">Figure 5</xref>A). In contrast, no enrollees had
+methadone coverage subject to PA in 6 states (27.3%) (<xref rid="aoi220074f5" ref-type="fig">Figure 5</xref>B), and none had injectable naltrexone coverage subject
+to PA in 9 states (28.1%) (<xref rid="aoi220074f5" ref-type="fig">Figure 5</xref>C).</p><fig position="float" id="aoi220074f5" fig-type="figure" orientation="portrait"><label>Figure 5. </label><caption><title>Percentage of All Medicaid Beneficiaries Enrolled in Managed Care Organization
+(MCO) Plans Subject to Prior Authorization by State, 2018</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jamahealthforum-e224001-g005.jpg"/></fig></sec></sec><sec id="H1-4-AOI220074"><title>Discussion</title><p>The findings from this cross-sectional study fill an important gap in the literature on
+MOUD benefit designs in state Medicaid programs. To our knowledge, this study is the first
+on a national level to investigate MOUD coverage and PA policies for all 3 FDA-approved
+MOUDs in Medicaid MCO plans and FFS programs. The findings reveal key differences in both
+MOUD coverage and PA policies between MCO plans and FFS programs. Importantly, we also found
+that approximately one-half of all Medicaid beneficiaries (MCO and FFS) had MOUD coverage
+that required PA.</p><p>Overall, Medicaid FFS programs have more generous MOUD coverage; however, a majority of
+beneficiaries (approximately 70%) are enrolled in Medicaid MCO plans.<sup><xref rid="aoi220074r23" ref-type="bibr">23</xref></sup> In addition, although a higher
+percentage of state Medicaid FFS programs than MCO plans impose PA on MOUD, this affects a
+small proportion of all Medicaid enrollees (ranging from 12.1% of enrollees for methadone to
+21.3% for injectable naltrexone) because the total number of beneficiaries enrolled in FFS
+programs is relatively small compared with enrollment in Medicaid MCO plans.<sup><xref rid="aoi220074r12" ref-type="bibr">12</xref></sup></p><p>The SUPPORT Act is expected to address inequities in coverage of MOUD across Medicaid MCO
+plans and FFS programs by requiring all plans to cover buprenorphine, injectable naltrexone,
+and methadone. However, the legislation does not address the use of PA and other utilization
+management strategies. Thus, it is possible that state Medicaid FFS programs and MCO plans
+could increase their use of such policies to reduce the costs associated with newly covering
+these medications. To date, compliance with the SUPPORT Act and whether all Medicaid plans
+now cover buprenorphine, methadone, and injectable naltrexone have not been studied.
+Importantly, the current study provides a baseline (before the SUPPORT Act) measure of MOUD
+coverage in both Medicaid FFS programs and MCO plans.</p><p>Since 2018, the District of Columbia and 8 states in our study have passed legislation that
+places some limits on the use of PA in their state Medicaid FFS programs for at least some
+MOUDs.<sup><xref rid="aoi220074r12" ref-type="bibr">12</xref>,<xref rid="aoi220074r18" ref-type="bibr">18</xref></sup> Of these states, only 3 have completely removed PA
+policies for MOUD, and only 1 state law explicitly restricts the use of PA in Medicaid MCO
+plans (Colorado). However, in 2018, no comprehensive MCO plans in Colorado required PA.
+These differences in state approaches highlight variations in PA policies more generally.
+Prior authorization policies can be used for certain groups of enrollees, for certain
+dosages, or at different points along the treatment continuum.<sup><xref rid="aoi220074r21" ref-type="bibr">21</xref></sup> For example, some policies require PA only at the
+time of the initial prescription, whereas others also require PA at subsequent dosing
+periods. Such variations in PA policy could have important differential effects on the OUD
+cascade of care and related health outcomes.<sup><xref rid="aoi220074r25" ref-type="bibr">25</xref></sup> For example, policies that require PA at the time of the initial
+prescription may delay time to treatment initiation, whereas policies requiring PA beyond
+the initial dose may disrupt treatment, thereby possibly affecting retention in care and
+ultimately remission and recovery. Additional research is needed to document with greater
+specificity these variations among PA policies and then to determine whether variations in
+PA policies are associated with the OUD cascade of care.<sup><xref rid="aoi220074r21" ref-type="bibr">21</xref></sup></p><sec id="H2-9-AOI220074"><title>Limitations</title><p>This study has several limitations. First, we compared FFS program survey data collected
+in the latter half of 2017 with MCO plan data for calendar year 2018. It is possible that
+some state Medicaid FFS programs may have altered their medication benefits during 2018.
+Second, PA information was not specified in 30 MCO plans for methadone and 5 for
+buprenorphine; thus, we were not able to include 11 states in our analyses of PA policies
+for methadone and 1 state for buprenorphine. However, because these data are not publicly
+available, this limitation also highlights the need for MCOs to disclose their PA
+policies. Third, our data predate important policy changes under the SUPPORT Act (which
+requires coverage of all FDA-approved MOUD by state Medicaid programs) and the enactment
+of some state laws restricting the use of PA for MOUD in Medicaid MCO plans. However, this
+study provides a baseline to assess the association of these policies with changes in
+coverage and PA policies in Medicaid FFS programs and MCO plans.</p><p>Fourth, we were unable to identify variation in PA policies beyond a yes/no
+classification. As described earlier, studies that investigated state legislation designed
+to place limits on PA in Medicaid found variation in these policies, particularly with
+regard to whether states have completely removed PA or partially removed PA for
+MOUD.<sup><xref rid="aoi220074r12" ref-type="bibr">12</xref>,<xref rid="aoi220074r18" ref-type="bibr">18</xref></sup> This level of detail was not collected in the
+Medicaid FFS survey data used in this study and was not available in the majority of MCO
+plan documents we reviewed. Further, we did not examine why variation in financing
+policies exists across states and in FFS programs vs MCO plans. Differences in coverage
+and PA policies may be attributed to a range of factors, including differences associated
+with patient selection into plans, regulations governing FFS programs vs MCO plans, state
+political environments, and other state MOUD policies.</p></sec></sec><sec id="H1-5-AOI220074"><title>Conclusions</title><p>Overall, the findings from this cross-sectional study suggest that Medicaid
+beneficiaries&#8217; access to MOUD may be heavily influenced by their state of residence
+and the particular Medicaid plan in which they are enrolled. Thus, state Medicaid agencies
+should consider reviewing their contractual agreements with MCO plans to ensure appropriate
+coverage and use of PA that is consistent with best existing clinical guidance. In addition,
+CMS should consider issuing guidance to support the removal of PA for MOUD in all Medicaid
+plans (MCO and FFS) as it has done for the Medicare program. Finally, more states should
+consider passing legislation that limits the use of PA for MOUD in their Medicaid programs.
+Left unaddressed, PA policies are likely to remain a critical barrier to MOUD access in the
+nation&#8217;s Medicaid programs.</p></sec></body><back><ref-list id="REF-AOI220074"><title>References</title><ref id="aoi220074r1"><label>1</label><mixed-citation publication-type="webpage">U.S. overdose deaths in 2021 increased half as much
+as 2020&#8212;but are still up 15%. National Center for Health Statistics,
+<year>2022</year>. Accessed July 19, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/202205.htm" ext-link-type="uri">https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/202205.htm</ext-link></mixed-citation></ref><ref id="aoi220074r2"><label>2</label><mixed-citation publication-type="book"><person-group><collab>Substance Abuse and Mental
+Health Services Administration</collab></person-group>. <source>Key Substance Use and
+Mental Health Indicators in the United States: Results From the 2020 National Survey on
+Drug Use and Health</source>. <publisher-name>Center for Behavioral Health Statistics
+and Quality, Substance Abuse and Mental Health Services Administration</publisher-name>;
+<year>2021</year>.</mixed-citation></ref><ref id="aoi220074r3"><label>3</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Amass</surname><given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Ling</surname><given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Freese</surname><given-names>TE</given-names></string-name>, <etal/></person-group>.
+<article-title>Bringing buprenorphine-naloxone detoxification to community treatment
+providers: the NIDA Clinical Trials Network field experience</article-title>. <source>Am
+J Addict</source>. <year>2004</year>;<volume>13</volume>(<issue>suppl
+1</issue>):<fpage>S42</fpage>-<lpage>S66</lpage>. doi:<pub-id pub-id-type="doi">10.1080/10550490490440807</pub-id><pub-id pub-id-type="pmid">15204675</pub-id><pub-id pub-id-type="pmcid">PMC1255908</pub-id></mixed-citation></ref><ref id="aoi220074r4"><label>4</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Ziedonis</surname><given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Amass</surname><given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Steinberg</surname><given-names>M</given-names></string-name>, <etal/></person-group>.
+<article-title>Predictors of outcome for short-term medically supervised opioid
+withdrawal during a randomized, multicenter trial of buprenorphine-naloxone and
+clonidine in the NIDA clinical trials network drug and alcohol
+dependence</article-title>. <source>Drug Alcohol Depend</source>.
+<year>2009</year>;<volume>99</volume>(<issue>1-3</issue>):<fpage>28</fpage>-<lpage>36</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.drugalcdep.2008.06.016</pub-id><pub-id pub-id-type="pmid">18805656</pub-id><pub-id pub-id-type="pmcid">PMC2770269</pub-id></mixed-citation></ref><ref id="aoi220074r5"><label>5</label><mixed-citation publication-type="book"><person-group><collab>National Academies of
+Sciences, Engineering, and Medicine</collab></person-group>. <source>Medications for
+Opioid Use Disorder Save Lives</source>. <publisher-name>National Academies
+Press</publisher-name>; <year>2019</year>.<pub-id pub-id-type="pmid">30896911</pub-id></mixed-citation></ref><ref id="aoi220074r6"><label>6</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Hser</surname><given-names>YI</given-names></string-name>, <string-name name-style="western"><surname>Evans</surname><given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname><given-names>D</given-names></string-name>, <etal/></person-group>.
+<article-title>Long-term outcomes after randomization to buprenorphine/naloxone versus
+methadone in a multi-site trial</article-title>. <source>Addiction</source>.
+<year>2016</year>;<volume>111</volume>(<issue>4</issue>):<fpage>695</fpage>-<lpage>705</lpage>.
+doi:<pub-id pub-id-type="doi">10.1111/add.13238</pub-id><pub-id pub-id-type="pmid">26599131</pub-id><pub-id pub-id-type="pmcid">PMC4801718</pub-id></mixed-citation></ref><ref id="aoi220074r7"><label>7</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Wakeman</surname><given-names>SE</given-names></string-name>,
+<string-name name-style="western"><surname>Larochelle</surname><given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Ameli</surname><given-names>O</given-names></string-name>, <etal/></person-group>.
+<article-title>Comparative effectiveness of different treatment pathways for opioid use
+disorder</article-title>. <source>JAMA Netw Open</source>.
+<year>2020</year>;<volume>3</volume>(<issue>2</issue>):<elocation-id>e1920622</elocation-id>.
+doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2019.20622</pub-id><pub-id pub-id-type="pmid">32022884</pub-id><pub-id pub-id-type="pmcid">PMC11143463</pub-id></mixed-citation></ref><ref id="aoi220074r8"><label>8</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Grogan</surname><given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Andrews</surname><given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Abraham</surname><given-names>A</given-names></string-name>, <etal/></person-group>.
+<article-title>Survey highlights differences in Medicaid coverage for substance use
+treatment and opioid use disorder medications</article-title>. <source>Health Aff
+(Millwood)</source>.
+<year>2016</year>;<volume>35</volume>(<issue>12</issue>):<fpage>2289</fpage>-<lpage>2296</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2016.0623</pub-id><pub-id pub-id-type="pmid">27920318</pub-id><pub-id pub-id-type="pmcid">PMC5304419</pub-id></mixed-citation></ref><ref id="aoi220074r9"><label>9</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Andrews</surname><given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Grogan</surname><given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Smith</surname><given-names>BT</given-names></string-name>, <etal/></person-group>.
+<article-title>Medicaid benefits for addiction treatment expanded after implementation
+of the Affordable Care Act</article-title>. <source>Health Aff (Millwood)</source>.
+<year>2018</year>;<volume>37</volume>(<issue>8</issue>):<fpage>1216</fpage>-<lpage>1222</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2018.0272</pub-id><pub-id pub-id-type="pmid">30080460</pub-id><pub-id pub-id-type="pmcid">PMC6501794</pub-id></mixed-citation></ref><ref id="aoi220074r10"><label>10</label><mixed-citation publication-type="other">SUPPORT for Patients and Communities Act. Pub L No.
+115-271, 132 Stat 3894 (2018).</mixed-citation></ref><ref id="aoi220074r11"><label>11</label><mixed-citation publication-type="book"><person-group><string-name name-style="western"><surname>Au-Yeung</surname><given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Blewett</surname><given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Winkelman</surname><given-names>TN</given-names></string-name></person-group>. <source>Increasing Access
+to Medications for Opioid Use Disorder: Policy Strategies During and After COVID-19
+Pandemic</source>. <publisher-name>Milbank Memorial Fund</publisher-name>;
+<year>2021</year>.</mixed-citation></ref><ref id="aoi220074r12"><label>12</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Keshwani</surname><given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Maguire</surname><given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Goodin</surname><given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lo-Ciganic</surname><given-names>WH</given-names></string-name>, <string-name name-style="western"><surname>Wilson</surname><given-names>DL</given-names></string-name>,
+<string-name name-style="western"><surname>Hincapie-Castillo</surname><given-names>JM</given-names></string-name></person-group>.
+<article-title>Buprenorphine use trends following removal of prior authorization
+policies for the treatment of opioid use disorder in 2 state Medicaid
+programs</article-title>. <source>JAMA Health Forum</source>.
+<year>2022</year>;<volume>3</volume>(<issue>6</issue>):<elocation-id>e221757</elocation-id>.
+doi:<pub-id pub-id-type="doi">10.1001/jamahealthforum.2022.1757</pub-id><pub-id pub-id-type="pmid">35977240</pub-id><pub-id pub-id-type="pmcid">PMC9233239</pub-id></mixed-citation></ref><ref id="aoi220074r13"><label>13</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Andrews</surname><given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Abraham</surname><given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Grogan</surname><given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Westlake</surname><given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Pollack</surname><given-names>HA</given-names></string-name>, <string-name name-style="western"><surname>Friedmann</surname><given-names>PD</given-names></string-name></person-group>. <article-title>Impact of
+Medicaid restrictions on availability of buprenorphine in addiction treatment
+programs</article-title>. <source>Am J Public Health</source>.
+<year>2019</year>;<volume>109</volume>(<issue>3</issue>):<fpage>434</fpage>-<lpage>436</lpage>.
+doi:<pub-id pub-id-type="doi">10.2105/AJPH.2018.304856</pub-id><pub-id pub-id-type="pmid">30676789</pub-id><pub-id pub-id-type="pmcid">PMC6366513</pub-id></mixed-citation></ref><ref id="aoi220074r14"><label>14</label><mixed-citation publication-type="book"><person-group><string-name name-style="western"><surname>Weber</surname><given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname><given-names>A</given-names></string-name></person-group>. <source>State Medicaid
+Programs Should Follow the &#8220;Medicare Model&#8221;: Remove Prior Authorization
+Requirements for Buprenorphine and Other Medications to Treat Opioid Use
+Disorders</source>. <publisher-name>Legal Action Center</publisher-name>;
+<year>2019</year>.</mixed-citation></ref><ref id="aoi220074r15"><label>15</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Crable</surname><given-names>EL</given-names></string-name>,
+<string-name name-style="western"><surname>Benintendi</surname><given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jones</surname><given-names>DK</given-names></string-name>, <string-name name-style="western"><surname>Walley</surname><given-names>AY</given-names></string-name>, <string-name name-style="western"><surname>Hicks</surname><given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Drainoni</surname><given-names>ML</given-names></string-name></person-group>. <article-title>Translating
+Medicaid policy into practice: policy implementation strategies from three US
+states&#8217; experiences enhancing substance use disorder treatment</article-title>.
+<source>Implement Sci</source>.
+<year>2022</year>;<volume>17</volume>(<issue>1</issue>):<fpage>3</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13012-021-01182-4</pub-id><pub-id pub-id-type="pmid">34991638</pub-id><pub-id pub-id-type="pmcid">PMC8734202</pub-id></mixed-citation></ref><ref id="aoi220074r16"><label>16</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Mark</surname><given-names>TL</given-names></string-name>, <string-name name-style="western"><surname>Parish</surname><given-names>WJ</given-names></string-name>, <string-name name-style="western"><surname>Zarkin</surname><given-names>GA</given-names></string-name></person-group>. <article-title>Association
+of formulary prior authorization policies with buprenorphine-naloxone prescriptions and
+hospital and emergency department use among Medicare beneficiaries</article-title>.
+<source>JAMA Netw Open</source>.
+<year>2020</year>;<volume>3</volume>(<issue>4</issue>):<elocation-id>e203132</elocation-id>.
+doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.3132</pub-id><pub-id pub-id-type="pmid">32310285</pub-id><pub-id pub-id-type="pmcid">PMC7171554</pub-id></mixed-citation></ref><ref id="aoi220074r17"><label>17</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Kermack</surname><given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Flannery</surname><given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Tofighi</surname><given-names>B</given-names></string-name>, <string-name name-style="western"><surname>McNeely</surname><given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname><given-names>JD</given-names></string-name></person-group>.
+<article-title>Buprenorphine prescribing practice trends and attitudes among New York
+providers</article-title>. <source>J Subst Abuse Treat</source>.
+<year>2017</year>;<volume>74</volume>:<fpage>1</fpage>-<lpage>6</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jsat.2016.10.005</pub-id><pub-id pub-id-type="pmid">28132694</pub-id></mixed-citation></ref><ref id="aoi220074r18"><label>18</label><mixed-citation publication-type="book"><person-group><string-name name-style="western"><surname>Weber</surname><given-names>E</given-names></string-name></person-group>. <source>Spotlight on
+Legislation Limiting the Use of Prior Authorization for Substance Use Disorder Services
+and Medications</source>. <publisher-name>Legal Action Center</publisher-name>;
+<year>2020</year>.</mixed-citation></ref><ref id="aoi220074r19"><label>19</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Hartung</surname><given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Johnston</surname><given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Geddes</surname><given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Leichtling</surname><given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Priest</surname><given-names>KC</given-names></string-name>, <string-name name-style="western"><surname>Korthuis</surname><given-names>PT</given-names></string-name></person-group>.
+<article-title>Buprenorphine coverage in the Medicare Part D program for 2007 to
+2018</article-title>. <source>JAMA</source>.
+<year>2019</year>;<volume>321</volume>(<issue>6</issue>):<fpage>607</fpage>-<lpage>609</lpage>.
+doi:<pub-id pub-id-type="doi">10.1001/jama.2018.20391</pub-id><pub-id pub-id-type="pmid">30747957</pub-id><pub-id pub-id-type="pmcid">PMC6439585</pub-id></mixed-citation></ref><ref id="aoi220074r20"><label>20</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Ferries</surname><given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Racsa</surname><given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Bizzell</surname><given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Rhodes</surname><given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Suehs</surname><given-names>B</given-names></string-name></person-group>. <article-title>Removal of
+prior authorization for medication-assisted treatment: impact on opioid use and policy
+implications in a Medicare Advantage population</article-title>. <source>J Manag Care
+Spec Pharm</source>.
+<year>2021</year>;<volume>27</volume>(<issue>5</issue>):<fpage>596</fpage>-<lpage>606</lpage>.
+doi:<pub-id pub-id-type="doi">10.18553/jmcp.2021.27.5.596</pub-id><pub-id pub-id-type="pmid">33908274</pub-id><pub-id pub-id-type="pmcid">PMC10390915</pub-id></mixed-citation></ref><ref id="aoi220074r21"><label>21</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Allen</surname><given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Burns</surname><given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Saloner</surname><given-names>B</given-names></string-name></person-group>. <article-title>The
+consequences of removing prior authorization for buprenorphine in
+Medicaid&#8212;building an evidence base</article-title>. <source>JAMA Health
+Forum</source>.
+<year>2022</year>;<volume>3</volume>(<issue>6</issue>):<elocation-id>e220189</elocation-id>.
+doi:<pub-id pub-id-type="doi">10.1001/jamahealthforum.2022.0189</pub-id><pub-id pub-id-type="pmid">36219020</pub-id></mixed-citation></ref><ref id="aoi220074r22"><label>22</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Mark</surname><given-names>TL</given-names></string-name>, <string-name name-style="western"><surname>Parish</surname><given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Zarkin</surname><given-names>GA</given-names></string-name></person-group>. <article-title>Association
+between Medicare and FDA policies and prior authorization requirements for buprenorphine
+products in Medicare Part D plans</article-title>. <source>JAMA</source>.
+<year>2019</year>;<volume>322</volume>(<issue>2</issue>):<fpage>166</fpage>-<lpage>167</lpage>.
+doi:<pub-id pub-id-type="doi">10.1001/jama.2019.6581</pub-id><pub-id pub-id-type="pmid">31287514</pub-id><pub-id pub-id-type="pmcid">PMC6618771</pub-id></mixed-citation></ref><ref id="aoi220074r23"><label>23</label><mixed-citation publication-type="webpage">Enrollment report. Centers for Medicare &amp;
+Medicaid Services. <year>2018</year>. Accessed January 4, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medicaid.gov/medicaid/managed-care/enrollment-report/index.html" ext-link-type="uri">https://www.medicaid.gov/medicaid/managed-care/enrollment-report/index.html</ext-link></mixed-citation></ref><ref id="aoi220074r24"><label>24</label><mixed-citation publication-type="book"><person-group><collab>Medicaid and CHIP Payment and
+Access Commission</collab>.</person-group><source>Report to
+Congress: Utilization Management of Medication-Assisted Treatment in Medicaid</source>.
+<publisher-name>Medicaid &amp; CHIP Payment and Access Commission</publisher-name>;
+<year>2019</year>.</mixed-citation></ref><ref id="aoi220074r25"><label>25</label><mixed-citation publication-type="journal"><person-group><string-name name-style="western"><surname>Williams</surname><given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Nunes</surname><given-names>EV</given-names></string-name>, <string-name name-style="western"><surname>Bisaga</surname><given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Levin</surname><given-names>FR</given-names></string-name>, <string-name name-style="western"><surname>Olfson</surname><given-names>M</given-names></string-name></person-group>. <article-title>Development
+of a cascade of care for responding to the opioid epidemic</article-title>. <source>Am J
+Drug Alcohol Abuse</source>.
+<year>2019</year>;<volume>45</volume>(<issue>1</issue>):<fpage>1</fpage>-<lpage>10</lpage>.
+doi:<pub-id pub-id-type="doi">10.1080/00952990.2018.1546862</pub-id><pub-id pub-id-type="pmid">30675818</pub-id><pub-id pub-id-type="pmcid">PMC6404749</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

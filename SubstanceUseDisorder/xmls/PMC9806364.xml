@@ -1,0 +1,658 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Infect Dis</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Infect Dis</journal-id><journal-id journal-id-type="pmc-domain-id">2354</journal-id><journal-id journal-id-type="pmc-domain">tai</journal-id><journal-id journal-id-type="publisher-id">TAI</journal-id><journal-title-group><journal-title>Therapeutic Advances in Infectious Disease</journal-title></journal-title-group><issn pub-type="ppub">2049-9361</issn><issn pub-type="epub">2049-937X</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9806364</article-id><article-id pub-id-type="pmcid-ver">PMC9806364.1</article-id><article-id pub-id-type="pmcaid">9806364</article-id><article-id pub-id-type="pmcaiid">9806364</article-id><article-id pub-id-type="pmid">36600726</article-id><article-id pub-id-type="doi">10.1177/20499361221142476</article-id><article-id pub-id-type="publisher-id">10.1177_20499361221142476</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Infections Associated with Substance Use and Related Behaviors</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Improving care for individuals with serious infections who inject
+drugs</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8989-6146</contrib-id><name name-style="western"><surname>Kershaw</surname><given-names initials="C">Colleen</given-names></name><xref rid="corresp1-20499361221142476" ref-type="corresp"/><aff id="aff1-20499361221142476">Dartmouth-Hitchcock Medical Center, One Medical
+Center Drive, Lebanon, NH 03756, USA</aff><aff id="aff2-20499361221142476">Dartmouth College Geisel School of Medicine,
+Hanover, NH</aff><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lurie</surname><given-names initials="JD">Jon D</given-names></name><aff id="aff3-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA; Dartmouth College Geisel School of Medicine, Hanover, NH, USA</aff><aff id="aff4-20499361221142476">The Dartmouth Institute for Health Policy and
+Clinical Practice, Geisel School of Medicine at Dartmouth, Hanover, NH,
+USA</aff><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Brackett</surname><given-names initials="C">Charles</given-names></name><aff id="aff5-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><aff id="aff6-20499361221142476">Dartmouth College Geisel School of Medicine,
+Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Loukas</surname><given-names initials="E">Elias</given-names></name><aff id="aff7-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><aff id="aff8-20499361221142476">Dartmouth College Geisel School of Medicine,
+Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Smith</surname><given-names initials="K">Katie</given-names></name><aff id="aff9-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mullins</surname><given-names initials="S">Sarah</given-names></name><aff id="aff10-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gooley</surname><given-names initials="C">Christine</given-names></name><aff id="aff11-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Borrows</surname><given-names initials="M">Melissa</given-names></name><aff id="aff12-20499361221142476">New England Life Care, South Portland, ME,
+USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bardach</surname><given-names initials="S">Shoshana</given-names></name><aff id="aff13-20499361221142476">The Dartmouth Institute for Health Policy and
+Clinical Practice, Geisel School of Medicine at Dartmouth, Hanover, NH,
+USA</aff><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Perry</surname><given-names initials="A">Amanda</given-names></name><aff id="aff14-20499361221142476">The Dartmouth Institute for Health Policy and
+Clinical Practice, Geisel School of Medicine at Dartmouth, Hanover, NH,
+USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Carpenter-Song</surname><given-names initials="E">Elizabeth</given-names></name><aff id="aff15-20499361221142476">Department of Anthropology, Dartmouth College,
+Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Landsman</surname><given-names initials="HS">H. Samuel</given-names></name><aff id="aff16-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><aff id="aff17-20499361221142476">Dartmouth College Geisel School of Medicine,
+Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Pierotti</surname><given-names initials="D">Danielle</given-names></name><aff id="aff18-20499361221142476">Visiting Nurse and Hospice for Vermont and New
+Hampshire, White River Junction, VT, USA</aff><aff id="aff19-20499361221142476">Christine Finn is also affiliated to Dartmouth
+College Geisel School of Medicine, Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bergeron</surname><given-names initials="E">Ericka</given-names></name><aff id="aff20-20499361221142476">Visiting Nurse and Hospice for Vermont and New
+Hampshire, White River Junction, VT, USA</aff><aff id="aff21-20499361221142476">Christine Finn is also affiliated to Dartmouth
+College Geisel School of Medicine, Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>McMahon</surname><given-names initials="E">Erin</given-names></name><aff id="aff22-20499361221142476">Visiting Nurse and Hospice for Vermont and New
+Hampshire, White River Junction, VT, USA</aff><aff id="aff23-20499361221142476">Christine Finn is also affiliated to Dartmouth
+College Geisel School of Medicine, Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Finn</surname><given-names initials="C">Christine</given-names></name><aff id="aff24-20499361221142476">Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA</aff><aff id="aff25-20499361221142476">Dartmouth College Geisel School of Medicine,
+Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib></contrib-group><author-notes><corresp id="corresp1-20499361221142476"><email>Colleen.m.kershaw@hitchcock.org</email></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>12</month><year>2022</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2022</year></pub-date><volume>9</volume><issue-id pub-id-type="pmc-issue-id">398732</issue-id><elocation-id>20499361221142476</elocation-id><history><date date-type="received"><day>11</day><month>2</month><year>2022</year></date><date date-type="accepted"><day>14</day><month>11</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>26</day><month>12</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>03</day><month>01</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-01-05 16:10:50.300"><day>05</day><month>01</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s), 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_20499361221142476.pdf"/><abstract><sec id="section1-20499361221142476"><title>Background:</title><p>Hospitalizations for serious infections requiring long-term intravenous (IV)
+antimicrobials related to injection drug use have risen sharply over the
+last decade. At our rural tertiary care center, opportunities for treatment
+of underlying substance use disorders were often missed during these
+hospital admissions. Once medically stable, home IV antimicrobial therapy
+has not traditionally been offered to this patient population due to
+theoretical concerns about misuse of long-term IV catheters, leading to
+discharges with suboptimal treatment regimens, lengthy hospital stays, or
+care that is incongruent with patient goals and preferences.</p></sec><sec id="section2-20499361221142476"><title>Methods:</title><p>A multidisciplinary group of clinicians and patients set out to redesign and
+improve care for this patient population through a health care innovation
+process, with a focus on increasing the proportion of patients who may be
+discharged on home IV therapy. Baseline assessment of current experience was
+established through retrospective chart review and extensive stakeholder
+analysis. The innovation process was based in design thinking and
+facilitated by a health care delivery improvement incubator.</p></sec><sec id="section3-20499361221142476"><title>Results:</title><p>The components of the resulting intervention included early identification of
+hospitalized people who inject drugs with serious infections, a proactive
+psychiatry consultation service for addiction management for all patients, a
+multidisciplinary care conference to support decision making around
+treatment options for infection and substance use, and care
+coordination/navigation in the outpatient setting with a substance use peer
+recovery coach and infectious disease nurse for patients discharged on home
+IV antimicrobials. Patients discharged on home IV therapy followed routine
+outpatient parenteral antimicrobial therapy (OPAT) protocols and treatment
+protocols for addiction with their chosen provider.</p></sec><sec id="section4-20499361221142476"><title>Conclusion:</title><p>An intervention developed through a design-thinking-based health care
+redesign process improved patient-centered care for people with serious
+infections who inject drugs.</p></sec></abstract><kwd-group><kwd>injection drug use</kwd><kwd>opioid use disorder</kwd><kwd>outpatient parenteral antimicrobial therapy</kwd><kwd>Substance use disorders</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-20499361221142476"><funding-source id="funding1-20499361221142476"><institution-wrap><institution>Susan &amp; Richard Levy Health Care Delivery
+Incubator</institution><institution-id/></institution-wrap></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2022</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="section5-20499361221142476"><title>Background</title><p>As the opioid epidemic has progressed, there has been a significant increase in
+hospitalizations for serious infections attributable to injection drug use
+(IDU).<sup><xref rid="bibr1-20499361221142476" ref-type="bibr">1</xref></sup> The standard of care for adult patients with serious infections
+such as endocarditis and osteomyelitis resulting from IDU typically involves
+extended courses of intravenous (IV) antimicrobial therapy, on the order of six or
+more weeks. People who inject drugs (PWID) have traditionally been excluded from
+entry into outpatient parenteral antimicrobial therapy (OPAT) programs because of
+theoretical concerns about misuse of long-term venous access catheters needed in the
+outpatient setting, with associated assumed risks of overdose or additional
+infection.<sup><xref rid="bibr2-20499361221142476" ref-type="bibr">2</xref>,<xref rid="bibr3-20499361221142476" ref-type="bibr">3</xref></sup></p><p>The exclusion of PWID from OPAT programs leads to prolonged hospitalizations after
+the patient is medically stable, as well as self-directed discharge (SDD), with
+patients leaving the hospital on suboptimal treatment regimens. These experiences
+create disruption and dissatisfaction for the patient and hospital staff. Lengthy
+hospitalizations are also costly<sup><xref rid="bibr4-20499361221142476" ref-type="bibr">4</xref></sup> and can be problematic for
+patients who have work or childcare commitments. Furthermore, in areas that may have
+hospital capacity issues, long hospitalizations can exacerbate bed shortages,
+decreasing availability for other patients in need. In addition, after a SDD when
+robust discharge planning may not be possible, outpatient providers and clinic staff
+often spend significant time and resources trying to track down patients to continue
+care.</p><p>Hospitalization offers a unique window to address substance use disorders (SUDs), but
+unfortunately, too often this opportunity is missed.<sup><xref rid="bibr5-20499361221142476" ref-type="bibr">5</xref>,<xref rid="bibr6-20499361221142476" ref-type="bibr">6</xref></sup> Inadequate attention to the
+underlying SUD may contribute to behavioral problems during hospitalization
+resulting in tension, safety problems, burnout for staff,<sup><xref rid="bibr7-20499361221142476" ref-type="bibr">7</xref></sup> and disproportionate time spent
+with PWID in relation to others on the unit. Failure to secure appropriate addiction
+treatment when patients transition to the outpatient setting leaves patients at high
+risk of relapse of their addiction, infection, readmission, and death, while
+starting medication for opioid use disorder (MOUD) in the hospital and linking
+patients directly to care has been shown to be more effective at engaging patients
+after discharge than detoxification and referral.<sup><xref rid="bibr8-20499361221142476" ref-type="bibr">8</xref></sup></p><p>In summary, patients who have infections secondary to IDU often have prolonged
+hospitalizations that are costly, exacerbate bed shortages, and are not aligned with
+patient preferences. Several institutions have begun to attempt use of OPAT in this
+population with success.<sup><xref rid="bibr4-20499361221142476" ref-type="bibr">4</xref>,<xref rid="bibr9-20499361221142476" ref-type="bibr">9</xref><xref rid="bibr10-20499361221142476" ref-type="bibr"/><xref rid="bibr11-20499361221142476" ref-type="bibr"/><xref rid="bibr12-20499361221142476" ref-type="bibr"/><xref rid="bibr13-20499361221142476" ref-type="bibr"/><xref rid="bibr14-20499361221142476" ref-type="bibr"/><xref rid="bibr15-20499361221142476" ref-type="bibr"/></sup>&#8211;<sup><xref rid="bibr16-20499361221142476" ref-type="bibr">16</xref></sup> To better meet the needs of
+these patients who are frequently admitted to our hospital,<sup><xref rid="bibr17-20499361221142476" ref-type="bibr">17</xref></sup> we used a
+health care quality improvement approach informed by design thinking. Our goals were
+to individualize care with a more patient-centered approach, to prioritize discharge
+home on OPAT when possible, and to address SUDs during the hospitalization as well
+as secure SUD treatment in the outpatient setting. This manuscript explores that
+process and describes the resulting care delivery model.</p></sec><sec sec-type="methods" id="section6-20499361221142476"><title>Methods</title><sec id="section7-20499361221142476"><title>Setting</title><p>This work took place at Dartmouth-Hitchcock Medical Center (DHMC), a 396-bed
+tertiary care teaching hospital in Lebanon, New Hampshire (NH), which serves a
+large rural catchment area across both NH and Vermont. Given the alarming volume
+of patients admitted with injection-related infections at our institution, a
+multidisciplinary team was brought together for this work, including clinicians
+from Psychiatry (Behavioral Intervention Team, &#8216;BIT&#8217;), Infectious Diseases (ID),
+Hospital Medicine, Primary Care, community partners for home health services and
+outpatient addiction treatment, and patient representatives. The BIT is made up
+of an attending psychiatrist, multiple associate providers (Advanced Practice
+Registered Nurse [APRN] and master&#8217;s prepared therapists), and multiple peer
+recovery coaches who have themselves experienced SUDs. The BIT&#8217;s goals include
+assessment and treatment of SUDs for hospitalized patients, as well as support
+for patients who are struggling with emotional aspects of illness during
+hospitalization.</p></sec><sec id="section8-20499361221142476"><title>Approach</title><sec id="section9-20499361221142476"><title>Health care redesign innovation process overview</title><p>We used a health care redesign approach informed by elements of design
+thinking to improve care for our population of interest. Design thinking
+focuses on user experience through an empathetic lens and includes
+multidisciplinary perspectives to develop sustainable solutions to
+problems.<sup><xref rid="bibr18-20499361221142476" ref-type="bibr">18</xref>,<xref rid="bibr19-20499361221142476" ref-type="bibr">19</xref></sup> Our efforts were directed and funded by the Susan
+&amp; Richard Levy Health Care Delivery Incubator program, which provided a
+structured curriculum, project management and research support,
+informational technology and analytic assistance, and academic and
+operational mentorship to guide the care redesign process. Team members
+devoted at least 4&#8201;hour per week over 12&#8201;months to the project, with
+clinician time being supported by the incubator program. Given that the
+voices of PWID are often marginalized within the health care system, a
+design-thinking approach seemed ideal for ensuring we incorporated patient
+perspectives into redesign plans and approaches. By actively seeking out
+these perspectives throughout through both patient stakeholder interviews
+and patient representatives on the project team, we hoped our new care
+approach would meet the needs of PWID and enable us to identify and address
+potential barriers early in the redesign process.</p><p>The Incubator program&#8217;s process including curricular elements is outlined in
+<xref rid="table1-20499361221142476" ref-type="table">Table 1</xref>.
+The team met with both internal and expert consultants in team building,
+design thinking, human-centered design, stakeholder engagement, medical
+anthropology, electronic health record (EHR) building and analysis, and
+financial analysis. The team was also assigned an academic mentor through
+The Dartmouth Institute for Health Policy and Clinical Practice, as well as
+an operational mentor from the health system&#8217;s executive leadership
+team.</p><table-wrap position="float" id="table1-20499361221142476" orientation="portrait"><label>Table 1.</label><caption><p>Incubator process overview.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361221142476-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Phase</th><th align="left" rowspan="1" colspan="1">Initiate<break/>3&#8201;weeks</th><th align="left" rowspan="1" colspan="1">Diagnose<break/>9&#8201;weeks</th><th align="left" rowspan="1" colspan="1">Design<break/>32&#8201;weeks</th><th align="left" rowspan="1" colspan="1">Sustain<break/>8&#8201;weeks</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Goals</td><td rowspan="1" colspan="1">Define the Problem and Plan for Teamwork</td><td rowspan="1" colspan="1">Understand the Problem from the Patient Perspective</td><td rowspan="1" colspan="1">Design a Solution, Implement, Reflect, and Adjust</td><td rowspan="1" colspan="1">Operationalize and Scale</td></tr><tr><td rowspan="1" colspan="1">Content</td><td rowspan="1" colspan="1">&#8226;&#8195;Develop Problem Statement<break/>&#8226;&#8195;Create Team
+Charter<break/>&#8226;&#8195;Identify Team Roles and Work
+Expectations</td><td rowspan="1" colspan="1">&#8226;&#8195;Review Literature<break/>&#8226;&#8195;Identify Stakeholder and
+Plan for Engagement<break/>&#8226;&#8195;Interview Patients and
+Stakeholders<break/>&#8226;&#8195;Develop Patient Personas and
+Create Patient Journey Maps<break/>&#8226;&#8195;Collect Baseline
+Data</td><td rowspan="1" colspan="1">&#8226;&#8195;Brainstorm<break/>&#8226;&#8195;Design Intervention or
+Pilot<break/>&#8226;&#8195;Plan for
+Evaluation<break/>&#8226;&#8195;Prototype<break/>&#8226;&#8195;PDSA Cycles
+(Plan, Do, Study, Act)<break/>&#8226;&#8195;Get Feedback from
+Patients and Stakeholders<break/>&#8226;&#8195;Create Communication
+Plan<break/>&#8226;&#8195;Develop Publication Plan<break/>&#8226;&#8195;Prepare
+Business Case</td><td rowspan="1" colspan="1">&#8226;&#8195;Analyze Project Outcomes<break/>&#8226;&#8195;Disseminate
+Findings<break/>&#8226;&#8195;Write and Submit Publications and
+Abstracts<break/>&#8226;&#8195;Submit Business Case for Continued
+Funding</td></tr><tr><td rowspan="1" colspan="1">Subject matter expert topics</td><td rowspan="1" colspan="1">&#8226;&#8195;Team Building<break/>&#8226;&#8195;Design Thinking</td><td rowspan="1" colspan="1">&#8226;&#8195;Human-Centered Design<break/>&#8226;&#8195;Ecosystem Alignment and
+Stakeholder Engagement<break/>&#8226;&#8195;Interviewing Best
+Practices<break/>&#8226;&#8195;Electronic Health Record (EHR)
+Analysis</td><td rowspan="1" colspan="1">&#8226;&#8195;Prototyping<break/>&#8226;&#8195;Evaluation
+Design<break/>&#8226;&#8195;Biostatistics<break/>&#8226;&#8195;EHR
+Building<break/>&#8226;&#8195;Financial Planning</td><td rowspan="1" colspan="1">&#8226;&#8195;Change Management<break/>&#8226;&#8195;Financial
+Analysis<break/>&#8226;&#8195;Writing for Academic Publication</td></tr><tr><td rowspan="1" colspan="1">Mentors</td><td colspan="4" rowspan="1">Consultations throughout the year with
+assigned Academic Mentors from The Dartmouth Institute
+and assigned Operational Mentors from the
+Dartmouth-Hitchcock Health Executive Leadership
+Team.</td></tr></tbody></table></alternatives></table-wrap></sec><sec id="section10-20499361221142476"><title>Understanding the current state: &#8216;diagnose&#8217;</title><p>The initial phase of the project was spent fully understanding the current
+processes at DHMC for PWID with serious infections and analyzing root causes
+for identified problem areas. We did this in multiple ways. First, to
+confirm our anecdotal experience around problematic elements in care of this
+population at the institution, we queried the EHR for hospital admissions
+for serious infections (any infection which traditionally requires greater
+than 7&#8201;days of IV antimicrobial therapy, such as endocarditis, bacteremia,
+osteomyelitis, and deep-seated abscesses) among PWID from February 2019
+through February 2020. These dates were chosen because it was the most
+recent year before the coronavirus disease 2019 (COVID) pandemic, which we
+had observed skewed hospital admission volume for all infections. Chart
+review was performed to gather data about care received while hospitalized
+related to both infection and SUD(s), as well as general demographic data
+and hospital quality measures.</p><p>Second, to better define the problem, we built a detailed flow map of the
+baseline process for management of these patients. The baseline map
+highlighted two main logistical challenges that could be anticipated in
+attempts to improve care for this population. First, the lack of a clear
+system to identify PWID with serious infections early during their
+hospitalization impeded timely evaluation by appropriate teams, in
+particular, ID and BIT. Second, communication between multiple teams of
+providers was cumbersome, creating challenges for care coordination. The
+flow map further highlighted that a single clinician was usually responsible
+for a decision about appropriate options for continued infection treatment
+when the patient became medically stable. This individual was the ID
+attending physician, who alone did not usually have all information (such as
+full knowledge of the patient&#8217;s social situation) and expertise (such as
+training in psychiatry or addiction medicine) needed to make a decision
+about risks of home IV therapy. Finally, there was no clear step in care
+where referral for outpatient addiction treatment was ensured.</p></sec><sec id="section11-20499361221142476"><title>Stakeholder interviews</title><p>The flow map identified groups of stakeholders at each step. The stakeholder
+groups are outlined in <xref rid="table2-20499361221142476" ref-type="table">Table 2</xref>. We then identified individuals from each group for
+interviews. Project team members in some cases were considered stakeholders
+for this purpose. Outside of the project team, for groups at DHMC, leaders
+in each clinical area were approached for interviews, and the leader either
+engaged with the interview or assigned a team member to be interviewed. For
+organizations outside of DHMC, in most cases, we similarly had known
+leadership contacts with whom we connected, who either spoke to us
+themselves or referred us to their team members. In instances of addiction
+treatment facilities where we did not have a known contact, a call was made
+to their administrative staff with the request for an interview with the
+appropriate party. To identify patients, a chart review of recent admissions
+of patients treated for infections related to IDU was completed by the
+psychiatrist on the project team to identify appropriate stakeholders.
+Patients were contacted using the contact information available in the EHR,
+and those who agreed to participate were interviewed by the psychiatrist or
+a peer recovery coach. Families of patients were also included when
+possible.</p><table-wrap position="float" id="table2-20499361221142476" orientation="portrait"><label>Table 2.</label><caption><p>Stakeholders.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361221142476-table2.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Stakeholder departments and teams</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Addiction Treatment Program (ATP), Psychiatry
+(outpatient services)</td></tr><tr><td rowspan="1" colspan="1">Behavioral Intervention Team (BIT), Psychiatry
+(inpatient services), including Recovery Coaches</td></tr><tr><td rowspan="1" colspan="1">Community non-DHMC outpatient addiction treatment
+providers</td></tr><tr><td rowspan="1" colspan="1">Cardiac Surgery</td></tr><tr><td rowspan="1" colspan="1">Care Management (Case Management)</td></tr><tr><td rowspan="1" colspan="1">Emergency Department</td></tr><tr><td rowspan="1" colspan="1">Home health agencies (main affiliated partner Visiting
+Nurse and Hospice of New Hampshire and Vermont,
+&#8216;VNH&#8217;)</td></tr><tr><td rowspan="1" colspan="1">Home infusion affiliated partner New England Life Care
+(NELC)</td></tr><tr><td rowspan="1" colspan="1">Hospital Medicine</td></tr><tr><td rowspan="1" colspan="1">Infectious Disease [including outpatient parenteral
+antimicrobial therapy (OPAT) program]</td></tr><tr><td rowspan="1" colspan="1">Nursing</td></tr><tr><td rowspan="1" colspan="1">Patients with lived experience</td></tr><tr><td rowspan="1" colspan="1">Primary Care</td></tr><tr><td rowspan="1" colspan="1">Risk Management</td></tr></tbody></table></alternatives></table-wrap><p>An interviewer guide which included questions regarding care experiences
+related to medical treatment of infections and opioid use disorders (OUDs)
+was developed with input from a medical anthropologist experienced in the
+understanding of the qualitative experience of patients in the health care
+setting (see <xref rid="app1-20499361221142476" ref-type="app">Appendix
+1</xref>). Interviews were conducted by our project team recovery coach
+and psychiatrist. Interviewers were encouraged to listen for barriers and
+facilitators to care and probe on questions related to what a patient would
+truly need, even if outside of traditional clinical care models.</p><p>We finally performed a stakeholder ecosystem analysis to uncover areas of
+misalignment with key stakeholders and to identify ways to overcome those
+obstacles to facilitate change.</p><p>In addition to the needs assessment and interviews, we undertook a review of
+the literature and performed benchmarking through communication with
+colleagues at institutions who had already implemented programs for
+improving care for patients with infectious complications of IDU.</p></sec><sec id="section12-20499361221142476"><title>Description of the intervention: &#8216;design&#8217;</title><p>Taking together findings from all of the above, we designed an intervention
+composed of four main aspects as part of a clinical care pathway. We worked
+with all stakeholders who would be directly involved in the process to
+create policies and workflows both within DHMC and at partner agencies, and
+provided educational sessions on addiction, overdose management, and stigma
+reduction to our home health partners. We also created new partnerships with
+addiction treatment providers in the community who would receive referrals
+for SUD care of patients being discharged on OPAT. Select providers engaged
+patients in innovative ways, such as offering telehealth video intake
+appointments prior to discharge to facilitate the transition.</p></sec><sec id="section13-20499361221142476"><title>Intervention refinement: &#8216;sustain&#8217;</title><p>Over the first several months of implementation, several challenges arose.
+These were addressed through the iterative nature of the redesign process,
+in a manner similar to the concept of &#8216;Plan, Do, Study, Act&#8217; (PDSA) cycles.
+Details of these lessons learned and modifications are described below.</p></sec></sec></sec><sec sec-type="results" id="section14-20499361221142476"><title>Results</title><sec id="section15-20499361221142476"><title>Stakeholder interviews</title><p>Almost all parties were enthusiastic about the concept of redesigning care, as
+all parties expressed dissatisfaction with the existing state. Care Management
+and hospital leadership expressed difficulties around long hospitalizations
+reducing access to care for other patients. Medical care providers shared
+frustrations with regard to inability to consistently provide standard of care
+treatment, as well as frustration around behavioral issues when patients remain
+admitted for long IV antibiotic courses. Providers also discussed uncertainties
+about decision making based on lack of knowledge about all aspects of the
+patient&#8217;s care; for example, ID physicians commented that they are often
+uncertain about how to evaluate and manage the patient&#8217;s SUD, and how to think
+about this in the context of overall options for care. Providers, nurses, and
+case managers felt that communication with various care teams to collaborate on
+a care plan would be important to decision making in this population, and
+development of a clinical care pathway, a method used for a number of other
+common conditions at the institution to improve care, was proposed by Care
+Managers. Given that the ultimate goal of discharge on home IV therapy would
+rely on agreement and engagement with home health agencies, we gave this special
+attention during stakeholder interviews, to elicit concerns and needs of health
+care workers who would go into patients&#8217; homes. A main concern from home health
+providers surrounded lack of sufficient knowledge about addiction and
+appropriate interventions if a patient were to be found intoxicated, as well as
+liability around use of naloxone.</p><p>Seven patient interviews were completed. All patient participants showed a clear
+understanding of the relationship between IDU and infectious complications, and
+a receptiveness to addressing SUDs at the time of receiving medical treatment.
+No patient expressed concerns that an indwelling long-term IV catheter would
+increase risk for substance use. The interviews confirmed the team&#8217;s observation
+that prolonged hospital stays caused major disruptions for patients with family
+relationships, job responsibilities, and finances. While there was general
+acknowledgment that hospitalization was required for parts of medical care to be
+completed, a general sense of &#8216;being able to heal better at home&#8217; was related by
+most patients. All patients expressed an interest in home OPAT treatment were it
+to be appropriate for them.</p><p>Patients repeatedly communicated the need for easy and enhanced communication
+with the care team, and favored a single team member who could be identified as
+a point person. Communication needs included questions about medical treatment,
+but also help in trouble-shooting other care coordination and transportation
+needs. Many patients also stated that attending numerous visits at DHMC, if
+required after discharge, would be impossible due to living long distances from
+the hospital and having unreliable access to transportation.</p></sec><sec id="section16-20499361221142476"><title>Baseline cohort</title><p>Our baseline data included 64 hospitalizations for serious infections among
+patients with SUDs with concern for IDU (mainly OUD), among 57 unique patients.
+See <xref rid="table3-20499361221142476" ref-type="table">Table 3</xref> for key
+findings about this cohort.</p><table-wrap position="float" id="table3-20499361221142476" orientation="portrait"><label>Table 3.</label><caption><p>Baseline cohort key findings.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361221142476-table3.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Before intervention (February 2019&#8211;February
+2020)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Total admissions</td><td rowspan="1" colspan="1">64</td></tr><tr><td rowspan="1" colspan="1">Total patients</td><td rowspan="1" colspan="1">57</td></tr><tr><td rowspan="1" colspan="1">Addiction addressed in some way during
+admission<break/>&#8226;&#8195;In-hospital counseling/therapy plus
+MOUD<break/>&#8226;&#8195;In-hospital counseling/therapy
+only<break/>&#8226;&#8195;In-hospital MOUD only<break/>&#8226;&#8195;Outpatient
+addiction treatment plan set up<break/>&#8226;&#8195;MOUD prescribed on
+discharge</td><td rowspan="1" colspan="1">77% (49/64)<break/>34% (22/64)<break/>9% (6/64)<break/>20%
+(13/64)<break/>50% (32/64)<break/>22% (14/64)</td></tr><tr><td rowspan="1" colspan="1">Discharge on daily IV antimicrobials at home</td><td rowspan="1" colspan="1">8% (5/64)</td></tr><tr><td rowspan="1" colspan="1">Discharge on daily IV antimicrobials in an infusion
+center</td><td rowspan="1" colspan="1">6% (4/64)</td></tr><tr><td rowspan="1" colspan="1">Discharge on weekly IV antimicrobial infusion</td><td rowspan="1" colspan="1">8% (5/64)</td></tr><tr><td rowspan="1" colspan="1">Transfer to acute rehabilitation facility or swing bed for
+IV antibiotics</td><td rowspan="1" colspan="1">20% (13/64)</td></tr><tr><td rowspan="1" colspan="1">In-hospital for duration of IV course</td><td rowspan="1" colspan="1">34% (22/64)</td></tr><tr><td rowspan="1" colspan="1">Discharge home on oral antibiotics</td><td rowspan="1" colspan="1">23% (15/64)</td></tr><tr><td colspan="2" rowspan="1">Average Length of stay</td></tr><tr><td rowspan="1" colspan="1">&#8195;Overall</td><td rowspan="1" colspan="1">21&#8201;days</td></tr><tr><td rowspan="1" colspan="1">&#8195;SDDs removed</td><td rowspan="1" colspan="1">24&#8201;days</td></tr><tr><td rowspan="1" colspan="1">SDD</td><td rowspan="1" colspan="1">20% (13/64 admissions)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-20499361221142476"><p>MOUD, <italic toggle="yes">medication for opioid use disorder</italic>; SDD,
+self-directed discharge.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section17-20499361221142476"><title>Features of the implemented program</title><p>In the first aspect of the intervention, PWID with serious infections are
+identified early in their hospital course through collaboration between the BIT
+recovery coach and the ID OPAT nursing team, who review their respective patient
+consult lists to identify appropriate patients. The OPAT nurse reviews the
+inpatient ID consult lists daily because of their duties which include
+coordination of home services and patient teaching at discharge. The BIT
+recovery coach sees inpatients with SUDs for support and therefore routinely
+reviews the list of patients seen by their team.</p><p>This is supported by multiple reports developed through the EHR with the
+assistance of the DHMC Analytics group, in addition to BIT&#8217;s existing EHR audit
+on some hospital units that identifies patients through nursing administration
+of the Drug Abuse Screening Test&#8211;10 (DAST-10) on admission.<sup><xref rid="bibr20-20499361221142476" ref-type="bibr">20</xref></sup> Once a
+patient is identified with a serious infection and SUD, a secure chat function
+is used within the EHR to make appropriate parties aware of the patient and
+clinical situation.</p><p>Second, all PWID with serious infections are seen by BIT, specifically including
+a peer recovery coach, for assessment of the patient&#8217;s SUD, readiness for
+treatment, social situation, likelihood of misusing a long-term IV catheter, as
+well as treatment planning both for the inpatient setting and transition to
+long-term outpatient treatment with a provider in the community. This represents
+a change from the prior practice, in which BIT was variably involved with this
+patient population during hospitalizations and did not take primary
+responsibility for setting up outpatient transitions of addiction care.</p><p>Third, a multidisciplinary structured care conference was developed, modeled on
+experience at other institutions such as the &#8216;OPTIONS-DC&#8217; conference described
+by Sikka <italic toggle="yes">et al.</italic><sup><xref rid="bibr14-20499361221142476" ref-type="bibr">14</xref></sup> at Oregon Health Sciences
+University. In our model, this conference is held with all teams involved in the
+patient&#8217;s care to discuss the case and develop an individualized plan for both
+addiction and infection treatment. This typically includes the primary team, ID
+physician, OPAT RN, BIT, Care Management, Social Work, inpatient floor nurse and
+supervisor, and clinical liaisons from the hospital&#8217;s affiliated partners for
+home infusion services and home health care nursing, New England Life Care
+(NELC), and Visiting Nurse and Hospice for New Hampshire and Vermont (VNH),
+respectively. The conference is coordinated by the OPAT nurse and BIT recovery
+coach.</p><p>At this conference, criteria for candidacy for home IV antibiotics, developed
+based on literature review and the diverse experience of our team, are reviewed
+(see <xref rid="table4-20499361221142476" ref-type="table">Table 4</xref>) as a
+basis for discussion. A key criterion for candidacy for enrollment in OPAT is
+engagement with specific treatment for SUD(s), including MOUD if medically
+appropriate, either in the form of methadone, buprenorphine-naloxone, or
+buprenorphine extended-release. If medically appropriate, MOUD is required as a
+condition of enrollment to OPAT. Outside of this, other appropriate treatment is
+defined by BIT clinicians in shared decision making with patients, and may
+include individual or group counseling, intensive outpatient or inpatient
+rehabilitation. The main outputs of the meeting include a plan for SUD treatment
+(including details of the treatment provider and intake) and a shared decision
+about candidacy for home IV antibiotic therapy, or, if not a candidate, an
+alternate plan for long-term infection treatment. This meeting and plan is
+documented as a note in the EHR, similar to documentation for a &#8216;tumor board&#8217;.
+Results of the meeting are communicated to the patient by the clinical
+provider(s).</p><table-wrap position="float" id="table4-20499361221142476" orientation="portrait"><label>Table 4.</label><caption><p>Criteria for enrollment in OPAT program.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361221142476-table4.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/></colgroup><tbody><tr><td rowspan="1" colspan="1">
+<bold>Inclusion criteria: must be present</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Patient interested and willing to participate</td></tr><tr><td rowspan="1" colspan="1">&#8195;Patient mental status allows full understanding of
+potential risks/benefits</td></tr><tr><td rowspan="1" colspan="1">&#8195;Engaged in treatment for addiction including
+medication</td></tr><tr><td rowspan="1" colspan="1">&#8195;Home discharge otherwise expected (e.g., no PT/OT rehab
+needs)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Safe home environment (running water, refrigeration, heat
+in winter, no abusive relationships)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Age&#8201;&#10878;&#8201;18</td></tr><tr><td rowspan="1" colspan="1">&#8195;Agreeable to sharing information among care providers</td></tr><tr><td rowspan="1" colspan="1">
+<bold>Relative Contra-Indications: require discussion</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Severe stimulant, benzo, or alcohol use disorder</td></tr><tr><td rowspan="1" colspan="1">&#8195;Lack of support system at home</td></tr><tr><td rowspan="1" colspan="1">&#8195;Co-habitants actively using substances at home</td></tr><tr><td rowspan="1" colspan="1">&#8195;No access to reliable communication method</td></tr><tr><td rowspan="1" colspan="1">
+<bold>Strict Contra-Indications</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Lack of stable housing during the period on IV antibiotics
+(can be temporary during this time)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Behavior suggesting inability to engage productively with
+healthcare team</td></tr><tr><td rowspan="1" colspan="1">&#8195;Current incarceration</td></tr><tr><td rowspan="1" colspan="1">&#8195;Cardiac surgery this admission</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-20499361221142476"><p>OPAT, outpatient parenteral antimicrobial therapy.</p></fn></table-wrap-foot></table-wrap><p>Prior to discharge, patients approved to go home on OPAT undergo placement of a
+long-term IV catheter, typically a peripherally inserted central catheter
+(PICC). We do not use a special device on the line to prevent tampering.
+Patients then receive education on OPAT, risks of long-term IV catheters, and
+harm reduction strategies for both infection (such as sterile injecting supplies
+and vein care) and overdose (such as avoidance of using alone and use of
+naloxone, which the patient is given before leaving the hospital). They also
+sign an agreement acknowledging risks, benefits, and alternatives of enrollment
+into OPAT and use of long-term IV catheters, and an agreement allowing ID and
+BIT providers to communicate with their outpatient addiction treatment provider.
+Once discharged, patients receive enhanced support in the outpatient setting
+through regular (at least weekly) phone check-ins with both the BIT recovery
+coach and an OPAT RN throughout their course of antibiotics. The recovery coach
+and OPAT RN coordinate care and assist the patient with navigation in the health
+care system as well as any social issues that arise which may interfere with
+care. The OPAT RN communicates with visiting nurse staff at the initiation of
+the OPAT course to discuss the case, and initially, a weekly video or phone
+check-in between these nurses was also implemented. The patient is followed with
+routine OPAT care in the ID clinic, which typically includes a 2-week
+post-discharge visit with a provider and a similar visit at the anticipated end
+of the therapy. The patient or family administers the antimicrobials. Patients
+receive routine weekly visits from the home health nurse, as per usual OPAT
+protocols, to change the dressing on the IV line, draw labs, and check in on
+symptoms. If problems arise, it is up to the home health nurse to decide if
+additional visits are needed. Safety labs, and in appropriate cases,
+inflammatory markers, are collected weekly unless the ID provider has a specific
+concern and specially orders labs more frequently. We do not collect toxicology
+screens as part of the program; this is left to addiction treatment providers if
+they feel it is appropriate.</p><p>The BIT recovery coach contacts the outpatient addiction treatment provider if
+needed periodically through the antibiotic treatment course. Treatment for the
+SUD is managed per usual protocols by the community provider with whom BIT
+coordinated to continue care after discharge; this may be through DHMC&#8217;s
+Addiction Treatment Program (ATP) or another local provider depending on
+availability and the patient&#8217;s preferences, home location, and transportation
+situation. The ATP is an outpatient SUD treatment clinic with multiple providers
+who serve the local community and beyond with MOUD, counseling, and harm
+reduction services. Both BIT and ATP are part of the Department of Psychiatry,
+and they directly communicate about mutual patients.</p></sec><sec id="section18-20499361221142476"><title>Lessons learned: iterative implementation</title><p>The project launched in mid-October, 2020. Since that time, we have encountered a
+number of challenges in implementation. The plan that was created for early
+identification of patients for the care pathway missed several patients, who
+were only identified later in their hospital course. As a result, for some
+patients, issues around discharge timing made it impossible to go through the
+full process for decision making and optimization of care. To address this, we
+first modified our EHR reporting system. We then analyzed the process of
+identification through value stream mapping to point out problem areas.
+Subsequently, we returned to stakeholder discussions and identified that an
+existing hospital process of daily interdisciplinary rounds (IDRs), which take
+place on each unit, could be leveraged for identification of patients by various
+members of the primary team, nursing, or Care Management team. Next, we created
+an order within the EHR that the Care Manager enters during the IDR which
+triggers notification to the OPAT nursing team that the patient requires review
+for potential inclusion in the pathway for PWID with serious infections. This
+has improved early patient identification.</p><p>A related problem was coordinating the time of the multidisciplinary conference
+to take place far enough in advance of discharge to allow sound decision making
+with all needed information at hand as well as the opportunity to set up
+outpatient services, but not so far ahead of discharge that the plan would need
+to change in the interim. In part, changing the process for early patient
+identification was used to help with this timing. However, the team also
+modified our initial practice, which was to hold a multidisciplinary conference
+on each patient weekly from the time of identification early in the admission
+until discharge. This was felt to be too onerous in terms of time by all care
+teams and represented another challenge in the overall process, in which
+attendance by all teams at conferences was not always consistent. Thus, the
+practice was changed to hold the conferences once the patient was expected to
+discharge within the next 7&#8201;days (or less if a&#8201;&lt;&#8201;7-day discharge was
+expected). This has assisted both with timing and participation in
+conferences.</p><p>After discharge, communication has been challenging with both home care providers
+and patients. The OPAT nurse originally contacted the home health field nurse
+weekly to provide additional support/resources and to assist in the
+identification and mitigation of problems as they arose. Upon retrospective
+review of the communication between the home health nurse and OPAT nurse, it was
+thought that this weekly communication did not provide additional value, while
+taking significant time and effort, and so this was abandoned in favor of
+development of efficient communication paths that can be utilized by home health
+staff on an as-needed basis when a concern arises.</p><p>Communication with patients after discharge met with difficulties around patient
+responsiveness. This patient cohort often has various psychosocial factors that
+can take priority during their OPAT course; this can hinder the frequency in
+which the patient communicates to their medical care team. Several patients were
+more responsive and engaged in text message communications than with phone calls
+or messages on the electronic patient portal. To address this, we initiated a
+practice of proactively identifying multiple methods of reaching patients
+through various modalities and pre-approved alternate contacts; we also obtained
+a program cell phone with ability for secure text messaging between the recovery
+coach and patient. Including this communication option has been beneficial to
+check in with patients and provide reminders about upcoming appointments to
+encourage their continued engagement in treatment for both their infection and
+SUD. An additional barrier to reaching some patients was a lack of access to
+phones. We subsequently engaged with the University of Vermont Center on Rural
+Addiction (CORA), an organization which is providing mobile phones free of
+charge to patients in our program.</p><p>Finally, comfort with recommending OPAT for PWID by health care providers has
+been challenging. This is a new and minimally tested practice, and there remains
+hesitancy around safety. This hesitancy is expected, and the project itself is
+intended to provide further evidence around this practice which may help better
+inform decision making in the future. We have already shared some of our initial
+safety findings and are planning further education on the topic of treatment
+options for PWID with serious infections in the near future to help address this
+also.</p></sec></sec><sec sec-type="discussion" id="section19-20499361221142476"><title>Discussion</title><p>Using a human-centered design approach, we were able to deeply explore the challenges
+around optimal care for PWID with serious infections and redesign this care at our
+institution, with the goal of more patient-centered approaches that both
+consistently address SUDs and make it possible to promote the use of OPAT in this
+population. We carefully considered the perspectives of all involved parties, and in
+particular, through the methodology promoted by the incubator process, benefited
+from direct input of patients with lived experience both in interviews and on the
+project team. We think this element was particularly important given the prevalent
+stigma faced by PWID.<sup><xref rid="bibr21-20499361221142476" ref-type="bibr">21</xref></sup> The general emphasis on understanding perspectives of all
+stakeholders was also crucial when creating a process that included so many
+individuals and teams, which is often the case in complex care. With the help of the
+incubator staff, we also were able to maximize the expertise of individuals versed
+in areas such as medical anthropology and health care system operations, including
+institutional leaders who could both guide with &#8216;big picture&#8217; perspectives, and
+advocate to break down barriers to change when needed.</p><p>Our intervention intentionally mirrors the experience of others who have reported
+initial success with this population, in terms of implementation of a
+multidisciplinary care conference for collaborative discussion and decision
+making,<sup><xref rid="bibr14-20499361221142476" ref-type="bibr">14</xref>,<xref rid="bibr22-20499361221142476" ref-type="bibr">22</xref></sup> use of a peer recovery coach for engagement with
+patients,<sup><xref rid="bibr23-20499361221142476" ref-type="bibr">23</xref></sup> creation of criteria or a risk tool to assist with decisions
+around candidacy for OPAT,<sup><xref rid="bibr4-20499361221142476" ref-type="bibr">4</xref>,<xref rid="bibr12-20499361221142476" ref-type="bibr">12</xref>,<xref rid="bibr15-20499361221142476" ref-type="bibr">15</xref></sup> requirement of engagement with treatment for
+addiction,<sup><xref rid="bibr10-20499361221142476" ref-type="bibr">10</xref>,<xref rid="bibr12-20499361221142476" ref-type="bibr">12</xref></sup> and active management for both infection and addiction after
+discharge.<sup><xref rid="bibr10-20499361221142476" ref-type="bibr">10</xref>,<xref rid="bibr12-20499361221142476" ref-type="bibr">12</xref></sup> However, our intervention and experience differed in some key
+ways, mostly related to the rural nature of our location and patient population, as
+well as available resources and capacity. This need to adapt a local solution that
+would work in our setting is where key elements of the design-thinking process were
+crucial. While other programs leveraged pre-existing hospital-based bridge clinics
+within their own health care system<sup><xref rid="bibr10-20499361221142476" ref-type="bibr">10</xref>,<xref rid="bibr12-20499361221142476" ref-type="bibr">12</xref></sup> for outpatient SUD treatment,
+we did not have the ability to do this, both because of lack of such robust existing
+resources at our institution and also because of feedback from patients who made it
+clear that they would not be able to attend numerous visits at DHMC, often due to
+living significant distances from the medical center and not always having routine
+access to transportation. Public transportation is extremely limited in our setting.
+As such, we instead built partnerships with existing outpatient addiction treatment
+providers in the region, some of whom provided telehealth services for patients,
+coinciding with the COVID pandemic. In addition, different from experiences reported
+in the literature so far,<sup><xref rid="bibr10-20499361221142476" ref-type="bibr">10</xref></sup> we did not increase the frequency of in-person clinical
+touchpoints with patients on OPAT after discharge for either substance use or ID
+care as compared with routine practice. Also due to our specific setting, though we
+uniquely and greatly benefited from close relationships, shared goals, and direct
+project team input with a home health nursing agency (VNH) which is part of the
+Dartmouth Health (DH) network and a home infusion company (NELC) which is owned in
+part by DH, we could not limit our home health agency partnerships to our direct
+affiliates because these agencies do not provide coverage to our entire catchment
+area. Thus, we forged relationships with multiple home health nursing agencies to
+move this work forward throughout the region.</p><p>Finally, to our knowledge, our use of a collaborative OPAT RN and SUD peer recovery
+coach team as care coordinators and navigators in the outpatient setting during OPAT
+treatment is also unique to our program. Patients expressed a clear need for this
+help which was accomplished through this team of health care workers, with an
+emphasis on persistence and creativity in communicating with patients despite many
+challenges. Numerous examples from our experience thus far suggest that some
+patients would not have successfully completed care without this support, and thus
+it should be emphasized that this aspect of the intervention was incredibly
+important. Similar to findings of others,<sup><xref rid="bibr23-20499361221142476" ref-type="bibr">23</xref></sup> the peer recovery coach
+specifically also has helped significantly with initial engagement of patients while
+in the hospital, who may not have otherwise opened up to the medical team.</p><p>Our experience and findings are limited in a number of ways. We describe a program
+that has worked well for our rural center, but not all aspects may be applicable to
+urban or suburban settings. The project and its outcomes were also affected by COVID
+pandemic, which coincided with the timing of development and implementation of the
+pilot. The pandemic directly affected the project team&#8217;s ability to engage in the
+design process. More importantly, local health care utilization patterns were
+affected by the pandemic, resulting in a lower admission volume of patients in this
+population than expected. In addition, ensuring that all staff were educated about
+new practices was difficult due to staffing challenges.</p><p>Our findings in general confirm and expand the experience of others, and add to the
+literature by describing the redesign development process, with the inclusion of
+patient perspectives, unique aspects for rural settings, and implementation
+challenges. We hope that this description will be helpful to clinicians in other
+centers who experience similar struggles with this patient population, which
+continues to grow. We expect to report outcomes of our intervention in a future
+manuscript.</p></sec></body><back><ack><p>We thank the patients who shared their care experiences and opportunities for
+improvement with us. Thank you also to the various providers and community
+stakeholders who shared their time and insights to inform this project. Finally, we
+wish to express great gratitude to the University of Vermont CORA, which provided
+mobile phones to patients free of charge. Finally, we wish to thank Olivia Fournier,
+Alisha Agrawal, and Amal Cheema for their assistance in data gathering in support of
+this work.</p></ack><fn-group><fn fn-type="other"><p><bold>ORCID iD:</bold> Colleen Kershaw <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_20499361221142476-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0001-8989-6146" ext-link-type="uri">https://orcid.org/0000-0001-8989-6146</ext-link></p></fn></fn-group><app-group><app id="app1-20499361221142476"><title>Appendix 1</title><sec id="section20-20499361221142476"><title>Note taking template for patient interviews</title><p>Current Inpatient</p><p>
+<italic toggle="yes">Interviewer note: listen for barriers and facilitators and probe on
+questions related to what a patient would truly need, even outside of
+traditional clinical care, to make this model work. Ask about
+specifics!</italic>
+</p><table-wrap position="anchor" id="table5-20499361221142476" orientation="portrait"><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361221142476-table5.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Question</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">What is your understanding of why you are here?</td></tr><tr><td rowspan="1" colspan="1">What is important to you about your health right now?
+ALT: What are you doing right now (or what do you plan
+to do) to take care of your health?</td></tr><tr><td rowspan="1" colspan="1">Have your providers discussed a treatment plan with you?
+If so, what do you think could get in the way of that?
+Does it seem realistic? What changes would you have to
+make to make this work?</td></tr><tr><td rowspan="1" colspan="1">What has been your longest stretch of sobriety? What was
+working well for you during that time?</td></tr><tr><td rowspan="1" colspan="1">What&#8217;s happening with substance use disorder now? What
+would be the most helpful thing to address your
+addiction?</td></tr><tr><td rowspan="1" colspan="1">What is it like for you to be in the hospital?</td></tr><tr><td rowspan="1" colspan="1">What are the challenging aspects of being in the
+hospital? Are there positive things about being in the
+hospital?</td></tr><tr><td rowspan="1" colspan="1">Could you describe the type of treatment you are
+receiving for your infection and addiction?</td></tr><tr><td rowspan="1" colspan="1">If you have had a prior experience with an infection
+caused by injecting drug use and it is back again, could
+you walk me through what happened last time? ALT: Have
+you faced significant health problems in the past? How
+does this compare?<break/>For patients who did have a
+prior experience,<break/>1. What got in the way of you
+completing the recommended treatment for your
+infection?<break/>2. What would have helped you to
+complete the recommended course of treatment for your
+infection?<break/>3. What happened to your health after
+you left the hospital last time?</td></tr><tr><td rowspan="1" colspan="1">Assume that you could leave the hospital but still
+needed IV antibiotics every day for several more weeks.
+What would be the ideal way that would work for you? OR
+Design a system that would work for
+you.<break/><italic toggle="yes">If the patient has trouble
+responding, ask more specific
+probes</italic>:<break/>&#8226;&#8195;What if it involved someone
+coming to your home every day?<break/>What if it
+involved you traveling somewhere daily? Two times per
+week? One time per week? How far could you
+travel?<break/>&#8226;&#8195;What if it meant giving yourself the
+injection? Do you think it could be triggering for you
+to use again?<break/>&#8226;&#8195;What if it involved video
+conferencing with your healthcare provider?<break/>&#8226;&#8195;How
+much time do you think you could devote to this?</td></tr><tr><td rowspan="1" colspan="1">What else should I know that I haven&#8217;t asked?</td></tr></tbody></table></alternatives></table-wrap></sec></app></app-group><sec id="section21-20499361221142476"><title>Declarations</title><fn-group><fn fn-type="other"><p><bold>Ethics approval and consent to participate:</bold> The project was reviewed by the Dartmouth-Hitchcock Health Institutional
+Review Board and was determined not to qualify as human subjects research,
+and therefore further review and approval was not required. There was no
+requirement for consent to participate as this was deemed not human subjects
+research.</p></fn><fn fn-type="other"><p><bold>Consent for publication:</bold> Not applicable.</p></fn><fn fn-type="con"><p><bold>Author contributions:</bold>
+<bold>Colleen Kershaw:</bold> Conceptualization; Data curation; Formal
+analysis; Funding acquisition; Investigation; Methodology; Project
+administration; Writing &#8211; original draft; Writing &#8211; review &amp;
+editing.</p><p><bold>Jon D Lurie:</bold> Formal analysis; Funding acquisition;
+Investigation; Methodology; Writing &#8211; review &amp; editing.</p><p><bold>Charles Brackett:</bold> Conceptualization; Funding acquisition;
+Investigation; Methodology; Writing &#8211; review &amp; editing.</p><p><bold>Elias Loukas:</bold> Conceptualization; Funding acquisition;
+Investigation; Methodology; Project administration; Writing &#8211; review &amp;
+editing.</p><p><bold>Katie Smith:</bold> Data curation; Project administration; Writing &#8211;
+review &amp; editing.</p><p><bold>Sarah Mullins:</bold> Conceptualization; Data curation; Project
+administration; Writing &#8211; review &amp; editing.</p><p><bold>Christine Gooley:</bold> Investigation; Project administration; Writing
+&#8211; review &amp; editing.</p><p><bold>Melissa Borrows:</bold> Investigation; Project administration; Writing
+&#8211; review &amp; editing.</p><p><bold>Shoshana Bardach:</bold> Methodology; Project administration;
+Resources; Writing &#8211; review &amp; editing.</p><p><bold>Amanda Perry:</bold> Conceptualization; Investigation; Methodology;
+Project administration; Resources; Writing &#8211; review &amp; editing.</p><p><bold>Elizabeth Carpenter-Song:</bold> Data curation; Investigation;
+Methodology; Writing &#8211; review &amp; editing.</p><p><bold>H. Samuel Landsman:</bold> Project administration; Writing &#8211; review
+&amp; editing.</p><p><bold>Danielle Pierotti:</bold> Conceptualization; Project administration;
+Writing &#8211; review &amp; editing.</p><p><bold>Ericka Bergeron:</bold> Conceptualization; Project administration;
+Writing &#8211; review &amp; editing.</p><p><bold>Erin McMahon:</bold> Project administration; Writing &#8211; review &amp;
+editing.</p><p><bold>Christine Finn:</bold> Conceptualization; Funding acquisition;
+Investigation; Methodology; Project administration; Writing &#8211; review &amp;
+editing.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This work was
+supported by the Susan &amp; Richard Levy Health Care Delivery Incubator, a
+joint venture between The Dartmouth Institute for Health Policy &amp;
+Clinical Practice (TDI) and Dartmouth-Hitchcock Health (D-HH).</p></fn><fn fn-type="COI-statement"><p>The authors declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="other"><p><bold>Availability of data and materials:</bold> Not applicable.</p></fn></fn-group></sec><ref-list><title>References</title><ref id="bibr1-20499361221142476"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ronan</surname><given-names>MV</given-names></name><name name-style="western"><surname>Herzig</surname><given-names>SJ.</given-names></name></person-group><article-title>Hospitalizations related to opioid abuse/dependence and
+associated serious infections increased sharply, 2002&#8211;12</article-title>.
+<source>Health Aff</source><year>2016</year>; <volume>35</volume>:
+<fpage>832</fpage>&#8211;<lpage>837</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1377/hlthaff.2015.1424</pub-id><pub-id pub-id-type="pmcid">PMC5240777</pub-id><pub-id pub-id-type="pmid">27140989</pub-id></mixed-citation></ref><ref id="bibr2-20499361221142476"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fanucchi</surname><given-names>L</given-names></name><name name-style="western"><surname>Leedy</surname><given-names>N</given-names></name><name name-style="western"><surname>Li</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal>. <article-title>Perceptions and practices of
+physicians regarding outpatient parenteral antibiotic therapy in persons who
+inject drugs</article-title>. <source>J Hosp Med</source><year>2016</year>; <volume>11</volume>:
+<fpage>581</fpage>&#8211;<lpage>582</lpage>.<pub-id pub-id-type="pmid">27043146</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jhm.2582</pub-id></mixed-citation></ref><ref id="bibr3-20499361221142476"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rapoport</surname><given-names>AB</given-names></name><name name-style="western"><surname>Fischer</surname><given-names>LS</given-names></name><name name-style="western"><surname>Santibanez</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>Infectious diseases
+physicians&#8217; perspectives regarding injection drug use and related
+infections, United States, 2017</article-title>. <source>Open Forum Infect
+Dis</source><year>2018</year>; <volume>5</volume>: ofy132.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofy132</pub-id><pub-id pub-id-type="pmcid">PMC6041812</pub-id><pub-id pub-id-type="pmid">30018999</pub-id></mixed-citation></ref><ref id="bibr4-20499361221142476"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Eaton</surname><given-names>EF</given-names></name><name name-style="western"><surname>Mathews</surname><given-names>RE</given-names></name><name name-style="western"><surname>Lane</surname><given-names>PS</given-names></name></person-group>, <etal>et al</etal>. <article-title>A 9-point risk assessment
+for patients who inject drugs and require intravenous antibiotics: focusing
+inpatient resources on patients at greatest risk of ongoing drug
+use</article-title>. <source>Clin Infect Dis</source><year>2018</year>; <volume>68</volume>:
+<fpage>1041</fpage>&#8211;<lpage>1043</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciy722</pub-id><pub-id pub-id-type="pmid">30165395</pub-id></mixed-citation></ref><ref id="bibr5-20499361221142476"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gray</surname><given-names>ME</given-names></name><name name-style="western"><surname>Rogawski McQuade</surname><given-names>ET</given-names></name><name name-style="western"><surname>Scheld</surname><given-names>WM</given-names></name></person-group>, <etal>et al</etal>. <article-title>Rising rates of injection
+drug use associated infective endocarditis in Virginia with missed
+opportunities for addiction treatment referral: a retrospective cohort
+study</article-title>. <source>BMC Infect Dis</source><year>2018</year>; <volume>18</volume>: <fpage>532</fpage>.<pub-id pub-id-type="pmid">30355291</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12879-018-3408-y</pub-id><pub-id pub-id-type="pmcid">PMC6201507</pub-id></mixed-citation></ref><ref id="bibr6-20499361221142476"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rosenthal</surname><given-names>ES</given-names></name><name name-style="western"><surname>Karchmer</surname><given-names>AW</given-names></name><name name-style="western"><surname>Theisen-Toupal</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal>. <article-title>Suboptimal addiction
+interventions for patients hospitalized with injection drug use-associated
+infective endocarditis</article-title>. <source>Am J Med</source><year>2016</year>; <volume>129</volume>:
+<fpage>481</fpage>&#8211;<lpage>485</lpage>.<pub-id pub-id-type="pmid">26597670</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjmed.2015.09.024</pub-id></mixed-citation></ref><ref id="bibr7-20499361221142476"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>G</given-names></name><name name-style="western"><surname>Daddona</surname><given-names>J</given-names></name><name name-style="western"><surname>Burke</surname><given-names>DJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>&#8216;You&#8217;re kind of at war with
+yourself as a nurse&#8217;: perspectives of inpatient nurses on treating people
+who present with a comorbid opioid use disorder</article-title>.
+<source>PLoS ONE</source><year>2019</year>; <volume>14</volume>: e0224335.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0224335</pub-id><pub-id pub-id-type="pmcid">PMC6812769</pub-id><pub-id pub-id-type="pmid">31648259</pub-id></mixed-citation></ref><ref id="bibr8-20499361221142476"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liebschutz</surname><given-names>JM</given-names></name><name name-style="western"><surname>Crooks</surname><given-names>D</given-names></name><name name-style="western"><surname>Herman</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>. <article-title>Buprenorphine treatment for
+hospitalized, opioid-dependent patients: a randomized clinical
+trial</article-title>. <source>JAMA Intern Med</source><year>2014</year>; <volume>174</volume>:
+<fpage>1369</fpage>&#8211;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">25090173</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2014.2556</pub-id><pub-id pub-id-type="pmcid">PMC4811188</pub-id></mixed-citation></ref><ref id="bibr9-20499361221142476"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>D&#8217;Couto</surname><given-names>HT</given-names></name><name name-style="western"><surname>Robbins</surname><given-names>GK</given-names></name><name name-style="western"><surname>Ard</surname><given-names>KL</given-names></name></person-group>, <etal>et al</etal>. <article-title>Outcomes according to
+discharge location for persons who inject drugs receiving outpatient
+parenteral antimicrobial therapy</article-title>. <source>Open Forum Infect
+Dis</source><year>2018</year>; <volume>5</volume>: ofy056.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofy056</pub-id><pub-id pub-id-type="pmcid">PMC5941140</pub-id><pub-id pub-id-type="pmid">29766017</pub-id></mixed-citation></ref><ref id="bibr10-20499361221142476"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fanucchi</surname><given-names>LC</given-names></name><name name-style="western"><surname>Walsh</surname><given-names>SL</given-names></name><name name-style="western"><surname>Thornton</surname><given-names>AC</given-names></name></person-group>, <etal>et al</etal>. <article-title>Outpatient parenteral
+antimicrobial therapy plus buprenorphine for opioid use disorder and severe
+injection-related infections</article-title>. <source>Clin Infect
+Dis</source><year>2020</year>; <volume>70</volume>:
+<fpage>1226</fpage>&#8211;<lpage>1229</lpage>.<pub-id pub-id-type="pmid">31342057</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciz654</pub-id><pub-id pub-id-type="pmcid">PMC7931831</pub-id></mixed-citation></ref><ref id="bibr11-20499361221142476"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hase</surname><given-names>R</given-names></name><name name-style="western"><surname>Yokoyama</surname><given-names>Y</given-names></name><name name-style="western"><surname>Suzuki</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal>. <article-title>Review of the first
+comprehensive outpatient parenteral antimicrobial therapy program in a
+tertiary care hospital in Japan</article-title>. <source>Int J Infect
+Dis</source><year>2020</year>; <volume>95</volume>:
+<fpage>210</fpage>&#8211;<lpage>215</lpage>.<pub-id pub-id-type="pmid">32205285</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2020.03.033</pub-id></mixed-citation></ref><ref id="bibr12-20499361221142476"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Price</surname><given-names>CN</given-names></name><name name-style="western"><surname>Solomon</surname><given-names>DA</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>JA</given-names></name></person-group>, <etal>et al</etal>. <article-title>Feasibility and safety of
+outpatient parenteral antimicrobial therapy in conjunction with addiction
+treatment for people who inject drugs</article-title>. <source>J Infect
+Dis</source><year>2020</year>; <volume>222</volume>: S494&#8211;S498.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiaa025</pub-id><pub-id pub-id-type="pmcid">PMC7566637</pub-id><pub-id pub-id-type="pmid">32877541</pub-id></mixed-citation></ref><ref id="bibr13-20499361221142476"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rolfe</surname><given-names>RJ</given-names><suffix>Jr</suffix></name><name name-style="western"><surname>Mathews</surname><given-names>RE</given-names></name><name name-style="western"><surname>Rodriguez</surname><given-names>JM</given-names></name></person-group>, <etal>et al</etal>. <article-title>Implementation of a
+standardized protocol for hospitalized patients who inject drugs and require
+long-term antibiotics reduces length of stay without increasing 30-day
+readmissions</article-title>. <source>Open Forum Infect Dis</source><year>2017</year>; <volume>4</volume>: S340&#8211;S341.</mixed-citation></ref><ref id="bibr14-20499361221142476"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sikka</surname><given-names>MK</given-names></name><name name-style="western"><surname>Gore</surname><given-names>S</given-names></name><name name-style="western"><surname>Vega</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal>. <article-title>&#8216;OPTIONS-DC&#8217;, a feasible
+discharge planning conference to expand infection treatment options for
+people with substance use disorder</article-title>. <source>BMC Infect
+Dis</source><year>2021</year>; <volume>21</volume>: <fpage>772</fpage>.<pub-id pub-id-type="pmid">34372776</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12879-021-06514-9</pub-id><pub-id pub-id-type="pmcid">PMC8351414</pub-id></mixed-citation></ref><ref id="bibr15-20499361221142476"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Solomon</surname><given-names>DA</given-names></name><name name-style="western"><surname>Price</surname><given-names>C</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>JAA</given-names></name></person-group>, <etal>et al</etal>. <article-title>Can integration of addiction
+treatment facilitate safe discharge on OPAT for patients with infectious
+complications of injection drug use?</article-title><source>Open Forum Infect Dis</source><year>2019</year>; <volume>6</volume>: S341&#8211;S342.</mixed-citation></ref><ref id="bibr16-20499361221142476"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Suzuki</surname><given-names>J</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>J</given-names></name><name name-style="western"><surname>Montgomery</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Outpatient parenteral
+antimicrobial therapy among people who inject drugs: a review of the
+literature</article-title>. <source>Open Forum Infect Dis</source><year>2018</year>; <volume>5</volume>: ofy194.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofy194</pub-id><pub-id pub-id-type="pmcid">PMC6127783</pub-id><pub-id pub-id-type="pmid">30211247</pub-id></mixed-citation></ref><ref id="bibr17-20499361221142476"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>de Gijsel</surname><given-names>D</given-names></name><name name-style="western"><surname>DesBiens</surname><given-names>M</given-names></name><name name-style="western"><surname>Talbot</surname><given-names>EA</given-names></name></person-group>, <etal>et al</etal>. <article-title>Tracking substance use
+complications: a collaborative analysis of public health and academic
+medical center records on drug use-associated infective
+endocarditis</article-title>. <source>J Infect Dis</source><year>2020</year>; <volume>222</volume>: S437&#8211;S441.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiaa160</pub-id><pub-id pub-id-type="pmid">32877542</pub-id></mixed-citation></ref><ref id="bibr18-20499361221142476"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ferreira</surname><given-names>FK</given-names></name><name name-style="western"><surname>Song</surname><given-names>EH</given-names></name><name name-style="western"><surname>Gomes</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal>. <article-title>New mindset in scientific
+method in the health field: design thinking</article-title>.
+<source>Clinics</source><year>2015</year>; <volume>70</volume>:
+<fpage>770</fpage>&#8211;<lpage>772</lpage>.<pub-id pub-id-type="pmid">26735214</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.6061/clinics/2015(12)01</pub-id><pub-id pub-id-type="pmcid">PMC4676318</pub-id></mixed-citation></ref><ref id="bibr19-20499361221142476"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Roberts</surname><given-names>JP</given-names></name><name name-style="western"><surname>Fisher</surname><given-names>TR</given-names></name><name name-style="western"><surname>Trowbridge</surname><given-names>MJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>A design thinking framework
+for healthcare management and innovation</article-title>.
+<source>Healthc</source><year>2016</year>; <volume>4</volume>:
+<fpage>11</fpage>&#8211;<lpage>14</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hjdsi.2015.12.002</pub-id><pub-id pub-id-type="pmid">27001093</pub-id></mixed-citation></ref><ref id="bibr20-20499361221142476"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yudko</surname><given-names>E</given-names></name><name name-style="western"><surname>Lozhkina</surname><given-names>O</given-names></name><name name-style="western"><surname>Fouts</surname><given-names>A.</given-names></name></person-group><article-title>A comprehensive review of the psychometric properties of the Drug
+Abuse Screening Test</article-title>. <source>J Subst Abuse Treat</source><year>2007</year>; <volume>32</volume>:
+<fpage>189</fpage>&#8211;<lpage>198</lpage>.<pub-id pub-id-type="pmid">17306727</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2006.08.002</pub-id></mixed-citation></ref><ref id="bibr21-20499361221142476"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Paquette</surname><given-names>CE</given-names></name><name name-style="western"><surname>Syvertsen</surname><given-names>JL</given-names></name><name name-style="western"><surname>Pollini</surname><given-names>RA.</given-names></name></person-group><article-title>Stigma at every turn: health services experiences among people
+who inject drugs</article-title>. <source>Int J Drug Policy</source><year>2018</year>; <volume>57</volume>:
+<fpage>104</fpage>&#8211;<lpage>110</lpage>.<pub-id pub-id-type="pmid">29715589</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugpo.2018.04.004</pub-id><pub-id pub-id-type="pmcid">PMC5994194</pub-id></mixed-citation></ref><ref id="bibr22-20499361221142476"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Englander</surname><given-names>H</given-names></name><name name-style="western"><surname>Mahoney</surname><given-names>S</given-names></name><name name-style="western"><surname>Brandt</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Tools to support
+hospital-based addiction care: core components, values, and activities of
+the improving addiction care team</article-title>. <source>J Addict
+Med</source><year>2019</year>; <volume>13</volume>:
+<fpage>85</fpage>&#8211;<lpage>89</lpage>.<pub-id pub-id-type="pmid">30608265</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ADM.0000000000000487</pub-id></mixed-citation></ref><ref id="bibr23-20499361221142476"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Collins</surname><given-names>D</given-names></name><name name-style="western"><surname>Alla</surname><given-names>J</given-names></name><name name-style="western"><surname>Nicolaidis</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>. <article-title>&#8216;If It wasn&#8217;t for him, I
+wouldn&#8217;t have talked to them&#8217;: qualitative study of addiction peer
+mentorship in the hospital</article-title>. <source>J Gen Intern
+Med</source>. Epub ahead of print <day>12</day><month>December</month><year>2019</year>. DOI: <pub-id pub-id-type="doi">10.1007/s11606-019-05311-0.</pub-id><pub-id pub-id-type="pmid">31512181</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

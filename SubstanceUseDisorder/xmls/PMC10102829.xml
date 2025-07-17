@@ -1,0 +1,771 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Inquiry</journal-id><journal-id journal-id-type="iso-abbrev">Inquiry</journal-id><journal-id journal-id-type="pmc-domain-id">3386</journal-id><journal-id journal-id-type="pmc-domain">inquiry</journal-id><journal-id journal-id-type="publisher-id">INQ</journal-id><journal-title-group><journal-title>Inquiry: A Journal of Medical Care Organization, Provision and Financing</journal-title></journal-title-group><issn pub-type="ppub">0046-9580</issn><issn pub-type="epub">1945-7243</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10102829</article-id><article-id pub-id-type="pmcid-ver">PMC10102829.2</article-id><article-id pub-id-type="pmcaid">10102829</article-id><article-id pub-id-type="pmcaiid">10102930</article-id><article-id pub-id-type="pmid">37052143</article-id><article-id pub-id-type="doi">10.1177/00469580231166738</article-id><article-id pub-id-type="publisher-id">10.1177_00469580231166738</article-id><article-version article-version-type="pmc-version">2</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Effects of the Affordable Care Act Medicaid Expansions on Mental
+Health During the COVID-19 Pandemic in 2020-2021</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6003-0979</contrib-id><name name-style="western"><surname>Oyeka</surname><given-names initials="O">Onyinye</given-names></name><degrees>PhD</degrees><xref rid="aff1-00469580231166738" ref-type="aff">1</xref><xref rid="corresp1-00469580231166738" ref-type="corresp"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wehby</surname><given-names initials="GL">George L.</given-names></name><degrees>PhD</degrees><xref rid="aff1-00469580231166738" ref-type="aff">1</xref><xref rid="aff2-00469580231166738" ref-type="aff">2</xref></contrib></contrib-group><aff id="aff1-00469580231166738"><label>1</label>University of Iowa, Iowa City, IA,
+USA</aff><aff id="aff2-00469580231166738"><label>2</label>National Bureau of Economic Research,
+Cambridge, MA, USA</aff><author-notes><corresp id="corresp1-00469580231166738">Onyinye Oyeka, Department of Health
+Management and Policy, College of Public Health, University of Iowa, 145 N.
+Riverside Drive, Iowa City, IA 52242-2007, USA. Email:
+<email>oioyeka@uiowa.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>4</month><year>2023</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2023</year></pub-date><volume>60</volume><issue-id pub-id-type="pmc-issue-id">425913</issue-id><elocation-id>00469580231166738</elocation-id><history><date date-type="received"><day>20</day><month>9</month><year>2022</year></date><date date-type="rev-recd"><day>26</day><month>1</month><year>2023</year></date><date date-type="accepted"><day>13</day><month>3</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>13</day><month>04</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>15</day><month>04</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-09-19 14:41:25.413"><day>19</day><month>09</month><year>2023</year></date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">10102829</article-id><article-id pub-id-type="doi">10.1177/00469580231166738</article-id><article-version>1</article-version><pub-date><day>13</day><month>04</month><year>2023</year></pub-date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">10102930</article-id><article-id pub-id-type="doi">10.1177/00469580231166738</article-id><article-version>2</article-version><pub-date><day>13</day><month>04</month><year>2023</year></pub-date></event></pub-history><permissions><copyright-statement>&#169; The Author(s) 2023</copyright-statement><copyright-year>2023</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_00469580231166738.pdf"/><abstract><p>To examine whether previous Affordable Care Act (ACA) Medicaid expansions had an
+added effect on the mental health of low-income adults during the COVID-19
+pandemic in 2020 and 2021. We use the 2017-2021 Behavioral Risk Factor
+Surveillance System (BRFSS) data. We use an event study
+difference-in-differences model to compare the number of days in poor mental
+health in the past 30&#8201;days and the likelihood of frequent mental distress among
+18 to 64&#8201;year old individuals with household incomes below 100% of the federal
+poverty level who participated in BRFSS in one of the surveys from 2017 to 2021
+and who resided in states that expanded Medicaid by 2016 or states that had not
+expanded by 2021. We also examine the heterogeneity of the expansion effects
+across subpopulation groups. We find some evidence that the Medicaid expansion
+was associated with better mental health during the pandemic for adults younger
+than 45, females, and non-Hispanic Black and other non-Hispanic non-White
+individuals. There is some evidence of an added benefit to mental health from
+Medicaid expansion status during the pandemic for some subgroups among
+low-income adults, suggesting potential health benefits from Medicaid
+eligibility during public health and economic crises.</p></abstract><kwd-group><kwd>Affordable Care Act</kwd><kwd>Medicaid expansion</kwd><kwd>mental health</kwd><kwd>frequent mental distress</kwd><kwd>COVID-19</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2023</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><boxed-text id="boxed-text1-00469580231166738" position="float" orientation="portrait"><list list-type="simple" id="list1-00469580231166738"><list-item><p>
+<bold>What do we already know about this topic?</bold>
+</p></list-item><list-item><p>The COVID-19 pandemic brought unprecedented economic, social, and health
+challenges. Previous Medicaid expansions have been associated with increased
+access to coverage and health services among low-income population.</p></list-item><list-item><p>
+<bold>How does your research contribute to the field?</bold>
+</p></list-item><list-item><p>This study examines if prior Medicaid expansions affected the mental health
+of adults below 100% of the federal poverty level in the COVID-19
+pandemic-era and finds some evidence that the expansion is associated with
+better mental health, especially among adults younger than 45&#8201;years,
+females, and non-Hispanic Black and other non-Hispanic non-White
+individuals.</p></list-item><list-item><p>
+<bold>What are your research&#8217;s implications toward theory, practice, or
+policy?</bold>
+</p></list-item><list-item><p>The findings add some evidence to the potential health benefits of Medicaid
+eligibility for low-income adults, especially benefits to mental health
+during public health and economic crises.</p></list-item></list></boxed-text><sec sec-type="intro" id="section1-00469580231166738"><title>Introduction</title><p>The novel coronavirus disease 2019 (COVID-19) pandemic and some of the policies
+implemented to slow down its spread brought unprecedented economic, social, and
+health challenges that likely had major impacts on mental health. Millions of
+Americans reported loss of work and income, or reduced work hours because of the pandemic.<sup>
+<xref rid="bibr1-00469580231166738" ref-type="bibr">1</xref>
+</sup> Low-income individuals, women, and racial and ethnic minorities were
+particularly impacted as they experienced greater job loss.<sup><xref rid="bibr2-00469580231166738" ref-type="bibr">2</xref>,<xref rid="bibr3-00469580231166738" ref-type="bibr">3</xref></sup> Unemployment can increase
+stress and financial insecurity and reduce self-esteem, which could worsen mental health.<sup>
+<xref rid="bibr4-00469580231166738" ref-type="bibr">4</xref>
+</sup> Compounding and exacerbating the pandemic impacts on mental health were the
+fears and worries surrounding COVID-19 risk of infection and related restrictions of
+social distancing, business and school closures, quarantines, and isolation, all of
+which have had profound social and mental health effects.<sup><xref rid="bibr5-00469580231166738" ref-type="bibr">5</xref><xref rid="bibr6-00469580231166738" ref-type="bibr"/>-<xref rid="bibr7-00469580231166738" ref-type="bibr">7</xref></sup></p><p>Mental health disorders affect over 20% of adults and are disproportionally more
+prevalent among low-income individuals.<sup>
+<xref rid="bibr8-00469580231166738" ref-type="bibr">8</xref>
+</sup> Prior to the implementation of the Affordable Care Act (ACA) and its related
+Medicaid expansions, the uninsured rate was markedly higher among individuals with
+mental health disorders (20%) compared with the general population (15%), and less
+than 50% of people with mental health disorders received treatment.<sup><xref rid="bibr9-00469580231166738" ref-type="bibr">9</xref><xref rid="bibr10-00469580231166738" ref-type="bibr"/>-<xref rid="bibr11-00469580231166738" ref-type="bibr">11</xref></sup> Health insurance coverage is
+critical to accessing mental health services, particularly among low-income
+populations. The ACA Medicaid expansions beginning in 2014 and continuing with
+additional states expanding in subsequent years have increased coverage among adults
+with household income below 138% of the federal poverty level (FPL). Evidence on
+effects of the ACA Medicaid expansions before the pandemic suggests improved access
+and utilization of mental and other health care services,<sup><xref rid="bibr12-00469580231166738" ref-type="bibr">12</xref>,<xref rid="bibr13-00469580231166738" ref-type="bibr">13</xref></sup> and improved mental
+health<sup><xref rid="bibr14-00469580231166738" ref-type="bibr">14</xref><xref rid="bibr15-00469580231166738" ref-type="bibr"/><xref rid="bibr16-00469580231166738" ref-type="bibr"/><xref rid="bibr17-00469580231166738" ref-type="bibr"/><xref rid="bibr18-00469580231166738" ref-type="bibr"/><xref rid="bibr19-00469580231166738" ref-type="bibr"/><xref rid="bibr20-00469580231166738" ref-type="bibr"/><xref rid="bibr21-00469580231166738" ref-type="bibr"/>-<xref rid="bibr22-00469580231166738" ref-type="bibr">22</xref></sup> particularly in the early
+years of the expansions as take-up of Medicaid coverage significantly increased.<sup>
+<xref rid="bibr23-00469580231166738" ref-type="bibr">23</xref>
+</sup> However, whether there was an added benefit from the prior expansions to
+mental health during the pandemic is not well understood. With added shocks to
+mental health during the pandemic and disruptions to insurance coverage and access
+to essential mental health care services, one hypothesis is that Medicaid coverage
+for low-income individuals in expansion states may have buffered against some of the
+adverse impacts on mental health by providing greater access to needed mental health
+services (such as access to prescription drugs or mental health care providers
+providing psychotherapy via telehealth) compared to similar income individuals
+without Medicaid coverage in non-expansion states. Furthermore, Medicaid coverage
+during the pandemic may have conferred additional financial security in the event of
+losing a job or employer-sponsored coverage<sup><xref rid="bibr24-00469580231166738" ref-type="bibr">24</xref>,<xref rid="bibr25-00469580231166738" ref-type="bibr">25</xref></sup> or illness, which has been
+associated with higher rates of anxiety, depression, and substance abuse.<sup>
+<xref rid="bibr26-00469580231166738" ref-type="bibr">26</xref>
+</sup> Therefore, in this study, we examine whether the prior ACA Medicaid
+expansions provided an added benefit to the mental health of low-income individuals
+compared to non-expansion states during the pandemic.</p><p>Studies report an increase in adverse mental health conditions during the
+pandemic.<sup><xref rid="bibr27-00469580231166738" ref-type="bibr">27</xref>,<xref rid="bibr28-00469580231166738" ref-type="bibr">28</xref></sup> These conditions worsened among younger adults due to school
+closures, employment loss, and increased feelings of social isolation.<sup><xref rid="bibr29-00469580231166738" ref-type="bibr">29</xref>,<xref rid="bibr30-00469580231166738" ref-type="bibr">30</xref></sup> Furthermore,
+women were more likely than men to reduce work hours, leave their jobs to homeschool
+or take care of other family activities.<sup><xref rid="bibr31-00469580231166738" ref-type="bibr">31</xref>,<xref rid="bibr32-00469580231166738" ref-type="bibr">32</xref></sup> Studies report a greater
+increase in depression and anxiety rates among women compared to men as their burden
+of responsibilities disproportionately increased during the pandemic.<sup>
+<xref rid="bibr33-00469580231166738" ref-type="bibr">33</xref>
+</sup> Hispanic and non-Hispanic Black populations had a greater increase in
+self-reported depression and anxiety rates.<sup><xref rid="bibr34-00469580231166738" ref-type="bibr">34</xref>,<xref rid="bibr35-00469580231166738" ref-type="bibr">35</xref></sup> In addition to
+disproportionally experiencing economic hardship from the pandemic, Black
+populations also had higher COVID-19 hospitalizations and mortality.<sup><xref rid="bibr36-00469580231166738" ref-type="bibr">36</xref>,<xref rid="bibr37-00469580231166738" ref-type="bibr">37</xref></sup></p><p>As mentioned above, the ACA Medicaid expansions before the pandemic may have an
+incremental effect on mental health of low-income individuals during the pandemic in
+two main ways. The first possible mechanism is through access to mental health
+services for individuals who needed them, which may include care for newly onset or
+worsening prior mental health conditions during the pandemic. Without coverage,
+low-income individuals would have little access to such needed services. The second
+plausible mechanism is by providing additional financial security from Medicaid
+coverage<sup><xref rid="bibr38-00469580231166738" ref-type="bibr">38</xref><xref rid="bibr39-00469580231166738" ref-type="bibr"/><xref rid="bibr40-00469580231166738" ref-type="bibr"/>-<xref rid="bibr41-00469580231166738" ref-type="bibr">41</xref></sup> after (potential) loss of
+employer-sponsored coverage as a result of the pandemic-related unemployment or
+underemployment, which might reduce stress and improve mental wellbeing.<sup>
+<xref rid="bibr42-00469580231166738" ref-type="bibr">42</xref>
+</sup> This second pathway might be especially important during a global pandemic
+when most people become keenly attentive to their own and their family&#8217;s health. The
+reduction in stress with insurance coverage and financial protection from illness
+might be more salient during such time.</p><p>In addition, in March 2020, Congress passed the Families First Coronavirus Response
+Act (FFCRA), providing states with an additional 6.2 percentage-point increase in
+federal matching assistance percentage (FMAP) to provide continuous coverage for
+Medicaid.<sup><xref rid="bibr43-00469580231166738" ref-type="bibr">43</xref><xref rid="bibr44-00469580231166738" ref-type="bibr"/>-<xref rid="bibr45-00469580231166738" ref-type="bibr">45</xref></sup> This
+provision may have increased coverage, reduced churning in Medicaid and interruption
+in access to health care services among covered individuals that may occur over time
+and further enhanced the expansion effect on financial security and access to mental
+health services. The Centers for Medicare &amp; Medicaid Services (CMS) report an
+increase of 25% nationally in the population covered by Medicaid between February
+2020 and January 2022.<sup>
+<xref rid="bibr46-00469580231166738" ref-type="bibr">46</xref>
+</sup> Therefore, we also examine whether there was an added effect of the ACA
+Medicaid expansion on coverage in 2020-2021.</p><p>There is emerging evidence of the effects of the previous ACA Medicaid expansions on
+the mental health of low-income individuals during the COVID-19 pandemic. Two
+studies report that Medicaid expansion nullified the negative effect of loss of work
+on mental health.<sup><xref rid="bibr25-00469580231166738" ref-type="bibr">25</xref>,<xref rid="bibr42-00469580231166738" ref-type="bibr">42</xref></sup> Another study reported no statistically significant difference
+in changes in days not in good mental health in the past 30&#8201;days during 2020 between
+expansion and non-expansion states overall, although the study found a statistically
+significant decline in this outcome for non-Hispanic Black individuals.<sup>
+<xref rid="bibr47-00469580231166738" ref-type="bibr">47</xref>
+</sup> That study, however, included individuals up to 138% of the FPL and did not
+examine the effect separately for individuals below 100% of the FPL. In
+non-expansion states, individuals within 100-138% of the FPL are eligible for
+insurance marketplace subsidies, so including them in the sample may attenuate the
+effect of the Medicaid expansion. Furthermore, that study did not evaluate the
+effect on frequent mental distress characterized as experiencing 14 or more days of
+poor mental health in the past month, an indicator of diagnosable depressive and
+anxiety disorder.<sup>
+<xref rid="bibr48-00469580231166738" ref-type="bibr">48</xref>
+</sup> Employing nationally representative data, we focus on individuals below 100%
+FPL who are expected to benefit most from the Medicaid expansions (consider the
+eligibility of those at 100%-138% FPL for subsidized marketplace insurance
+coverage). We also evaluate potential heterogeneity across age, sex, race/ethnicity,
+and whether children lived in the household.</p></sec><sec id="section2-00469580231166738"><title>Study Data and Methods</title><sec id="section3-00469580231166738"><title>Data and Sample</title><p>We use data from the Behavioral Risk Factor Surveillance System (BRFSS), a
+nationally representative cross-sectional telephone survey conducted annually by
+the Centers for Disease Control and Prevention and state governments. The survey
+is conducted in all states and the District of Columbia, and it is designed to
+represent the non-institutionalized adult population in the United States. For
+this study, we include BRFSS data from 2017 to 2021, from states that expanded
+Medicaid by 2016 and states that had not expanded by 2021 to compare them on
+changes in mental health over time, including from 2019 to 2021. We exclude
+states that expanded Medicaid after 2016 (Idaho, Maine, Missouri, Nebraska,
+Oklahoma, Utah, and Virginia). Medicaid expansions by 2016 (including 4 states
+and the District of Columbia that had full or near full expansions before 2014
+but also adopted the ACA expansion in 2014) comprise the treated group. We
+restrict the sample to low-income adults aged 18 to 64 with household incomes
+below 100% of the FPL; as a reference, for a single individual in 2021, this
+income was below $12&#8201;880.<sup>
+<xref rid="bibr49-00469580231166738" ref-type="bibr">49</xref>
+</sup> As income is reported in ranges in the BRFSS, we use the midpoints of the
+income ranges and then assign to each individual income as a percentage of the
+FPL considering household structure.<sup><xref rid="bibr50-00469580231166738" ref-type="bibr">50</xref>,<xref rid="bibr51-00469580231166738" ref-type="bibr">51</xref></sup> We exclude from the
+sample respondents whose income is between 100% and 138% FPL since, as noted
+above, they receive subsidies in non-expansion states to obtain insurance
+through the health insurance marketplace. The analytical sample consisted of
+128&#8201;074 adults surveyed between 2017 and 2021, with household incomes less than
+100% FPL. There were 92&#8201;061 adults in Medicaid expansion states and 36&#8201;013
+adults in non-expansion states.</p></sec><sec id="section4-00469580231166738"><title>Outcomes</title><p>BRFSS asks respondents about the number of days in the past 30 during which their
+mental health was not good, including experiencing stress, depression, and
+emotional problems. We use this measure of mental health as the main outcome. In
+addition, we construct a binary indicator for frequent mental distress equal to
+1 if the respondent had 14 or more days in poor mental health and 0 otherwise.<sup>
+<xref rid="bibr52-00469580231166738" ref-type="bibr">52</xref>
+</sup></p><p>We also examine whether coverage changed differentially in 2020 and 2021
+(compared to 2019) between previously expanded states and non-expansion states
+as a potential mechanism affecting mental health. As noted above, an added
+(incremental) effect from the earlier Medicaid expansions on mental health
+during the pandemic may develop without a greater increase in new enrollment in
+expansion states. However, if expansion states had greater enrollment during the
+pandemic, this may also contribute to an incremental effect on mental health
+among the population of income-eligible adults. BRFSS asks whether respondents
+have any form of health care coverage but does not ask about insurance type in
+all years. Therefore, in addition to the BRFSS data, we use data from the
+American Community Survey (ACS),<sup>
+<xref rid="bibr53-00469580231166738" ref-type="bibr">53</xref>
+</sup> and Medicaid enrollment data reported by states through the Medicaid
+Budget and Expenditures System (MBES).<sup>
+<xref rid="bibr54-00469580231166738" ref-type="bibr">54</xref>
+</sup></p></sec><sec id="section5-00469580231166738"><title>Research Design and Statistical Analysis</title><p>To investigate the incremental effect of Medicaid expansion, we estimate
+difference-in-differences models that compare changes in the outcomes in the
+Medicaid expansion states to changes in outcomes in the non-expansion states.
+Because we are interested in how the effect varied over time from 2017 to 2021,
+we estimate event study models. The event study allows us to examine the effects
+of the expansions relative to the base year of 2019, and to also test the
+parallel trends assumption of similar trends in outcomes between expansion and
+non-expansion states before the pandemic. The event study DD model is:</p><p>
+<disp-formula id="disp-formula1-00469580231166738"><alternatives><mml:math id="math1-00469580231166738" display="block" overflow="scroll"><mml:mrow><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:msub><mml:mi>Y</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>s</mml:mi><mml:mi>m</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>&#946;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:munderover><mml:mo>&#8721;</mml:mo><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>T</mml:mi></mml:munderover><mml:msub><mml:mi>&#946;</mml:mi><mml:mi>t</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>M</mml:mi><mml:mi>e</mml:mi><mml:mi>d</mml:mi><mml:mi>i</mml:mi><mml:mi>c</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>d</mml:mi><mml:mspace width="0.25em"/><mml:mi>E</mml:mi><mml:mi>x</mml:mi><mml:mi>p</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mi>s</mml:mi><mml:mi>i</mml:mi><mml:mi>o</mml:mi><mml:msub><mml:mi>n</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>*</mml:mo><mml:msub><mml:mi>Y</mml:mi><mml:mi>t</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:mi>&#948;</mml:mi><mml:msub><mml:mi>X</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>s</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mspace width="0.25em"/><mml:mo>+</mml:mo><mml:mi>&#947;</mml:mi><mml:msub><mml:mi>Z</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>&#945;</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>&#952;</mml:mi><mml:mi>t</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>&#949;</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>s</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-eq1.jpg"/></alternatives></disp-formula>
+</p><p>where <bold>
+<italic toggle="yes">Y<sub>ismt</sub></italic>
+</bold> represents the outcome for individual <italic toggle="yes">i</italic> living in state
+<italic toggle="yes">s</italic> interviewed in month <italic toggle="yes">m</italic> in year
+<italic toggle="yes">t</italic>. <bold>
+<italic toggle="yes">Medicaid Expansion<sub>s</sub></italic>
+</bold> represents treatment states and equal 1 if the individual lives in a
+state that expanded Medicaid and equal 0 if the individual lives in a state that
+did not expand Medicaid. <bold>
+<italic toggle="yes">Y<sub>t</sub></italic>
+</bold> is an indicator for whether year <italic toggle="yes">t</italic> is 2017, 2018, 2020,
+and 2021 with 2019 as the reference year. <bold>
+<italic toggle="yes">X<sub>ist</sub></italic>
+</bold> is a vector of individual-and state-level control variables that
+includes education, sex, race/ethnicity, age, marital status, if respondent has
+children, employment status, if respondent owns or rents their home, cell-phone
+sample indicator, unemployment rate, state per capita income, and an indicator
+for whether the state offers earned income tax credits (EITC). <bold>
+<italic toggle="yes">Z<sub>ms</sub></italic>
+</bold> is a vector of COVID-related policies<sup>
+<xref rid="bibr55-00469580231166738" ref-type="bibr">55</xref>
+</sup> that may also impact mental health: stay-at-home/shelter-in-place orders,
+state of emergency declaration, and closures and reopening of restaurant. For
+these variables we include indicators for each month the policies were in effect
+during the pandemic. <bold>
+<italic toggle="yes">&#945;<sub>ms</sub></italic>
+</bold> is a vector of month-by-state fixed effects, and
+<bold>&#952;<sub>t</sub></bold> is a vector of year fixed effects. Standard
+errors are clustered by state. Because all treated states have expanded before
+2017, there is no switching in expansion status in this model.
+<bold>&#946;<sub>t</sub></bold> represents the differences between the
+changes in outcomes in expansion versus non-expansion states over time,
+including the change from 2019 to 2021. All regressions are weighted by the
+BRFSS sampling weights. We also stratify the model by race/ethnicity, age
+groups, sex, and whether children lived in the household to check for any
+heterogeneity across subgroups. To assess the robustness of our findings, we
+estimate an alternate model that excludes respondents that were interviewed in
+January and February of 2020 before the World Health Organization (WHO) declared
+a pandemic and the US declared a national emergency.<sup>
+<xref rid="bibr56-00469580231166738" ref-type="bibr">56</xref>
+</sup> The descriptive statistics for the model analyses is presented in
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Table 1</ext-link>. We also present the estimates
+without sampling weights.</p></sec><sec id="section6-00469580231166738"><title>Medicaid Expansion Effects on Coverage</title><p>To investigate the effect of Medicaid expansion on coverage, we estimate a
+similar model using data on coverage separately from the BRFSS, ACS, and the
+Medicaid enrollment data. The ACS collects individual level data on insurance
+status along with other important demographic and socioeconomic characteristics.
+Using the ACS, we include a sample similar to the BRFSS sample from 2017 through
+2021 to examine changes in insurance type. We also use monthly reports of
+Centers for Medicare &amp; Medicaid Services (CMS) Medicaid enrollment data
+reported by states through the Medicaid Budget and Expenditures System (MBES) to
+compare Medicaid enrollment per population 18 to 64-year-old (calculated as the
+ratio of total Medicaid enrollment and population 18-64-year-old) between
+expansion and non-expansion states from 2017 through 2021. Data are adjusted
+using BRFSS weights, ACS weights, and population weights are used for the
+Medicaid enrollment data.</p></sec></sec><sec sec-type="results" id="section7-00469580231166738"><title>Results</title><sec id="section8-00469580231166738"><title>Medicaid Expansion Effects in Total Sample</title><p><xref rid="fig1-00469580231166738" ref-type="fig">Figure 1</xref> shows the
+descriptive trends in the number of days not in good mental health in the past
+30 and the cutoff of 14&#8201;days or more for frequent mental distress (without any
+adjustment for covariates) in Medicaid expansion and non-expansion states from
+2017 to 2021. Between 2017 and 2019, there is an increase in the number of days
+in poor mental health in both expansion and non-expansion states. In contrast,
+there is a relatively small decline in this outcome in 2020 (slightly more in
+expansion states) but a sharp increase in 2021 in both expansion and
+non-expansion states. However, there is less such increase in 2021 in expansion
+states. The trends for frequent mental distress largely follow those of the days
+count measure especially during the pandemic.</p><fig position="float" id="fig1-00469580231166738" orientation="portrait"><label>Figure 1.</label><caption><p>Trends in the number of days in poor mental health and frequent mental
+distress, Medicaid expansion versus non-expansion states, BRFSS
+2017-2021.</p><p><italic toggle="yes">Note</italic>. Source data is BRFSS 2017 to 2021. Sample is
+restricted to include only non-elderly with income &lt;100% FPL. Data
+are adjusted by BRFSS sampling weights. The vertical dash line indicates
+the year before the COVID-19 pandemic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-fig1.jpg"/></fig><p><xref rid="fig2-00469580231166738" ref-type="fig">Figure 2</xref> presents the
+event study difference-in-differences graphs for the differences in mental
+health outcomes&#8212;number of days not in good mental health and frequent mental
+distress between Medicaid expansion states and non-expansion states over the
+years, with 2019 as the reference period. The detailed estimates are in
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 2</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">3</ext-link>. There is a decline in both mental health outcomes in 2020 and
+2021 relative to 2019 associated with the Medicaid expansion. However, the
+estimate is not statistically significant for the number of days not in good
+mental health and marginally significant (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.1) for
+frequent mental distress in 2021. For the latter outcome, Medicaid expansion is
+associated with a 3.5 percentage-point decline in the likelihood of frequent
+mental distress in 2021 compared to 2019; however, the difference in the
+2017-2019 pre-trend between expansion and non-expansion states is marginally
+significant, although in the opposite direction to the effects in 2020 and 2021.
+The estimates are similar when excluding observations pre-pandemic in January
+and February in 2020 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 4</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">5</ext-link>). The unweighted estimates of the Medicaid expansion effect
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 6</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">7</ext-link>) are noticeably smaller (in absolute value) and the estimate
+the day count measure is near null and in the opposite direction. This
+difference between the weighted and unweighted suggests potential heterogeneity
+in the effects across states, in which case the unweighted estimate of the
+average effect may be less generalizable. As noted above, differences between
+expansion and non-expansion states before 2019 are in the opposite direction in
+the weighted model and overall not statistically significant.</p><fig position="float" id="fig2-00469580231166738" orientation="portrait"><label>Figure 2.</label><caption><p>Event study estimates of the Medicaid expansion effects on the number of
+days in poor mental health in the past 30&#8201;days and frequent mental
+distress, BRFSS 2017-2021.</p><p><italic toggle="yes">Note</italic>. Sample is restricted to only non-elderly adults
+with income &lt;100% FPL. All regressions control for age, gender,
+education, race/ethnicity, marital status, employment status, number of
+children, whether the respondent was part of the cell phone sample,
+unemployment rate, per capita income, and state EITC indicator.
+COVID-related state policies include stay-at-home orders, state of
+emergency declaration, and restaurant closures and reopening.
+Regressions estimates are adjusted using the BRFSS sampling weights.
+Robust standard errors are clustered at the state-level.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-fig2.jpg"/></fig></sec><sec id="section9-00469580231166738"><title>Medicaid Expansion Effects Among Demographic Subgroups</title><p><xref rid="fig3-00469580231166738" ref-type="fig">Figures 3</xref> to <xref rid="fig6-00469580231166738" ref-type="fig">6</xref> report the event study
+difference-in-differences estimates for the number of days not in good mental
+health and frequent mental distress among demographic subgroups by age,
+race/ethnicity, gender, and having children in the household or not. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 2</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">3</ext-link> show the detailed estimates.</p><fig position="float" id="fig3-00469580231166738" orientation="portrait"><label>Figure 3.</label><caption><p>Event study estimates of the Medicaid expansion effects on the number of
+days in poor mental health in the past 30&#8201;days and frequent mental
+distress by age groups, BRFSS 2017-2021</p><p><italic toggle="yes">Note</italic>. Sample is restricted to only non-elderly adults
+with income &lt;100% FPL. All regressions control for age, gender,
+education, race/ethnicity, marital status, employment status, number of
+children, whether the respondent was part of the cell phone sample,
+unemployment rate, per capita income, and state EITC indicator.
+COVID-related state policies include stay-at-home orders, state of
+emergency declaration, and restaurant closures and reopening.
+Regressions estimates are adjusted using the BRFSS sampling weights.
+Robust standard errors are clustered at the state-level.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-fig3.jpg"/></fig><fig position="float" id="fig4-00469580231166738" orientation="portrait"><label>Figure 4.</label><caption><p>Event study estimates of the Medicaid expansion effects on the number of
+days in poor mental health in the past 30&#8201;days and frequent mental
+distress by gender, BRFSS 2017-2021.</p><p><italic toggle="yes">Note</italic>. Sample is restricted to only non-elderly adults
+with income &lt;100% FPL. All regressions control for age, gender,
+education, race/ethnicity, marital status, employment status, number of
+children, whether the respondent was part of the cell phone sample,
+unemployment rate, per capita income, and state EITC indicator.
+COVID-related state policies include stay-at-home orders, state of
+emergency declaration, and restaurant closures and reopening.
+Regressions estimates are adjusted using the BRFSS sampling weights.
+Robust standard errors are clustered at the state-level.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-fig4.jpg"/></fig><fig position="float" id="fig5-00469580231166738" orientation="portrait"><label>Figure 5.</label><caption><p>Event study estimates of the medicaid expansion effects on the number of
+days in poor mental health in the past 30&#8201;days and frequent mental
+distress by race/ethnicity, BRFSS 2017-2021.</p><p><italic toggle="yes">Note.</italic> Sample is restricted to only non-elderly adults
+with income &lt;100% FPL. All regressions control for age, gender,
+education, race/ethnicity, marital status, employment status, number of
+children, whether the respondent was part of the cell phone sample,
+unemployment rate, per capita income, and state EITC indicator.
+COVID-related state policies include stay-at-home orders, state of
+emergency declaration, and restaurant closures and reopening.
+Regressions estimates are adjusted using the BRFSS sampling weights.
+Robust standard errors are clustered at the state-level.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-fig5.jpg"/></fig><fig position="float" id="fig6-00469580231166738" orientation="portrait"><label>Figure 6.</label><caption><p>Event study estimates of the Medicaid expansion effects on the number of
+days in poor mental health in the past 30&#8201;days and frequent mental
+distress by parental status, BRFSS 2017-2021.</p><p><italic toggle="yes">Note</italic>. Sample is restricted to only non-elderly adults
+with income &lt;100% FPL. All regressions control for age, gender,
+education, race/ethnicity, marital status, employment status, number of
+children, whether the respondent was part of the cell phone sample,
+unemployment rate, per capita income, and state EITC indicator.
+COVID-related state policies include stay-at-home orders, state of
+emergency declaration, and restaurant closures and reopening.
+Regressions estimates are adjusted using the BRFSS sampling weights.
+Robust standard errors are clustered at the state-level.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_00469580231166738-fig6.jpg"/></fig><p>Comparing by age (<xref rid="fig3-00469580231166738" ref-type="fig">Figure
+3</xref>), we find that for 25 to 34-year-old, the ACA Medicaid expansion is
+associated with a 1.8 fewer days not in good mental health
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05) and 5.8 percentage point
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.1) lower likelihood of frequent mental distress in
+2021. The pre-trend differences between expansion and non-expansion states are
+statistically significant for this group, but they are in the opposite
+direction, suggesting that the Medicaid expansion effect is unlikely to be
+biased in direction. For 35 to 44-year-old individuals, the expansion is
+associated with 1.9 (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.01) and 1.4
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.1) fewer days not in good mental health in 2020 and
+2021 respectively. During the same period, there is an 8 percentage-point
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.01) and 7 percentage-point
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05) lower likelihood of frequent mental distress in
+those years, respectively. There are no statistically significant pre-trend
+differences for this age group. Estimates are smaller and statistically
+non-significant for the other age groups.</p><p>When stratifying by gender (<xref rid="fig4-00469580231166738" ref-type="fig">Figure 4</xref>), we find that among females the expansion is associated
+with 0.8 (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05) and 0.9 (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05)
+fewer days not in good mental health in 2020 and 2021, and with lower likelihood
+of frequent mental distress reduced by 3.5 (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05) and 3.9
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.01) percentage-points, respectively, without
+statistically significant pre-trend differences. Estimates for males are smaller
+and statistically non-significant and are of the opposite direction in 2020.</p><p>Comparing across race/ethnicity (<xref rid="fig5-00469580231166738" ref-type="fig">Figure 5</xref>), we find that for non-Hispanic
+Black individuals, the expansion is associated with 1.8 fewer days not in good
+mental health (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.1) in 2020 and with 6.9 percentage-point
+lower likelihood of frequent mental distress (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.1) in
+2021. Among other non-Hispanic, non-White individuals, there are 2.1 fewer days
+not in good mental health (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05) and 9.3 percentage-point
+lower likelihood of frequent mental distress (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.05) in
+2021. In this group, there is marginally significant difference in the 2017-2019
+pre-trend between expansion and non-expansion states although of the opposite
+direction to the 2021 effect estimate. The Medicaid expansion effect estimates
+are smaller for the other groups and statistically non-significant. Finally, the
+Medicaid expansion is associated with a 3.5 percentage-point lower likelihood of
+frequent mental distress in households without children in 2021
+(<italic toggle="yes">P</italic>&#8201;&lt;&#8201;.1), though the 2017-2019 pre-trend difference is
+marginally significant and of the opposite direction. This estimate is close
+although not statistically significant for households with children. (<xref rid="fig6-00469580231166738" ref-type="fig">Figure 6</xref>). The subgroup
+estimates are similar excluding observations interviewed in January and February
+in 2020 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 4</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">5</ext-link>).</p><p>The unweighted estimates by the demographic subgroups are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 6</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">7</ext-link>. These estimates suggest improvement in mental health for 25
+to 34&#8201;year-old, non-Hispanic Black, and other non-Hispanic, non-White
+individuals. However, the unweighted estimates are smaller (in absolute value)
+for females and are not statistically significant, suggested effect
+heterogeneity across states.</p></sec><sec id="section10-00469580231166738"><title>Medicaid Expansion Effects on Coverage</title><p>Supplemental Appendix Table 8 to 13 presents the estimates for the expansion
+effects on coverage on the full sample and subgroups using the BRFSS, ACS, and
+CMS Medicaid enrollment data. The results indicate no incremental effects on
+coverage during the pandemic using the BRFSS and Medicaid enrollment data
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 8</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">9</ext-link>). Using the ACS data, there is a 1.4 percentage-point increase
+in Medicaid coverage in 2020 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Table 8</ext-link>). Across subgroups, there is
+suggestive evidence of an effect from the expansions on coverage in 2020 or 2021
+among individuals aged 25 to 34-year-old, Male, non-Hispanic White and other,
+and childless adults (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">Supplemental Appendix Tables 10</ext-link>&#8211;<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/00469580231166738" ext-link-type="uri">13</ext-link>). However, the results using the ACS data should be
+interpreted cautiously given the concern about non-response bias in the ACS in
+2020 associated with the pandemic.<sup><xref rid="bibr57-00469580231166738" ref-type="bibr">57</xref>,<xref rid="bibr58-00469580231166738" ref-type="bibr">58</xref></sup></p></sec></sec><sec sec-type="discussion" id="section11-00469580231166738"><title>Discussion</title><p>This study evaluates whether previous Medicaid expansions had an added effect on
+mental health during the COVID-19 pandemic in 2020-2021-era. Specifically, the study
+compares the mental health of low-income adults during those years of the pandemic
+compared to before between states that had expanded Medicaid by 2016 and those that
+had not expanded Medicaid by 2021 using an event study difference-in-differences
+design and data from BRFSS. We find some evidence that the Medicaid expansion is
+associated with better mental health, particularly among adults younger than
+45&#8201;years, females, and non-Hispanic Black and other non-Hispanic, non-White
+individuals. The pandemic and pandemic-related economic hardship had widespread
+effects on the population, particularly among low-income, Black, women, and young
+adult populations. The findings suggest that access to Medicaid coverage during an
+economic and public health crisis may partially offset some of the negative
+financial and health impacts of the pandemic, in this case, effects on mental
+health.</p><p>The suggested benefit to mental health from higher Medicaid eligibility might result
+from greater access to needed mental health treatments among those experiencing
+mental health problems. Before the pandemic, the ACA Medicaid expansions had been
+associated with an increase in mental health care utilization,<sup><xref rid="bibr13-00469580231166738" ref-type="bibr">13</xref>,<xref rid="bibr59-00469580231166738" ref-type="bibr">59</xref></sup> access to
+care for people with mental distress,<sup><xref rid="bibr60-00469580231166738" ref-type="bibr">60</xref>,<xref rid="bibr61-00469580231166738" ref-type="bibr">61</xref></sup> and availability of mental
+health treatments.<sup><xref rid="bibr12-00469580231166738" ref-type="bibr">12</xref>,<xref rid="bibr21-00469580231166738" ref-type="bibr">21</xref></sup> The pandemic created barriers to and disrupted the delivery of
+mental health care. Overall, outpatient services declined 60% in the early months of
+the pandemic in 2020 as providers made practice adjustments and deferred
+non-emergency services. Similarly, studies report a decline in initiation of mental
+health medications during the pandemic.<sup><xref rid="bibr62-00469580231166738" ref-type="bibr">62</xref>,<xref rid="bibr63-00469580231166738" ref-type="bibr">63</xref></sup> However, low-income
+individuals with Medicaid coverage in expansion states may have had greater access
+to mental health services during the pandemic than individuals with similar income
+in non-expansion states, including via telehealth care which some state Medicaid
+programs expanded during the pandemic.<sup>
+<xref rid="bibr64-00469580231166738" ref-type="bibr">64</xref>
+</sup> Studies show that the utilization of telehealth for mental health conditions
+increased during the pandemic,<sup>
+<xref rid="bibr63-00469580231166738" ref-type="bibr">63</xref>
+</sup> specifically among young adults,<sup>
+<xref rid="bibr65-00469580231166738" ref-type="bibr">65</xref>
+</sup> females,<sup>
+<xref rid="bibr66-00469580231166738" ref-type="bibr">66</xref>
+</sup> and individuals with serious mental illness.<sup>
+<xref rid="bibr67-00469580231166738" ref-type="bibr">67</xref>
+</sup> In addition to greater access to services, there is also the possibility of
+an added effect on financial security during the pandemic as noted above. Before the
+pandemic, Medicaid expansion has been associated with a reduction in financial distress,<sup>
+<xref rid="bibr68-00469580231166738" ref-type="bibr">68</xref>
+</sup> specifically among non-Hispanic Black individuals.<sup>
+<xref rid="bibr24-00469580231166738" ref-type="bibr">24</xref>
+</sup> Because coverage protects against the financial shocks of unexpected
+catastrophic medical events, it may confer &#8220;feelings of security&#8221; that may improve
+mental health among individuals that are more likely to be impacted.<sup><xref rid="bibr18-00469580231166738" ref-type="bibr">18</xref>,<xref rid="bibr22-00469580231166738" ref-type="bibr">22</xref></sup> However,
+BRFSS does not provide data to investigate these potential mechanisms, which we
+leave for future research.</p><p>A related question is whether there was an incremental effect on Medicaid enrollment
+in expansion states that would lead to an added benefit on mental health among the
+income eligible population. Using multiple data sources-BRFSS, ACS, and the Centers
+for Medicare &amp; Medicaid Services (CMS) Medicaid enrollment data from 2017 to
+2021, we find some evidence of an incremental effect on coverage and across some
+subpopulation groups using the ACS data indicating that some of the added benefit to
+mental health during the pandemic may have resulted from gains in access to Medicaid
+coverage in expansion states. However, this result should be interpreted with
+caution due to concerns about survey quality issues in 2020.<sup>
+<xref rid="bibr57-00469580231166738" ref-type="bibr">57</xref>
+</sup> CMS reports an increase in Medicaid enrollment nationally during the
+pandemic, although this appears to be largely driven by the FFCRA maintenance of
+eligibility and continuous enrollment rather than new applicants.<sup><xref rid="bibr69-00469580231166738" ref-type="bibr">69</xref>,<xref rid="bibr70-00469580231166738" ref-type="bibr">70</xref></sup> Also, our
+study excludes states that expanded after 2016 including those that expanded during
+the pandemic which may have experienced different effects on coverage.</p><p>The temporary FMAP with the continuous eligibility and enrollment provisions are
+scheduled to end in 2023. Continuous eligibility and enrollment are scheduled to
+expire on the 31st of March and the temporary FMAP will gradually phase out by
+December 2023.<sup>
+<xref rid="bibr71-00469580231166738" ref-type="bibr">71</xref>
+</sup> Reversing these provisions may lead to breaks in or loss of coverage if
+individuals encounter barriers related to providing required documentation for
+Medicaid redetermination.<sup>
+<xref rid="bibr70-00469580231166738" ref-type="bibr">70</xref>
+</sup> Such coverage interruptions may reduce access to needed mental health
+services. Reforms to facilitate enrollment and limit coverage interruptions for
+eligible adults are needed not only during the pandemic but also after that,
+especially if the pandemic has long-term effects on mental health.</p><p>This study has limitations. The measures for poor mental health in the BRFSS are
+self-reported, leaving the possibility for measurement error. However, measurement
+errors are unlikely to be associated with Medicaid expansion or to bias the
+estimates. The pandemic may have disrupted data collection processes among states.
+However, we do not expect that these changes will bias the results unless changes in
+data collection during this period systematically differed between expansion and
+non-expansion states. Another caveat is that even though studies using other data
+report declining mental health conditions in the general population and among
+subpopulation groups during the pandemic,<sup><xref rid="bibr6-00469580231166738" ref-type="bibr">6</xref>,<xref rid="bibr27-00469580231166738" ref-type="bibr">27</xref>,<xref rid="bibr35-00469580231166738" ref-type="bibr">35</xref>,<xref rid="bibr72-00469580231166738" ref-type="bibr">72</xref></sup> mental health trends before
+and after the pandemic using the BRFSS data seem to suggest less of an effect from
+the pandemic on mental health in 2020 than other surveys. Depending on the data
+source and timing of the survey, estimates of the pandemic&#8217;s effects on mental
+health may differ in magnitude.<sup>
+<xref rid="bibr73-00469580231166738" ref-type="bibr">73</xref>
+</sup> One study reported an increase in anxiety and depression in 2020 using the
+Household Pulse Survey (HPS) and the National Health Interview Survey (NHIS) but
+reported an opposite trend using BRFSS data (consistent with the trends in
+descriptive <xref rid="fig1-00469580231166738" ref-type="fig">Figure 1</xref>).<sup>
+<xref rid="bibr74-00469580231166738" ref-type="bibr">74</xref>
+</sup> However, any potential bias in mental health trends during the pandemic in a
+given survey would only influence the Medicaid expansion effects if this bias
+differed between expansion and non-expansion states. Furthermore, there is a sharp
+increase in days not in good mental health in 2021 in the BRFSS as noted above. In
+any case, it would be important to replicate this study using other national
+datasets, including the NHIS (which would require access to the restricted data
+since state geocodes are not publicly available in that dataset). Since the HPS
+started during the pandemic, it would not be possible to evaluate pre-trends between
+expansion and non-expansion states in that dataset; therefore, its value for
+understanding the Medicaid expansion effects in this particular case is limited.</p></sec><sec sec-type="conclusions" id="section12-00469580231166738"><title>Conclusion</title><p>We find that previous ACA Medicaid expansions are associated with an added benefit to
+the mental health of individuals below 100% FPL in 2020-2021 during the COVID-19
+pandemic. This association does not appear to result from a larger increase in new
+enrollment in expansion states in that year compared to non-expansion states but
+rather from prior and continuing coverage. This finding adds to the evidence of the
+health benefits from the Medicaid expansions to income-eligible individuals,
+including during public health and economic crises.</p></sec><sec sec-type="supplementary-material" id="section13-00469580231166738" specific-use="figshare"><title>Supplemental Material</title><supplementary-material id="suppl1-00469580231166738" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-docx-1-inq-10.1177_00469580231166738 &#8211; Supplemental material for
+Effects of the Affordable Care Act Medicaid Expansions on Mental Health
+During the COVID-19 Pandemic in 2020-2021</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-docx-1-inq-10.1177_00469580231166738.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-docx-1-inq-10.1177_00469580231166738 for Effects of the
+Affordable Care Act Medicaid Expansions on Mental Health During the COVID-19
+Pandemic in 2020-2021 by Onyinye Oyeka and George L. Wehby in INQUIRY: The
+Journal of Health Care Organization, Provision, and Financing</p></supplementary-material></sec></body><back><fn-group><fn fn-type="COI-statement"><p>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn><fn fn-type="other"><p><bold>Presence of Declarations, and Ethics and Consent statements:</bold> Our study does not require an ethical board approval because we use publicly
+available and deidentified data.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Onyinye Oyeka <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_00469580231166738-img1.jpg"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-6003-0979" ext-link-type="uri">https://orcid.org/0000-0002-6003-0979</ext-link></p></fn><fn fn-type="supplementary-material"><p><bold>Supplemental Material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-00469580231166738"><label>1</label><mixed-citation publication-type="book"><collab>U. S. Bureau of Labor
+Statistics</collab>. <source>Supplemental Data Measuring the Effects of the
+Coronavirus (COVID-19) Pandemic on the Labor Market</source>.
+<publisher-name>U. S. Bureau of Labor Statistics</publisher-name>;
+<year>2020</year>. Accessed December 14, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.bls.gov/cps/effects-of-the-coronavirus-covid-19-pandemic.htm#highlights" ext-link-type="uri">https://www.bls.gov/cps/effects-of-the-coronavirus-covid-19-pandemic.htm#highlights</ext-link></mixed-citation></ref><ref id="bibr2-00469580231166738"><label>2</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Fronstin</surname><given-names>P</given-names></name><name name-style="western"><surname>Woodbury</surname><given-names>SA</given-names></name></person-group>. <source>How Many Americans Have Lost Jobs with Employer Health
+Coverage During the Pandemic?</source><publisher-name>The Commonwealth
+Fund</publisher-name>; <year>2020</year>. <comment>Accessed December 14,
+2021</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.commonwealthfund.org/publications/issue-briefs/2020/oct/how-many-lost-jobs-employer-coverage-pandemic" ext-link-type="uri">https://www.commonwealthfund.org/publications/issue-briefs/2020/oct/how-many-lost-jobs-employer-coverage-pandemic</ext-link></mixed-citation></ref><ref id="bibr3-00469580231166738"><label>3</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Kochhar</surname><given-names>R</given-names></name></person-group>. <source>Unemployment Rate is Higher Than Officially Recorded,
+More so for Women and Certain Other Groups</source>. <publisher-name>Pew
+Research Center</publisher-name>; <year>2020</year>. <comment>Accessed
+December 14, 2021</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.pewresearch.org/fact-tank/2020/06/30/unemployment-rate-is-higher-than-officially-recorded-more-so-for-women-and-certain-other-groups/" ext-link-type="uri">https://www.pewresearch.org/fact-tank/2020/06/30/unemployment-rate-is-higher-than-officially-recorded-more-so-for-women-and-certain-other-groups/</ext-link></mixed-citation></ref><ref id="bibr4-00469580231166738"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Guerin</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Barile</surname><given-names>JP</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>WW</given-names></name><name name-style="western"><surname>McKnight-Eily</surname><given-names>L</given-names></name><name name-style="western"><surname>Okun</surname><given-names>AH.</given-names></name></person-group><article-title>Investigating the impact of job loss and decreased
+work hours on physical and mental health outcomes among US adults during the
+COVID-19 pandemic</article-title>. <source>J Occup Environ Med</source>.
+<year>2021</year>;<volume>63</volume>(<issue>9</issue>):e571-e579.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JOM.0000000000002288</pub-id><pub-id pub-id-type="pmcid">PMC10336428</pub-id><pub-id pub-id-type="pmid">34091576</pub-id></mixed-citation></ref><ref id="bibr5-00469580231166738"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Br&#252;lhart</surname><given-names>M</given-names></name><name name-style="western"><surname>Klotzb&#252;cher</surname><given-names>V</given-names></name><name name-style="western"><surname>Lalive</surname><given-names>R</given-names></name><name name-style="western"><surname>Reich</surname><given-names>SK.</given-names></name></person-group><article-title>Mental health concerns during the COVID-19
+pandemic as revealed by helpline calls</article-title>.
+<source>Nature</source>.
+<year>2021</year>;<volume>600</volume>(<issue>7887</issue>):<fpage>121</fpage>-<lpage>126</lpage>.
+doi:<pub-id pub-id-type="doi">10.1038/s41586-021-04099-6</pub-id><pub-id pub-id-type="pmid">34789873</pub-id><pub-id pub-id-type="pmcid">PMC9973557</pub-id></mixed-citation></ref><ref id="bibr6-00469580231166738"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sojli</surname><given-names>E</given-names></name><name name-style="western"><surname>Tham</surname><given-names>WW</given-names></name><name name-style="western"><surname>Bryant</surname><given-names>R</given-names></name><name name-style="western"><surname>McAleer</surname><given-names>M.</given-names></name></person-group><article-title>COVID-19 restrictions and age-specific mental
+health-U.S. probability-based panel evidence</article-title>. <source>Transl
+Psychiatry</source>.
+<year>2021</year>;<volume>11</volume>(<issue>1</issue>):<fpage>418</fpage>.
+doi:<pub-id pub-id-type="doi">10.1038/s41398-021-01537-x</pub-id><pub-id pub-id-type="pmid">34349100</pub-id><pub-id pub-id-type="pmcid">PMC8336527</pub-id></mixed-citation></ref><ref id="bibr7-00469580231166738"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Leigh-Hunt</surname><given-names>N</given-names></name><name name-style="western"><surname>Bagguley</surname><given-names>D</given-names></name><name name-style="western"><surname>Bash</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>An overview of systematic
+reviews on the public health consequences of social isolation and
+loneliness</article-title>. <source>Public Health</source>.
+<year>2017</year>;<volume>152</volume>:<fpage>157</fpage>-<lpage>171</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.puhe.2017.07.035</pub-id><pub-id pub-id-type="pmid">28915435</pub-id></mixed-citation></ref><ref id="bibr8-00469580231166738"><label>8</label><mixed-citation publication-type="book"><collab>National Institute of Mental
+Health</collab>. <source>Mental Illness</source>. <publisher-name>National
+Institute of Mental Health</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nimh.nih.gov/health/statistics/mental-illness" ext-link-type="uri">https://www.nimh.nih.gov/health/statistics/mental-illness</ext-link></mixed-citation></ref><ref id="bibr9-00469580231166738"><label>9</label><mixed-citation publication-type="book"><collab>Substance Abuse and Mental Health
+Services Administration</collab>. <source>Substance Use and Mental Health
+Estimates from the 2013 National Survey on Drug Use and Health</source>.
+<publisher-name>Substance Abuse and Mental Health Services
+Administration</publisher-name>; <year>2014</year>. Accessed August 18,
+2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.samhsa.gov/data/sites/default/files/NSDUH-SR200-RecoveryMonth-2014/NSDUH-SR200-RecoveryMonth-2014.htm" ext-link-type="uri">https://www.samhsa.gov/data/sites/default/files/NSDUH-SR200-RecoveryMonth-2014/NSDUH-SR200-RecoveryMonth-2014.htm</ext-link></mixed-citation></ref><ref id="bibr10-00469580231166738"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Walker</surname><given-names>ER</given-names></name><name name-style="western"><surname>Cummings</surname><given-names>JR</given-names></name><name name-style="western"><surname>Hockenberry</surname><given-names>JM</given-names></name><name name-style="western"><surname>Druss</surname><given-names>BG.</given-names></name></person-group><article-title>Insurance status, use of mental health services,
+and unmet need for mental health care in the United States</article-title>.
+<source>Psychiatr Serv</source>.
+<year>2015</year>;<volume>66</volume>(<issue>6</issue>):<fpage>578</fpage>-<lpage>584</lpage>.
+doi:<pub-id pub-id-type="doi">10.1176/appi.ps.201400248</pub-id><pub-id pub-id-type="pmid">25726980</pub-id><pub-id pub-id-type="pmcid">PMC4461054</pub-id></mixed-citation></ref><ref id="bibr11-00469580231166738"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Garfield</surname><given-names>RL</given-names></name><name name-style="western"><surname>Lave</surname><given-names>JR</given-names></name><name name-style="western"><surname>Donohue</surname><given-names>JM.</given-names></name></person-group><article-title>Health reform and the scope of benefits for mental
+health and substance use disorder services</article-title>.
+<source>Psychiatr Serv</source>.
+<year>2010</year>;<volume>61</volume>(<issue>11</issue>):<fpage>1081</fpage>-<lpage>1086</lpage>.
+doi:<pub-id pub-id-type="doi">10.1176/ps.2010.61.11.1081</pub-id><pub-id pub-id-type="pmid">21041345</pub-id></mixed-citation></ref><ref id="bibr12-00469580231166738"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Blunt</surname><given-names>EO</given-names></name><name name-style="western"><surname>Maclean</surname><given-names>JC</given-names></name><name name-style="western"><surname>Popovici</surname><given-names>I</given-names></name><name name-style="western"><surname>Marcus</surname><given-names>SC.</given-names></name></person-group><article-title>Public insurance expansions and mental health care
+availability</article-title>. <source>Health Serv Res</source>.
+<year>2020</year>;<volume>55</volume>(<issue>4</issue>):<fpage>615</fpage>-<lpage>625</lpage>.
+doi:<pub-id pub-id-type="doi">10.1111/1475-6773.13311</pub-id><pub-id pub-id-type="pmid">32700388</pub-id><pub-id pub-id-type="pmcid">PMC7375998</pub-id></mixed-citation></ref><ref id="bibr13-00469580231166738"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Breslau</surname><given-names>J</given-names></name><name name-style="western"><surname>Han</surname><given-names>B</given-names></name><name name-style="western"><surname>Lai</surname><given-names>J</given-names></name><name name-style="western"><surname>Yu</surname><given-names>H.</given-names></name></person-group><article-title>Impact of the Affordable Care Act Medicaid
+expansion on utilization of mental health care</article-title>. <source>Med
+Care</source>.
+<year>2020</year>;<volume>58</volume>(<issue>9</issue>):<fpage>757</fpage>-<lpage>762</lpage>.
+doi:<pub-id pub-id-type="doi">10.1097/MLR.0000000000001373</pub-id><pub-id pub-id-type="pmid">32732786</pub-id><pub-id pub-id-type="pmcid">PMC7483910</pub-id></mixed-citation></ref><ref id="bibr14-00469580231166738"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Simon</surname><given-names>K</given-names></name><name name-style="western"><surname>Soni</surname><given-names>A</given-names></name><name name-style="western"><surname>Cawley</surname><given-names>J.</given-names></name></person-group><article-title>The impact of health insurance on preventive care
+and health behaviors: evidence from the first two years of the ACA Medicaid
+expansions</article-title>. <source>J Policy Anal Manag</source>.
+<year>2017</year>;<volume>36</volume>(<issue>2</issue>):<fpage>390</fpage>-<lpage>417</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/pam.21972</pub-id><pub-id pub-id-type="pmid">28378959</pub-id></mixed-citation></ref><ref id="bibr15-00469580231166738"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Winkelman</surname><given-names>TNA</given-names></name><name name-style="western"><surname>Chang</surname><given-names>VW.</given-names></name></person-group><article-title>Medicaid expansion, mental health, and access to
+care among childless adults with and without chronic
+conditions</article-title>. <source>J Gen Intern Med</source>.
+<year>2018</year>;<volume>33</volume>(<issue>3</issue>):<fpage>376</fpage>-<lpage>383</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s11606-017-4217-5</pub-id><pub-id pub-id-type="pmid">29181792</pub-id><pub-id pub-id-type="pmcid">PMC5834959</pub-id></mixed-citation></ref><ref id="bibr16-00469580231166738"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Griffith</surname><given-names>KN</given-names></name><name name-style="western"><surname>Bor</surname><given-names>JH.</given-names></name></person-group><article-title>Changes in health care access, behaviors, and
+self-reported health among low-income US adults through the fourth year of
+the Affordable Care Act</article-title>. <source>Med Care</source>.
+<year>2020</year>;<volume>58</volume>(<issue>6</issue>):<fpage>574</fpage>-<lpage>578</lpage>.
+doi:<pub-id pub-id-type="doi">10.1097/MLR.0000000000001321</pub-id><pub-id pub-id-type="pmid">32221101</pub-id><pub-id pub-id-type="pmcid">PMC8133296</pub-id></mixed-citation></ref><ref id="bibr17-00469580231166738"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cawley</surname><given-names>J</given-names></name><name name-style="western"><surname>Soni</surname><given-names>A</given-names></name><name name-style="western"><surname>Simon</surname><given-names>K</given-names></name></person-group>. <article-title>Third year of survey data shows continuing
+benefits of Medicaid expansions for Low-Income childless adults in the
+U.S</article-title>. <source>J Gen Intern Med</source>.
+<year>2018</year>;<volume>33</volume>(<issue>9</issue>):<fpage>1495</fpage>-<lpage>1497</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s11606-018-4537-0</pub-id><pub-id pub-id-type="pmid">29943107</pub-id><pub-id pub-id-type="pmcid">PMC6109019</pub-id></mixed-citation></ref><ref id="bibr18-00469580231166738"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>McMorrow</surname><given-names>S</given-names></name><name name-style="western"><surname>Gates</surname><given-names>JA</given-names></name><name name-style="western"><surname>Long</surname><given-names>SK</given-names></name><name name-style="western"><surname>Kenney</surname><given-names>GM.</given-names></name></person-group><article-title>Medicaid expansion increased coverage, improved
+affordability, and reduced psychological distress for low-income
+parents</article-title>. <source>Health Aff</source>.
+<year>2017</year>;<volume>36</volume>(<issue>5</issue>):<fpage>808</fpage>-<lpage>818</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2016.1650</pub-id><pub-id pub-id-type="pmid">28461346</pub-id></mixed-citation></ref><ref id="bibr19-00469580231166738"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Winkelman</surname><given-names>TNA</given-names></name><name name-style="western"><surname>Segel</surname><given-names>JE</given-names></name><name name-style="western"><surname>Davis</surname><given-names>MM</given-names></name></person-group>. <article-title>Medicaid enrollment among previously uninsured
+Americans and associated outcomes by race/ethnicity-United States,
+2008-2014</article-title>. <source>Health Serv Res</source>.
+<year>2019</year>;<volume>54</volume>:<fpage>297</fpage>-<lpage>306</lpage>.
+doi:<pub-id pub-id-type="doi">10.1111/1475-6773.13085</pub-id><pub-id pub-id-type="pmid">30394525</pub-id><pub-id pub-id-type="pmcid">PMC6341200</pub-id></mixed-citation></ref><ref id="bibr20-00469580231166738"><label>20</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Courtemanche</surname><given-names>C</given-names></name><name name-style="western"><surname>Zapata</surname><given-names>D</given-names></name></person-group>. <source>Does Universal Coverage Improve Health? The
+Massachusetts Experience</source>. <publisher-name>National Bureau of
+Economic Research</publisher-name>; <year>2012</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pam.21737</pub-id><pub-id pub-id-type="pmid">24358528</pub-id></mixed-citation></ref><ref id="bibr21-00469580231166738"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Baicker</surname><given-names>K</given-names></name><name name-style="western"><surname>Allen</surname><given-names>HL</given-names></name><name name-style="western"><surname>Wright</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Taubman</surname><given-names>SL</given-names></name><name name-style="western"><surname>Finkelstein</surname><given-names>AN.</given-names></name></person-group><article-title>The effect of Medicaid on management of
+depression: evidence from the Oregon Health Insurance
+experiment</article-title>. <source>Milbank Q</source>.
+<year>2018</year>;<volume>96</volume>(<issue>1</issue>):<fpage>29</fpage>-<lpage>56</lpage>.
+doi:<pub-id pub-id-type="doi">10.1111/1468-0009.12311</pub-id><pub-id pub-id-type="pmid">29504203</pub-id><pub-id pub-id-type="pmcid">PMC5835676</pub-id></mixed-citation></ref><ref id="bibr22-00469580231166738"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Finkelstein</surname><given-names>A</given-names></name><name name-style="western"><surname>Taubman</surname><given-names>S</given-names></name><name name-style="western"><surname>Wright</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal>. <article-title>The Oregon Health Insurance
+Experiment: evidence from the first year</article-title>. <source>Q J
+Econ</source>.
+<year>2012</year>;<volume>127</volume>(<issue>3</issue>):<fpage>1057</fpage>-<lpage>1106</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/qje/qjs020</pub-id><pub-id pub-id-type="pmid">23293397</pub-id><pub-id pub-id-type="pmcid">PMC3535298</pub-id></mixed-citation></ref><ref id="bibr23-00469580231166738"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wehby</surname><given-names>GL</given-names></name><name name-style="western"><surname>Lyu</surname><given-names>W.</given-names></name></person-group><article-title>The impact of the ACA Medicaid expansions on
+health insurance coverage through 2015 and coverage disparities by age,
+race/ethnicity, and gender</article-title>. <source>Health Serv
+Res</source>.
+<year>2018</year>;<volume>53</volume>(<issue>2</issue>):<fpage>1248</fpage>-<lpage>1271</lpage>.<pub-id pub-id-type="pmid">28517042</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1475-6773.12711</pub-id><pub-id pub-id-type="pmcid">PMC5867173</pub-id></mixed-citation></ref><ref id="bibr24-00469580231166738"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shadowen</surname><given-names>H</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>M</given-names></name><name name-style="western"><surname>Guerra</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal>. <article-title>Virginia Medicaid expansion:
+new members report reduced financial concerns during the COVID-19
+pandemic</article-title>. <source>Health Aff</source>.
+<year>2022</year>;<volume>41</volume>:<fpage>1078</fpage>-<lpage>1087</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2021.01910</pub-id><pub-id pub-id-type="pmid">35858118</pub-id></mixed-citation></ref><ref id="bibr25-00469580231166738"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sances</surname><given-names>MW</given-names></name><name name-style="western"><surname>Campbell</surname><given-names>AL.</given-names></name></person-group><article-title>State policy and mental health outcomes under
+COVID-19</article-title>. <source>J Health Polit Policy Law</source>.
+<year>2021</year>;<volume>46</volume>(<issue>5</issue>):<fpage>811</fpage>-<lpage>830</lpage>.
+doi:<pub-id pub-id-type="doi">10.1215/03616878-9155991</pub-id><pub-id pub-id-type="pmid">33765132</pub-id></mixed-citation></ref><ref id="bibr26-00469580231166738"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Forbes</surname><given-names>MK</given-names></name><name name-style="western"><surname>Krueger</surname><given-names>RF.</given-names></name></person-group><article-title>The Great Recession and mental health in the
+United States</article-title>. <source>Clin Psychol Sci</source>.
+<year>2019</year>;<volume>7</volume>(<issue>5</issue>):<fpage>900</fpage>-<lpage>913</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/2167702619859337</pub-id><pub-id pub-id-type="pmid">32775044</pub-id><pub-id pub-id-type="pmcid">PMC7413622</pub-id></mixed-citation></ref><ref id="bibr27-00469580231166738"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>H</given-names></name><name name-style="western"><surname>Singh</surname><given-names>GK.</given-names></name></person-group><article-title>Monthly trends in self-reported health status and
+depression by race/ethnicity and socioeconomic status during the COVID-19
+pandemic, United States, April 2020 &#8211; May 2021</article-title>. <source>Ann
+Epidemiol</source>.
+<year>2021</year>;<volume>63</volume>:<fpage>52</fpage>-<lpage>62</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.annepidem.2021.07.014</pub-id><pub-id pub-id-type="pmid">34358622</pub-id><pub-id pub-id-type="pmcid">PMC8435379</pub-id></mixed-citation></ref><ref id="bibr28-00469580231166738"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jia</surname><given-names>H</given-names></name><name name-style="western"><surname>Guerin</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Barile</surname><given-names>JP</given-names></name></person-group>, <etal>et al</etal>. <article-title>National and state trends in
+anxiety and depression severity scores among adults during the COVID-19
+pandemic - United States, 2020-2021</article-title>. <source>MMWR Morb
+Mortal Wkly Rep</source>.
+<year>2021</year>;<volume>70</volume>:<fpage>1427</fpage>-<lpage>1432</lpage>.<pub-id pub-id-type="pmid">34618798</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15585/mmwr.mm7040e3</pub-id></mixed-citation></ref><ref id="bibr29-00469580231166738"><label>29</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Weissbourd</surname><given-names>R</given-names></name><name name-style="western"><surname>Batanova</surname><given-names>M</given-names></name><name name-style="western"><surname>Lovison</surname><given-names>V</given-names></name><name name-style="western"><surname>Torres</surname><given-names>E</given-names></name></person-group>. <source>Loneliness in America: How the Pandemic Has Deepened an
+Epidemic of Loneliness and What We Can Do About It. Making Caring Common
+Project</source>. <publisher-name>Harvard Graduate School of
+Education</publisher-name>; <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://static1.squarespace.com/static/5b7c56e255b02c683659fe43/t/6021776bdd04957c4557c212/1612805995893/Loneliness+in+America+2021_02_08_FINAL.pdf" ext-link-type="uri">https://static1.squarespace.com/static/5b7c56e255b02c683659fe43/t/6021776bdd04957c4557c212/1612805995893/Loneliness+in+America+2021_02_08_FINAL.pdf</ext-link></mixed-citation></ref><ref id="bibr30-00469580231166738"><label>30</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Perlis</surname><given-names>RH</given-names></name><name name-style="western"><surname>Green</surname><given-names>J</given-names></name><name name-style="western"><surname>Guo</surname><given-names>Z</given-names></name></person-group>, <etal>et al</etal>. <source>The Covid States Project: A
+50-State Covid-19 Survey Report #84: Covid-19 Deaths and
+Depression</source>. <publisher-name>The COVID State Project</publisher-name>;
+2022. Accessed December 14, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.covidstates.org/reports/covid-19-deaths-and-depression" ext-link-type="uri">https://www.covidstates.org/reports/covid-19-deaths-and-depression</ext-link></mixed-citation></ref><ref id="bibr31-00469580231166738"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Augustine</surname><given-names>JM</given-names></name><name name-style="western"><surname>Prickett</surname><given-names>K.</given-names></name></person-group><article-title>Gender disparities in increased parenting time
+during the COVID-19 pandemic: a research note</article-title>.
+<source>Demography</source>.
+<year>2022</year>;<volume>59</volume>(<issue>4</issue>):<fpage>1233</fpage>-<lpage>1247</lpage>.
+doi:<pub-id pub-id-type="doi">10.1215/00703370-10113125</pub-id><pub-id pub-id-type="pmid">35838151</pub-id></mixed-citation></ref><ref id="bibr32-00469580231166738"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Pabilonia</surname><given-names>SW</given-names></name><name name-style="western"><surname>Vernon</surname><given-names>V.</given-names></name></person-group><article-title>Who is doing the chores and childcare in
+dual-earner couples during the COVID-19 era of working from
+home?</article-title><source>Rev Econ Househ</source>. Published online
+<month>January</month><day>9</day>, <year>2023</year>. doi:<pub-id pub-id-type="doi">10.1007/s11150-022-09642-6</pub-id><pub-id pub-id-type="pmcid">PMC9838412</pub-id><pub-id pub-id-type="pmid">36687997</pub-id></mixed-citation></ref><ref id="bibr33-00469580231166738"><label>33</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Ranji</surname><given-names>U</given-names></name><name name-style="western"><surname>Frederiksen</surname><given-names>B</given-names></name><name name-style="western"><surname>Salganicoff</surname><given-names>A</given-names></name><name name-style="western"><surname>Long</surname><given-names>M</given-names></name></person-group>. <source>Women, Work, and Family During COVID-19: Findings from
+the KFF Women's Health Survey</source>. <publisher-name>Kaiser Family
+Foundation</publisher-name>; <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kff.org/womens-health-policy/issue-brief/women-work-and-family-during-covid-19-findings-from-the-kff-womens-health-survey/" ext-link-type="uri">https://www.kff.org/womens-health-policy/issue-brief/women-work-and-family-during-covid-19-findings-from-the-kff-womens-health-survey/</ext-link></mixed-citation></ref><ref id="bibr34-00469580231166738"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thomeer</surname><given-names>MB</given-names></name><name name-style="western"><surname>Moody</surname><given-names>MD</given-names></name><name name-style="western"><surname>Yahirun</surname><given-names>J.</given-names></name></person-group><article-title>Racial and ethnic disparities in mental health and
+mental health care during the COVID-19 pandemic</article-title>. <source>J
+Racial Ethn Health Disparities</source>.
+<year>2023</year>;<volume>10</volume>:<fpage>961</fpage>-<lpage>976</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s40615-022-01284-9</pub-id><pub-id pub-id-type="pmid">35318615</pub-id><pub-id pub-id-type="pmcid">PMC8939391</pub-id></mixed-citation></ref><ref id="bibr35-00469580231166738"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Czeisler</surname><given-names>M&#201;</given-names></name><name name-style="western"><surname>Lane</surname><given-names>RI</given-names></name><name name-style="western"><surname>Petrosky</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal>. <article-title>Mental Health, substance
+use, and suicidal ideation during the COVID-19 pandemic - United States,
+June 24-30, 2020</article-title>. <source>MMWR Morb Mortal Wkly
+Rep</source>.
+<year>2020</year>;<volume>69</volume>(<issue>32</issue>):<fpage>1049</fpage>-<lpage>1057</lpage>.
+doi:<pub-id pub-id-type="doi">10.15585/mmwr.mm6932a1</pub-id><pub-id pub-id-type="pmid">32790653</pub-id><pub-id pub-id-type="pmcid">PMC7440121</pub-id></mixed-citation></ref><ref id="bibr36-00469580231166738"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Price-Haywood</surname><given-names>EG</given-names></name><name name-style="western"><surname>Burton</surname><given-names>J</given-names></name><name name-style="western"><surname>Fort</surname><given-names>D</given-names></name><name name-style="western"><surname>Seoane</surname><given-names>L.</given-names></name></person-group><article-title>Hospitalization and mortality among black patients
+and white patients with Covid-19</article-title>. <source>New Engl J
+Med</source>.
+<year>2020</year>;<volume>382</volume>(<issue>26</issue>):<fpage>2534</fpage>-<lpage>2543</lpage>.
+doi:<pub-id pub-id-type="doi">10.1056/NEJMsa2011686</pub-id><pub-id pub-id-type="pmid">32459916</pub-id><pub-id pub-id-type="pmcid">PMC7269015</pub-id></mixed-citation></ref><ref id="bibr37-00469580231166738"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Khanijahani</surname><given-names>A</given-names></name><name name-style="western"><surname>Tomassoni</surname><given-names>L.</given-names></name></person-group><article-title>Socioeconomic and racial segregation and COVID-19:
+concentrated disadvantage and Black Concentration in association with
+COVID-19 deaths in the USA</article-title>. <source>J Racial Ethn Health
+Disparities</source>.
+<year>2022</year>;<volume>9</volume>:<fpage>367</fpage>-<lpage>375</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s40615-021-00965-1</pub-id><pub-id pub-id-type="pmid">33469872</pub-id><pub-id pub-id-type="pmcid">PMC7815201</pub-id></mixed-citation></ref><ref id="bibr38-00469580231166738"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hu</surname><given-names>L</given-names></name><name name-style="western"><surname>Kaestner</surname><given-names>R</given-names></name><name name-style="western"><surname>Mazumder</surname><given-names>B</given-names></name><name name-style="western"><surname>Miller</surname><given-names>S</given-names></name><name name-style="western"><surname>Wong</surname><given-names>A.</given-names></name></person-group><article-title>The effect of the affordable care act Medicaid
+expansions on financial wellbeing</article-title>. <source>J Public
+Econ</source>.
+<year>2018</year>;<volume>163</volume>:<fpage>99</fpage>-<lpage>112</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.jpubeco.2018.04.009</pub-id><pub-id pub-id-type="pmid">30393411</pub-id><pub-id pub-id-type="pmcid">PMC6208351</pub-id></mixed-citation></ref><ref id="bibr39-00469580231166738"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Miller</surname><given-names>S</given-names></name><name name-style="western"><surname>Hu</surname><given-names>L</given-names></name><name name-style="western"><surname>Kaestner</surname><given-names>R</given-names></name><name name-style="western"><surname>Mazumder</surname><given-names>B</given-names></name><name name-style="western"><surname>Wong</surname><given-names>A.</given-names></name></person-group><article-title>The ACA Medicaid expansion in Michigan and
+Financial Health</article-title>. <source>J Policy Anal Manag</source>.
+<year>2021</year>;<volume>40</volume>(<issue>2</issue>):<fpage>348</fpage>-<lpage>375</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/pam.22266</pub-id></mixed-citation></ref><ref id="bibr40-00469580231166738"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zewde</surname><given-names>N</given-names></name><name name-style="western"><surname>Eliason</surname><given-names>E</given-names></name><name name-style="western"><surname>Allen</surname><given-names>H</given-names></name><name name-style="western"><surname>Gross</surname><given-names>T.</given-names></name></person-group><article-title>The effects of the ACA Medicaid expansion on
+nationwide home evictions and eviction-court initiations: United States,
+2000-2016</article-title>. <source>Am J Public Health</source>.
+<year>2019</year>;<volume>109</volume>(<issue>10</issue>):<fpage>1379</fpage>-<lpage>1383</lpage>.
+doi:<pub-id pub-id-type="doi">10.2105/ajph.2019.305230</pub-id><pub-id pub-id-type="pmid">31415189</pub-id><pub-id pub-id-type="pmcid">PMC6727289</pub-id></mixed-citation></ref><ref id="bibr41-00469580231166738"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Himmelstein</surname><given-names>G.</given-names></name></person-group><article-title>Effect of the Affordable Care Act&#8217;s Medicaid
+expansions on food security, 2010-2016</article-title>. <source>Am J Public
+Health</source>.
+<year>2019</year>;<volume>109</volume>(<issue>9</issue>):<fpage>1243</fpage>-<lpage>1248</lpage>.
+doi:<pub-id pub-id-type="doi">10.2105/ajph.2019.305168</pub-id><pub-id pub-id-type="pmid">31318597</pub-id><pub-id pub-id-type="pmcid">PMC6687269</pub-id></mixed-citation></ref><ref id="bibr42-00469580231166738"><label>42</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Mukhopadhyay</surname><given-names>S.</given-names></name></person-group><source>The Effects of Medicaid Expansion on Job Loss Induced
+Mental Distress During the COVID-19 Pandemic in the US</source>.
+<publisher-name>Institute for the Study of Labor IZA</publisher-name>;
+<year>2022</year>:15150 doi:<pub-id pub-id-type="doi">10.2139/ssrn.4114709</pub-id><pub-id pub-id-type="pmcid">PMC9617676</pub-id><pub-id pub-id-type="pmid">36341079</pub-id></mixed-citation></ref><ref id="bibr43-00469580231166738"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Khorrami</surname><given-names>P</given-names></name><name name-style="western"><surname>Sommers</surname><given-names>BD.</given-names></name></person-group><article-title>Changes in US Medicaid enrollment during the
+COVID-19 pandemic</article-title>. <source>JAMA Netw Open</source>.
+<year>2021</year>;<volume>4</volume>(<issue>5</issue>):e219463. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.9463</pub-id><pub-id pub-id-type="pmcid">PMC8100862</pub-id><pub-id pub-id-type="pmid">33950210</pub-id></mixed-citation></ref><ref id="bibr44-00469580231166738"><label>44</label><mixed-citation publication-type="webpage"><person-group person-group-type="author"><name name-style="western"><surname>Tolbert</surname><given-names>J</given-names></name><name name-style="western"><surname>Orgera</surname><given-names>K</given-names></name><name name-style="western"><surname>Damico</surname><given-names>A</given-names></name></person-group>. <source>What Does the CPS Tell Us About Health Insurance
+Coverage in 2020?</source> Kaiser Family Foundation; <year>2020</year>.
+<comment>Accessed December 14, 2021</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kff.org/uninsured/issue-brief/what-does-the-cps-tell-us-about-health-insurance-coverage-in-2020/" ext-link-type="uri">https://www.kff.org/uninsured/issue-brief/what-does-the-cps-tell-us-about-health-insurance-coverage-in-2020/</ext-link></mixed-citation></ref><ref id="bibr45-00469580231166738"><label>45</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Ruhter</surname><given-names>J</given-names></name><name name-style="western"><surname>Conmy</surname><given-names>AB</given-names></name><name name-style="western"><surname>Chu</surname><given-names>RC</given-names></name><name name-style="western"><surname>Peter</surname><given-names>C</given-names></name><name name-style="western"><surname>De Lew</surname><given-names>N</given-names></name><name name-style="western"><surname>Sommers</surname><given-names>BD</given-names></name></person-group>. <source>Tracking Health Insurance Coverage in 2020-2021 (Issue
+Brief No. HP-2021-24)</source>. <publisher-name>Office of the Assistant
+Secretary for Planning and Evaluation, U.S. Department of Health and Human
+Services</publisher-name>. <comment>Accessed December 14, 2021</comment>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://aspe.hhs.gov/sites/default/files/documents/2fb03bb1527d26e3f270c65e2bfffc3a/tracking-insurance-coverage-2020-2021.pdf" ext-link-type="uri">https://aspe.hhs.gov/sites/default/files/documents/2fb03bb1527d26e3f270c65e2bfffc3a/tracking-insurance-coverage-2020-2021.pdf</ext-link></mixed-citation></ref><ref id="bibr46-00469580231166738"><label>46</label><mixed-citation publication-type="book"><collab>Centers for Medicare &amp; Medicaid
+Services</collab>. <source>December 2021 and January 2022 Medicaid and CHIP
+Enrollment Trends Snapshot</source>. <publisher-name>Centers for Medicare
+&amp; Medicaid Services</publisher-name>; 2022. Accessed December 14, 2022.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/downloads/dec-2021-jan-2022-medicaid-chip-enrollment-trend-snapshot.pdf" ext-link-type="uri">https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/downloads/dec-2021-jan-2022-medicaid-chip-enrollment-trend-snapshot.pdf</ext-link></mixed-citation></ref><ref id="bibr47-00469580231166738"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rakus</surname><given-names>A</given-names></name><name name-style="western"><surname>Soni</surname><given-names>A.</given-names></name></person-group><article-title>Association between state Medicaid expansion
+status and health outcomes during the COVID-19 pandemic</article-title>.
+<source>Health Serv Res</source>.
+<year>2022</year>;<volume>57</volume>:<fpage>1332</fpage>-<lpage>1341</lpage>.
+doi:<pub-id pub-id-type="doi">10.1111/1475-6773.14044</pub-id><pub-id pub-id-type="pmid">36082396</pub-id><pub-id pub-id-type="pmcid">PMC9538092</pub-id></mixed-citation></ref><ref id="bibr48-00469580231166738"><label>48</label><mixed-citation publication-type="gov"><collab>Centers for Disease Control and
+Prevention. Measuring Healthy Days</collab>. <article-title>Centers for
+Disease Control and Prevention</article-title>; <year>2000</year>.
+<comment>Accessed February 26, 2023</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/hrqol/pdfs/mhd.pdf" ext-link-type="uri">https://www.cdc.gov/hrqol/pdfs/mhd.pdf</ext-link>.</mixed-citation></ref><ref id="bibr49-00469580231166738"><label>49</label><mixed-citation publication-type="book"><collab>Assistant Secretary for Planning and
+Evaluation</collab>. <source>Poverty Guidelines</source>.
+<publisher-name>Office of the Assistant Secretary for Planning and
+Evaluation</publisher-name>; 2021. Accessed December 14, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines" ext-link-type="uri">https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines</ext-link></mixed-citation></ref><ref id="bibr50-00469580231166738"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Semprini</surname><given-names>J</given-names></name><name name-style="western"><surname>Lyu</surname><given-names>W</given-names></name><name name-style="western"><surname>Shane</surname><given-names>DM</given-names></name><name name-style="western"><surname>Wehby</surname><given-names>GL.</given-names></name></person-group><article-title>The effects of ACA Medicaid expansions on health
+after 5 years</article-title>. <source>Med Care Res Rev</source>.
+<year>2022</year>;<volume>79</volume>:<fpage>28</fpage>-<lpage>35</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/1077558720972592</pub-id><pub-id pub-id-type="pmid">33218289</pub-id><pub-id pub-id-type="pmcid">PMC8218574</pub-id></mixed-citation></ref><ref id="bibr51-00469580231166738"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lyu</surname><given-names>W</given-names></name><name name-style="western"><surname>Wehby</surname><given-names>GL.</given-names></name></person-group><article-title>Heterogeneous effects of Affordable Care Act
+Medicaid expansions among women with dependent children by state-level
+pre-expansion eligibility</article-title>. <source>J Womens Health</source>.
+<year>2021</year>;<volume>30</volume>(<issue>9</issue>):<fpage>1278</fpage>-<lpage>1287</lpage>.
+doi:<pub-id pub-id-type="doi">10.1089/jwh.2020.8776</pub-id><pub-id pub-id-type="pmcid">PMC8558059</pub-id><pub-id pub-id-type="pmid">33555950</pub-id></mixed-citation></ref><ref id="bibr52-00469580231166738"><label>52</label><mixed-citation publication-type="journal"><collab>Centers for Disease Control and
+Prevention (CDC)</collab>. <article-title>Self-reported frequent mental
+distress among adults&#8211;United States, 1993-1996</article-title>. <source>MMWR
+Morb Mortal Wkly Rep</source>.
+<year>1998</year>;<volume>47</volume>(<issue>16</issue>):<fpage>326</fpage>-<lpage>331</lpage>.<pub-id pub-id-type="pmid">9583900</pub-id></mixed-citation></ref><ref id="bibr53-00469580231166738"><label>53</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Ruggles</surname><given-names>S</given-names></name><name name-style="western"><surname>Flood</surname><given-names>S</given-names></name><name name-style="western"><surname>Goeken</surname><given-names>R</given-names></name><name name-style="western"><surname>Schouweiler</surname><given-names>M</given-names></name><name name-style="western"><surname>Sobek</surname><given-names>M</given-names></name></person-group>. <source>IPUMS USA: Version 12.0 [2017-2021]</source>.
+<publisher-name>IPUMS</publisher-name>; 2022. Accessed January 25, 2023.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ipums.org" ext-link-type="uri">https://www.ipums.org</ext-link></mixed-citation></ref><ref id="bibr54-00469580231166738"><label>54</label><mixed-citation publication-type="book"><collab>Centers for Medicare &amp; Medicaid
+Services</collab>. <source>Medicaid Enrollment Data Collected Through
+MBES</source>. <publisher-name>Centers for Medicare &amp; Medicaid
+Services</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/medicaid-enrollment-data-collected-through-mbes/index.html" ext-link-type="uri">https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/medicaid-enrollment-data-collected-through-mbes/index.html</ext-link></mixed-citation></ref><ref id="bibr55-00469580231166738"><label>55</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Raifman</surname><given-names>J</given-names></name><name name-style="western"><surname>Nocka</surname><given-names>K</given-names></name><name name-style="western"><surname>Jones</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>. <source>COVID-19 US State Policy
+Database</source>. <publisher-name>Boston University School of Public
+Health</publisher-name>; 2020. Accessed February 8, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://statepolicies.com/" ext-link-type="uri">https://statepolicies.com/</ext-link></mixed-citation></ref><ref id="bibr56-00469580231166738"><label>56</label><mixed-citation publication-type="journal"><collab>Declaring a National Emergency
+Concerning the Novel Coronavirus Disease (COVID-19) Outbreak</collab>.
+Federal Register
+<volume>2020</volume>:<fpage>15337</fpage>-<lpage>15338</lpage>.</mixed-citation></ref><ref id="bibr57-00469580231166738"><label>57</label><mixed-citation publication-type="book"><collab>Census Bureau</collab>.
+<source>Census Bureau Announces Changes for 2020 American Community Survey
+1-Year Estimates</source>. <publisher-name>United States Census
+Bureau</publisher-name>; <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html" ext-link-type="uri">https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html</ext-link></mixed-citation></ref><ref id="bibr58-00469580231166738"><label>58</label><mixed-citation publication-type="book"><collab>United States Census Bureau</collab>.
+<source>An Assessment of the COVID-19 Pandemic&#8217;s Impact on the 2020 ACS
+1-Year Data</source>. <publisher-name>United States Census
+Bureau</publisher-name>; <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.census.gov/library/working-papers/2021/acs/2021_CensusBureau_01.html" ext-link-type="uri">https://www.census.gov/library/working-papers/2021/acs/2021_CensusBureau_01.html</ext-link></mixed-citation></ref><ref id="bibr59-00469580231166738"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Harju</surname><given-names>A</given-names></name><name name-style="western"><surname>Neufeld</surname><given-names>J.</given-names></name></person-group><article-title>The impact of the Medicaid expansion on telemental
+health utilization in four Midwestern states</article-title>.
+<source>Telemed E Health</source>.
+<year>2021</year>;<volume>27</volume>(<issue>11</issue>):<fpage>1260</fpage>-<lpage>1267</lpage>.
+doi:<pub-id pub-id-type="doi">10.1089/tmj.2020.0476</pub-id><pub-id pub-id-type="pmid">33428526</pub-id></mixed-citation></ref><ref id="bibr60-00469580231166738"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Novak</surname><given-names>P</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>AC</given-names></name><name name-style="western"><surname>Chen</surname><given-names>J.</given-names></name></person-group><article-title>Changes in health insurance coverage and barriers
+to health care access among individuals with serious psychological distress
+following the Affordable Care Act</article-title>. <source>Adm Policy Ment
+Health</source>.
+<year>2018</year>;<volume>45</volume>(<issue>6</issue>):<fpage>924</fpage>-<lpage>932</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s10488-018-0875-9</pub-id><pub-id pub-id-type="pmid">29754279</pub-id><pub-id pub-id-type="pmcid">PMC6477535</pub-id></mixed-citation></ref><ref id="bibr61-00469580231166738"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fry</surname><given-names>CE</given-names></name><name name-style="western"><surname>Sommers</surname><given-names>BD.</given-names></name></person-group><article-title>Effect of Medicaid expansion on health insurance
+coverage and access to care among adults with depression</article-title>.
+<source>Psychiatr Serv</source>.
+<year>2018</year>;<volume>69</volume>(<issue>11</issue>):<fpage>1146</fpage>-<lpage>1152</lpage>.
+doi:<pub-id pub-id-type="doi">10.1176/appi.ps.201800181</pub-id><pub-id pub-id-type="pmid">30152271</pub-id><pub-id pub-id-type="pmcid">PMC6395562</pub-id></mixed-citation></ref><ref id="bibr62-00469580231166738"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nason</surname><given-names>I</given-names></name><name name-style="western"><surname>Stein</surname><given-names>DT</given-names></name><name name-style="western"><surname>Frank</surname><given-names>RG</given-names></name><name name-style="western"><surname>Stein</surname><given-names>MB.</given-names></name></person-group><article-title>Decline in new starts of psychotropic medications
+during the COVID-19 pandemic</article-title>. <source>Health Aff</source>.
+<year>2021</year>;<volume>40</volume>(<issue>6</issue>):<fpage>904</fpage>-<lpage>909</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2021.00028</pub-id><pub-id pub-id-type="pmid">34097524</pub-id></mixed-citation></ref><ref id="bibr63-00469580231166738"><label>63</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Mehrotra</surname><given-names>A</given-names></name><name name-style="western"><surname>Chernew</surname><given-names>ME</given-names></name><name name-style="western"><surname>Linetsky</surname><given-names>D</given-names></name><name name-style="western"><surname>Hatch</surname><given-names>H</given-names></name><name name-style="western"><surname>Cutler</surname><given-names>DM</given-names></name><name name-style="western"><surname>Schneider</surname><given-names>EC.</given-names></name></person-group><source>The Impact of COVID-19 on Outpatient Visits in 2020:
+Visits Remained Stable, Despite a Late Surge in Cases</source>.
+<publisher-name>The Commonwealth Fund</publisher-name>; <year>2021</year>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.commonwealthfund.org/publications/2021/feb/impact-covid-19-outpatient-visits-2020-visits-stable-despite-late-surge" ext-link-type="uri">https://www.commonwealthfund.org/publications/2021/feb/impact-covid-19-outpatient-visits-2020-visits-stable-despite-late-surge</ext-link></mixed-citation></ref><ref id="bibr64-00469580231166738"><label>64</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Rae</surname><given-names>M</given-names></name><name name-style="western"><surname>Amin</surname><given-names>K</given-names></name><name name-style="western"><surname>Cox</surname><given-names>C</given-names></name><name name-style="western"><surname>Panchal</surname><given-names>N</given-names></name><name name-style="western"><surname>Miller</surname><given-names>BF.</given-names></name></person-group><source>Telehealth Has Played an Outsized Role Meeting Mental
+Health Needs During the COVID-19 Pandemic</source>. <publisher-name>Kaiser
+Family Foundation</publisher-name>; <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kff.org/coronavirus-covid-19/issue-brief/telehealth-has-played-an-outsized-role-meeting-mental-health-needs-during-the-covid-19-pandemic/#:~:text=Telehealth%20has%20played%20a%20particularly,for%20these%20services%20via%20telehealth" ext-link-type="uri">https://www.kff.org/coronavirus-covid-19/issue-brief/telehealth-has-played-an-outsized-role-meeting-mental-health-needs-during-the-covid-19-pandemic/#:~:text=Telehealth%20has%20played%20a%20particularly,for%20these%20services%20via%20telehealth</ext-link></mixed-citation></ref><ref id="bibr65-00469580231166738"><label>65</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cantor</surname><given-names>JH</given-names></name><name name-style="western"><surname>McBain</surname><given-names>RK</given-names></name><name name-style="western"><surname>Pera</surname><given-names>MF</given-names></name><name name-style="western"><surname>Bravata</surname><given-names>DM</given-names></name><name name-style="western"><surname>Whaley</surname><given-names>CM.</given-names></name></person-group><article-title>Who is (and is not) receiving telemedicine care
+during the COVID-19 pandemic</article-title>. <source>Am J Prev
+Med</source>.
+<year>2021</year>;<volume>61</volume>(<issue>3</issue>):<fpage>434</fpage>-<lpage>438</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.amepre.2021.01.030</pub-id><pub-id pub-id-type="pmid">33781622</pub-id><pub-id pub-id-type="pmcid">PMC7936544</pub-id></mixed-citation></ref><ref id="bibr66-00469580231166738"><label>66</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mansour</surname><given-names>O</given-names></name><name name-style="western"><surname>Tajanlangit</surname><given-names>M</given-names></name><name name-style="western"><surname>Heyward</surname><given-names>J</given-names></name><name name-style="western"><surname>Mojtabai</surname><given-names>R</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>GC.</given-names></name></person-group><article-title>Telemedicine and office-based care for behavioral
+and psychiatric conditions during the COVID-19 pandemic in the United
+States</article-title>. <source>Ann Intern Med</source>.
+<year>2021</year>;<volume>174</volume>(<issue>3</issue>):<fpage>428</fpage>-<lpage>430</lpage>.
+doi:<pub-id pub-id-type="doi">10.7326/m20-6243</pub-id><pub-id pub-id-type="pmid">33197214</pub-id><pub-id pub-id-type="pmcid">PMC7711651</pub-id></mixed-citation></ref><ref id="bibr67-00469580231166738"><label>67</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>JM</given-names></name><name name-style="western"><surname>Myers</surname><given-names>R</given-names></name><name name-style="western"><surname>McConnell</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Levander</surname><given-names>X</given-names></name><name name-style="western"><surname>Lin</surname><given-names>SC.</given-names></name></person-group><article-title>Trends in outpatient mental health services use
+before and during the COVID-19 pandemic</article-title>. <source>Health
+Aff</source>.
+<year>2022</year>;<volume>41</volume>(<issue>4</issue>):<fpage>573</fpage>-<lpage>580</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2021.01297</pub-id><pub-id pub-id-type="pmcid">PMC9056059</pub-id><pub-id pub-id-type="pmid">35377763</pub-id></mixed-citation></ref><ref id="bibr68-00469580231166738"><label>68</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gotanda</surname><given-names>H</given-names></name><name name-style="western"><surname>Jha</surname><given-names>AK</given-names></name><name name-style="western"><surname>Kominski</surname><given-names>GF</given-names></name><name name-style="western"><surname>Tsugawa</surname><given-names>Y.</given-names></name></person-group><article-title>Out-of-pocket spending and financial burden among
+low income adults after Medicaid expansions in the United States:
+quasi-experimental difference-in-difference study</article-title>.
+<source>BMJ</source>. <year>2020</year>;<volume>368</volume>:m40.
+doi:<pub-id pub-id-type="doi">10.1136/bmj.m40</pub-id><pub-id pub-id-type="pmcid">PMC7190017</pub-id><pub-id pub-id-type="pmid">32024637</pub-id></mixed-citation></ref><ref id="bibr69-00469580231166738"><label>69</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Sugar</surname><given-names>S</given-names></name><name name-style="western"><surname>Peters</surname><given-names>C</given-names></name><name name-style="western"><surname>De Lew</surname><given-names>N</given-names></name><name name-style="western"><surname>Sommers</surname><given-names>B</given-names></name></person-group>. <source>Medicaid Churning and Continuity of Care: Evidence and
+Policy Considerations Before and After the COVID-19 Pandemic</source>.
+<publisher-name>Assistant Secretary for Planning and Evaluation Office of
+Health Policy</publisher-name>; <year>2021</year>.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://aspe.hhs.gov/sites/default/files/private/pdf/265366/medicaid-churning-ib.pdf" ext-link-type="uri">https://aspe.hhs.gov/sites/default/files/private/pdf/265366/medicaid-churning-ib.pdf</ext-link></mixed-citation></ref><ref id="bibr70-00469580231166738"><label>70</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Corallo</surname><given-names>B</given-names></name><name name-style="western"><surname>Garfield</surname><given-names>R</given-names></name><name name-style="western"><surname>Tolbert</surname><given-names>J</given-names></name><name name-style="western"><surname>Rudowitz</surname><given-names>R.</given-names></name></person-group><source>Medicaid Enrollment Churn and Implications for Continuous
+Coverage Policies</source>. <publisher-name>Kaiser Family
+Foundation</publisher-name>; <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kff.org/medicaid/issue-brief/medicaid-enrollment-churn-and-implications-for-continuous-coverage-policies/" ext-link-type="uri">https://www.kff.org/medicaid/issue-brief/medicaid-enrollment-churn-and-implications-for-continuous-coverage-policies/</ext-link></mixed-citation></ref><ref id="bibr71-00469580231166738"><label>71</label><mixed-citation publication-type="book"><collab>Centers for Medicare &amp; Medicaid
+Services</collab>. <source>Key Dates Related to the Medicaid Continuous
+Enrollment Condition Provisions in the Consolidated Appropriations Act,
+2023</source>. <publisher-name>Centers for Medicare &amp; Medicaid
+Services</publisher-name>; <year>2023</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medicaid.gov/sites/default/files/2023-01/cib010523_1.pdf" ext-link-type="uri">https://www.medicaid.gov/sites/default/files/2023-01/cib010523_1.pdf</ext-link></mixed-citation></ref><ref id="bibr72-00469580231166738"><label>72</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Twenge</surname><given-names>JM</given-names></name><name name-style="western"><surname>Joiner</surname><given-names>TE.</given-names></name></person-group><article-title>U.S. Census Bureau-assessed prevalence of anxiety
+and depressive symptoms in 2019 and during the 2020 COVID-19
+pandemic</article-title>. <source>Depress Anxiety</source>.
+<year>2020</year>;<volume>37</volume>(<issue>10</issue>):<fpage>954</fpage>-<lpage>956</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/da.23077</pub-id><pub-id pub-id-type="pmid">32667081</pub-id><pub-id pub-id-type="pmcid">PMC7405486</pub-id></mixed-citation></ref><ref id="bibr73-00469580231166738"><label>73</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kessler</surname><given-names>RC</given-names></name><name name-style="western"><surname>Chiu</surname><given-names>WT</given-names></name><name name-style="western"><surname>Hwang</surname><given-names>IH</given-names></name></person-group>, <etal>et al</etal>. <article-title>Changes in prevalence of
+mental illness among US adults during compared with before the COVID-19
+pandemic</article-title>. <source>Psychiatr Clin North Am</source>.
+<year>2022</year>;<volume>45</volume>(<issue>1</issue>):<fpage>1</fpage>-<lpage>28</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.psc.2021.11.013</pub-id><pub-id pub-id-type="pmid">35219431</pub-id><pub-id pub-id-type="pmcid">PMC8585610</pub-id></mixed-citation></ref><ref id="bibr74-00469580231166738"><label>74</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Dobson</surname><given-names>E</given-names></name><name name-style="western"><surname>Graham</surname><given-names>C</given-names></name><name name-style="western"><surname>Hua</surname><given-names>T</given-names></name><name name-style="western"><surname>Pinto</surname><given-names>S.</given-names></name></person-group><source>Despair and Resilience in the U.S.: Did the COVID
+Pandemic Worsen Mental Health Outcomes?</source><publisher-name>Global
+Economy and Development program at Brookings</publisher-name>;
+<year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.brookings.edu/wp-content/uploads/2022/03/Despair-and-Resilience.pdf" ext-link-type="uri">https://www.brookings.edu/wp-content/uploads/2022/03/Despair-and-Resilience.pdf</ext-link></mixed-citation></ref></ref-list></back></article></pmc-articleset>

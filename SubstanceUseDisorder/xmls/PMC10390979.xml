@@ -1,0 +1,61 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><!--The publisher of this article does not allow downloading of the full text in XML form.--><front><journal-meta><journal-id journal-id-type="nlm-ta">J Manag Care Spec Pharm</journal-id><journal-id journal-id-type="iso-abbrev">J Manag Care Spec Pharm</journal-id><journal-id journal-id-type="pmc-domain-id">4474</journal-id><journal-id journal-id-type="pmc-domain">jmcsp</journal-id><journal-id journal-id-type="publisher-id">jmcsp</journal-id><journal-title-group><journal-title>Journal of Managed Care &amp; Specialty Pharmacy</journal-title></journal-title-group><issn pub-type="ppub">2376-0540</issn><issn pub-type="epub">2376-1032</issn><publisher><publisher-name>Academy of Managed Care Pharmacy</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10390979</article-id><article-id pub-id-type="pmcid-ver">PMC10390979.1</article-id><article-id pub-id-type="pmcaid">10390979</article-id><article-id pub-id-type="pmcaiid">10390979</article-id><article-id pub-id-type="pmid">32011960</article-id><article-id pub-id-type="doi">10.18553/jmcp.2020.26.2.176</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title>Projecting the Long-Term Economic Impact of Once-Monthly Paliperidone
+Palmitate Versus Oral Atypical Antipsychotics in Medicaid Patients with
+Schizophrenia</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>El Khoury</surname><given-names initials="AC">Antoine C.</given-names></name><degrees>PhD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Pilon</surname><given-names initials="D">Dominic</given-names></name><degrees>MA</degrees><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Morrison</surname><given-names initials="L">Laura</given-names></name><degrees>MSc</degrees><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shak</surname><given-names initials="N">Nina</given-names></name><degrees>BA</degrees><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Llaneza</surname><given-names initials="A">Amanda</given-names></name><degrees>BA</degrees><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kim</surname><given-names initials="E">Edward</given-names></name><degrees>MD, MBA</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lefebvre</surname><given-names initials="P">Patrick</given-names></name><degrees>MA</degrees><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><aff id="aff1"><label>1</label>Janssen Scientific Affairs, Titusville, New Jersey.</aff><aff id="aff2"><label>2</label>Analysis Group, Montr&#233;al, Quebec, Canada.</aff><aff id="aff3"><label>3</label>Analysis Group, Menlo Park, California</aff><aff id="aff4"><label>4</label>HireGenics, Duluth, Georgia.</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>AUTHOR CORRESPONDENCE: Antoine C. El Khoury, PhD, Janssen
+Scientific Affairs, 1125 Trenton Harbourton Rd., Titusville, NJ 08560. E-mail:
+<email>AKhour@its.jnj.com</email>.</corresp><fn fn-type="COI-statement"><p>This research was funded by Janssen Scientific Affairs. Pilon, Morrison, Lefebvre, and
+Shak are employees of Analysis Group, a consulting company that received research grants
+from Janssen Scientific Affairs to conduct this study. El Khoury and Kim are employees
+of Janssen Scientific Affairs. At the time this study was conducted, Llaneza was an
+employee of HireGenics, which provided services to Janssen Scientific Affairs for the
+study.</p><p>Part of the material in this manuscript was presented at the Academy of Managed Care
+Pharmacy 2019 Annual Meeting; March 25-29, 2019; San Diego, CA.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><volume>26</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">442058</issue-id><elocation-id>10.18553/jmcp.2020.26.2.176</elocation-id><pub-history><event event-type="pmc-release"><date><day>01</day><month>02</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>02</day><month>08</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-04 03:25:19.917"><day>04</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>Copyright &#169; 2020, Academy of Managed Care Pharmacy. All rights
+reserved.</copyright-statement><copyright-year>2020</copyright-year></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jmcp.2020.26.2.176.pdf"/><abstract><sec><title>BACKGROUND:</title><p>Recent evidence has demonstrated that, over 12 months, pharmacy costs associated with
+switching nonadherent recently relapsed patients from oral atypical antipsychotics
+(OAAs) to once-monthly paliperidone palmitate (PP1M) were offset by reduced relapse
+rates and schizophrenia-related health care costs. In addition, earlier use of PP1M may
+generate greater cost savings.</p></sec><sec><title>OBJECTIVE:</title><p>To project the long-term economic impact when a proportion of nonadherent patients with
+a recent relapse switch from OAAs to PP1M.</p></sec><sec><title>METHODS:</title><p>A 36-month decision-tree model with twelve 3-month cycles was developed from a Medicaid
+payer&#8217;s perspective. The target population was nonadherent, recently relapsed OAA
+patients. At equal adherence, probability of relapse was equal between PP1M and OAAs,
+and OAA patients were nonadherent until treatment switch. Event rates (adherence,
+relapse, and switch) and cost inputs (pharmacy and relapse) were based on the
+literature, and rates remained constant. Outcomes included number of relapses, pharmacy
+costs, and relapse costs (2017 U.S. dollars) at years 1, 2, and 3. One-way sensitivity
+(OSA) and probabilistic sensitivity analyses (PSA) evaluated the effect of varying model
+inputs on health plan and per-patient level costs.</p></sec><sec><title>RESULTS:</title><p>Based on a hypothetical health plan of 1 million members, 3,037 OAA patients were
+recently relapsed and nonadherent. Compared with continuing OAAs, switching 5% of
+patients (n = 152) to PP1M resulted in net cost savings of $674,975, $723,298, and
+$562,310 at the plan level; $4,445, $4,764, and $3,703 per patient switched per year;
+and $0.0562, $0.0603, and $0.0469 per member per month in years 1, 2, and 3,
+respectively, resulting in total plan-level savings of &gt; $1.9 million over 3 years. A
+total of 221 relapses were avoided (year 1: 92; year 2: 72; and year 3: 57). In years 1,
+2, and 3, respectively, total annual plan-level schizophrenia-related costs were $114.1
+million, $107.2 million, and $105.8 million when all patients switched to PP1M before
+any subsequent relapse (n = 3,037); $123.4 million, $109.6 million, and $106.7 million
+when patients switched to PP1M after a first subsequent relapse (n = 2,631); and $127.6
+million, $121.6 million, and $117.0 million when all patients remained on OAAs. The cost
+per patient switched to PP1M was lower when all patients received PP1M before a
+subsequent relapse versus after their first subsequent relapse at all years (year 1:
+$37,559 vs. $45,089; year 2: $35,288 vs. $36,321; and year 3: $34,826 vs. $35,155). OSA
+demonstrated consistent net cost savings per patient switched, ranging from $640 to
+$10,484 (year 1); $1,774 to $9,245 (year 2); and $1,354 to $7,026 (year 3). PSA
+demonstrated 96.3%, 99.7%, and 99.7% of iterations were cost saving in years 1, 2 and 3,
+respectively.</p></sec><sec><title>CONCLUSIONS:</title><p>Pharmacy costs associated with switching nonadherent OAA patients with a recent relapse
+to PP1M were offset by reduced relapse rates and health care costs at years 1, 2, and 3,
+with earlier use of PP1M resulting in increased cost savings at all years.</p></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article></pmc-articleset>

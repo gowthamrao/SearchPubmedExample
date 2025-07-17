@@ -1,0 +1,85 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" id="hesr14062" xml:lang="en" article-type="research-article" dtd-version="1.4"><!--The publisher of this article does not allow downloading of the full text in XML form.--><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Serv Res</journal-id><journal-id journal-id-type="iso-abbrev">Health Serv Res</journal-id><journal-id journal-id-type="pmc-domain-id">235</journal-id><journal-id journal-id-type="pmc-domain">hsresearch</journal-id><journal-id journal-id-type="publisher-id">HESR</journal-id><journal-title-group><journal-title>Health Services Research</journal-title></journal-title-group><issn pub-type="ppub">0017-9124</issn><issn pub-type="epub">1475-6773</issn><publisher><publisher-name>Health Research &amp; Educational Trust</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10012215</article-id><article-id pub-id-type="pmcid-ver">PMC10012215.1</article-id><article-id pub-id-type="pmcaid">10012215</article-id><article-id pub-id-type="pmcaiid">10012215</article-id><article-id pub-id-type="pmid">36064854</article-id><article-id pub-id-type="doi">10.1111/1475-6773.14062</article-id><article-id pub-id-type="publisher-id">HESR14062</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Veterans Health</subject></subj-group></article-categories><title-group><article-title>Evaluation of a non&#8208;pharmacological interdisciplinary pain rehabilitation and functional restoration program for chronic pain in veterans</article-title><alt-title alt-title-type="left-running-head">Ward et al.</alt-title></title-group><contrib-group><contrib id="hesr14062-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ward</surname><given-names initials="R">Ralph</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6193-2838</contrib-id><xref rid="hesr14062-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hesr14062-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>ralph.ward@va.gov</email></address></contrib><contrib id="hesr14062-cr-0002" contrib-type="author"><name name-style="western"><surname>Rauch</surname><given-names initials="SAM">Sheila A. M.</given-names></name><degrees>PhD, ABPP</degrees><xref rid="hesr14062-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hesr14062-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hesr14062-cr-0003" contrib-type="author"><name name-style="western"><surname>Axon</surname><given-names initials="RN">Robert Neal</given-names></name><degrees>MD, MSCR</degrees><xref rid="hesr14062-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hesr14062-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hesr14062-cr-0004" contrib-type="author"><name name-style="western"><surname>Saenger</surname><given-names initials="MS">Michael S.</given-names></name><degrees>MD, FACP, ADAAPM</degrees><xref rid="hesr14062-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="hesr14062-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="hesr14062-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Health Equity and Rural Outreach Center of Innovation</named-content>
+<institution>Ralph H. Johnson Veterans Affairs Medical Center</institution>
+<city>Charleston</city>
+<named-content content-type="country-part">South Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14062-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health Sciences</named-content>
+<institution>Medical University of South Carolina</institution>
+<city>Charleston</city>
+<named-content content-type="country-part">South Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14062-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Mental Health Service Line</named-content>
+<institution>VA Atlanta Healthcare System</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14062-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Behavioral Sciences</named-content>
+<institution>Emory University School of Medicine</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14062-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>Medical University of South Carolina</institution>
+<city>Charleston</city>
+<named-content content-type="country-part">South Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14062-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Anesthesia Service Line</named-content>
+<institution>VA Atlanta Healthcare System</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14062-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Emory University School of Medicine</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ralph Ward, Health Equity and Rural Outreach Center of Innovation, Ralph H. Johnson Veterans Affairs Medical Center, 109 Bee Street, Charleston, SC 29401, USA.<break/>
+Email: <email>ralph.ward@va.gov</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>10</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2023</year></pub-date><volume>58</volume><issue seq="160">2</issue><issue-id pub-id-type="pmc-issue-id">431216</issue-id><issue-id pub-id-type="doi">10.1111/hesr.v58.2</issue-id><fpage>365</fpage><lpage>374</lpage><pub-history><event event-type="pmc-release"><date><day>01</day><month>04</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>01</day><month>04</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-01 00:25:15.120"><day>01</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Published 2022. This article is a U.S. Government work and is in the public domain in the USA.</copyright-statement></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HESR-58-365.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HESR-58-365.pdf"/><abstract><title>Abstract</title><sec id="hesr14062-sec-0001"><title>Objective</title><p>To conduct a quality improvement evaluation of the Empower Veterans Program (EVP), an interdisciplinary pain rehabilitation/functional restoration program option for functional restoration for high&#8208;impact chronic pain, offered in a large metro&#8208;area Veterans Health Administration (VHA) system.</p></sec><sec id="hesr14062-sec-0002"><title>Data Sources</title><p>VHA Corporate Data Warehouse electronic medical record data for patients treated by EVP between 2015 and 2019.</p></sec><sec id="hesr14062-sec-0003"><title>Evaluation Design</title><p>This retrospective design first compared EVP patients considered engaged or not engaged in completing treatment in terms of demographic characteristics and post&#8208;treatment changes in clinical measures related to opioid use and mental health. We then compared mortality risk between matched groups of treated and untreated patients with chronic pain and concurrent opioid prescriptions using propensity score matching and Cox proportional hazards methods. &#8220;Treated&#8221; in the matched groups was defined as any level of EVP participation (i.e., both engaged and not engaged).</p></sec><sec id="hesr14062-sec-0004"><title>Data Collection/Extraction Methods</title><p>We first identified 1053 EVP patients with 1&#160;year of pre&#8208;and post&#8208;treatment follow&#8208;time and determined their engagement level. From those with chronic pain and prescription opioids, we matched 237 EVP patients to 375 untreated patients.</p></sec><sec id="hesr14062-sec-0005"><title>Principal Findings</title><p>Engaged patients (57.4% of treated patients), were somewhat older than the non&#8208;engaged (mean age 57.1 vs. 53.7, Cohen's D&#160;=&#160;0.30), and achieved lower mean PHQ9 depression scores in the post&#8208;treatment year (9.2 vs. 10.6, Cohen's D&#160;=&#160;0.20). Participation in EVP was associated with a 65% lower mortality risk among Veterans with chronic pain and opioid use when compared to the untreated patients: (HR: 0.35, 95% CI: 0.17, 0.75).</p></sec><sec id="hesr14062-sec-0006"><title>Conclusions</title><p>EVP was associated with a large reduction in mortality risk for Veterans with both chronic pain and opioid use. This result could inform the decision process in a VA station or region when considering providing or expanding access to an interdisciplinary rehabilitation/functional restoration program for chronic pain.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="hesr14062-kwd-0001">chronic pain</kwd><kwd id="hesr14062-kwd-0002">functional rehabilitation</kwd><kwd id="hesr14062-kwd-0003">functional restoration</kwd><kwd id="hesr14062-kwd-0004">opioid use disorder</kwd><kwd id="hesr14062-kwd-0005">pain management</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Health Services and Research and Development Service, U.S. Department of Veteran Affairs</funding-source><award-id>Project # CIN 14&#8208;271</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="10"/><word-count count="7237"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.6 mode:remove_FC converted:14.03.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hesr14062-cit-9001"><string-name name-style="western"><surname>Ward</surname><given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Rauch</surname><given-names>SAM</given-names></string-name>, <string-name name-style="western"><surname>Axon</surname><given-names>RN</given-names></string-name>, <string-name name-style="western"><surname>Saenger</surname><given-names>MS</given-names></string-name>. <article-title>Evaluation of a non&#8208;pharmacological interdisciplinary pain rehabilitation and functional restoration program for chronic pain in veterans</article-title>. <source>Health Serv Res</source>. <year>2023</year>;<volume>58</volume>(<issue>2</issue>):<fpage>365</fpage>&#8208;<lpage>374</lpage>. doi:<pub-id pub-id-type="doi">10.1111/1475-6773.14062</pub-id><pub-id pub-id-type="pmcid">PMC10012215</pub-id><pub-id pub-id-type="pmid">36064854</pub-id></mixed-citation>
+</p><fn-group><fn id="hesr14062-note-1002"><p>
+<bold>Funding information</bold> Health Services and Research and Development Service, U.S. Department of Veteran Affairs, Grant/Award Number: Project # CIN 14&#8208;271</p></fn></fn-group></notes></front></article></pmc-articleset>

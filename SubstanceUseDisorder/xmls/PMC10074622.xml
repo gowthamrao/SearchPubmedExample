@@ -1,0 +1,689 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Infect Dis</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Infect Dis</journal-id><journal-id journal-id-type="pmc-domain-id">2354</journal-id><journal-id journal-id-type="pmc-domain">tai</journal-id><journal-id journal-id-type="publisher-id">TAI</journal-id><journal-title-group><journal-title>Therapeutic Advances in Infectious Disease</journal-title></journal-title-group><issn pub-type="ppub">2049-9361</issn><issn pub-type="epub">2049-937X</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10074622</article-id><article-id pub-id-type="pmcid-ver">PMC10074622.1</article-id><article-id pub-id-type="pmcaid">10074622</article-id><article-id pub-id-type="pmcaiid">10074622</article-id><article-id pub-id-type="pmid">37034032</article-id><article-id pub-id-type="doi">10.1177/20499361231165108</article-id><article-id pub-id-type="publisher-id">10.1177_20499361231165108</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>&#8216;I feel like they&#8217;re actually listening to me&#8217;: a pilot study of a
+hospital discharge decision-making conversation guide for patients with
+injection drug use&#8211;associated infections</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4689-0240</contrib-id><name name-style="western"><surname>Thakarar</surname><given-names initials="K">Kinna</given-names></name><xref rid="corresp1-20499361231165108" ref-type="corresp"/><aff id="aff1-20499361231165108">Department of Medicine, Tufts University School
+of Medicine, Boston, MA 02111, USA</aff><aff id="aff2-20499361231165108">Center for Interdisciplinary Population and
+Health Research, MaineHealth Institute for Research, Portland, ME, USA</aff><aff id="aff3-20499361231165108">Divisions of Infectious Disease and Addiction
+Medicine, Department of Medicine, Maine Medical Center, 41 Donald B. Dean
+Drive, Suite B, South Portland, ME 04106, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kohut</surname><given-names initials="M">Michael</given-names></name><aff id="aff4-20499361231165108">Center for Interdisciplinary Population and
+Health Research, MaineHealth Institute for Research, Portland, ME, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Stoddard</surname><given-names initials="H">Henry</given-names></name><aff id="aff5-20499361231165108">Center for Interdisciplinary Population and
+Health Research, MaineHealth Institute for Research, Portland, ME, USA</aff><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Burris</surname><given-names initials="D">Deb</given-names></name><aff id="aff6-20499361231165108">Center for Interdisciplinary Population and
+Health Research, MaineHealth Institute for Research, Portland, ME, USA</aff><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chessa</surname><given-names initials="F">Frank</given-names></name><aff id="aff7-20499361231165108">Department of Medical Ethics, Tufts University
+School of Medicine, Boston, MA, USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8192-8019</contrib-id><name name-style="western"><surname>Sikka</surname><given-names initials="MK">Monica K.</given-names></name><aff id="aff8-20499361231165108">Division of Infectious Diseases, Oregon Health
+&amp; Science University, Portland, OR, USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Solomon</surname><given-names initials="DA">Daniel A.</given-names></name><aff id="aff9-20499361231165108">Division of Infectious Disease, Brigham and
+Women&#8217;s Hospital, Boston, MA, USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kershaw</surname><given-names initials="CM">Colleen M.</given-names></name><aff id="aff10-20499361231165108">Section of Infectious Disease and
+International Health, Dartmouth Hitchcock Medical Center, Lebanon, NH,
+USA</aff><aff id="aff11-20499361231165108">Department of Medicine, Geisel School of
+Medicine, Dartmouth College, Hanover, NH, USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Eaton</surname><given-names initials="E">Ellen</given-names></name><aff id="aff12-20499361231165108">Division of Infectious Disease, School of
+Medicine, The University of Alabama at Birmingham, Birmingham, AL, USA</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hutchinson</surname><given-names initials="R">Rebecca</given-names></name><aff id="aff13-20499361231165108">Division of Palliative Care, Maine Medical
+Center, Portland, ME, USA</aff><aff id="aff14-20499361231165108">Department of Medical Education, Tufts
+University School of Medicine, Boston, MA, USA</aff><aff id="aff15-20499361231165108">Center for Interdisciplinary Population and
+Health Research, MaineHealth Institute for Research, Portland, ME, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Fairfield</surname><given-names initials="KM">Kathleen M.</given-names></name><aff id="aff16-20499361231165108">Department of Medicine, Maine Medical Center,
+Portland, ME, USA</aff><aff id="aff17-20499361231165108">Department of Medical Education, Tufts
+University School of Medicine, Boston, MA, USA</aff><aff id="aff18-20499361231165108">Center for Interdisciplinary Population and
+Health Research, MaineHealth Institute for Research, Portland, ME, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Friedmann</surname><given-names initials="P">Peter</given-names></name><aff id="aff19-20499361231165108">Office of Research, UMass Chan Medical School,
+Worcester, MA, USA</aff><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Stopka</surname><given-names initials="TJ">Thomas J.</given-names></name><aff id="aff20-20499361231165108">Department of Public Health and Community
+Medicine, Tufts University School of Medicine, Boston, MA, USA</aff><aff id="aff21-20499361231165108">Frank Chessa is also affiliated to Maine
+Medical Center, Portland, ME, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib></contrib-group><author-notes><corresp id="corresp1-20499361231165108"><email>Kinna.Thakarar@mainehealth.org</email></corresp></author-notes><pub-date pub-type="epub"><day>3</day><month>4</month><year>2023</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2023</year></pub-date><volume>10</volume><issue-id pub-id-type="pmc-issue-id">426503</issue-id><elocation-id>20499361231165108</elocation-id><history><date date-type="received"><day>9</day><month>12</month><year>2022</year></date><date date-type="accepted"><day>6</day><month>3</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>04</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>06</day><month>04</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-02-17 20:25:16.243"><day>17</day><month>02</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s), 2023</copyright-statement><copyright-year>2023</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_20499361231165108.pdf"/><abstract><sec id="section1-20499361231165108"><title>Background:</title><p>The prevalence of injection drug use (IDU)-associated infections and
+associated hospitalizations has been increasing for nearly two decades. Due
+to issues ranging from ongoing substance use to peripherally inserted
+central catheter safety, many clinicians find discharge decision-making
+challenging. Typically, clinicians advise patients to remain hospitalized
+for several weeks for intravenous antimicrobial treatment; however, some
+patients may desire other antimicrobial treatment options. A structured
+conversation guide, delivered by infectious disease physicians, intended to
+inform hospital discharge decisions has the potential to enhance patient
+participation in decisions. We developed a conversation guide in order to:
+(1) investigate its feasibility and acceptability and (2) examine
+experiences, outcomes, and lessons learned from use of the guide.</p></sec><sec id="section2-20499361231165108"><title>Methods:</title><p>We interviewed physicians after they each piloted the conversation guide with
+two patients. We interviewed patients immediately after the conversation and
+again 4&#8211;6 weeks later. Two analysts indexed transcriptions and used the
+framework method to identify and organize relevant information. We conducted
+retrospective chart review to corroborate and contextualize qualitative
+data.</p></sec><sec id="section3-20499361231165108"><title>Results:</title><p>Eight patients and four infectious disease physicians piloted the
+conversation guide. All patients (<italic toggle="yes">N</italic>&#8201;=&#8201;8) completed
+antimicrobial treatment. Nearly all participants believed the conversation
+guide was important for incorporating patient values and preferences.
+Patients reported an increased sense of autonomy, but felt post-discharge
+needs could be better addressed. Physician participants identified the
+guide&#8217;s long length and inclusion of pain management as areas for
+improvement.</p></sec><sec id="section4-20499361231165108"><title>Conclusions:</title><p>A novel conversation guide to inform hospital discharge decision-making for
+patients with IDU-associated infections was feasible, acceptable, and
+fostered the incorporation of patient preferences and values into decisions.
+While we identified areas for improvement, overall participants believed
+that this novel conversation guide helped to improve patient care and
+autonomy.</p></sec></abstract><kwd-group><kwd>infective endocarditis</kwd><kwd>injection drug use</kwd><kwd>shared-decision making</kwd><kwd>substance use</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-20499361231165108"><funding-source id="funding1-20499361231165108"><institution-wrap><institution>National Center for Advancing Translational
+Sciences</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100006108</institution-id></institution-wrap></funding-source><award-id rid="funding1-20499361231165108">UL1TR002544</award-id></award-group><award-group id="award2-20499361231165108"><funding-source id="funding2-20499361231165108"><institution-wrap><institution>Northern New England Clinical and Translational
+Research</institution><institution-id/></institution-wrap></funding-source><award-id rid="funding2-20499361231165108">U54GM11551</award-id></award-group><award-group id="award3-20499361231165108"><funding-source id="funding3-20499361231165108"><institution-wrap><institution>National Institutes of Health, Center of Biomedical
+Research Excellence in Acute Care Research and Rural
+Disparities</institution><institution-id/></institution-wrap></funding-source><award-id rid="funding3-20499361231165108">FAIN P20GM139745</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2023</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section5-20499361231165108"><title>Introduction</title><p>Nationally, and in rural states such as Maine, the incidence of injection drug use
+(IDU)-associated infections and hospitalizations has increased,<sup><xref rid="bibr1-20499361231165108" ref-type="bibr">1</xref><xref rid="bibr2-20499361231165108" ref-type="bibr"/><xref rid="bibr3-20499361231165108" ref-type="bibr"/><xref rid="bibr4-20499361231165108" ref-type="bibr"/><xref rid="bibr5-20499361231165108" ref-type="bibr"/>&#8211;<xref rid="bibr6-20499361231165108" ref-type="bibr">6</xref></sup> and this trend is expected to
+continue. Due to unsafe supply and challenges in accessing prevention and treatment services,<sup>
+<xref rid="bibr7-20499361231165108" ref-type="bibr">7</xref>
+</sup> the trend may be exacerbated by the COVID-19 pandemic and its aftermath.
+Severe IDU-associated infections are often treated with 4&#8211;6&#8201;weeks of intravenous
+(IV) antimicrobial treatment in concordance with treatment guidelines. However,
+transitioning care to the outpatient setting can be challenging: many home health
+agencies and post-acute care facilities will not accept patients with substance use
+disorders (SUD), possibly due to stigma and restrictive policies, such as the need
+to coordinate with opioid treatment programs for patients treated with methadone.<sup>
+<xref rid="bibr8-20499361231165108" ref-type="bibr">8</xref>
+</sup> In practice, many inpatient-based health care professionals recommend that
+people with IDU-associated infections remain hospitalized for prolonged periods
+because of the concern that they will inject drugs into indwelling central venous
+catheters, thereby risking another infection or death.<sup>
+<xref rid="bibr9-20499361231165108" ref-type="bibr">9</xref>
+</sup> While prolonged hospitalizations might be justified to prevent self-harm,
+they may also infringe on patient autonomy. Patient autonomy is one of the central
+principles of medical ethics;<sup>
+<xref rid="bibr10-20499361231165108" ref-type="bibr">10</xref>
+</sup> however, patients are often not given the ability to choose among medically
+feasible options which align with their values. In addition, this approach can be
+stigmatizing and result in costly hospitalizations with unfavorable outcomes such as
+premature discharges (also known as self-directed discharges (SDD) or leaving
+&#8216;against medical advice&#8217;).<sup><xref rid="bibr11-20499361231165108" ref-type="bibr">11</xref>,<xref rid="bibr12-20499361231165108" ref-type="bibr">12</xref></sup> Premature discharges are particularly unsafe for rural
+patients, who often lack access to important resources.<sup>
+<xref rid="bibr13-20499361231165108" ref-type="bibr">13</xref>
+</sup> Instead, other treatment options, such as being discharged with a central
+venous catheter for outpatient IV therapy, weekly long-acting antibiotic IV
+infusions, or oral antibiotics, coupled with harm reduction services, merit
+consideration as they may improve engagement in care.<sup><xref rid="bibr14-20499361231165108" ref-type="bibr">14</xref>,<xref rid="bibr15-20499361231165108" ref-type="bibr">15</xref></sup> However, these treatment
+options have been understudied, particularly in rural states, and there is no
+standardized approach to discussing these antimicrobial options with patients.</p><p>Shared decision-making has the potential to transform care for patients hospitalized
+with IDU-associated infections. Guide-based shared decision-making research is
+lacking in stigmatized populations, such as patients with SUD. Experts in palliative
+care have developed conversation guides to increase rates of serious illness
+conversations between patients and their providers.<sup><xref rid="bibr16-20499361231165108" ref-type="bibr">16</xref>,<xref rid="bibr17-20499361231165108" ref-type="bibr">17</xref></sup> These guides provide language
+for providers to use, along with a structured approach to enable providers to
+confidently engage in exploration of patient values and preferences.</p><p>In this pilot study, we developed a conversation guide for clinicians to utilize with
+patients with IDU-associated infections discharged to rural communities or counties
+at risk for HIV/hepatitis outbreaks.<sup>
+<xref rid="bibr1-20499361231165108" ref-type="bibr">1</xref>
+</sup> The goals of the guide were to improve patient autonomy and help clinicians
+and patients with IDU-associated infections make shared decisions about hospital
+disposition (i.e. remain hospitalized, discharge with central line, discharge with
+weekly infusions, or discharge on oral antimicrobials). Our study objectives were to
+(1) develop and pilot a structured conversation guide for hospital discharge
+decision-making with patients experiencing IDU-associated infections, (2)
+investigate the guide&#8217;s feasibility and acceptability, and (3) examine patient and
+provider experiences, patient outcomes, and lessons learned.</p></sec><sec id="section6-20499361231165108"><title>Case study</title><p>To demonstrate how the guide can be used in practice, we provide a case presentation:
+a 40-year-old man with severe opioid use disorder, treated with
+buprenorphine/naloxone, chronic hepatitis C, and posttraumatic stress disorder, was
+hospitalized for methicillin-resistant <italic toggle="yes">Staphylococcus aureus</italic> (MRSA)
+bacteremia, possible aortic valve endocarditis, and vertebral osteomyelitis. We will
+later illustrate how the conversation guide can be used in practice for this case
+presentation.</p></sec><sec sec-type="methods" id="section7-20499361231165108"><title>Methods</title><sec id="section8-20499361231165108"><title>Study design</title><p>Based on earlier research conducted with health care professionals (HCPs),<sup>
+<xref rid="bibr9-20499361231165108" ref-type="bibr">9</xref>
+</sup> patients, and community partners (Eckland <italic toggle="yes">et al.</italic>
+personal communication, 31 January 2023), we developed a conversation guide
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20499361231165108" ext-link-type="uri">Supplemental Appendix 1</ext-link>). We built on existing decision matrices
+and risk assessments developed by infectious diseases (ID) and palliative care
+experts, with real-time guidance and technical advice. Building on work by
+Ariadne labs,<sup>
+<xref rid="bibr18-20499361231165108" ref-type="bibr">18</xref>
+</sup> elements of the guide include setting up the conversation, assessing
+understanding of the infection, sharing prognosis, exploring key topics (such as
+patient preferences and values, pain management), antimicrobial trade-offs
+[remaining inpatient, discharging home or elsewhere with a peripherally inserted
+central catheter (PICC), partial IV/oral antimicrobials, intermittent or weekly
+infusions, of oral antimicrobials], and closing the conversation.</p><p>To assess the feasibility and acceptability of the guide, we piloted it with 8
+patients with IDU-associated infections and 4 ID physicians (each of which used
+the guide with 2 patients). We used a case studies approach: each use of the
+guide constituted an in-depth case study. We used the framework method to
+organize our cases,<sup><xref rid="bibr19-20499361231165108" ref-type="bibr">19</xref>,<xref rid="bibr20-20499361231165108" ref-type="bibr">20</xref></sup> triangulating perspectives from the patient, physician,
+and objective measures. We interviewed the patient immediately after using the
+conversation guide and again 4&#8211;6&#8201;weeks later, to assess long-term impacts. We
+interviewed each physician who piloted the guide immediately afterward to obtain
+feedback on guide usability. We measured objective outcomes, such as
+antimicrobial treatment completion and engagement in care after hospital
+discharge, by retrospective review of electronic health records (EHRs).
+Reporting race and ethnicity in this study was mandated by the US National
+Institutes of Health (NIH), consistent with the Inclusion of Women, Minorities,
+and Children policy. Race was self-reported by study participants, and race
+categories were defined by investigators based on the US Office of Management
+and Budget&#8217;s Revisions to the Standards for the Classification of Federal Data
+on Race and Ethnicity.<sup>
+<xref rid="bibr21-20499361231165108" ref-type="bibr">21</xref>
+</sup> We obtained informed consent for all study participants. The MaineHealth
+Institutional Review Board reviewed this study and deemed it exempt.</p></sec><sec id="section9-20499361231165108"><title>Recruitment</title><p>To pilot the guide, we recruited patients hospitalized with IDU-associated
+infections at a single tertiary care hospital. We included patients who were (1)
+hospitalized with IDU-associated infection, (2) able to give informed consent,
+and (3) from a rural area using Rural-Urban Commuting Codes<sup>
+<xref rid="bibr22-20499361231165108" ref-type="bibr">22</xref>
+</sup> or county deemed high risk for HIV/viral hepatitis outbreaks.<sup>
+<xref rid="bibr23-20499361231165108" ref-type="bibr">23</xref>
+</sup> Exclusion criteria included acute psychosis and participation in prior
+research interviews to develop the guide. ID physicians were recruited to pilot
+the guide based on availability, willingness to participate, and diversity of
+experience. Prior to piloting the guide, ID physicians participated in a 30-min
+training by coauthor K.T., which included a primer for the conversation guide
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20499361231165108" ext-link-type="uri">Supplemental Appendix 2</ext-link>), a review of the conversation guide
+itself (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20499361231165108" ext-link-type="uri">Supplemental Appendix 1</ext-link>), and an opportunity to role-play the
+guide. In total, the study team approached four ID physicians and eight
+patients; no participants declined to participate during the informed consent
+process.</p></sec><sec id="section10-20499361231165108"><title>Analysis</title><p>To triangulate information, we sought an analytical approach that could allow us
+to treat each case as an analytical unit, while combining information from
+multiple sources without losing the context of each case. We therefore used the
+framework method to organize and analyze interviews with physicians and
+patients.<sup><xref rid="bibr19-20499361231165108" ref-type="bibr">19</xref>,<xref rid="bibr24-20499361231165108" ref-type="bibr">24</xref></sup> This method utilizes a matrix wherein each case
+occupies a separate row, and categories of information occupy columns.
+Categories were determined <italic toggle="yes">a priori</italic> and included acceptability
+of the guide, perceived benefits and challenges to its use in shared
+decision-making, and satisfaction with the conversation and the decision. We
+also performed a descriptive analysis of outcomes including the treatment
+decision that resulted from the conversation guide [e.g. inpatient, outpatient,
+partial IV/oral (PO), or intermittent or weekly antimicrobial infusions],
+antimicrobial treatment completion, initiation of medication for opioid use
+disorder treatment, and use of preventive strategies such as naloxone
+prescribing. Information from interviews, along with data from EHR
+(demographics, clinical course outcome), were combined to create a narrative of
+each case to capture and summarize the full context of the interaction, health
+status, and issues that came into play during the conversation guide. The
+framework approach facilitates thematic analysis across cases by comparing and
+contrasting information summarized in each category.<sup>
+<xref rid="bibr25-20499361231165108" ref-type="bibr">25</xref>
+</sup> Analysts identified themes to capture perspectives on the major benefits
+or value of the guide as well as challenges to its use. Based on the knowledge
+and values relevant to patient decisions, we determined whether the conversation
+guide effectively addressed these issues.</p><p>Analysts redacted any information that could be used to identify participants.
+Two analysts (M.K., H.S.) used MAXQDA, a qualitative data analysis software, to
+index transcripts, using the Iterative Categorization method.<sup>
+<xref rid="bibr25-20499361231165108" ref-type="bibr">25</xref>
+</sup> For each cell in the matrix (summarized in <xref rid="table2-20499361231165108" ref-type="table">Table 2</xref>), analysts reviewed and
+summarized relevant coded excerpts. Analysts checked one another&#8217;s work by
+reviewing excerpts to ensure summaries accurately captured relevant information.
+We conducted retrospective chart review to corroborate and contextualize
+qualitative data and conducted descriptive analyses, summarizing the frequencies
+of patient characteristics and treatment outcomes. We used STATA (12.1, College
+Station, TX) for quantitative analyses.</p></sec></sec><sec sec-type="results" id="section11-20499361231165108"><title>Results</title><p>Eight patients and four ID physicians piloted the conversation guide. Using chart
+review, we verified that all patients (<italic toggle="yes">N</italic>&#8201;=&#8201;8) completed
+antimicrobial treatment and 88% were discharged on medication for opioid use
+disorder. The median age of physicians was 44 and half of the physicians identified
+as female. A summary of patient characteristics, hospital discharge decision, and
+treatment outcomes is presented in <xref rid="table1-20499361231165108" ref-type="table">Table 1</xref>. Additional information regarding
+antimicrobial treatment regimens is available in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20499361231165108" ext-link-type="uri">Supplemental Appendix 3</ext-link>. Following the conversation guide, most
+patient participants chose to remain hospitalized for their antimicrobial treatment,
+though half eventually transitioned to either oral antimicrobials
+(<italic toggle="yes">n</italic>&#8201;=&#8201;3) or weekly long-acting infusions
+(<italic toggle="yes">n</italic>&#8201;=&#8201;1). One patient participant was readmitted within 30&#8201;days for
+hydropneumothorax/decortication, but notably not for microbiologic failure or
+substance use issue.</p><table-wrap position="float" id="table1-20499361231165108" orientation="portrait"><label>Table 1.</label><caption><p>Characteristics of patient participants with whom infectious disease
+specialists interacted using a structured conversation guide focused on
+injection drug use&#8211;associated infections, Maine, 2022.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361231165108-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"><italic toggle="yes">N</italic> (%)<sup>
+<xref rid="table-fn1-20499361231165108" ref-type="table-fn">a</xref>
+</sup></th></tr></thead><tbody><tr><td colspan="2" rowspan="1">
+<italic toggle="yes">Demographics</italic>
+</td></tr><tr><td rowspan="1" colspan="1">Age (median)</td><td rowspan="1" colspan="1">40</td></tr><tr><td colspan="2" rowspan="1">Gender</td></tr><tr><td rowspan="1" colspan="1">&#8195;Female</td><td rowspan="1" colspan="1">4 (50%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Male</td><td rowspan="1" colspan="1">4 (50%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Transgender</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Unhoused</td><td rowspan="1" colspan="1">5 (63%)</td></tr><tr><td rowspan="1" colspan="1">White</td><td rowspan="1" colspan="1">8 (100%)</td></tr><tr><td colspan="2" rowspan="1">Insurance</td></tr><tr><td rowspan="1" colspan="1">&#8195;Medicaid</td><td rowspan="1" colspan="1">8 (100%)</td></tr><tr><td colspan="2" rowspan="1">Rural-urban commuting code</td></tr><tr><td rowspan="1" colspan="1">&#8195;Metro</td><td rowspan="1" colspan="1">7 (88%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Small town</td><td rowspan="1" colspan="1">1 (12%)</td></tr><tr><td rowspan="1" colspan="1">County deemed high risk for viral hepatitis/HIV outbreak</td><td rowspan="1" colspan="1">6 (75%)</td></tr><tr><td colspan="2" rowspan="1">
+<italic toggle="yes">Health characteristics</italic>
+</td></tr><tr><td rowspan="1" colspan="1">Type(s) of infection<sup>
+<xref rid="table-fn2-20499361231165108" ref-type="table-fn">b</xref>
+</sup></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;Septic joint</td><td rowspan="1" colspan="1">2 (25%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Osteomyelitis</td><td rowspan="1" colspan="1">3 (38%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Skin and soft tissue infection</td><td rowspan="1" colspan="1">2 (25%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Bacteremia</td><td rowspan="1" colspan="1">6 (75%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Epidural phlegmon/abscess</td><td rowspan="1" colspan="1">2 (25%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Possible or definite infective endocarditis</td><td rowspan="1" colspan="1">2 (25%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Empyema</td><td rowspan="1" colspan="1">1 (13%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;HIV</td><td rowspan="1" colspan="1">0 (100%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Hepatitis B</td><td rowspan="1" colspan="1">1 (14%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Hepatitis C</td><td rowspan="1" colspan="1">5 (63%)</td></tr><tr><td colspan="2" rowspan="1">Substance use diagnosis<sup>
+<xref rid="table-fn3-20499361231165108" ref-type="table-fn">c</xref>
+</sup></td></tr><tr><td rowspan="1" colspan="1">&#8195;Severe opioid use disorder/not otherwise specified</td><td rowspan="1" colspan="1">8 (100%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Stimulant use (not otherwise specified)</td><td rowspan="1" colspan="1">4 (50%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Alcohol use (not otherwise specified)</td><td rowspan="1" colspan="1">3 (38%)</td></tr><tr><td colspan="2" rowspan="1">Outcomes</td></tr><tr><td rowspan="1" colspan="1">&#8195;Median length of stay (days)</td><td rowspan="1" colspan="1">37</td></tr><tr><td colspan="2" rowspan="1">Decision after conversation guide</td></tr><tr><td rowspan="1" colspan="1">&#8195;Inpatient</td><td rowspan="1" colspan="1">5 (62%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Intravenous to oral antibiotics if clinical progress</td><td rowspan="1" colspan="1">3 (38%)</td></tr><tr><td colspan="2" rowspan="1">Antimicrobial treatment results</td></tr><tr><td rowspan="1" colspan="1">&#8195;Remained inpatient</td><td rowspan="1" colspan="1">4 (50%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Intravenous to oral antimicrobial transition upon
+discharge</td><td rowspan="1" colspan="1">3 (38%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Weekly infusion</td><td rowspan="1" colspan="1">1 (13%)</td></tr><tr><td rowspan="1" colspan="1">Completed antimicrobial treatment<sup>
+<xref rid="table-fn4-20499361231165108" ref-type="table-fn">d</xref>
+</sup></td><td rowspan="1" colspan="1">100%</td></tr><tr><td rowspan="1" colspan="1">Engaged in substance use disorder treatment during
+hospitalization</td><td rowspan="1" colspan="1">100%</td></tr><tr><td rowspan="1" colspan="1">Discharged on medication for opioid use disorder<sup>
+<xref rid="table-fn5-20499361231165108" ref-type="table-fn">e</xref>
+</sup></td><td rowspan="1" colspan="1">7 (88%)</td></tr><tr><td rowspan="1" colspan="1">Discharged with naloxone</td><td rowspan="1" colspan="1">7 (88%)</td></tr><tr><td rowspan="1" colspan="1">30-day re-admission<sup>
+<xref rid="table-fn6-20499361231165108" ref-type="table-fn">f</xref>
+</sup></td><td rowspan="1" colspan="1">14%</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-20499361231165108"><label>a</label><p>May not add up to 100% due to rounding.</p></fn><fn id="table-fn2-20499361231165108"><label>b</label><p>Patients could have &gt;1 type of injection drug use&#8211;associated
+infection.</p></fn><fn id="table-fn3-20499361231165108"><label>c</label><p>Patients could have&#8201;&gt;&#8201;1 type of substance use disorder.</p></fn><fn id="table-fn4-20499361231165108"><label>d</label><p><italic toggle="yes">n</italic>&#8201;=&#8201;7; missing follow-up documentation on
+<italic toggle="yes">n</italic>&#8201;=&#8201;1.</p></fn><fn id="table-fn5-20499361231165108"><label>e</label><p><italic toggle="yes">n</italic>&#8201;=&#8201;4 methadone; <italic toggle="yes">n</italic>&#8201;=&#8201;3
+buprenorphine/naloxone.</p></fn><fn id="table-fn6-20499361231165108"><label>f</label><p><italic toggle="yes">n</italic>&#8201;=&#8201;7 (the single re-admission was due to
+hydropneumothorax/decortication; unrelated to infectious disease or
+substance use).</p></fn></table-wrap-foot></table-wrap><p>All physicians and most patients stated that the conversation guide was important for
+incorporating patient preferences into consideration of antimicrobial treatment
+options. Patients appreciated more autonomy and their voices being included in their
+care. Physicians felt the guide facilitated their understanding of patient values,
+and antimicrobial treatments were better aligned to patient values and preferences.
+Participants identified the length of the guide (potentially too long/not enough
+time to devote to it on a busy day), and addressing post-discharge needs such as
+housing as areas for improvement. Some physician participants felt discussing pain
+management was out of scope for their practice and did not feel comfortable
+discussing pain management options with patient participants (<xref rid="table2-20499361231165108" ref-type="table">Table 2</xref>).</p><table-wrap position="float" id="table2-20499361231165108" orientation="portrait"><label>Table 2.</label><caption><p>Summary of patient and physician perspectives on structured conversation
+guide for injection drug use&#8211;associated infections.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_20499361231165108-table2.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Theme</th><th align="left" rowspan="1" colspan="1">Summary</th><th align="left" rowspan="1" colspan="1">Representative quote</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Value of conversation</td><td rowspan="1" colspan="1">Patients better informed</td><td rowspan="1" colspan="1">Patients valued being made aware of treatment options and were
+aware of their treatment plan</td><td rowspan="1" colspan="1">&#8216;When there are options, it&#8217;s nice that those are presented to
+you and presented in a way that is unbiased&#8217;. (Patient)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Patient autonomy</td><td rowspan="1" colspan="1">Patients valued being involved in decision process, reporting
+greater sense of control</td><td rowspan="1" colspan="1">&#8216;It makes me feel safer going home and have a better control of
+my health . . . when you get to be . . . part of the decision, .
+. . it&#8217;s control. I have a say in my life, because a lot of
+times in situations like this, you don&#8217;t&#8217;. (Patient)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Safer discharge</td><td rowspan="1" colspan="1">Patients had greater ability to advocate for safe discharge if
+desired</td><td rowspan="1" colspan="1">&#8216;. . . it&#8217;s very, very important [. . .] because if you don&#8217;t
+get along with your doctor, you&#8217;re more than likely going to be
+like, &#8220;No, f*** you. I don&#8217;t want that . . .&#8221;&#8217; (Patient)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Patients feel heard</td><td rowspan="1" colspan="1">Patients valued feeling physician was listening to their
+concerns and preferences</td><td rowspan="1" colspan="1">&#8216;[the ID* physician] was actually listening, and not only
+listening, but wanted to know my opinion on my care . . . I felt
+like [the ID physician] was truly listening&#8217;. (Patient)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Physician learning from patients</td><td rowspan="1" colspan="1">Conversation is a learning opportunity for Physicians. For
+example, of the feasibility of the approach</td><td rowspan="1" colspan="1">&#8216;I think one of the things that my mentors have told me in the
+past was, &#8220;Tell somebody who injects drugs that they could leave
+the hospital with the orals and they&#8217;ll take you up on the
+option.&#8221; And in fact, my experience has been that you can have
+an open and frank conversation with somebody&#8217;. (Physician)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Physicians recognize relevance of patient values/goals</td><td rowspan="1" colspan="1">Physicians believed that information from the conversations are
+important and relevant to include with decisions</td><td rowspan="1" colspan="1">&#8216;But it&#8217;s still important to have open discussions with people,
+understand their goals, worries, strengths and weaknesses. And I
+think the guide helps do that&#8217;. (Physician)</td></tr><tr><td rowspan="1" colspan="1">Areas for improvement</td><td rowspan="1" colspan="1">Length of guide</td><td rowspan="1" colspan="1">Conversations longer than 15 min were difficult to accommodate
+in a busy service. Physician suggestions included shortening the
+guide</td><td rowspan="1" colspan="1">&#8216;I don&#8217;t mind sitting down and talking with patients and getting
+to know them and stuff, but [. . .] This would be a very heavy
+lift when we have multiple patients on service&#8217;.
+(Physician)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">How pain management is discussed</td><td rowspan="1" colspan="1">ID physicians were uncomfortable discussing pain management and
+addiction medicine. Suggestions to involve other physicians</td><td rowspan="1" colspan="1">&#8216;I feel like my role is really about treating with antibiotics
+and diagnosis and treatment of that. And so a lot of times,
+quite frankly, I spend time, I kind of pushing off questions
+about pain control because I don&#8217;t prescribe pain medication&#8217;.
+(Physician)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Addressing post-discharge needs/continuity of care</td><td rowspan="1" colspan="1">Follow-up interviews revealed gaps in care team hand-offs during
+hospitalization and community hand-offs at discharge, especially
+with housing and transportation</td><td rowspan="1" colspan="1">&#8216;. . . the person that was handling my social work was
+nonexistent for the weeks prior to discharge. [. . .] I need to
+be set up at [housing], but I haven&#8217;t heard that come up once in
+today&#8217;s [discharge] discussions anywhere&#8217;. (Patient)</td></tr></tbody></table></alternatives></table-wrap><p>We present six themes that demonstrate the value of the conversation between patients
+and physicians: (1) patients feeling better informed, (2) improved patient autonomy,
+(3) safer hospital discharges, (4) patients feeling heard, (5) HCPs learning from
+patients, and (6) HCPs recognizing the relevance of patient values and goals.</p><sec id="section12-20499361231165108"><title>Patients feeling better informed</title><p>Patients valued when physicians made them aware of antimicrobial treatment
+options, which included traditional (completing antimicrobials inpatient) and
+non-traditional options (i.e. step-down to oral antimicrobials or weekly
+long-acting injectable antimicrobials):<disp-quote><p>When there are options, it&#8217;s nice that those are presented to you and
+presented in a way that is unbiased. (Patient 3)</p></disp-quote></p><p>Patients felt better informed when they were aware of their inpatient treatment
+plan and discussed antimicrobial treatment options with their physicians. They
+also felt that being informed about different treatment options helped them
+articulate their hospital course and treatment plans to other care team members.
+In addition, while most patient participants remained hospitalized for their
+antibiotic course, the additional education about finishing out their antibiotic
+course with a &#8216;non-traditional&#8217; option alleviated some anxiety about remaining
+in the hospital.</p></sec><sec id="section13-20499361231165108"><title>Patient autonomy</title><p>Patients valued being involved in the hospital discharge decision process and
+reported a greater sense of control:<disp-quote><p>It makes me feel safer going home and have a better control of my health
+. . . when you get to be . . . part of the decision, . . . it&#8217;s control.
+I have a say in my life, because a lot of times in situations like this,
+you don&#8217;t. (Patient 3)</p></disp-quote></p><p>Physicians also felt that giving patients autonomy with the conversation guide
+was important, even if some HCPs may find this approach challenging:<disp-quote><p>We struggle with this in medicine and infectious disease, but we are
+supposed to encourage patient autonomy. That&#8217;s one of our main ethical
+principles. But we worry about what it would do if we propose [an]
+&#8216;option that is in our minds inferior&#8217;, and what happens if some patient
+hears it and says &#8216;That&#8217;s all I want to do&#8217;. But if we are truly
+respecting autonomy, and this is something we would consider as a
+therapeutic option, then we should actually present it to the patient. .
+. . it&#8217;s nice to . . . have permission to discuss [different therapeutic
+options] with a patient. (ID physician 1)</p></disp-quote></p></sec><sec id="section14-20499361231165108"><title>Safer hospital discharges</title><p>Patients reported their conversations with physicians gave them a greater ability
+to advocate for a safe discharge if desired. By understanding their treatment
+options, patients had the flexibility to discuss changes in treatment options
+later during their hospitalization, particularly if they desired to leave the
+hospital earlier than anticipated. In these situations, instead of being deemed
+SDD, teams could plan for safer discharges by anticipating changes to treatment
+options and working with patients to arrange outpatient follow up:<disp-quote><p>[Before the conversation guide] I would just get overwhelmed with being
+here and thinking &#8216;oh my god&#8217;. I&#8217;m only halfway through. I can&#8217;t do
+this, and I&#8217;d just end up signing myself out and leaving. (Patient
+8)</p></disp-quote></p><p>By explicitly exploring patient perspectives, physicians also felt the
+conversation guide could potentially prevent adverse outcomes, such as early discharges:<disp-quote><p>. . . [it is beneficial to avoid] these sorts of traumatic episodes where
+people just feel like they have to leave the hospital and that they
+don&#8217;t get very good medical care because they&#8217;re leaving without an
+optimal plan, because we haven&#8217;t explored with people&#8217;s goals are . . .
+to avoid that would be nice and be beneficial for patients and for their
+physicians. I think it&#8217;s stressful for [patients] too . . . having that
+discussion earlier so you&#8217;re not getting into these difficult times,
+like night discharges . . . would be helpful. (ID physician 4)</p></disp-quote></p><p>By feeling heard and included in decisions around hospital discharge
+decision-making, some patients felt they would be less likely to leave the
+hospital through a SDD:<disp-quote><p>I feel like they&#8217;re actually listening to me and involving me. In the
+past, some of the doctors and nurses were pretty judgmental, but that&#8217;s
+gotten a lot better . . . (Patient 8)</p></disp-quote></p></sec><sec id="section15-20499361231165108"><title>Patients feeling heard</title><p>Patients valued feeling that their care team was listening to their concerns and preferences:<disp-quote><p>Being heard made a huge difference. It made me feel much better about the
+decision. Last year, I didn&#8217;t have a choice . . . there were no options
+presented to me then. (Patient 6)</p><p>I think it&#8217;s very important that doctors listen, and that you agree and
+we can all get along and talk about [the treatment plan]. I think it&#8217;s
+very, very important for that to happen, because if you don&#8217;t get along
+with your doctor, you&#8217;re more than likely going to be like &#8216;No, f***
+you. I don&#8217;t want that&#8217;, and that&#8217;s not the way it should be. (Patient
+4)</p></disp-quote></p></sec><sec id="section16-20499361231165108"><title>Physicians learning from patients</title><p>Physician participants felt the conversation was acceptable and created an
+important opportunity to learn from patients:<disp-quote><p>. . . it was nice to be able to ask [patients] about . . . their goals. I
+think that&#8217;s important. (ID Physician 3)</p></disp-quote></p><p>Some physician participants anticipated that when they offered a spectrum of
+antimicrobial treatment options to patients, most patients would choose the
+option that involved oral antimicrobial agents and a shorter hospitalization.
+However, they learned that patients made decisions thoughtfully, and several
+patients preferred completing IV antimicrobial treatment plans:<disp-quote><p>One of the things that my mentors have told me was, &#8216;Tell somebody who
+injects drugs that they could leave the hospital with oral
+[antimicrobials] and they&#8217;ll take you up on that option&#8217;. And in fact,
+my experience has been that you can have an open and frank conversation
+with somebody . . . I had this experience before the guide, but I
+certainly felt this way with the guide, that patients can be empowered
+to stay if you explain why you want them to stay . . . it&#8217;s definitely
+paternalistic medicine to not be offering or explaining what the options
+are. And then it&#8217;s our job to explain why we think one option is better
+than another. (ID Physician 1)</p></disp-quote></p></sec><sec id="section17-20499361231165108"><title>Physicians recognizing the relevance of patient values/goals</title><p>The conversation guide gave physicians the opportunity to understand patient
+values and goals for treatment of their infection (e.g. what matters to patients
+most about treating their infection). One physician also felt that this
+information was helpful for minimizing unsafe discharges:<disp-quote><p>. . . knowing where people are coming from and what their goals are [is
+important] . . . sometimes it comes up in the heat of the moment, as
+someone is threatening to leave, and you realize, oh it&#8217;s because they
+need to go and do X, Y, and Z. And we should have figured that out
+earlier. (ID Physician 2)</p></disp-quote></p><p>Physician participants believed that the information from the conversation guides
+were important and relevant to include in antimicrobial treatment decisions:<disp-quote><p>. . . it&#8217;s still important to have open discussions with people,
+understand their goals, worries, strengths, and weakness. And I think
+the guide helps do that. (ID Physician 1)</p></disp-quote></p><p>The conversation guide allowed space for physicians to understand challenges
+patients may face in completing certain treatment options, as well as
+highlighting patient-identified strengths for completing treatment. For example,
+another physician participant discovered that their patient elected to complete
+IV antimicrobial treatment in the hospital because doing so allowed them to
+complete their housing application.</p><p>While we identified several themes that highlighted the value of the conversation
+guide, we also identified themes involving areas of improvement for the guide:
+guide length and timing, how pain management is discussed, addressing
+post-discharge needs, and continuity of care (<xref rid="table2-20499361231165108" ref-type="table">Table 2</xref>). One physician participant
+felt that while implementing the conversation guide was feasible, the length of
+the guide, which varied anywhere from 15 to 35 min when piloted with patients,
+could be improved by shortening it. In addition, some physician participants
+felt that implementing the conversation guide at multiple time points during the
+hospitalization would be beneficial, given that clinical and psychosocial
+situations may change. Some physicians were uncomfortable discussing pain
+management and substance use in this context, and they felt that involving other
+care team members (e.g. the inpatient addiction medicine team, primary team) was
+important. All patient participants found the guide was acceptable and helpful;
+however, in follow-up interviews, they reported gaps in essential services
+(transportation, housing) and felt that earlier conversations with social work
+experts were necessary. Finally, patient participants also felt that continuity
+of care could be improved. While they reported a helpful conversation with
+physician study participants, they felt other care team members should also
+receive education on the conversation guide and treatment options. Patients felt
+that weekly service provider changes, with care often being provided by
+non-study participants, led to lack of continuity of the care plan discussed
+during the structured conversation guide.</p></sec></sec><sec id="section18-20499361231165108"><title>Case study</title><p>In order to illustrate the impacts of the conversation guide on a specific
+provider&#8211;patient interaction, we included one case presentation: a 40-year-old man
+with severe opioid use disorder, treated with buprenorphine/naloxone prior to
+admission, chronic hepatitis C, and posttraumatic stress disorder, was hospitalized
+for MRSA bacteremia, possible aortic valve endocarditis, and vertebral
+osteomyelitis. The patient endorsed injecting opioids prior to admission.
+Transthoracic and transesophageal echocardiograms were negative for vegetation,
+though the latter showed focal thickening of the noncoronary cusp of the aortic
+valve and was not able to rule out infective endocarditis. Magnetic resonance
+imaging (MRI) of the lumbar spine indicated epidural phlegmon at L5-S1, not amenable
+to drainage. Due to vancomycin intolerance, the patient was started on daptomycin
+upon hospitalization. In the setting of 6&#8201;days of positive blood cultures,
+ceftaroline was added. The addiction psychiatry service team saw the patient, and he
+was eventually restarted on his home dose of buprenorphine, in addition to
+hydromorphone as needed for breakthrough pain, Marinol for management of anxiety in
+the setting of cannabis withdrawal, and diazepam as needed for anxiety while
+hospitalized. Blood cultures cleared after 10&#8201;days, and inflammatory markers
+improved. A licensed clinical social worker with the team met with the patient on
+hospital day 10 and again throughout the hospitalization to discuss underlying
+structural barriers.</p><p>During the clinical encounter that utilized the conversation guide, the patient and
+physician discussed possible discharge with the PICC, but due to housing insecurity,
+unemployment, and ongoing pain management issues, both agreed that remaining
+inpatient for IV antibiotics would be beneficial. They also discussed PICC safety
+outside of the hospital. The patient did not feel he would inject into his PICC;
+however, he was concerned about potential recurrence of use and subsequent PICC
+infection or worsening of infection. The patient and physician also discussed other
+antimicrobial treatment options (weekly long-acting antibiotic infusions and oral
+doxycycline), but the patient expressed hesitancy about those options due to the
+perceived reduced efficacy. On day 30 of hospitalization, however, the patient
+expressed interest in being discharged from the hospital if his labs were stable. At
+that time, he had a mild score on the clinical opioid withdrawal scale, was not
+requiring hydromorphone for breakthrough pain, and was receiving his home dose of
+buprenorphine/naloxone. He did not want to continue buprenorphine/naloxone after
+discharge, so the care team began to taper his buprenorphine/naloxone dose per
+patient preference. He had expressed a desire to stop using opioids however, so
+planned to follow up with his outpatient addiction medicine provider. Because the
+patient was already aware of the antimicrobial treatment options, the ID team
+anticipated the treatment change and arranged for two doses of dalbavancin at the
+outpatient infusion center. The patient was discharged 3&#8201;days later with a referral
+for hepatitis C treatment and outpatient ID follow-up. He completed his course of
+dalbavancin and attended his outpatient ID appointment. He did not have any
+subsequent 30-day readmissions or emergency department visits.</p></sec><sec sec-type="discussion" id="section19-20499361231165108"><title>Discussion</title><p>In this pilot study, participants felt that a novel, structured conversation guide
+was a helpful tool for incorporating patient preferences and discussing
+antimicrobial treatment options for IDU- associated infections. The conversation
+guide also improved patient autonomy, one of the main principles of medical ethics.
+Prior work has examined the use of multidisciplinary teams<sup>
+<xref rid="bibr26-20499361231165108" ref-type="bibr">26</xref>
+</sup> and risk scores<sup>
+<xref rid="bibr27-20499361231165108" ref-type="bibr">27</xref>
+</sup> to aid with antimicrobial decision-making decisions. Our pilot study adds to
+the literature by providing a practical, harm reduction-based communication strategy
+to incorporate patient perspectives and values into medical treatment options and
+hospital discharge decision-making.</p><p>In the palliative care field, communication with patients through serious
+conversation illness guides have been associated with enhanced goal-consistent care
+and better quality of life.<sup>
+<xref rid="bibr28-20499361231165108" ref-type="bibr">28</xref>
+</sup> While communication strategies around antimicrobial treatment have been
+understudied in hospitalized patients with IDU-associated infections, other studies
+have shown that treatment outcomes, particularly HIV treatment outcomes, are
+favorable when HCPs demonstrate high comfort in discussing substance use with their patients.<sup>
+<xref rid="bibr29-20499361231165108" ref-type="bibr">29</xref>
+</sup> Unfortunately, however, patient&#8211;HCP discussions of substance use issues are
+often lacking,<sup>
+<xref rid="bibr30-20499361231165108" ref-type="bibr">30</xref>
+</sup> and in a national survey of 672 ID physicians, only 43% of respondents felt
+comfortable discussing injection practices with patients.<sup>
+<xref rid="bibr31-20499361231165108" ref-type="bibr">31</xref>
+</sup> In the same survey, 82 respondents reported lack of clear guidelines around
+discharging patients with PICCs if they have a history of substance use, lack of
+resources such as home health facilities, and lack of insurance coverage as some of
+the challenges in making antimicrobial treatment decisions. In our study, we found
+that the use of a conversation guide to openly discuss these challenges was helpful
+to both patients and providers. Discussing patient goals, preferences, and risks and
+benefits of antimicrobial treatment options, such as discharging with a PICC, was
+feasible and acceptable to both patients and HCPs. Most HCPs and patients in our
+study appreciated the structure of the conversation guide, and both patients and
+HCPs reported improved knowledge and self-efficacy. These findings are consistent
+with prior literature in the palliative care field, where self-efficacy and
+knowledge improvement have been associated with use of a serious illness
+conversation guide.<sup>
+<xref rid="bibr32-20499361231165108" ref-type="bibr">32</xref>
+</sup> While more work is needed in applying conversation guides for hospitalized
+patients with IDU-associated infections, there is an opportunity to develop and
+improve communication strategies around hospital discharge decision-making between
+HCPs and hospitalized patients with IDU-associated infections. In addition, feedback
+from patient participants suggested the need for improved communication about the
+conversation guide, ensuring that information flows from one setting of care to
+another (i.e. inpatient to outpatient) and between different care team members.
+Additional work is needed to examine additional implications of conversation guide
+to health systems, for example, reducing stigma and identifying other care gaps.</p><p>Our pilot study findings should be considered in light of several limitations.
+Because it was a single site study in a rural state with a small sample size, our
+results may not be transferable to other rural communities, urban areas, or areas
+with different patterns of substance use (e.g. an area with more stimulant use,
+where pharmacologic treatment options are lacking). Consistent with Maine&#8217;s
+demographics, most of our study population was white. Additionally, all of our
+patient participants were English-speaking. Given the prevalence of structural
+racism and health care disparities in treatment,<sup>
+<xref rid="bibr33-20499361231165108" ref-type="bibr">33</xref>
+</sup> it will be important to do further studies in a more heterogeneous population
+and also translate the conversation guide into other languages. Another limitation
+is that some treatment options, such as long-acting injectable infusions, may not be
+available in all settings. While the conversation guide specifies to offer only
+relevant antimicrobial options, it is important to underscore that the conversation
+guide should be adapted to align with available antimicrobial treatment options. In
+addition, as some patient and HCP participants could have withheld opinions during
+study interviews, provision of socially desirable responses may have been a
+limitation. Finally, due to scheduling conflicts (patient and physician
+availability), several of the patient&#8211;physician conversations occurred when patients
+may have been several weeks into their IV antimicrobial course. As suggested by
+several of the participants, piloting the conversation guide at multiple time
+points, including earlier in the hospitalization, will be important. Additionally,
+using the guide in a multidisciplinary format that includes patients, physicians,
+and other members of the care team (e.g. care manager, social worker) could address
+some of the patient concerns regarding continuity of care issues. Because this is a
+pilot study, future studies are needed to evaluate the effectiveness of our
+conversation guide with a larger sample size and in more heterogeneous
+populations.</p></sec><sec sec-type="conclusions" id="section20-20499361231165108"><title>Conclusion</title><p>In this pilot study, the use of a novel conversation guide to inform hospital
+discharge decision-making for patients with IDU-associated infections successfully
+incorporated patient preferences and values into treatment decisions. Notably, there
+were no self-directed discharges, all participants completed antimicrobial
+treatment, and most study participants were discharged with medication for opioid
+use disorder and naloxone. While we identified areas for improvement, overall
+patients and physicians believed that the conversation guide helped to improve
+patient care and autonomy.</p></sec><sec sec-type="supplementary-material" id="section21-20499361231165108" specific-use="figshare"><title>Supplemental Material</title><supplementary-material id="suppl1-20499361231165108" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-docx-1-tai-10.1177_20499361231165108 &#8211; Supplemental material for &#8216;I
+feel like they&#8217;re actually listening to me&#8217;: a pilot study of a hospital
+discharge decision-making conversation guide for patients with injection
+drug use&#8211;associated infections</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-docx-1-tai-10.1177_20499361231165108.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-docx-1-tai-10.1177_20499361231165108 for &#8216;I feel like
+they&#8217;re actually listening to me&#8217;: a pilot study of a hospital discharge
+decision-making conversation guide for patients with injection drug
+use&#8211;associated infections by Kinna Thakarar, Michael Kohut, Henry Stoddard, Deb
+Burris, Frank Chessa, Monica K. Sikka, Daniel A. Solomon, Colleen M. Kershaw,
+Ellen Eaton, Rebecca Hutchinson, Kathleen M. Fairfield, Peter Friedmann and
+Thomas J. Stopka in Therapeutic Advances in Infectious Disease</p></supplementary-material><supplementary-material id="suppl2-20499361231165108" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-docx-3-tai-10.1177_20499361231165108 &#8211; Supplemental material for &#8216;I
+feel like they&#8217;re actually listening to me&#8217;: a pilot study of a hospital
+discharge decision-making conversation guide for patients with injection
+drug use&#8211;associated infections</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-docx-3-tai-10.1177_20499361231165108.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-docx-3-tai-10.1177_20499361231165108 for &#8216;I feel like
+they&#8217;re actually listening to me&#8217;: a pilot study of a hospital discharge
+decision-making conversation guide for patients with injection drug
+use&#8211;associated infections by Kinna Thakarar, Michael Kohut, Henry Stoddard, Deb
+Burris, Frank Chessa, Monica K. Sikka, Daniel A. Solomon, Colleen M. Kershaw,
+Ellen Eaton, Rebecca Hutchinson, Kathleen M. Fairfield, Peter Friedmann and
+Thomas J. Stopka in Therapeutic Advances in Infectious Disease</p></supplementary-material><supplementary-material id="suppl3-20499361231165108" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-pdf-2-tai-10.1177_20499361231165108 &#8211; Supplemental material for &#8216;I
+feel like they&#8217;re actually listening to me&#8217;: a pilot study of a hospital
+discharge decision-making conversation guide for patients with injection
+drug use&#8211;associated infections</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-pdf-2-tai-10.1177_20499361231165108.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-pdf-2-tai-10.1177_20499361231165108 for &#8216;I feel like
+they&#8217;re actually listening to me&#8217;: a pilot study of a hospital discharge
+decision-making conversation guide for patients with injection drug
+use&#8211;associated infections by Kinna Thakarar, Michael Kohut, Henry Stoddard, Deb
+Burris, Frank Chessa, Monica K. Sikka, Daniel A. Solomon, Colleen M. Kershaw,
+Ellen Eaton, Rebecca Hutchinson, Kathleen M. Fairfield, Peter Friedmann and
+Thomas J. Stopka in Therapeutic Advances in Infectious Disease</p></supplementary-material></sec></body><back><ack><p>The authors thank the study participants for their time and expertise. They also
+thank Rebecca Badore, Saba Mostafavi, Carlos Mendoza, and Deanna Williams for their
+contributions to this work.</p></ack><fn-group><fn fn-type="other"><p><bold>ORCID iDs:</bold> Kinna Thakarar <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_20499361231165108-img1.jpg"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0003-4689-0240" ext-link-type="uri">https://orcid.org/0000-0003-4689-0240</ext-link></p><p>Monica K. Sikka <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_20499361231165108-img1.jpg"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0001-8192-8019" ext-link-type="uri">https://orcid.org/0000-0001-8192-8019</ext-link></p></fn><fn fn-type="supplementary-material"><p><bold>Supplemental material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><sec id="section24-20499361231165108"><title>Declarations</title><fn-group><fn fn-type="other"><p><bold>Ethics approval and consent to participate:</bold> The MaineHealth Institutional Review Board reviewed this study and deemed the
+project exempt (ID # 1715061-1). Research staff obtained verbal consent from
+participants for inclusion and recorded confirmation in a HIPAA-compliant
+online database for patient participants.</p></fn><fn fn-type="other"><p><bold>Consent for publication:</bold> Patients provided verbal informed consent for the use of their de-identified
+data. The IRB was informed that outcomes would be presented as case studies
+and as per the approved protocol, no further consent was required.</p></fn><fn fn-type="con"><p><bold>Author contributions:</bold>
+<bold>Kinna Thakarar:</bold> Conceptualization; Data curation; Formal
+analysis; Funding acquisition; Investigation; Methodology; Writing &#8211;
+original draft; Writing &#8211; review &amp; editing.</p><p><bold>Michael Kohut:</bold> Conceptualization; Data curation; Formal
+analysis; Investigation; Methodology; Validation; Writing &#8211; original draft;
+Writing &#8211; review &amp; editing.</p><p><bold>Henry Stoddard:</bold> Formal analysis; Writing &#8211; review &amp;
+editing.</p><p><bold>Deb Burris:</bold> Project administration; Writing &#8211; review &amp;
+editing.</p><p><bold>Frank Chessa:</bold> Investigation; Writing &#8211; review &amp; editing.</p><p><bold>Monica K. Sikka:</bold> Investigation; Writing &#8211; review &amp;
+editing.</p><p><bold>Daniel A. Solomon:</bold> Investigation; Writing &#8211; review &amp;
+editing.</p><p><bold>Colleen M. Kershaw:</bold> Investigation; Writing &#8211; review &amp;
+editing.</p><p><bold>Ellen Eaton:</bold> Investigation; Writing &#8211; review &amp; editing.</p><p><bold>Rebecca Hutchinson:</bold> Conceptualization; Investigation; Resources;
+Writing &#8211; review &amp; editing.</p><p><bold>Kathleen M. Fairfield:</bold> Conceptualization; Funding acquisition;
+Investigation; Methodology; Supervision; Writing &#8211; review &amp; editing.</p><p><bold>Peter Friedmann:</bold> Funding acquisition; Investigation;
+Supervision; Writing &#8211; review &amp; editing.</p><p><bold>Thomas J. Stopka:</bold> Conceptualization; Investigation; Methodology;
+Supervision; Writing &#8211; original draft; Writing &#8211; review &amp; editing.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: The project
+described was supported by the National Center for Advancing Translational
+Sciences, National Institutes of Health, Award No. UL1TR002544. This work
+was supported in part by the Northern New England Clinical and Translational
+Research grant U54GM11551. F.C. is supported by a grant from the National
+Institutes of Health, Center of Biomedical Research Excellence in Acute Care
+Research and Rural Disparities, FAIN P20GM139745. The content is solely the
+responsibility of the authors and does not necessarily represent the
+official views of the NIH.</p></fn><fn fn-type="COI-statement"><p>The authors declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="other"><p><bold>Availability of data and materials:</bold> De-identified data can be made available on request to corresponding
+author.</p></fn></fn-group></sec><ref-list><title>References</title><ref id="bibr1-20499361231165108"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Van Handel</surname><given-names>MM</given-names></name><name name-style="western"><surname>Rose</surname><given-names>CE</given-names></name><name name-style="western"><surname>Hallisey</surname><given-names>EJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>County-level vulnerability
+assessment for rapid dissemination of HIV or HCV infections among persons
+who inject drugs, United States</article-title>. <source>J Acquir Immune
+Defic Syndr</source><year>2016</year>; <volume>73</volume>:
+<fpage>323</fpage>&#8211;<lpage>331</lpage>.<pub-id pub-id-type="pmid">27763996</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/QAI.0000000000001098</pub-id><pub-id pub-id-type="pmcid">PMC5479631</pub-id></mixed-citation></ref><ref id="bibr2-20499361231165108"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wurcel</surname><given-names>AG</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>JE</given-names></name><name name-style="western"><surname>Chui</surname><given-names>KK</given-names></name></person-group>, <etal>et al</etal>. <article-title>Increasing infectious
+endocarditis admissions among young people who inject drugs</article-title>.
+<source>Open Forum Infect Dis</source><year>2016</year>; <volume>3</volume>:
+ofw157.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofw157</pub-id><pub-id pub-id-type="pmcid">PMC5084714</pub-id><pub-id pub-id-type="pmid">27800528</pub-id></mixed-citation></ref><ref id="bibr3-20499361231165108"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thakarar</surname><given-names>K</given-names></name><name name-style="western"><surname>Rokas</surname><given-names>KE</given-names></name><name name-style="western"><surname>Lucas</surname><given-names>FL</given-names></name></person-group>, <etal>et al</etal>. <article-title>Mortality, morbidity, and
+cardiac surgery in Injection Drug Use (IDU)-associated versus non-IDU
+infective endocarditis: the need to expand substance use disorder treatment
+and harm reduction services</article-title>. <source>Plos
+One</source><year>2019</year>; <volume>14</volume>:
+e0225460.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0225460</pub-id><pub-id pub-id-type="pmcid">PMC6879163</pub-id><pub-id pub-id-type="pmid">31770395</pub-id></mixed-citation></ref><ref id="bibr4-20499361231165108"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ronan</surname><given-names>MV</given-names></name><name name-style="western"><surname>Herzig</surname><given-names>SJ</given-names></name></person-group>. <article-title>Hospitalizations related to opioid
+abuse/dependence and associated serious infections increased sharply,
+2002-12</article-title>. <source>Health Aff
+(Millwood)</source><year>2016</year>; <volume>35</volume>:
+<fpage>832</fpage>&#8211;<lpage>837</lpage>.<pub-id pub-id-type="pmid">27140989</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1377/hlthaff.2015.1424</pub-id><pub-id pub-id-type="pmcid">PMC5240777</pub-id></mixed-citation></ref><ref id="bibr5-20499361231165108"><label>5</label><mixed-citation publication-type="gov"><person-group person-group-type="author"><name name-style="western"><surname>Bosse</surname><given-names>T</given-names></name></person-group>. <article-title>Hepatitis B in Maine, 2015 2016</article-title>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/hepatitis/documents/2015-HBV-SurvReport.pdf" ext-link-type="uri">http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/hepatitis/documents/2015-HBV-SurvReport.pdf</ext-link>
+(<comment>accessed 1 September 2017</comment>).</mixed-citation></ref><ref id="bibr6-20499361231165108"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nenninger</surname><given-names>EK</given-names></name><name name-style="western"><surname>Carwile</surname><given-names>JL</given-names></name><name name-style="western"><surname>Ahrens</surname><given-names>KA</given-names></name></person-group>, <etal>et al</etal>. <article-title>Rural-urban differences in
+hospitalizations for opioid use-associated infective endocarditis in the
+United States, 2003-2016</article-title>. <source>Open Forum Infect
+Dis</source><year>2020</year>; <volume>7</volume>: ofaa045.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofaa045</pub-id><pub-id pub-id-type="pmcid">PMC7039404</pub-id><pub-id pub-id-type="pmid">32123692</pub-id></mixed-citation></ref><ref id="bibr7-20499361231165108"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thakarar</surname><given-names>K</given-names></name><name name-style="western"><surname>Kohut</surname><given-names>M</given-names></name><name name-style="western"><surname>Hutchinson</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal>. <article-title>The impact of the COVID-19
+pandemic on people who inject drugs accessing harm reduction services in an
+rural American state</article-title>. <source>Harm Reduct
+J</source><year>2022</year>; <volume>19</volume>:
+<fpage>80</fpage>.<pub-id pub-id-type="pmid">35869523</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12954-022-00660-2</pub-id><pub-id pub-id-type="pmcid">PMC9305035</pub-id></mixed-citation></ref><ref id="bibr8-20499361231165108"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kimmel</surname><given-names>SD</given-names></name><name name-style="western"><surname>Rosenmoss</surname><given-names>S</given-names></name><name name-style="western"><surname>Bearnot</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal>. <article-title>Rejection of patients with
+opioid use disorder referred for post-acute medical care before and after an
+anti-discrimination settlement in Massachusetts</article-title>. <source>J
+Addict Med</source><year>2021</year>; <volume>15</volume>:
+<fpage>20</fpage>&#8211;<lpage>26</lpage>.<pub-id pub-id-type="pmid">32675798</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ADM.0000000000000693</pub-id><pub-id pub-id-type="pmcid">PMC7859880</pub-id></mixed-citation></ref><ref id="bibr9-20499361231165108"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Moore</surname><given-names>N</given-names></name><name name-style="western"><surname>Kohut</surname><given-names>M</given-names></name><name name-style="western"><surname>Stoddard</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal>. <article-title>Health care professional
+perspectives on discharging hospitalized patients with injection drug
+use-associated infections</article-title>. <source>Ther Adv Infect
+Dis</source><year>2022</year>; <volume>9</volume>:
+20499361221126868.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/20499361221126868</pub-id><pub-id pub-id-type="pmcid">PMC9549088</pub-id><pub-id pub-id-type="pmid">36225855</pub-id></mixed-citation></ref><ref id="bibr10-20499361231165108"><label>10</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Beauchamp</surname><given-names>TLaCJF</given-names></name></person-group>. <source>Principles of biomedical ethics</source>.
+<publisher-loc>New York</publisher-loc>: <publisher-name>Oxford University
+Press</publisher-name>, <year>2001</year>.</mixed-citation></ref><ref id="bibr11-20499361231165108"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ramirez</surname><given-names>V</given-names></name><name name-style="western"><surname>Carwile</surname><given-names>J</given-names></name><name name-style="western"><surname>Rokas</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Injection drug use and care
+charges for infective endocarditis</article-title>. <source>J Maine Med
+Center</source><year>2020</year>; <volume>2</volume>:
+<fpage>12</fpage>.</mixed-citation></ref><ref id="bibr12-20499361231165108"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Simon</surname><given-names>R</given-names></name><name name-style="western"><surname>Snow</surname><given-names>R</given-names></name><name name-style="western"><surname>Wakeman</surname><given-names>S</given-names></name></person-group>. <article-title>Understanding why patients with substance use
+disorders leave the hospital against medical advice: a qualitative
+study</article-title>. <source>Subst Abus</source><year>2020</year>;
+<volume>41</volume>: <fpage>519</fpage>&#8211;<lpage>525</lpage>.<pub-id pub-id-type="pmid">31638862</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08897077.2019.1671942</pub-id></mixed-citation></ref><ref id="bibr13-20499361231165108"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thakarar</surname><given-names>K</given-names></name><name name-style="western"><surname>Sankar</surname><given-names>N</given-names></name><name name-style="western"><surname>Murray</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Injections and infections:
+understanding syringe service program utilization in a rural
+state</article-title>. <source>Harm Reduct J</source><year>2021</year>;
+<volume>18</volume>: <fpage>74</fpage>.<pub-id pub-id-type="pmid">34273986</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12954-021-00524-1</pub-id><pub-id pub-id-type="pmcid">PMC8285696</pub-id></mixed-citation></ref><ref id="bibr14-20499361231165108"><label>14</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Gore</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Strnad</surname><given-names>L</given-names></name><name name-style="western"><surname>Englander</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal>. <source>Outcomes of multidisciplinary care
+conferences for patients with substance use disorders requiring prolonged
+antimicrobial therapy for severe infections</source>.
+<publisher-loc>Washington, DC</publisher-loc>:
+<publisher-name>IDWeek</publisher-name>, <year>2019</year>.</mixed-citation></ref><ref id="bibr15-20499361231165108"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bryson-Cahn</surname><given-names>C</given-names></name><name name-style="western"><surname>Beieler</surname><given-names>AM</given-names></name><name name-style="western"><surname>Chan</surname><given-names>JD</given-names></name></person-group>, <etal>et al</etal>. <article-title>Dalbavancin as secondary
+therapy for serious <italic toggle="yes">Staphylococcus aureus</italic> infections in a
+vulnerable patient population</article-title>. <source>Open Forum Infect
+Dis</source><year>2019</year>; <volume>6</volume>: ofz028.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofz028</pub-id><pub-id pub-id-type="pmcid">PMC6388764</pub-id><pub-id pub-id-type="pmid">30838225</pub-id></mixed-citation></ref><ref id="bibr16-20499361231165108"><label>16</label><mixed-citation publication-type="webpage"><person-group person-group-type="author"><name name-style="western"><surname>Lally</surname><given-names>KM</given-names></name><name name-style="western"><surname>McCutcheon Adams</surname><given-names>K</given-names></name><name name-style="western"><surname>Zambeaux</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>. <article-title>How to talk to your patients
+about end-of-life care: a conversation ready toolkit for
+clinicians</article-title>. <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ihi.org/communities/blogs/how-to-talk-to-your-patients-about-end-of-life-care" ext-link-type="uri">https://www.ihi.org/communities/blogs/how-to-talk-to-your-patients-about-end-of-life-care</ext-link></mixed-citation></ref><ref id="bibr17-20499361231165108"><label>17</label><mixed-citation publication-type="book"><collab>Ariadne Labs: A Joint Center for
+Health Systems Innovation</collab>. <source>Serious illness conversation
+guide</source>. <publisher-loc>Boston, MA</publisher-loc>:
+<publisher-name>Ariadne Labs: A Joint Center for Health Systems
+Innovation</publisher-name>, <year>2015</year>.</mixed-citation></ref><ref id="bibr18-20499361231165108"><label>18</label><mixed-citation publication-type="webpage"><collab>Ariadne Labs: A Joint Center for
+Health Systems Innovation</collab>. <source>Serious illness conversation
+guide</source>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ariadnelabs.org/tools-and-downloads/" ext-link-type="uri">https://www.ariadnelabs.org/tools-and-downloads/</ext-link>
+(<comment>accessed 11 September 2022</comment>).</mixed-citation></ref><ref id="bibr19-20499361231165108"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gale</surname><given-names>NK</given-names></name><name name-style="western"><surname>Heath</surname><given-names>G</given-names></name><name name-style="western"><surname>Cameron</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal>. <article-title>Using the framework method
+for the analysis of qualitative data in multi-disciplinary health
+research</article-title>. <source>BMC Med Res
+Methodol</source><year>2013</year>; <volume>13</volume>:
+<fpage>117</fpage>.<pub-id pub-id-type="pmid">24047204</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2288-13-117</pub-id><pub-id pub-id-type="pmcid">PMC3848812</pub-id></mixed-citation></ref><ref id="bibr20-20499361231165108"><label>20</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Ritchie</surname><given-names>J</given-names></name><name name-style="western"><surname>Lewis</surname><given-names>J</given-names></name></person-group>. <source>Qualitative research practice: a guide for social
+science students and researchers</source>. <publisher-loc>Thousand Oaks,
+CA</publisher-loc>: <publisher-name>SAGE</publisher-name>,
+<year>2003</year>.</mixed-citation></ref><ref id="bibr21-20499361231165108"><label>21</label><mixed-citation publication-type="gov"><collab>Office of Information and Regulatory
+Affairs, Executive Office of the President, Office of Management and
+Budget</collab>. <article-title>Revisions to the standards for the
+classification of federal data on race and ethnicity</article-title>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://obamawhitehouse.archives.gov/omb/fedreg_1997standards" ext-link-type="uri">https://obamawhitehouse.archives.gov/omb/fedreg_1997standards</ext-link>
+(<year>1997</year>, <comment>accessed 8 February
+2023</comment>).</mixed-citation></ref><ref id="bibr22-20499361231165108"><label>22</label><mixed-citation publication-type="gov"><collab>United States Department of
+Agriculture</collab>. <article-title>Rural-urban commuting area
+codes</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes.aspx" ext-link-type="uri">https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes.aspx</ext-link>
+(<year>2019</year>, <comment>accessed 7 August
+2020</comment>).</mixed-citation></ref><ref id="bibr23-20499361231165108"><label>23</label><mixed-citation publication-type="gov"><collab>Department of Health and Human
+Services</collab>. <article-title>Vulnerability assessment for opioid
+overdoses and bloodborne infections associated with non-sterile injection
+drug use in Maine</article-title>. <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.maine.gov/dhhs/mecdc/navtabs/documents/Vulnerability-Assessment-Fact-Sheet3.pdf" ext-link-type="uri">https://www.maine.gov/dhhs/mecdc/navtabs/documents/Vulnerability-Assessment-Fact-Sheet3.pdf</ext-link></mixed-citation></ref><ref id="bibr24-20499361231165108"><label>24</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Ritchie</surname><given-names>J</given-names></name><name name-style="western"><surname>Lewis</surname><given-names>J</given-names></name><name name-style="western"><surname>Nicholls</surname><given-names>CM</given-names></name></person-group>, <etal>et al</etal>. <source>Qualitative research practice: a
+guide for social science students and researchers</source>. <edition>2nd
+ed.</edition><publisher-loc>London</publisher-loc>:
+<publisher-name>SAGE</publisher-name>, <year>2003</year>.</mixed-citation></ref><ref id="bibr25-20499361231165108"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Neale</surname><given-names>J</given-names></name></person-group>. <article-title>Iterative categorization (IC): a systematic
+technique for analysing qualitative data</article-title>.
+<source>Addiction</source><year>2016</year>; <volume>111</volume>:
+<fpage>1096</fpage>&#8211;<lpage>1106</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/add.13314</pub-id><pub-id pub-id-type="pmcid">PMC5069594</pub-id><pub-id pub-id-type="pmid">26806155</pub-id></mixed-citation></ref><ref id="bibr26-20499361231165108"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sikka</surname><given-names>MK</given-names></name><name name-style="western"><surname>Gore</surname><given-names>S</given-names></name><name name-style="western"><surname>Vega</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal>. <article-title>&#8216;OPTIONS-DC&#8217;, a feasible
+discharge planning conference to expand infection treatment options for
+people with substance use disorder</article-title>. <source>BMC Infect
+Dis</source><year>2021</year>; <volume>21</volume>:
+<fpage>772</fpage>.<pub-id pub-id-type="pmid">34372776</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12879-021-06514-9</pub-id><pub-id pub-id-type="pmcid">PMC8351414</pub-id></mixed-citation></ref><ref id="bibr27-20499361231165108"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Eaton</surname><given-names>EF</given-names></name><name name-style="western"><surname>Mathews</surname><given-names>RE</given-names></name><name name-style="western"><surname>Lane</surname><given-names>PS</given-names></name></person-group>, <etal>et al</etal>. <article-title>A 9-point risk assessment
+for patients who inject drugs and require intravenous antibiotics: focusing
+inpatient resources on patients at greatest risk of ongoing drug
+use</article-title>. <source>Clin Infect Dis</source><year>2019</year>;
+<volume>68</volume>:
+<fpage>1041</fpage>&#8211;<lpage>1043</lpage>.<pub-id pub-id-type="pmid">30165395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciy722</pub-id></mixed-citation></ref><ref id="bibr28-20499361231165108"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bernacki</surname><given-names>RE</given-names></name><name name-style="western"><surname>Block</surname><given-names>SD</given-names></name></person-group> and <collab>American College of Physicians High Value Care Task
+Force</collab>. <article-title>Communication about serious illness care
+goals: a review and synthesis of best practices</article-title>.
+<source>JAMA Intern Med</source><year>2014</year>; <volume>174</volume>:
+<fpage>1994</fpage>&#8211;<lpage>2003</lpage>.<pub-id pub-id-type="pmid">25330167</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2014.5271</pub-id></mixed-citation></ref><ref id="bibr29-20499361231165108"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ray</surname><given-names>MK</given-names></name><name name-style="western"><surname>Beach</surname><given-names>MC</given-names></name><name name-style="western"><surname>Nicolaidis</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>. <article-title>Patient and provider comfort
+discussing substance use</article-title>. <source>Fam
+Med</source><year>2013</year>; <volume>45</volume>:
+<fpage>109</fpage>&#8211;<lpage>117</lpage>.<pub-id pub-id-type="pmid">23378078</pub-id><pub-id pub-id-type="pmcid">PMC3608897</pub-id></mixed-citation></ref><ref id="bibr30-20499361231165108"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Korthuis</surname><given-names>PT</given-names></name><name name-style="western"><surname>Josephs</surname><given-names>JS</given-names></name><name name-style="western"><surname>Fleishman</surname><given-names>JA</given-names></name></person-group>, <etal>et al</etal>. <article-title>Substance abuse treatment in
+human immunodeficiency virus: the role of patient-provider
+discussions</article-title>. <source>J Subst Abuse
+Treat</source><year>2008</year>; <volume>35</volume>:
+<fpage>294</fpage>&#8211;<lpage>303</lpage>.<pub-id pub-id-type="pmid">18329222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2007.11.005</pub-id><pub-id pub-id-type="pmcid">PMC2574740</pub-id></mixed-citation></ref><ref id="bibr31-20499361231165108"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rapoport</surname><given-names>AB</given-names></name><name name-style="western"><surname>Fischer</surname><given-names>LS</given-names></name><name name-style="western"><surname>Santibanez</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>Infectious diseases
+physicians&#8217; perspectives regarding injection drug use and related
+infections, United States, 2017</article-title>. <source>Open Forum Infect
+Dis</source><year>2018</year>; <volume>5</volume>: ofy132.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofy132</pub-id><pub-id pub-id-type="pmcid">PMC6041812</pub-id><pub-id pub-id-type="pmid">30018999</pub-id></mixed-citation></ref><ref id="bibr32-20499361231165108"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tam</surname><given-names>V</given-names></name><name name-style="western"><surname>You</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Bernacki</surname><given-names>R</given-names></name></person-group>. <article-title>Enhancing medical learners&#8217; knowledge of,
+comfort and confidence in holding serious illness
+conversations</article-title>. <source>Am J Hosp Palliat
+Care</source><year>2019</year>; <volume>36</volume>:
+<fpage>1096</fpage>&#8211;<lpage>1104</lpage>.<pub-id pub-id-type="pmid">31327241</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1049909119857988</pub-id></mixed-citation></ref><ref id="bibr33-20499361231165108"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jackson</surname><given-names>DS</given-names></name><name name-style="western"><surname>Nguemeni Tiako</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Jordan</surname><given-names>A</given-names></name></person-group>. <article-title>Disparities in addiction treatment: learning
+from the past to forge an equitable future</article-title>. <source>Med Clin
+North Am</source><year>2022</year>; <volume>106</volume>:
+<fpage>29</fpage>&#8211;<lpage>41</lpage>.<pub-id pub-id-type="pmid">34823733</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mcna.2021.08.008</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

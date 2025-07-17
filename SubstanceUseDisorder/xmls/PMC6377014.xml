@@ -1,0 +1,86 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Stud Alcohol Drugs Suppl</journal-id><journal-id journal-id-type="iso-abbrev">J Stud Alcohol Drugs Suppl</journal-id><journal-id journal-id-type="pmc-domain-id">924</journal-id><journal-id journal-id-type="pmc-domain">jsadsupp</journal-id><journal-id journal-id-type="publisher-id">jsads</journal-id><journal-title-group><journal-title>Journal of Studies on Alcohol and Drugs. Supplement</journal-title></journal-title-group><issn pub-type="ppub">1946-584X</issn><issn pub-type="epub">1946-5858</issn><publisher><publisher-name>Rutgers University. Center of Alcohol Studies</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6377014</article-id><article-id pub-id-type="pmcid-ver">PMC6377014.1</article-id><article-id pub-id-type="pmcaid">6377014</article-id><article-id pub-id-type="pmcaiid">6377014</article-id><article-id pub-id-type="pmid">30681955</article-id><article-id pub-id-type="doi">10.15288/jsads.2019.s18.112</article-id><article-id pub-id-type="publisher-id">112</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Commentary</subject></subj-group></article-categories><title-group><article-title>The Need for Needs-Based Planning: A Commentary</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Bray</surname><given-names initials="JW">Jeremy W.</given-names></name><degrees>Ph.D.</degrees><xref ref-type="aff" rid="aff1"><sup>a</sup></xref></contrib><aff id="aff1"><label><sup>a</sup></label>Department of Economics, UNC Greensboro,
+Bryan School of Business and Economics, 462 Bryan Building, P.O. Box 26170,
+Greensboro NC 27402-6170</aff></contrib-group><pub-date pub-type="ppub"><month>1</month><year>2019</year></pub-date><pub-date pub-type="epub"><day>27</day><month>1</month><year>2019</year></pub-date><volume>Sup 18</volume><issue-id pub-id-type="pmc-issue-id">329622</issue-id><fpage>112</fpage><lpage>113</lpage><history><date date-type="received"><day>28</day><month>8</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>01</day><month>01</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2020-02-06 14:56:31.697"><day>06</day><month>02</month><year>2020</year></date></event></pub-history><permissions><copyright-statement>Copyright &#169; 2019 by Alcohol Research Documentation,
+Inc.</copyright-statement><copyright-year>2019</copyright-year></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jsads.2019.s18.112.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="jsads.2019.s18.112.pdf"/><counts><fig-count count="0"/><table-count count="0"/><page-count count="2"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>M<sc>odeling techniques are commonplace</sc> in many fields. Health economic
+applications, for example, use modeling to forecast lifetime quality-adjusted life years
+in cost-effectiveness analysis. These models typically take a broad perspective,
+attempting to model national policy impacts or to be representative of the national
+population. Modeling techniques are also common in the management and organization
+literatures, where planning models are used to help specific organizations, such as
+hospitals, develop and implement strategic plans to address emerging issues. Less
+common, however, are models to help local governments make decisions regarding the
+substance use treatment needs of their population.</p><p>Three articles in this supplement help fill this gap and highlight the potential utility
+that models to support needs-based planning can have if tailored for local governmental
+authorities. <xref rid="B1" ref-type="bibr">Brennan and colleagues (2019)</xref>
+illustrate how an existing modeling framework can be adapted for local authorities in
+England to predict alcohol treatment need and allow a variety of &#8220;what-if&#8221;
+scenarios to be assessed. <xref rid="B2" ref-type="bibr">Hirschovits-Gerz and colleagues
+(2019)</xref> demonstrate how national data can be used to develop local models of
+substance use treatment need for seven Finnish municipalities. <xref rid="B3" ref-type="bibr">Mota and colleagues (2019)</xref> illustrate the use of local data to
+support a model of substance use treatment need for S&#227;o Paulo, Brazil.</p><p>Taken as a group, these three articles show the potential of modeling for local substance
+use policy. Local policymakers urgently need the information that such models can
+provide since it is often local policy that has the biggest impact on people&#8217;s
+lives. For example, the U.S. federal response to the opioid epidemic has been slow, but
+local efforts to address the opioid epidemic have moved at a much faster pace. One such
+effort in Guilford County, NC, involves partnering local government with researchers at
+the University of North Carolina at Greensboro to support peer outreach, needle
+exchange, and naloxone kits for first responders to help prevent opioid overdose deaths.
+Although Guilford County is fully committed to combating the opioid epidemic, like all
+local governments its budget is limited and, therefore, it needs reliable projections of
+service need, capacity bottlenecks, and impacts on the budgets of the involved local
+agencies to sustain and improve its efforts. Validated, peer-reviewed local models are
+needed as much as, if not more than, the national models that are typically published in
+peer-reviewed journals because the stakes are so high and the margins so narrow for
+local municipalities.</p><p>The models presented in these three articles offer a template for future treatment system
+modeling efforts at the local government level. Rather than starting from scratch, all
+three articles build on earlier local modeling efforts, either by <xref rid="B5" ref-type="bibr">Rush (1990)</xref> or by <xref rid="B4" ref-type="bibr">Ritter and
+colleagues (2013)</xref>. Building on these earlier efforts is essential to promote
+consistency across models. But more methodological work is needed to exploit the growing
+amounts of local data available to researchers and policymakers. National efforts to
+improve data quality also improve local data quality because much of the data in
+national reporting systems originates at the local level. Furthermore, efforts such as
+the MetroLab Network (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://metrolabnetwork.org">https://metrolabnetwork.org</ext-link>) are
+improving local data coordination and quality independent of national reporting
+requirements. Future modeling efforts can and should tap into these efforts&#8212;and
+into the burgeoning field of data science&#8212;to develop real-time planning tools
+that help local governments address the substance use needs of their citizens.</p><p>Beyond simply modeling treatment need, future efforts should build on the work started
+here to support budget impact analyses and other decision support tools for local
+policymakers. Future work should also merge existing models to develop more
+comprehensive models to assess the full range of issues related to substance use
+disorders, from treatment need to criminal justice and school system resources. Ever
+more complex and comprehensive models will become possible as computing resources and
+data availability continue to improve. The challenge to researchers working on models of
+the substance use treatment system will be to keep pace with these developments while
+simultaneously ensuring that their work is accessible and useful to policymakers at all
+levels.</p></body><back><ref-list><title>References</title><ref id="B1"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Brennan</surname><given-names>A.</given-names></name><name name-style="western"><surname>Hill-McManus</surname><given-names>D.</given-names></name><name name-style="western"><surname>Stone</surname><given-names>T.</given-names></name><name name-style="western"><surname>Buykx</surname><given-names>P.</given-names></name><name name-style="western"><surname>Ally</surname><given-names>A.</given-names></name><name name-style="western"><surname>Pryce</surname><given-names>R.
+E.</given-names></name><name name-style="western"><surname>Drummond</surname><given-names>C.</given-names></name></person-group><year>2019</year><article-title>Modeling
+the potential impact of changing access rates to specialist treatment for
+alcohol dependence for local authorities in England: The Specialist
+Treatment for Alcohol Model
+(STreAM)</article-title><source><italic toggle="yes">Journal of Studies on
+Alcohol and Drugs, Supplement
+18</italic></source><fpage>96</fpage><lpage>104</lpage><comment>doi:10.15288/jsads.2019.s18.96</comment><pub-id pub-id-type="doi" assigning-authority="pmc">10.15288/jsads.2019.s18.96</pub-id><pub-id pub-id-type="pmcid">PMC6377021</pub-id><pub-id pub-id-type="pmid">30681953</pub-id></element-citation></ref><ref id="B2"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hirschovits-Gerz</surname><given-names>T.</given-names></name><name name-style="western"><surname>Kuussaari</surname><given-names>K.</given-names></name><name name-style="western"><surname>Stenius</surname><given-names>K.</given-names></name><name name-style="western"><surname>Tammi</surname><given-names>T.</given-names></name></person-group><year>2019</year><article-title>Estimating
+the needs of substance problem use services: An exercise in several Finnish
+municipalities using nationally collected, municipallevel survey and
+register data</article-title><source><italic toggle="yes">Journal of Studies on
+Alcohol and Drugs<italic toggle="yes">, Supplement</italic>
+18</italic></source><fpage>76</fpage><lpage>86</lpage><comment>doi:10.15288/jsads.2019.s18.76</comment><pub-id pub-id-type="doi" assigning-authority="pmc">10.15288/jsads.2019.s18.76</pub-id><pub-id pub-id-type="pmcid">PMC6377011</pub-id><pub-id pub-id-type="pmid">30681951</pub-id></element-citation></ref><ref id="B3"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mota</surname><given-names>D. C.
+B.</given-names></name><name name-style="western"><surname>Silveira</surname><given-names>C.
+M.</given-names></name><name name-style="western"><surname>Siu</surname><given-names>E.</given-names></name><name name-style="western"><surname>Gomide</surname><given-names>H.
+P.</given-names></name><name name-style="western"><surname>Guerra</surname><given-names>L.
+H.
+A.</given-names></name><name name-style="western"><surname>Ronzani</surname><given-names>T.
+M.</given-names></name><name name-style="western"><surname>Rush</surname><given-names>B.</given-names></name></person-group><year>2019</year><article-title>Estimating
+service needs for alcohol and other drug users according to a tiered
+framework: The case of the S&#227;o Paulo, Brazil, metropolitan
+area</article-title><source><italic toggle="yes">Journal of Studies on Alcohol
+and Drugs<italic toggle="yes">, Supplement</italic>
+18</italic></source><fpage>87</fpage><lpage>95</lpage><comment>doi:10.15288/jsads.2019.s18.87</comment><pub-id pub-id-type="doi" assigning-authority="pmc">10.15288/jsads.2019.s18.87</pub-id><pub-id pub-id-type="pmcid">PMC6377023</pub-id><pub-id pub-id-type="pmid">30681952</pub-id></element-citation></ref><ref id="B4"><element-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Ritter</surname><given-names>A.</given-names></name><name name-style="western"><surname>Chalmers</surname><given-names>J.</given-names></name><name name-style="western"><surname>Sunderland</surname><given-names>M.</given-names></name></person-group><year>2013,
+May</year><source><italic toggle="yes">Planning for drug treatment services:
+Estimating population need and demand for
+treatment</italic></source><comment>Paper presented at the Seventh
+Annual Conference of the International Society for the Study of Drug Policy,
+Universidad de los Andes, Bogot&#225;, Colombia. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.issdp.org/conferencepapers/2013/2013_papers/Ritter%20A%20-%20Planning%20for%20drug%20treatment%20services.pdf">http://www.issdp.org/conferencepapers/2013/2013_papers/Ritter%20A%20-%20Planning%20for%20drug%20treatment%20services.pdf</ext-link></comment></element-citation></ref><ref id="B5"><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rush</surname><given-names>B</given-names></name></person-group><year>1990</year><article-title>A
+systems approach to estimating the required capacity of alcohol treatment
+services</article-title><source><italic toggle="yes">British Journal of
+Addiction</italic></source><volume>85</volume><fpage>49</fpage><lpage>59</lpage><comment>doi:10.1111/j.1360-0443.1990.tb00623.x</comment><pub-id pub-id-type="pmid">2310853</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1360-0443.1990.tb00623.x</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

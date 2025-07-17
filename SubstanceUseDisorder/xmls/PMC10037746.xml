@@ -1,0 +1,811 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Can J Psychiatry</journal-id><journal-id journal-id-type="iso-abbrev">Can J Psychiatry</journal-id><journal-id journal-id-type="pmc-domain-id">2444</journal-id><journal-id journal-id-type="pmc-domain">canjpsych</journal-id><journal-id journal-id-type="publisher-id">CPA</journal-id><journal-title-group><journal-title>Canadian Journal of Psychiatry. Revue Canadienne de Psychiatrie</journal-title></journal-title-group><issn pub-type="ppub">0706-7437</issn><issn pub-type="epub">1497-0015</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10037746</article-id><article-id pub-id-type="pmcid-ver">PMC10037746.1</article-id><article-id pub-id-type="pmcaid">10037746</article-id><article-id pub-id-type="pmcaiid">10037746</article-id><article-id pub-id-type="pmid">36200433</article-id><article-id pub-id-type="doi">10.1177/07067437221128477</article-id><article-id pub-id-type="publisher-id">10.1177_07067437221128477</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Trends in Involuntary Psychiatric Hospitalization in British
+Columbia: Descriptive Analysis of Population-Based Linked Administrative Data
+from 2008 to 2018</article-title><trans-title-group xml:lang="fr"><trans-title>Tendances de l&#8217;hospitalisation psychiatrique involontaire en
+Colombie-Britannique : analyse descriptive des donn&#233;es administratives
+coupl&#233;es bas&#233;es sur la population de 2008 &#224; 2018</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0397-4498</contrib-id><name name-style="western"><surname>Loyal</surname><given-names initials="JP">Jackson P.</given-names></name><degrees>MPH</degrees><xref rid="aff1-07067437221128477" ref-type="aff">1</xref><xref rid="aff2-07067437221128477" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4205-4600</contrib-id><name name-style="western"><surname>Lavergne</surname><given-names initials="MR">M. Ruth</given-names></name><degrees>PhD</degrees><xref rid="aff3-07067437221128477" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shirmaleki</surname><given-names initials="M">Mehdi</given-names></name><degrees>MSc</degrees><xref rid="aff1-07067437221128477" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2186-4030</contrib-id><name name-style="western"><surname>Fischer</surname><given-names initials="B">Benedikt</given-names></name><degrees>PhD</degrees><xref rid="aff4-07067437221128477" ref-type="aff">4</xref><xref rid="aff5-07067437221128477" ref-type="aff">5</xref><xref rid="aff6-07067437221128477" ref-type="aff">6</xref><xref rid="aff7-07067437221128477" ref-type="aff">7</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kaoser</surname><given-names initials="R">Ridhwana</given-names></name><degrees>MPH</degrees><xref rid="aff1-07067437221128477" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Makolewksi</surname><given-names initials="J">Jack</given-names></name><degrees>MSW, RSW</degrees><xref rid="aff1-07067437221128477" ref-type="aff">1</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Small</surname><given-names initials="W">Will</given-names></name><degrees>PhD</degrees><xref rid="aff1-07067437221128477" ref-type="aff">1</xref><xref rid="aff2-07067437221128477" ref-type="aff">2</xref><xref rid="corresp1-07067437221128477" ref-type="corresp"/></contrib></contrib-group><aff id="aff1-07067437221128477">
+<label>1</label>Faculty of Health Sciences, Simon Fraser University, Burnaby,
+British Columbia, Canada</aff><aff id="aff2-07067437221128477">
+<label>2</label>BC Centre for Disease Control, Vancouver, British Columbia</aff><aff id="aff3-07067437221128477">
+<label>3</label>Department of Family Medicine, Faculty of Medicine, Dalhousie
+University, Halifax, Nova Scotia, Canada</aff><aff id="aff4-07067437221128477">
+<label>4</label>Centre for Applied Research in Mental Health and Addiction, Faculty
+of Health Sciences, Simon Fraser University, Vancouver, British Columbia,
+Canada</aff><aff id="aff5-07067437221128477">
+<label>5</label>School of Population Health, Faculty of Medical and Health Sciences,
+University of Auckland, Auckland, New Zealand</aff><aff id="aff6-07067437221128477">
+<label>6</label>Department of Psychiatry, University of Toronto, Toronto, Ontario,
+Canada</aff><aff id="aff7-07067437221128477">
+<label>7</label>Department of Psychiatry, Federal University of Sao Paulo (UNIFESP),
+Sao Paulo, Brazil</aff><author-notes><corresp id="corresp1-07067437221128477">Will Small, PhD, Simon Fraser University,
+Faculty of Health Sciences, Blusson Hall, Room 11300, 8888 University Drive,
+Burnaby, British Columbia, Canada V5A 1S6. Email:
+<email>will_small@sfu.ca</email></corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>10</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2023</year></pub-date><volume>68</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">431997</issue-id><fpage>257</fpage><lpage>268</lpage><pub-history><event event-type="pmc-release"><date><day>06</day><month>10</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>25</day><month>03</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-03-27 18:10:41.543"><day>27</day><month>03</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s) 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="sage">Canadian Psychiatric
+Association</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_07067437221128477.pdf"/><abstract><sec><title>Introduction</title><p>Involuntary psychiatric hospitalization occurs when someone with a serious
+mental disorder requires treatment without their consent. Trends vary
+globally, and currently, there is limited data on involuntary
+hospitalization in Canada. We examine involuntary hospitalization trends in
+British Columbia, Canada, and describe the social and clinical
+characteristics of people ages 15 and older who were involuntarily
+hospitalized between 2008/2009 and 2017/2018.</p></sec><sec><title>Method</title><p>We used population-based linked administrative data to examine and compare
+trends in involuntary and voluntary hospitalizations for mental and
+substance use disorders. We described patient characteristics (sex/gender,
+age, health authority, income, urbanity/rurality, and primary diagnosis) and
+tracked the count of involuntarily hospitalized people over time by
+diagnosis. Finally, we examined population-based prevalence over time by age
+and sex/gender.</p></sec><sec><title>Results</title><p>Involuntary hospitalizations among British Columbians ages 15 and older rose
+from 14,195 to 23,531 (65.7%) between 2008/2009 and 2017/2018. Apprehensions
+involving police increased from 3,502 to 8,009 (128.7%). Meanwhile,
+voluntary admissions remained relatively stable, with a minimal increase
+from 17,651 in 2008/2009 to 17,751 in 2017/2018 (0.5%). The most common
+diagnosis for involuntary patients in 2017/2018 was mood disorders (25.1%),
+followed by schizophrenia (22.3%), and substance use disorders (18.8%). From
+2008/2009 to 2017/2018, the greatest increase was observed for substance use
+disorders (139%). Over time, population-based prevalence increased most
+rapidly among women ages 15&#8211;24 (162%) and men ages 15&#8211;34 (81%) and 85 and
+older (106%).</p></sec><sec><title>Conclusion</title><p>Findings highlight the need to strengthen the voluntary care system for
+mental health and substance use, especially for younger adults, and people
+who use substances. They also signal a need for closer examination of the
+use of involuntary treatment for substance use disorders, as well as further
+research exploring forces driving police involvement and its
+implications.</p></sec></abstract><trans-abstract abstract-type="normal" xml:lang="fr"><title>Abr&#233;g&#233;</title><sec><title>Introduction</title><p>L&#8217;hospitalisation psychiatrique involontaire a lieu quand une personne
+souffrant d&#8217;un trouble mental grave demande un traitement sans son
+consentement. Les tendances varient de par le monde, et &#224; l&#8217;heure actuelle,
+les donn&#233;es sur l&#8217;hospitalisation involontaire au Canada sont limit&#233;es. Nous
+examinons les tendances de l&#8217;hospitalisation involontaire en
+Colombie-Britannique, Canada, et d&#233;crivons les caract&#233;ristiques sociales et
+cliniques des personnes de 15 ans et plus qui ont &#233;t&#233; hospitalis&#233;es
+involontairement entre 2008/2009 et 2017/2018.</p></sec><sec><title>M&#233;thode</title><p>Nous avons utilis&#233; les donn&#233;es administratives coupl&#233;es bas&#233;es sur la
+population pour examiner et comparer les tendances des hospitalisations
+volontaires et involontaires pour les troubles mentaux et d&#8217;utilisation de
+substances. Nous avons d&#233;crit les caract&#233;ristiques des patients (sexe/genre,
+&#226;ge, autorit&#233; de sant&#233;, revenu, urbanit&#233;/ruralit&#233;, et premier diagnostic) et
+suivi le compte de personnes hospitalis&#233;es involontairement avec le temps
+par diagnostic. Enfin, nous avons examin&#233; la pr&#233;valence dans la population
+avec le temps selon l&#8217;&#226;ge et le sexe/genre.</p></sec><sec><title>R&#233;sultats</title><p>Les hospitalisations involontaires chez les Britanno-Colombiens de 15 ans et
+plus sont pass&#233;es de 14,195 &#224; 23,531 (65,7%) entre 2008/2009 et 2017/2018.
+Les arrestations par la police se sont accrues de 3,502 &#224; 8,009 (128,7%).
+Entre-temps, les hospitalisations volontaires sont demeur&#233;es relativement
+stables, avec un accroissement minimal de 17 651 en 2008/2009 &#224; 17,751 en
+2017/2018 (0,5%). Le diagnostic le plus fr&#233;quent pour les patients
+involontaires en 2017/2018 &#233;tait les troubles de l&#8217;humeur (25,1%), suivis de
+la schizophr&#233;nie (22,3%), et des troubles d&#8217;utilisation de substances
+(18,8%). De 2008/2009 &#224; 2017/2018, la plus grande augmentation a &#233;t&#233;
+observ&#233;e pour les troubles d&#8217;utilisation de substances (139%). Avec le
+temps, la pr&#233;valence bas&#233;e dans la population s&#8217;est accrue le plus
+rapidement chez les femmes de 15 &#224; 24 ans (162%) et les hommes de 15 &#224; 34
+ans (81%) et de 85 ans et plus (106%).</p></sec><sec><title>Conclusion</title><p>Les r&#233;sultats soulignent le besoin de renforcer le syst&#232;me de soins
+volontaires pour la sant&#233; mentale et l&#8217;utilisation de substances, surtout
+pour les jeunes adultes, et les personnes qui utilisent des substances. Ils
+signalent aussi un besoin d&#8217;examiner de plus pr&#232;s le recours au traitement
+involontaire pour le trouble d&#8217;utilisation de substances, de m&#234;me qu&#8217;une
+future recherche qui explorerait les forces derri&#232;re la participation de la
+police et ses implications.</p></sec></trans-abstract><kwd-group><kwd>involuntary hospitalization</kwd><kwd>coercive treatment</kwd><kwd>mental health</kwd><kwd>substance use</kwd><kwd>health administrative data</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-07067437221128477"><funding-source id="funding1-07067437221128477"><institution-wrap><institution>Michael Smith Foundation for Health Research</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100000245</institution-id></institution-wrap></funding-source><award-id rid="funding1-07067437221128477">148170</award-id></award-group><award-group id="award2-07067437221128477"><funding-source id="funding2-07067437221128477"><institution-wrap><institution>Canadian Institutes of Health Research</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100000024</institution-id></institution-wrap></funding-source><award-id rid="funding2-07067437221128477">148170</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts19</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-07067437221128477"><title>Introduction</title><p>Involuntary hospitalization occurs when a person with a serious mental disorder is
+detained against their will in order to receive medical treatment and supervision.
+Globally, there is significant variation in trends in involuntary hospitalizations.
+Between 2008 and 2017, involuntary hospitalizations increased in 11 Western European
+countries, decreased in 4 Nordic countries, and remained relatively constant in New
+Zealand and Italy.<sup>
+<xref rid="bibr1-07067437221128477" ref-type="bibr">1</xref>
+</sup> Meanwhile, involuntary hospitalizations were stable in Taiwan from 1998 to 2007.<sup>
+<xref rid="bibr2-07067437221128477" ref-type="bibr">2</xref>
+</sup> Differences have also been observed within jurisdictions. In the United
+States between 2011 and 2018, increases were observed in 15 states while decreases
+were observed in 7 states.<sup>
+<xref rid="bibr3-07067437221128477" ref-type="bibr">3</xref>
+</sup> Differences in trends may be due to differences in demographics, economics,
+healthcare provision, and legal frameworks regarding involuntary
+hospitalization<sup><xref rid="bibr1-07067437221128477" ref-type="bibr">1</xref>,<xref rid="bibr4-07067437221128477" ref-type="bibr">4</xref></sup>
+and geographic variation of mental disorder prevalence.<sup>
+<xref rid="bibr5-07067437221128477" ref-type="bibr">5</xref>
+</sup></p><p>While some factors are consistently associated with involuntary hospitalization
+across jurisdictions (e.g., psychotic disorder diagnosis),<sup>
+<xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>
+</sup> others may vary between countries. Male gender has been consistently
+associated with an increased risk of involuntary hospitalization,<sup><xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>,<xref rid="bibr7-07067437221128477" ref-type="bibr">7</xref></sup> however, others have observed
+increased risk in association with female gender.<sup><xref rid="bibr8-07067437221128477" ref-type="bibr">8</xref><xref rid="bibr9-07067437221128477" ref-type="bibr"/>&#8211;<xref rid="bibr10-07067437221128477" ref-type="bibr">10</xref></sup> Age has similar variability.
+Some have observed associations of increased risk of involuntary hospitalization
+with young age (generally &lt;30),<sup><xref rid="bibr8-07067437221128477" ref-type="bibr">8</xref>,<xref rid="bibr11-07067437221128477" ref-type="bibr">11</xref>,<xref rid="bibr12-07067437221128477" ref-type="bibr">12</xref></sup> middle age (30+),<sup>
+<xref rid="bibr10-07067437221128477" ref-type="bibr">10</xref>
+</sup> and old age (65+)<sup>
+<xref rid="bibr12-07067437221128477" ref-type="bibr">12</xref>
+</sup> whereas others have seen no association.<sup>
+<xref rid="bibr13-07067437221128477" ref-type="bibr">13</xref>
+</sup> Low socioeconomic status has also correlated with involuntary hospitalization,<sup>
+<xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>
+</sup> but this has not been observed uniformly across settings.<sup>
+<xref rid="bibr11-07067437221128477" ref-type="bibr">11</xref>
+</sup> Variations between jurisdictions highlight the need for targeted research to
+better understand involuntary hospitalization within specific regions and contexts
+for policy and service planning purposes, given that increased utilization can be
+interpreted as an indicator of service needs.</p><p>Data on involuntary hospitalization in Canada is limited. The most recent national
+study examining involuntary hospitalization was conducted in the 1970s,<sup>
+<xref rid="bibr14-07067437221128477" ref-type="bibr">14</xref>
+</sup> while other studies have been limited to specific hospitals,<sup><xref rid="bibr15-07067437221128477" ref-type="bibr">15</xref>,<xref rid="bibr16-07067437221128477" ref-type="bibr">16</xref></sup> patient populations,<sup>
+<xref rid="bibr17-07067437221128477" ref-type="bibr">17</xref>
+</sup> and regions.<sup>
+<xref rid="bibr11-07067437221128477" ref-type="bibr">11</xref>
+</sup> A recent study in Ontario observed an increase in involuntary hospitalization
+prevalence from 70.7% of psychiatric admissions in 2009 to 77.1% in 2013.<sup>
+<xref rid="bibr11-07067437221128477" ref-type="bibr">11</xref>
+</sup> In British Columbia (BC), the number of involuntary hospitalizations
+increased 162% among children and youth between 2009 and 2018,<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup> and &#8764;71% across the whole population from 2006 to 2017.<sup>
+<xref rid="bibr19-07067437221128477" ref-type="bibr">19</xref>
+</sup> However, factors contributing to this growth, and whether this reflects an
+increase in psychiatric hospitalizations overall or a disproportionate change in
+involuntary admissions is not known. While BC reports have documented changes in
+involuntary hospitalization<sup><xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>,<xref rid="bibr19-07067437221128477" ref-type="bibr">19</xref></sup> and explored social and clinical characteristics of children
+and youth hospitalized involuntarily, research is still needed to understand trends
+among involuntarily hospitalized adults and factors shaping them. Our objective is
+to examine involuntary hospitalization trends in BC and describe the social and
+clinical characteristics of people aged 15 and older who were involuntarily
+hospitalized between 2008/2009 and 2017/2018.</p></sec><sec sec-type="methods" id="section2-07067437221128477"><title>Methods</title><sec id="section2A-07067437221128477"><title>Setting</title><p>BC is Canada's westernmost province, with a population of roughly 5 million
+people in 2018.<sup>
+<xref rid="bibr20-07067437221128477" ref-type="bibr">20</xref>
+</sup> Under the BC Mental Health Act (MHA), people may be involuntary
+hospitalized if they are assessed as having a serious mental disorder, and
+require treatment and supervision to protect them or others, or to prevent
+deterioration of their mental and/or physical health.<sup>
+<xref rid="bibr21-07067437221128477" ref-type="bibr">21</xref>
+</sup> Involuntary hospitalization for substance use may only occur in the
+presence of a concurrent mental disorder,<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup> however, some research suggests instances of involuntary hospitalization
+for substance use alone.<sup><xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>,<xref rid="bibr22-07067437221128477" ref-type="bibr">22</xref>,<xref rid="bibr23-07067437221128477" ref-type="bibr">23</xref></sup> Section 28 of the BC MHA
+permits police to apprehend and take a person believed to have a mental disorder
+to a physician for examination.<sup>
+<xref rid="bibr21-07067437221128477" ref-type="bibr">21</xref>
+</sup> If deemed to require involuntary treatment, the physician completes a
+medical certificate (Form 4) which permits the patient to be admitted for up to
+48 h. A second examination by another physician must be completed within this 48
+h period to extend the involuntary admission up to 1 month (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/07067437221128477" ext-link-type="uri">Supplementary 1</ext-link> for a breakdown of detention periods). Patients
+may request a review panel hearing to challenge their certification. When a
+patient is incapable of consenting to or otherwise refuses psychiatric
+treatment, the medical director of the psychiatric facility in which the patient
+is held consents on the patient's behalf, which is unique to BC's MHA.<sup>
+<xref rid="bibr4-07067437221128477" ref-type="bibr">4</xref>
+</sup></p><p>Other Canadian MHAs are limited in scope compared to the BC MHA,<sup>
+<xref rid="bibr4-07067437221128477" ref-type="bibr">4</xref>
+</sup> however, BC is in the process of updating the MHA,<sup>
+<xref rid="bibr24-07067437221128477" ref-type="bibr">24</xref>
+</sup> and recently considered amendments to the MHA in response to the ongoing
+illicit drug poisoning crisis. Bill 22 would have enabled physicians to
+involuntarily admit youth (&lt;19) for up to 7 days following an overdose even
+in the absence of a mental disorder.<sup>
+<xref rid="bibr25-07067437221128477" ref-type="bibr">25</xref>
+</sup> While Bill 22 has been dismissed, some stakeholders continue to call for
+the implementation of stabilization care for youth.<sup>
+<xref rid="bibr26-07067437221128477" ref-type="bibr">26</xref>
+</sup></p></sec><sec id="section2B-07067437221128477"><title>Data Sources</title><p>We used linked, de-identified health administrative data made accessible through
+Population Data BC. Details of the data linkage process are described elsewhere.<sup>
+<xref rid="bibr27-07067437221128477" ref-type="bibr">27</xref>
+</sup> Data included hospitalization data from the Discharge Abstract Database<sup>
+<xref rid="bibr28-07067437221128477" ref-type="bibr">28</xref>
+</sup> and demographic information from BC's provincial health insurance plan,
+the Medical Services Plan.<sup>
+<xref rid="bibr29-07067437221128477" ref-type="bibr">29</xref>
+</sup> Reporting of involuntary hospitalizations is mandatory in BC.<sup>
+<xref rid="bibr30-07067437221128477" ref-type="bibr">30</xref>
+</sup></p></sec><sec id="section2C-07067437221128477"><title>Study Population</title><p>We included all people in BC ages 15 and older who were insured under BC's
+Medical Service Plan, and were hospitalized between April 1, 2008, and March 31,
+2018, with a discharge diagnosis for a mental or substance use disorder
+(diagnosis codes are listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/07067437221128477" ext-link-type="uri">Supplementary 2</ext-link>) and/or had a record of involuntary admission.
+We excluded 11 records with missing information on age or sex/gender. Residents
+who were not eligible for coverage under the Medical Service Plan were excluded
+from our analysis.</p></sec><sec id="section2D-07067437221128477"><title>Measures</title><sec id="section2D1-07067437221128477"><title>Hospitalizations</title><p>We defined voluntary psychiatric hospitalizations as a hospital admission
+with an associated discharge diagnosis code as listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/07067437221128477" ext-link-type="uri">Supplementary 2</ext-link>. These codes were chosen to reflect
+conditions covered under the BC MHA. We defined involuntary psychiatric
+hospitalization as an admission under Form 4, &#8220;Medical Certificate
+(Involuntary Admission),&#8221; of the BC MHA. The presence of an MHIAPOLI flag
+indicated the person had been involuntarily admitted following apprehension
+by the police. Discharge diagnosis is based on the condition most
+responsible for hospital length of stay and may not be the mental disorder
+reflected on Form 4. As a result, some involuntary hospitalizations have
+non-mental disorders listed in the discharge diagnosis. The 10 most frequent
+non-mental disorders are listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/07067437221128477" ext-link-type="uri">Supplementary 3</ext-link>.</p></sec><sec id="section2D2-07067437221128477"><title>Characteristics</title><p>Age and sex/gender were obtained from BC's Medical Service Plan registration
+file. We labelled this variable &#8220;sex/gender&#8221; because this is labelled
+&#8220;gender&#8221; on the registration form but only options for &#8220;M&#8221; and &#8220;F&#8221; are
+provided. Consequently, it is not possible to distinguish between sex at
+birth, legal sex, and gender. Health Authority was determined based on
+patient's residential address, not where the hospitalization occurred. We
+used the Postal Code Conversion File Plus<sup><xref rid="bibr31-07067437221128477" ref-type="bibr">31</xref><xref rid="bibr32-07067437221128477" ref-type="bibr"/>&#8211;<xref rid="bibr33-07067437221128477" ref-type="bibr">33</xref></sup> to assign
+neighbourhood income quintile based on census enumeration area of residence
+(units with between 400 and 700 people). Urbanity/rurality was determined
+using Statistics Canada metropolitan influenced zones.<sup>
+<xref rid="bibr34-07067437221128477" ref-type="bibr">34</xref>
+</sup> The primary diagnosis responsible for hospitalization was based on
+the diagnosis at discharge captured in the Discharge Abstract Database.</p></sec></sec><sec id="section2E-07067437221128477"><title>Analysis</title><p>We examined the total number of psychiatric hospitalizations as well as the
+number of individuals with psychiatric hospitalizations, stratified by
+involuntary and voluntary status from 2008/2009 to 2017/2018. We described the
+annual number of hospitalizations and individuals hospitalized subdivided by a
+grouping of mental and substance use disorders (MSUDs) based on discharge
+diagnosis and the proportion of all involuntary hospitalizations involving
+police apprehensions. We tracked the count of involuntary hospitalizations over
+time by discharge diagnosis. We reported annual counts and percentages to
+describe sociodemographic and clinical characteristics for all people who were
+involuntarily hospitalized and voluntarily hospitalized for MSUDs in 2017/2018.
+Finally, we examined population-based prevalence over time by strata based on
+age and sex/gender. This descriptive information was based on complete
+population-based data capturing all hospitalizations, and so provides unbiased
+information on trends and patient characteristics.</p></sec><sec id="section2F-07067437221128477"><title>Ethics Approval</title><p>This study received harmonized ethics approval from the University of British
+Columbia, Providence Health Care Research Institute, and Simon Fraser University
+Research Ethics Board (REB number H17-00506).</p></sec></sec><sec sec-type="results" id="section3-07067437221128477"><title>Results</title><p>In 2008/2009, involuntary hospitalizations accounted for 44.6% of all
+hospitalizations for MSUDs. By 2017/2018, this grew to 57.0%. Between 2008/2009 and
+2017/2018, the population of BC grew 15.2% from approximately 4.3 million to 5
+million people. Trends over time for hospitalizations are presented in <xref rid="fig1-07067437221128477" ref-type="fig">Figure 1</xref>. Between 2008/2009
+and 2017/2018, the number of involuntary hospitalizations among British Columbians
+ages 15 and older increased from 14,195 to 23,531 (65.7%), and those involving
+police apprehension increased from 3,502 to 8,009 (128.7%; <xref rid="fig1-07067437221128477" ref-type="fig">Figure 1</xref>(a)). In the same period, voluntary
+admissions increased from 17,651 to 17,751 (0.5%; <xref rid="fig1-07067437221128477" ref-type="fig">Figure 1</xref>(a)). When examining individuals,
+similar increases were observed for involuntary patients (66.8%) and patients
+apprehended by police (117.0%); however, the number of voluntary patients increased
+16.0% (<xref rid="fig1-07067437221128477" ref-type="fig">Figure 1</xref>(b)).</p><fig position="float" id="fig1-07067437221128477" orientation="portrait"><label>Figure 1.</label><caption><p>A comparison of annual trends in involuntary and voluntary hospitalizations
+based on the number of hospitalizations (a) and number of individuals (b)
+from 2008/2009 to 2017/2018.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_07067437221128477-fig1.jpg"/></fig><p>In 2017/2018, 45.1% of involuntary patients and 49.3% of voluntary patients were
+female (<xref rid="table1-07067437221128477" ref-type="table">Table 1</xref>). The
+majority (58.9%) of involuntary patients were between the ages of 15 and 44, while
+the age distribution was older for voluntary patients, in which the majority (63.0%)
+were people ages 45 and older. The distributions of involuntary and voluntary
+patients were similar across income quintiles. The greatest percentages of
+involuntary and voluntary patients were in Fraser Health (36.5% and 29.6%,
+respectively). Slightly higher percentages of involuntary patients (68.5%) resided
+in metropolitan areas compared with voluntary (54.3%). The most common diagnosis for
+involuntary patients in 2017/2018 was mood disorders (25.1%), followed by
+schizophrenia (22.3%) and substance use disorders (18.8%). For voluntary patients,
+the most common diagnoses were substance use disorders (33.7%), other mental
+disorders (33.5%), followed by mood disorders (20.3%). Although substance use
+disorders accounted for a large proportion of both voluntary and involuntary
+patients, when separating alcohol use disorder and other substance use disorders
+(which included cannabis, opioid, stimulant-related disorders, and other substance
+use/abuse), alcohol use disorder accounted for 22.1% of voluntary patients but only
+6.7% of involuntary patients. Meanwhile, other substance use disorders accounted for
+12.1% of involuntary patients and 11.6% of voluntary patients.</p><table-wrap position="float" id="table1-07067437221128477" orientation="portrait"><label>Table 1.</label><caption><p>Descriptive Characteristics of People Involuntarily and Voluntarily
+Hospitalized for Mental and Substance Use Disorders in 2008/2009 and
+2017/2018.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_07067437221128477-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" colspan="2" rowspan="1">2008/2009<break/>Total
+<italic toggle="yes">n</italic>&#8201;=&#8201;19,720</th><th align="center" colspan="2" rowspan="1">2017/2018<break/>Total
+<italic toggle="yes">n</italic>&#8201;=&#8201;28,089</th></tr><tr><th align="left" rowspan="1" colspan="1">Characteristics</th><th align="center" rowspan="1" colspan="1">Involuntary</th><th align="center" rowspan="1" colspan="1">Voluntary</th><th align="center" rowspan="1" colspan="1">Involuntary</th><th align="center" rowspan="1" colspan="1">Voluntary</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">10,263 (52.0%)</td><td rowspan="1" colspan="1">9,457 (48.0%)</td><td rowspan="1" colspan="1">17,120 (60.9%)</td><td rowspan="1" colspan="1">10,969 (39.1%)</td></tr><tr><td rowspan="1" colspan="1">Sex/gender</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Female</td><td rowspan="1" colspan="1">4,772 (46.5%)</td><td rowspan="1" colspan="1">4,870 (51.5%)</td><td rowspan="1" colspan="1">7,721 (45.1%)</td><td rowspan="1" colspan="1">5,406 (49.3%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Male</td><td rowspan="1" colspan="1">5,490 (53.5%)</td><td rowspan="1" colspan="1">4,584 (48.5%)</td><td rowspan="1" colspan="1">9,399 (54.9%)</td><td rowspan="1" colspan="1">5,563 (50.7%)</td></tr><tr><td rowspan="1" colspan="1">Age groups</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;15&#8211;24</td><td rowspan="1" colspan="1">1,762 (17.2%)</td><td rowspan="1" colspan="1">1,074 (11.4%)</td><td rowspan="1" colspan="1">4,000 (23.4%)</td><td rowspan="1" colspan="1">1,372 (12.5%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;25&#8211;44</td><td rowspan="1" colspan="1">4,032 (39.3%)</td><td rowspan="1" colspan="1">2,917 (30.8%)</td><td rowspan="1" colspan="1">6,075 (35.5%)</td><td rowspan="1" colspan="1">2,694 (24.6%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;45&#8211;64</td><td rowspan="1" colspan="1">3,114 (30.3%)</td><td rowspan="1" colspan="1">2,890 (30.6%)</td><td rowspan="1" colspan="1">4,521 (26.4%)</td><td rowspan="1" colspan="1">2,782 (25.4%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;65+</td><td rowspan="1" colspan="1">1,355 (13.2%)</td><td rowspan="1" colspan="1">2,576 (27.2%)</td><td rowspan="1" colspan="1">2,524 (14.7%)</td><td rowspan="1" colspan="1">4,121 (37.6%)</td></tr><tr><td rowspan="1" colspan="1">Health Authority</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Fraser Health</td><td rowspan="1" colspan="1">3,326 (32.4%)</td><td rowspan="1" colspan="1">2,825 (29.9%)</td><td rowspan="1" colspan="1">6,208 (36.5%)</td><td rowspan="1" colspan="1">3,217 (29.6%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Vancouver Coastal</td><td rowspan="1" colspan="1">3,064 (29.9%)</td><td rowspan="1" colspan="1">1,602 (16.9%)</td><td rowspan="1" colspan="1">3,903 (22.9%)</td><td rowspan="1" colspan="1">2,038 (18.7%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Interior Health</td><td rowspan="1" colspan="1">1,523 (14.8%)</td><td rowspan="1" colspan="1">2,094 (22.2%)</td><td rowspan="1" colspan="1">2,892 (17.0%)</td><td rowspan="1" colspan="1">2,255 (20.7%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Island Health</td><td rowspan="1" colspan="1">1,723 (16.8%)</td><td rowspan="1" colspan="1">1,693 (17.9%)</td><td rowspan="1" colspan="1">2,873 (16.9%)</td><td rowspan="1" colspan="1">2,280 (20.9%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Northern Health</td><td rowspan="1" colspan="1">561 (5.5%)</td><td rowspan="1" colspan="1">1,185 (12.5%)</td><td rowspan="1" colspan="1">1,140 (6.7%)</td><td rowspan="1" colspan="1">1,096 (10.1%)</td></tr><tr><td rowspan="1" colspan="1">Income</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Q1</td><td rowspan="1" colspan="1">3,400 (33.2%)</td><td rowspan="1" colspan="1">2,791 (29.5%)</td><td rowspan="1" colspan="1">5,394 (31.7%)</td><td rowspan="1" colspan="1">3,040 (27.9%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Q2</td><td rowspan="1" colspan="1">2,038 (19.9%)</td><td rowspan="1" colspan="1">1,957 (20.7%)</td><td rowspan="1" colspan="1">3,548 (20.9%)</td><td rowspan="1" colspan="1">2,308 (21.2%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Q3</td><td rowspan="1" colspan="1">1,677 (16.4%)</td><td rowspan="1" colspan="1">1,657 (17.5%)</td><td rowspan="1" colspan="1">2,957 (17.4%)</td><td rowspan="1" colspan="1">2,044 (18.8%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Q4</td><td rowspan="1" colspan="1">1,465 (14.3%)</td><td rowspan="1" colspan="1">1,460 (15.4%)</td><td rowspan="1" colspan="1">2,601 (15.3%)</td><td rowspan="1" colspan="1">1,808 (16.6%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Q5</td><td rowspan="1" colspan="1">1,252 (12.2%)</td><td rowspan="1" colspan="1">1,281 (13.6%)</td><td rowspan="1" colspan="1">2,185 (12.9%)</td><td rowspan="1" colspan="1">1,520 (14.0%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Missing</td><td rowspan="1" colspan="1">424 (4.1%)</td><td rowspan="1" colspan="1">307 (3.2%)</td><td rowspan="1" colspan="1">331 (1.9%)</td><td rowspan="1" colspan="1">166 (1.5%)</td></tr><tr><td rowspan="1" colspan="1">Urban/rural</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Metro-urban</td><td rowspan="1" colspan="1">7,307 (71.2%)</td><td rowspan="1" colspan="1">4,924 (52.1%)</td><td rowspan="1" colspan="1">11,658 (68.5%)</td><td rowspan="1" colspan="1">5,911 (54.3%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Small-urban</td><td rowspan="1" colspan="1">2,021 (19.7%)</td><td rowspan="1" colspan="1">2,788 (29.5%)</td><td rowspan="1" colspan="1">3,673 (21.6%)</td><td rowspan="1" colspan="1">3,152 (29.0%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Rural/remote</td><td rowspan="1" colspan="1">903 (8.8%)</td><td rowspan="1" colspan="1">1,722 (18.2%)</td><td rowspan="1" colspan="1">1,681 (9.9%)</td><td rowspan="1" colspan="1">1,820 (16.7%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Missing</td><td rowspan="1" colspan="1">25 (0.2%)</td><td rowspan="1" colspan="1">19 (0.2%)</td><td rowspan="1" colspan="1">5 (0.0%)</td><td rowspan="1" colspan="1">4 (0.0%)</td></tr><tr><td colspan="2" rowspan="1">Primary diagnosis at discharge</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Schizophrenia</td><td rowspan="1" colspan="1">2,959 (28.8%)</td><td rowspan="1" colspan="1">686 (7.3%)</td><td rowspan="1" colspan="1">3,815 (22.3%)</td><td rowspan="1" colspan="1">689 (6.3%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Mood disorders</td><td rowspan="1" colspan="1">2,912 (28.4%)</td><td rowspan="1" colspan="1">2,859 (30.2%)</td><td rowspan="1" colspan="1">4,295 (25.1%)</td><td rowspan="1" colspan="1">2,232 (20.3%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;Substance use disorders</td><td rowspan="1" colspan="1">1,457 (14.2%)</td><td rowspan="1" colspan="1">3,186 (33.7%)</td><td rowspan="1" colspan="1">3,222 (18.8%)</td><td rowspan="1" colspan="1">3,699 (33.7%)</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">&#8195;&#8195;Alcohol</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">634 (6.2%)</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">1,957 (20.7%)</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">1,152 (6.7%)</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">2,429 (22.1%)</italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">&#8195;&#8195;Other substances</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">823 (8.0%)</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">1,229 (13.0%)</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">2,070 (12.1%)</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">1,270 (11.6%)</italic>
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Non-mental disorders</td><td rowspan="1" colspan="1">1,347 (13.1%)</td><td rowspan="1" colspan="1">&#8212;</td><td rowspan="1" colspan="1">2,703 (15.8%)</td><td rowspan="1" colspan="1">&#8212;</td></tr><tr><td rowspan="1" colspan="1">&#8195;Other mental disorders</td><td rowspan="1" colspan="1">902 (8.8%)</td><td rowspan="1" colspan="1">2,160 (22.8%)</td><td rowspan="1" colspan="1">1,608 (9.4%)</td><td rowspan="1" colspan="1">3,677 (33.5%)</td></tr><tr><td rowspan="1" colspan="1">&#8195;PTSD</td><td rowspan="1" colspan="1">686 (6.7%)</td><td rowspan="1" colspan="1">566 (6.0%)</td><td rowspan="1" colspan="1">1,477 (8.6%)</td><td rowspan="1" colspan="1">672 (6.1%)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-07067437221128477"><p><italic toggle="yes">Note:</italic> Within the population ages 15+&#8201;in BC, 37% live in
+Fraser Health, 24% live in Vancouver Coastal, 17% live in Island Health,
+16% live in Interior Health, and 6% live in Northern Health.
+PTSD&#8201;=&#8201;posttraumatic stress disorder.</p></fn></table-wrap-foot></table-wrap><p>Annual trends in primary diagnosis at discharge for involuntary hospitalization are
+presented in <xref rid="fig2-07067437221128477" ref-type="fig">Figure 2</xref>, and
+population-based prevalence by age and sex/gender are presented in <xref rid="fig3-07067437221128477" ref-type="fig">Figures 3</xref> and <xref rid="fig4-07067437221128477" ref-type="fig">4</xref>. While the most common
+discharge diagnosis over time was schizophrenia, followed by mood disorders and
+substance use disorders, the greatest increase was observed for substance use
+disorders (139%). Over time, population-based prevalence increased most rapidly
+among women ages 15&#8211;24 (162%) and men ages 15&#8211;34 (81%) and 85 and older (106%).</p><fig position="float" id="fig2-07067437221128477" orientation="portrait"><label>Figure 2.</label><caption><p>Annual trends in involuntary hospitalizations by primary diagnosis at
+discharge from 2008/2009 to 2017/2018.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_07067437221128477-fig2.jpg"/></fig><fig position="float" id="fig3-07067437221128477" orientation="portrait"><label>Figure 3.</label><caption><p>Involuntary hospitalizations by age among people with female sex/gender, per
+1,000 population, for 2008/2009, 2012/2013, and 2017/2018.
+<italic toggle="yes">Note</italic>: Medical Service Plan registration forms only
+provide the options &#8220;M&#8221; and &#8220;F,&#8221; however, the field is labelled &#8220;Gender.&#8221; It
+is not possible to distinguish sex at birth, legal sex, and gender based on
+this information. We have opted to label this as sex/gender.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_07067437221128477-fig3.jpg"/></fig><fig position="float" id="fig4-07067437221128477" orientation="portrait"><label>Figure 4.</label><caption><p>Involuntary hospitalizations by age among people with male sex/gender, per
+1,000 population, for 2008/2009, 2012/2013, and 2017/2018.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_07067437221128477-fig4.jpg"/></fig></sec><sec sec-type="discussion" id="section4-07067437221128477"><title>Discussion</title><p>Overall, involuntary hospitalizations among people ages 15 and older rose in BC,
+mirroring increases observed elsewhere in Canada,<sup>
+<xref rid="bibr11-07067437221128477" ref-type="bibr">11</xref>
+</sup> and internationally.<sup><xref rid="bibr1-07067437221128477" ref-type="bibr">1</xref>,<xref rid="bibr3-07067437221128477" ref-type="bibr">3</xref></sup>
+While roughly half of the people hospitalized for MSUDs were admitted voluntarily in
+2008/2009, by 2017/2018 this fell to approximately one-third. Over time, we observed
+the greatest increase in total hospitalizations related to substance use, and
+dramatic increases in involuntary hospitalizations of young adults, especially women
+ages 15&#8211;24. Meanwhile, police apprehensions also grew rapidly.</p><p>There are several potential factors driving increasing involuntary hospitalizations.
+The observed increases may be indicative of structural limitations of the mental
+health care system to provide sufficient access to voluntary services. Between
+2008/2009 and 2017/2018, we saw increases in both the number of involuntary
+hospitalizations and the number of individuals involuntarily hospitalized,
+demonstrating that increasing involuntary hospitalization was driven by both new
+patients and repeat admissions. Meanwhile, the number of voluntary hospitalizations
+was relatively stable while the number of voluntary patients increased. Increasing
+involuntary hospitalizations are concerning because previous involuntary
+hospitalization is associated with readmission, potentially because people delay or
+avoid seeking treatment due to fear of coercive treatment.<sup>
+<xref rid="bibr35-07067437221128477" ref-type="bibr">35</xref>
+</sup> Our observations may indicate an increased reliance on involuntary treatment
+overall and may signal a need to strengthen the voluntary system of care. It may be
+that due to unmet care needs,<sup><xref rid="bibr36-07067437221128477" ref-type="bibr">36</xref>,<xref rid="bibr37-07067437221128477" ref-type="bibr">37</xref></sup> people are not receiving care
+until they are in crisis at which point they are involuntarily hospitalized.
+Decreasing availability of psychiatric treatment beds is one potential driver, given
+the association with involuntary hospitalization.<sup><xref rid="bibr38-07067437221128477" ref-type="bibr">38</xref>,<xref rid="bibr39-07067437221128477" ref-type="bibr">39</xref></sup> From 1988 to 2008,
+psychiatric treatment beds in the United Kingdom were halved, while involuntary
+hospitalizations rose 50%.<sup>
+<xref rid="bibr38-07067437221128477" ref-type="bibr">38</xref>
+</sup> Deinstitutionalization saw the closure of psychiatric treatment beds
+throughout Canada.<sup>
+<xref rid="bibr40-07067437221128477" ref-type="bibr">40</xref>
+</sup> In 2006/2007, there were 30 beds per 100,000 population in BC, and this
+dropped to 26 beds per 100,000 population in 2014/2015.<sup>
+<xref rid="bibr41-07067437221128477" ref-type="bibr">41</xref>
+</sup></p><p>Primary and psychiatric care have been found to be protective against involuntary
+hospitalization,<sup><xref rid="bibr11-07067437221128477" ref-type="bibr">11</xref>,<xref rid="bibr42-07067437221128477" ref-type="bibr">42</xref></sup> but access is limited.<sup>
+<xref rid="bibr43-07067437221128477" ref-type="bibr">43</xref>
+</sup> Roughly one million British Columbians are currently without a family physician,<sup>
+<xref rid="bibr44-07067437221128477" ref-type="bibr">44</xref>
+</sup> and psychiatry and psychology services are not readily available.<sup><xref rid="bibr45-07067437221128477" ref-type="bibr">45</xref>,<xref rid="bibr46-07067437221128477" ref-type="bibr">46</xref></sup> Among British
+Columbians who had emergency department visits for an MSUDs in 2017/2018, &#8764;25% with
+a serious mental disorder, and 75% with a substance use disorder (of which over half
+had a concurrent mental disorder) had no psychiatry visits in the year preceding
+their emergency department visit.<sup>
+<xref rid="bibr47-07067437221128477" ref-type="bibr">47</xref>
+</sup> Roughly 25% with a serious mental disorder, and with a substance use disorder
+also had no mental health-related primary care visits.<sup>
+<xref rid="bibr47-07067437221128477" ref-type="bibr">47</xref>
+</sup> The expansion of community services may thus help reduce involuntary
+hospitalizations, while interventions such as assertive community treatment may help
+reduce psychiatric hospitalizations for people with high levels of hospital use.<sup>
+<xref rid="bibr48-07067437221128477" ref-type="bibr">48</xref>
+</sup></p><p>Increasing MSUD prevalence may also be contributing to rising involuntary
+hospitalizations. However, a recent systematic review found only a marginal increase
+in MSUD prevalence globally, potentially attributable to changing population demographics.<sup>
+<xref rid="bibr49-07067437221128477" ref-type="bibr">49</xref>
+</sup> Although the review did not include studies on psychotic disorders, which has
+a well-established association with involuntary hospitalization,<sup>
+<xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>
+</sup> an older review found no evidence of an increase in psychotic disorder prevalence.<sup>
+<xref rid="bibr50-07067437221128477" ref-type="bibr">50</xref>
+</sup> Moreover, if psychotic disorder prevalence was driving evident increases, we
+would reasonably expect a greater increase in involuntary admissions for
+schizophrenia than we observe in our data.</p><p>Similar to Ontario,<sup>
+<xref rid="bibr51-07067437221128477" ref-type="bibr">51</xref>
+</sup> we observe increasing police apprehensions. Police contact is strongly
+associated with involuntary hospitalization,<sup>
+<xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>
+</sup> which may signal that police are connecting people with healthcare services
+rather than arresting them. However, this positions police as front-line mental
+health responders, which has been considered a misuse of police resources.<sup>
+<xref rid="bibr52-07067437221128477" ref-type="bibr">52</xref>
+</sup> Between 2009 and 2015, the number of police service calls involving people
+with severe mental illness increased by 9.7% per year in Fraser Health, which
+doubled the cost of police enforcement of the MHA.<sup>
+<xref rid="bibr53-07067437221128477" ref-type="bibr">53</xref>
+</sup> This also represents an ethical issue, insofar as police involvement should
+not be a mediator of access to treatment.<sup>
+<xref rid="bibr53-07067437221128477" ref-type="bibr">53</xref>
+</sup> In most instances police are not appropriately trained to respond to mental
+health crises,<sup>
+<xref rid="bibr54-07067437221128477" ref-type="bibr">54</xref>
+</sup> though mental health training and education for police have been improving.<sup>
+<xref rid="bibr55-07067437221128477" ref-type="bibr">55</xref>
+</sup> Additionally, apprehensions by police do not usually involve mental health
+professionals. Exceptions include designated services which pair police with a
+psychiatric nurse to attend to mental health emergency calls; however, these
+specialized services are only available in limited urban settings in BC.<sup>
+<xref rid="bibr56-07067437221128477" ref-type="bibr">56</xref>
+</sup> Police apprehensions are often traumatic experiences that generate distrust
+and may discourage people from seeking care,<sup><xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>,<xref rid="bibr57-07067437221128477" ref-type="bibr">57</xref></sup> likely contributing to the
+poorer social and clinical outcomes observed among involuntarily hospitalized people.<sup>
+<xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>
+</sup> These encounters may even result in death. Between 2013 and 2017, there were
+127 deaths in BC during or shortly after police&#8211;civilian encounters, of which more
+than two-thirds involved a mental health issue.<sup>
+<xref rid="bibr58-07067437221128477" ref-type="bibr">58</xref>
+</sup> While police apprehensions play a role in connecting people to healthcare
+services, the potential for negative, sometimes fatal, encounters highlights the
+need to focus on minimizing police apprehension. Simultaneously, given increasing
+police involvement in mental health crises, efforts should also focus on expanding
+mental health crisis services, and better equipping police to handle mental
+health-related calls.</p><p>Our data demonstrate that increased involuntary hospitalizations observed among
+children and youth (&#8804;18) in BC<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup> extended into young adulthood. While this may be unsurprising given when many
+psychiatric disorders first present, precipitous increases among women ages 15 to 24
+and men ages 15 to 34 are striking. An over two-fold increase among women ages 15 to
+24 is unanticipated given that female gender is often associated with voluntary
+service use for MSUDs,<sup>
+<xref rid="bibr37-07067437221128477" ref-type="bibr">37</xref>
+</sup> and male gender is a known factor associated with involuntary hospitalization
+in Euro-American countries.<sup><xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>,<xref rid="bibr42-07067437221128477" ref-type="bibr">42</xref></sup> These may signal that the current mental healthcare system is
+not adequately meeting the needs of young people in general, and young women in
+particular. Increases within younger cohorts are especially concerning as young
+people are less likely to request a review by a mental health review board.<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup> Youth have described involuntary hospitalization as traumatic, and
+dehumanizing punishment rather than therapeutic.<sup><xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>,<xref rid="bibr57-07067437221128477" ref-type="bibr">57</xref></sup> Even among involuntarily
+admitted youth who perceived benefits (e.g., greater family support) from their
+hospitalization, many reported reluctance to report suicidal thoughts to their care providers.<sup>
+<xref rid="bibr57-07067437221128477" ref-type="bibr">57</xref>
+</sup> This points to a need for better oversight and support for children and youth
+in the context of involuntary admissions.<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup></p><p>In 2017/2018, three-quarters of all hospitalizations for schizophrenia were
+involuntary, and this ratio remained consistent over time. While involuntary
+hospitalizations for schizophrenia are expected,<sup>
+<xref rid="bibr6-07067437221128477" ref-type="bibr">6</xref>
+</sup> consistent involuntary hospitalizations over time may signal a lack of
+effective interventions to reduce the involuntary treatment of schizophrenia. People
+with schizophrenia may be at increased risk of involuntary rehospitalization given
+the association between involuntary hospitalization and medication
+non-adherence.<sup><xref rid="bibr59-07067437221128477" ref-type="bibr">59</xref>,<xref rid="bibr60-07067437221128477" ref-type="bibr">60</xref></sup> It may be that involuntary admissions result in poor
+clinician&#8211;patient relationships,<sup><xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>,<xref rid="bibr57-07067437221128477" ref-type="bibr">57</xref></sup> which is associated with non-adherence.<sup>
+<xref rid="bibr60-07067437221128477" ref-type="bibr">60</xref>
+</sup></p><p>We observe increasing admissions for mood disorders among women, and substance use
+among men (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/07067437221128477" ext-link-type="uri">Supplementary 4</ext-link>), reflecting consistently observed gendered
+prevalence of MSUDs.<sup>
+<xref rid="bibr5-07067437221128477" ref-type="bibr">5</xref>
+</sup> Substance use accounts for the greatest increase in involuntary
+hospitalizations over time, likely demonstrating that people with complex,
+concurrent disorders are increasingly affected,<sup>
+<xref rid="bibr42-07067437221128477" ref-type="bibr">42</xref>
+</sup> given admissions for substance use may only occur in the presence of a
+co-occurring mental disorder.<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup> However, some research suggests instances of involuntary hospitalization for
+substance use alone.<sup><xref rid="bibr22-07067437221128477" ref-type="bibr">22</xref>,<xref rid="bibr23-07067437221128477" ref-type="bibr">23</xref></sup> Thus, observed trends may also indicate cases of involuntary
+hospitalization of people with a primary substance use disorder, particularly among
+youth given documented involuntary admission of youth for stabilization care.<sup>
+<xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>
+</sup> Increases may be a consequence of the unmet need for people with substance
+use disorders,<sup>
+<xref rid="bibr36-07067437221128477" ref-type="bibr">36</xref>
+</sup> and concurrent disorders,<sup>
+<xref rid="bibr37-07067437221128477" ref-type="bibr">37</xref>
+</sup> such as limited access to treatment for medical and psychiatric comorbidities
+among people who use drugs.<sup>
+<xref rid="bibr61-07067437221128477" ref-type="bibr">61</xref>
+</sup> The illicit drug poisoning crisis in BC may also be contributing to growing
+involuntary hospitalizations for substance use. People with severe substance use
+disorders experience a high prevalence of concurrent mental disorders.<sup>
+<xref rid="bibr62-07067437221128477" ref-type="bibr">62</xref>
+</sup> In the presence of a comorbid mental disorder, repeated overdoses may be
+construed as imminent harm, which is grounds for involuntary hospitalization.<sup>
+<xref rid="bibr21-07067437221128477" ref-type="bibr">21</xref>
+</sup> Stimulants have been increasingly involved in illicit drug poisoning deaths<sup>
+<xref rid="bibr63-07067437221128477" ref-type="bibr">63</xref>
+</sup> and stimulant use has become more common in BC.<sup><xref rid="bibr64-07067437221128477" ref-type="bibr">64</xref><xref rid="bibr65-07067437221128477" ref-type="bibr"/>&#8211;<xref rid="bibr66-07067437221128477" ref-type="bibr">66</xref></sup> Given the association between
+stimulant use and involuntary hospitalization,<sup>
+<xref rid="bibr67-07067437221128477" ref-type="bibr">67</xref>
+</sup> growing use of stimulants may be contributing to the rise in involuntary
+hospitalizations for substance use.<sup>
+<xref rid="bibr67-07067437221128477" ref-type="bibr">67</xref>
+</sup> Increasing admissions for substance use is concerning given the absence of
+treatment guidelines and legal frameworks surrounding involuntary treatment of
+substance use in BC,<sup>
+<xref rid="bibr22-07067437221128477" ref-type="bibr">22</xref>
+</sup> and the limited evidence of the benefits of involuntary care for substance use.<sup>
+<xref rid="bibr68-07067437221128477" ref-type="bibr">68</xref>
+</sup> Indeed, people who use drugs and advocates have argued against involuntary
+care for substance use in BC, highlighting the need to enhance the voluntary systems
+of care and address structural and systemic issues that influence high-risk drug
+use, before expanding the scope of BC's MHA, as was proposed with the introduction
+of Bill 22.<sup><xref rid="bibr18-07067437221128477" ref-type="bibr">18</xref>,<xref rid="bibr22-07067437221128477" ref-type="bibr">22</xref>,<xref rid="bibr69-07067437221128477" ref-type="bibr">69</xref></sup></p><sec id="section4A-07067437221128477"><title>Strengths and Limitations</title><p>We comprehensively describe involuntary hospitalizations among British Columbians
+ages 15 and older, using province-wide population-based data. Our analysis is
+descriptive, so we cannot determine causal factors driving increasing
+involuntary hospitalizations, nor the impacts of involuntary hospitalization.
+Additionally, we cannot observe the impacts of racialization, nor sexual and
+gender identity in our data. Given observed associations between race/ethnicity
+and involuntary hospitalization,<sup>
+<xref rid="bibr70-07067437221128477" ref-type="bibr">70</xref>
+</sup> the ability to understand how involuntary hospitalizations may be
+differentially impacting racialized communities is important. We cannot
+distinguish between sex at birth, legal sex, and gender. To match diagnostic
+codes, we used all involuntary admission codes as the best approximation for
+non-involuntary admissions, rather than voluntary admission variables. However,
+we can only observe the diagnosis most responsible for the length of stay at the
+time of discharge, but not the diagnosis that was assessed in the context of
+certification. In some instances, this was not classified as a psychiatric
+disorder (e.g., poisonings), resulting in some differences between involuntary
+and voluntary hospitalizations. We cannot differentiate between substance use
+disorders except for alcohol because BC diagnostic codes do not include the
+fifth digit. Thus, we cannot observe involuntary hospitalization trends related
+to specific substance use disorders.</p></sec></sec><sec id="section5-07067437221128477"><title>Conclusion</title><p>From 2008/2009 to 2017/2018, involuntary psychiatric hospitalizations among British
+Columbians ages 15 and older increased, and we observed the largest percentage
+change across time for substance use disorders. Meanwhile, voluntary
+hospitalizations remained relatively stable during this period. The greatest
+increases were observed among young adults, and police apprehensions also rose more
+than two-fold. Our observations highlight an urgent need to strengthen the voluntary
+system of care, especially regarding younger adults, and people who use substances.
+Additionally, our findings signal a need for legal provisions surrounding the
+involuntary treatment of substance use disorders, one which considers the
+experiences and perspectives of people who use substances and evidence of both harms
+and possible benefits of involuntary treatment for substance use. Increasing access
+to and capacity of community-based MSUD services may help prevent involuntary
+hospitalizations, and police apprehensions. However, the apparent inevitability of
+police involvement in mental health crises, and growing police apprehensions require
+an increased capacity for specialized services and improved police training for
+dealing with mental health crises. Further research exploring what is driving police
+involvement and its implications, and service use patterns and outcomes prior to and
+following involuntary hospitalizations, is warranted.</p></sec><sec sec-type="supplementary-material" specific-use="figshare"><title>Supplemental Material</title><supplementary-material id="supp1-07067437221128477" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-docx-1-cpa-10.1177_07067437221128477 - Supplemental material for
+Trends in Involuntary Psychiatric Hospitalization in British Columbia:
+Descriptive Analysis of Population-Based Linked Administrative Data from
+2008 to 2018</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-docx-1-cpa-10.1177_07067437221128477.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-docx-1-cpa-10.1177_07067437221128477 for Trends in
+Involuntary Psychiatric Hospitalization in British Columbia: Descriptive
+Analysis of Population-Based Linked Administrative Data from 2008 to 2018 by
+Jackson P. Loyal, M. Ruth Lavergne, Mehdi Shirmaleki, Benedikt Fischer, Ridhwana
+Kaoser, Jack Makolewksi and Will Small in The Canadian Journal of Psychiatry</p></supplementary-material></sec></body><back><fn-group><fn fn-type="other"><p><bold>Authors&#8217; Contributions:</bold> All authors approve this version of the paper and agree to act as guarantors of
+this research.</p></fn><fn fn-type="other"><p><bold>Availability of Data and Material:</bold> Linked, de-identified data holdings from the BC Ministry of Health linked and
+made accessible through Population Data BC were used for analysis. We are not
+permitted to share the research extract used in this analysis with other
+researchers, but all data are available through Population Data BC following
+submission of a data access request (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.popdata.bc.ca/data_access" ext-link-type="uri">https://www.popdata.bc.ca/data_access</ext-link>). All inferences,
+opinions, and conclusions drawn in this article are those of the authors and do
+not reflect the opinions or policies of the data stewards.</p></fn><fn fn-type="COI-statement"><p>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This work was
+supported by the Michael Smith Foundation for Health Research, Canadian
+Institutes of Health Research (grant number 148170).</p></fn><fn fn-type="other"><p><bold>ORCID iDs:</bold> Jackson P. Loyal <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-0397-4498" ext-link-type="uri">https://orcid.org/0000-0002-0397-4498</ext-link></p><p>M. Ruth Lavergne <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-4205-4600" ext-link-type="uri">https://orcid.org/0000-0002-4205-4600</ext-link></p><p>Benedikt Fischer <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-2186-4030" ext-link-type="uri">https://orcid.org/0000-0002-2186-4030</ext-link></p></fn><fn fn-type="other"><p><bold>Supplemental Material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-07067437221128477"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rains</surname><given-names>LS</given-names></name><name name-style="western"><surname>Zenina</surname><given-names>T</given-names></name><name name-style="western"><surname>Dias</surname><given-names>MC</given-names></name></person-group>, <etal>et al</etal>. <article-title>Variations in patterns of
+involuntary hospitalisation and in legal frameworks: an international
+comparative study</article-title>. <source>Lancet Psychiatry</source>.
+<year>2019</year>;<volume>6</volume>(<issue>5</issue>):<fpage>403</fpage>&#8208;<lpage>417</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S2215-0366(19)30090-2</pub-id><pub-id pub-id-type="pmid">30954479</pub-id><pub-id pub-id-type="pmcid">PMC6475657</pub-id></mixed-citation></ref><ref id="bibr2-07067437221128477"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chiang</surname><given-names>CL</given-names></name><name name-style="western"><surname>Chen</surname><given-names>PC</given-names></name><name name-style="western"><surname>Huang</surname><given-names>LY</given-names></name></person-group>, <etal>et al</etal>. <article-title>Time trends in first
+admission rates for schizophrenia and other psychotic disorders in Taiwan,
+1998&#8211;2007: a 10-year population-based cohort study</article-title>.
+<source>Soc Psychiatry Psychiatr Epidemiol.</source><year>2017</year>;<volume>52</volume>(<issue>2</issue>):<fpage>163</fpage>&#8208;<lpage>173</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s00127-016-1326-0</pub-id><pub-id pub-id-type="pmid">28028581</pub-id></mixed-citation></ref><ref id="bibr3-07067437221128477"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>G</given-names></name><name name-style="western"><surname>Cohen</surname><given-names>D</given-names></name></person-group>. <article-title>Incidences of involuntary psychiatric detentions
+in 25 U.S. States</article-title>. <source>Psychiatr Serv</source>.
+<year>2021</year>;<volume>72</volume>(<issue>1</issue>):<fpage>61</fpage>&#8208;<lpage>68</lpage>.
+doi:<pub-id pub-id-type="doi">10.1176/appi.ps.201900477</pub-id><pub-id pub-id-type="pmid">33138709</pub-id></mixed-citation></ref><ref id="bibr4-07067437221128477"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gray</surname><given-names>JE</given-names></name><name name-style="western"><surname>Hastings</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Love</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>Clinically significant
+differences among Canadian Mental Health Acts: 2016</article-title>.
+<source>Can J Psychiatry</source>.
+<year>2016</year>;<volume>61</volume>(<issue>4</issue>):<fpage>222</fpage>&#8208;<lpage>226</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/0706743716632524</pub-id><pub-id pub-id-type="pmid">27254414</pub-id><pub-id pub-id-type="pmcid">PMC4794956</pub-id></mixed-citation></ref><ref id="bibr5-07067437221128477"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Steel</surname><given-names>Z</given-names></name><name name-style="western"><surname>Marnane</surname><given-names>C</given-names></name><name name-style="western"><surname>Iranpour</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>. <article-title>The global prevalence of
+common mental disorders: a systematic review and meta-analysis
+1980&#8211;2013</article-title>. <source>Int J Epidemiol</source>.
+<year>2014</year>;<volume>43</volume>(<issue>2</issue>):<fpage>476</fpage>&#8208;<lpage>493</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/ije/dyu038</pub-id><pub-id pub-id-type="pmid">24648481</pub-id><pub-id pub-id-type="pmcid">PMC3997379</pub-id></mixed-citation></ref><ref id="bibr6-07067437221128477"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Walker</surname><given-names>S</given-names></name><name name-style="western"><surname>Mackay</surname><given-names>E</given-names></name><name name-style="western"><surname>Barnett</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal>. <article-title>Clinical and social factors
+associated with increased risk for involuntary psychiatric hospitalisation:
+a systematic review, meta-analysis, and narrative synthesis</article-title>.
+<source>Lancet Psychiatry</source>.
+<year>2019</year>;<volume>6</volume>(<issue>12</issue>):<fpage>1039</fpage>&#8208;<lpage>1053</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S2215-0366(19)30406-7</pub-id><pub-id pub-id-type="pmid">31777340</pub-id><pub-id pub-id-type="pmcid">PMC7029280</pub-id></mixed-citation></ref><ref id="bibr7-07067437221128477"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Youngmann</surname><given-names>R</given-names></name><name name-style="western"><surname>Goldberger</surname><given-names>N</given-names></name><name name-style="western"><surname>Haklai</surname><given-names>Z</given-names></name></person-group>, <etal>et al</etal>. <article-title>Involuntary psychiatric
+hospitalizations in Israel 2001&#8211;2018 and risk for immigrants from different
+countries</article-title>. <source>Psychiatry Res</source>.
+<year>2021</year>;<volume>301</volume>:<fpage>113958</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.psychres.2021.113958</pub-id><pub-id pub-id-type="pmid">33957378</pub-id></mixed-citation></ref><ref id="bibr8-07067437221128477"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Eytan</surname><given-names>A</given-names></name><name name-style="western"><surname>Chatton</surname><given-names>A</given-names></name><name name-style="western"><surname>Safran</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal>. <article-title>Impact of psychiatrists&#8217;
+qualifications on the rate of compulsory admissions</article-title>.
+<source>Psychiatric Q</source>.
+<year>2013</year>;<volume>84</volume>(<issue>1</issue>):<fpage>73</fpage>&#8208;<lpage>80</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s11126-012-9228-0</pub-id><pub-id pub-id-type="pmid">22585110</pub-id></mixed-citation></ref><ref id="bibr9-07067437221128477"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gou</surname><given-names>L</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>JS</given-names></name><name name-style="western"><surname>Xiang</surname><given-names>YT</given-names></name></person-group>, <etal>et al</etal>. <article-title>Frequency of involuntary
+admissions and its associations with demographic and clinical
+characteristics in China</article-title>. <source>Arch Psychiatr
+Nurs</source>.
+<year>2014</year>;<volume>28</volume>(<issue>4</issue>):<fpage>272</fpage>&#8208;<lpage>276</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.apnu.2014.04.002</pub-id><pub-id pub-id-type="pmid">25017561</pub-id></mixed-citation></ref><ref id="bibr10-07067437221128477"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Singh</surname><given-names>SP</given-names></name><name name-style="western"><surname>Burns</surname><given-names>T</given-names></name><name name-style="western"><surname>Tyrer</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal>. <article-title>Ethnicity as a predictor of
+detention under the Mental Health Act</article-title>. <source>Psychol
+Med</source>.
+<year>2014</year>;<volume>44</volume>(<issue>5</issue>):<fpage>997</fpage>&#8208;<lpage>1004</lpage>.
+doi:<pub-id pub-id-type="doi">10.1017/S003329171300086X</pub-id><pub-id pub-id-type="pmid">23795603</pub-id></mixed-citation></ref><ref id="bibr11-07067437221128477"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lebenbaum</surname><given-names>M</given-names></name><name name-style="western"><surname>Chiu</surname><given-names>M</given-names></name><name name-style="western"><surname>Vigod</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>Prevalence and predictors of
+involuntary psychiatric hospital admissions in Ontario, Canada: a
+population-based linked administrative database study</article-title>.
+<source>BJPsych Open</source>.
+<year>2018</year>;<volume>4</volume>(<issue>2</issue>):<fpage>31</fpage>&#8208;<lpage>38</lpage>.
+doi:<pub-id pub-id-type="doi">10.1192/bjo.2017.4</pub-id><pub-id pub-id-type="pmid">29467057</pub-id><pub-id pub-id-type="pmcid">PMC6020272</pub-id></mixed-citation></ref><ref id="bibr12-07067437221128477"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bauer</surname><given-names>A</given-names></name><name name-style="western"><surname>Rosca</surname><given-names>P</given-names></name><name name-style="western"><surname>Grinshpoon</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>. <article-title>Trends in involuntary
+psychiatric hospitalization in Israel 1991&#8211;2000</article-title>. <source>Int
+J Law Psychiatry</source>.
+<year>2007</year>;<volume>30</volume>(<issue>1</issue>):<fpage>60</fpage>&#8208;<lpage>70</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.ijlp.2006.02.002</pub-id><pub-id pub-id-type="pmid">17141875</pub-id></mixed-citation></ref><ref id="bibr13-07067437221128477"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Balducci</surname><given-names>PM</given-names></name><name name-style="western"><surname>Bernardini</surname><given-names>F</given-names></name><name name-style="western"><surname>Pauselli</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal>. <article-title>Correlates of involuntary
+admission: findings from an Italian inpatient psychiatric
+unit</article-title>. <source>Psychiatria Danub</source>.
+<year>2017</year>;<volume>29</volume>(<issue>4</issue>):<fpage>490</fpage>&#8208;<lpage>496</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.24869/psyd.2017.490</pub-id><pub-id pub-id-type="pmid">29197207</pub-id></mixed-citation></ref><ref id="bibr14-07067437221128477"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Riley</surname><given-names>R</given-names></name><name name-style="western"><surname>Richman</surname><given-names>A</given-names></name></person-group>. <article-title>Involuntary hospitalization in Canadian
+psychiatric inpatient facilities, 1970&#8211;1978</article-title>. <source>Can J
+Psychiatry.</source><year>1983</year>;<volume>28</volume>(<issue>7</issue>):<fpage>536</fpage>&#8208;<lpage>541</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/070674378302800706</pub-id><pub-id pub-id-type="pmid">6652604</pub-id></mixed-citation></ref><ref id="bibr15-07067437221128477"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Crisanti</surname><given-names>AS</given-names></name><name name-style="western"><surname>Love</surname><given-names>EJ</given-names></name></person-group>. <article-title>Characteristics of psychiatric inpatients
+detained under civil commitment legislation: a Canadian
+study</article-title>. <source>Int J Law Psychiatry</source>.
+<year>2001</year>;<volume>24</volume>(<issue>4&#8211;5</issue>):<fpage>399</fpage>&#8208;<lpage>410</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S0160-2527(01)00075-9</pub-id><pub-id pub-id-type="pmid">11521417</pub-id></mixed-citation></ref><ref id="bibr16-07067437221128477"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tremblay</surname><given-names>PF</given-names></name><name name-style="western"><surname>King</surname><given-names>PR</given-names></name><name name-style="western"><surname>Baines</surname><given-names>GR</given-names></name></person-group>. <article-title>Clinical and demographic characteristics of
+voluntary and involuntary psychiatric inpatients</article-title>.
+<source>Can J Psychiatry</source>.
+<year>1994</year>;<volume>39</volume>(<issue>5</issue>):<fpage>297</fpage>&#8208;<lpage>299</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/070674379403900511</pub-id><pub-id pub-id-type="pmid">8044747</pub-id></mixed-citation></ref><ref id="bibr17-07067437221128477"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rodrigues</surname><given-names>R</given-names></name><name name-style="western"><surname>MacDougall</surname><given-names>AG</given-names></name><name name-style="western"><surname>Zou</surname><given-names>G</given-names></name></person-group>, <etal>et al</etal>. <article-title>Involuntary hospitalization
+among young people with early psychosis: a population-based study using
+health administrative data</article-title>. <source>Schizophr Res</source>.
+<year>2019</year>;<volume>208</volume>:<fpage>276</fpage>&#8208;<lpage>284</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.schres.2019.01.043</pub-id><pub-id pub-id-type="pmid">30728106</pub-id></mixed-citation></ref><ref id="bibr18-07067437221128477"><label>18</label><mixed-citation publication-type="other"><collab>Representative for Children and
+Youth</collab>. <article-title>Detained: rights of children and youth under
+the Mental Health Act</article-title>. <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://rcybc.ca/wp-content/uploads/2021/01/RCY_Detained-Jan2021.FINAL_.pdf" ext-link-type="uri">https://rcybc.ca/wp-content/uploads/2021/01/RCY_Detained-Jan2021.FINAL_.pdf</ext-link></mixed-citation></ref><ref id="bibr19-07067437221128477"><label>19</label><mixed-citation publication-type="other"><collab>British Columbia
+Ombudsperson</collab>. <article-title>Committed to change: protecting the
+rights of involuntary patients under the Mental Health Act</article-title>.
+<year>2019</year>. <comment>Report No. 42</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bcombudsperson.ca/assets/media/OMB-Committed-to-Change-FINAL-web.pdf" ext-link-type="uri">https://bcombudsperson.ca/assets/media/OMB-Committed-to-Change-FINAL-web.pdf</ext-link></mixed-citation></ref><ref id="bibr20-07067437221128477"><label>20</label><mixed-citation publication-type="other"><collab>British Columbia
+Statistics</collab>. <article-title>British Columbia Population Estimates:
+Annual Population, July 1, 1867&#8211;2019</article-title>. <year>2021</year>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www2.gov.bc.ca/assets/gov/data/statistics/people-population-community/population/pop_bc_annual_estimates.csv" ext-link-type="uri">https://www2.gov.bc.ca/assets/gov/data/statistics/people-population-community/population/pop_bc_annual_estimates.csv</ext-link></mixed-citation></ref><ref id="bibr21-07067437221128477"><label>21</label><mixed-citation publication-type="other"><comment>Mental Health Act, RSBC 1996, c.
+288</comment>.</mixed-citation></ref><ref id="bibr22-07067437221128477"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chau</surname><given-names>LW</given-names></name><name name-style="western"><surname>Erickson</surname><given-names>M</given-names></name><name name-style="western"><surname>Vigo</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>. <article-title>The perspectives of people
+who use drugs regarding short term involuntary substance use care for severe
+substance use disorders</article-title>. <source>Int J Drug Policy</source>.
+<year>2021</year>;<volume>97</volume>:<fpage>103208</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.drugpo.2021.103208</pub-id><pub-id pub-id-type="pmid">34058669</pub-id></mixed-citation></ref><ref id="bibr23-07067437221128477"><label>23</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Cheung</surname><given-names>I</given-names></name></person-group>. <article-title>Improving patients&#8217; understanding of their
+rights under British Columbia&#8217;s Mental Health Act
+[Dissertation]</article-title>. <publisher-loc>Burnaby (BC)</publisher-loc>:
+<publisher-name>Simon Fraser University</publisher-name>; <year>2019</year>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://summit.sfu.ca/item/19351" ext-link-type="uri">https://summit.sfu.ca/item/19351</ext-link></mixed-citation></ref><ref id="bibr24-07067437221128477"><label>24</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Wyton</surname><given-names>M</given-names></name></person-group>. <article-title>BC&#8217;s Mental Health Act will be
+overhauled</article-title>. <comment>The Tyee</comment>. <year>2022</year>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://thetyee.ca/News/2022/04/29/BC-Mental-Health-Act-To-Be-Overhauled/" ext-link-type="uri">https://thetyee.ca/News/2022/04/29/BC-Mental-Health-Act-To-Be-Overhauled/</ext-link></mixed-citation></ref><ref id="bibr25-07067437221128477"><label>25</label><mixed-citation publication-type="book"><collab>British Columbia
+Government</collab>. <article-title>Stabilization care proposed for youth
+following an overdose</article-title>. <publisher-loc>Victoria,
+BC</publisher-loc>: <publisher-name>Government of BC</publisher-name>;
+<year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://news.gov.bc.ca/releases/2020MMHA0032-001139" ext-link-type="uri">https://news.gov.bc.ca/releases/2020MMHA0032-001139</ext-link></mixed-citation></ref><ref id="bibr26-07067437221128477"><label>26</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Bains</surname><given-names>C</given-names></name></person-group>. <article-title>B.C. scraps controversial plan to involuntarily
+treat youth who overdose</article-title>. <comment><italic toggle="yes">CBC News</italic></comment>. <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cbc.ca/news/canada/british-columbia/bc-involuntary-youth-treatment-overdose-1.6436522" ext-link-type="uri">https://www.cbc.ca/news/canada/british-columbia/bc-involuntary-youth-treatment-overdose-1.6436522</ext-link></mixed-citation></ref><ref id="bibr27-07067437221128477"><label>27</label><mixed-citation publication-type="other"><collab>Population Data BC</collab>.
+<article-title>The data linkage process</article-title>.
+<comment>[Internet]</comment>. <comment>Available from:
+https://www.popdata.bc.ca/datalinkage/process</comment></mixed-citation></ref><ref id="bibr28-07067437221128477"><label>28</label><mixed-citation publication-type="book"><collab>Canadian Institute for Health
+Information</collab>. <article-title>[creator] (2019): Discharge Abstract
+Database (Hospital Separations). V2</article-title>.
+<publisher-name>Population Data BC</publisher-name> [publisher].
+<comment>Data Extract. MOH. (2019)</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.popdata.bc.ca/data" ext-link-type="uri">http://www.popdata.bc.ca/data</ext-link></mixed-citation></ref><ref id="bibr29-07067437221128477"><label>29</label><mixed-citation publication-type="book"><collab>British Columbia Ministry of
+Health</collab>. <article-title>[creator] (2019): Medical Services Plan
+(MSP) Payment Information File</article-title>. V2.
+<publisher-name>Population Data BC</publisher-name> [publisher]. Data
+Extract. MOH. <comment>(2019</comment>). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.popdata.bc.ca/data" ext-link-type="uri">http://www.popdata.bc.ca/data</ext-link></mixed-citation></ref><ref id="bibr30-07067437221128477"><label>30</label><mixed-citation publication-type="book"><collab>Canadian Institute for Health
+Information</collab>. <article-title>DAD Data Elements,
+2022&#8211;2023</article-title>. <publisher-loc>Ottawa, ON</publisher-loc>:
+<publisher-name>CIHI</publisher-name>; <year>2022</year>.</mixed-citation></ref><ref id="bibr31-07067437221128477"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wilkins</surname><given-names>R</given-names></name></person-group>. <article-title>Use of postal codes and addresses in the
+analysis of health data</article-title>. <source>Health Rep</source>.
+<year>1993</year>;<volume>5</volume>(<issue>2</issue>):<fpage>157</fpage>.<pub-id pub-id-type="pmid">8292756</pub-id></mixed-citation></ref><ref id="bibr32-07067437221128477"><label>32</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Wilkins</surname><given-names>R</given-names></name></person-group>. <article-title>Automated geographic coding based on the
+Statistics Canada Postal Code Conversion Files, including postal codes
+through March 2009</article-title>. <publisher-loc>Ottawa</publisher-loc>:
+<publisher-name>Analysis Division, Statistics Canada</publisher-name>;
+<year>2009</year>.</mixed-citation></ref><ref id="bibr33-07067437221128477"><label>33</label><mixed-citation publication-type="other"><collab>Statistics Canada</collab>.
+<article-title>Postal Code OM Conversion File Plus (PCCF&#8201;+)</article-title>.
+<year>2017</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www150.statcan.gc.ca/n1/en/catalogue/82F0086X" ext-link-type="uri">https://www150.statcan.gc.ca/n1/en/catalogue/82F0086X</ext-link></mixed-citation></ref><ref id="bibr34-07067437221128477"><label>34</label><mixed-citation publication-type="other"><collab>Statistics Canada</collab>.
+<article-title>Census metropolitan influenced zones: detailed
+definition</article-title>. <year>2018</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www150.statcan.gc.ca/n1/pub/92-195-x/2011001/other-autre/miz-zim/def-eng.htm" ext-link-type="uri">https://www150.statcan.gc.ca/n1/pub/92-195-x/2011001/other-autre/miz-zim/def-eng.htm</ext-link></mixed-citation></ref><ref id="bibr35-07067437221128477"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Swartz</surname><given-names>MS</given-names></name><name name-style="western"><surname>Swanson</surname><given-names>JW</given-names></name><name name-style="western"><surname>Hannon</surname><given-names>MJ</given-names></name></person-group>. <article-title>Does fear of coercion keep people away from
+mental health treatment? Evidence from a survey of persons with
+schizophrenia and mental health professionals</article-title>. <source>Behav
+Sci Law</source>.
+<year>2003</year>;<volume>21</volume>(<issue>4</issue>):<fpage>459</fpage>&#8208;<lpage>472</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/bsl.539</pub-id><pub-id pub-id-type="pmid">12898502</pub-id></mixed-citation></ref><ref id="bibr36-07067437221128477"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Urbanoski</surname><given-names>K</given-names></name><name name-style="western"><surname>Inglis</surname><given-names>D</given-names></name><name name-style="western"><surname>Veldhuizen</surname><given-names>S</given-names></name></person-group>. <article-title>Service use and unmet needs for substance use
+and mental disorders in Canada</article-title>. <source>Can J
+Psychiatry</source>.
+<year>2017</year>;<volume>62</volume>(<issue>8</issue>):<fpage>551</fpage>&#8208;<lpage>559</lpage>.<pub-id pub-id-type="pmid">28616935</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0706743717714467</pub-id><pub-id pub-id-type="pmcid">PMC5546670</pub-id></mixed-citation></ref><ref id="bibr37-07067437221128477"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Urbanoski</surname><given-names>K</given-names></name><name name-style="western"><surname>Rush</surname><given-names>B</given-names></name><name name-style="western"><surname>Wild</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal>. <article-title>Use of mental health care
+services by Canadians with co-occurring substance dependence and mental
+disorders</article-title>. <source>Psychiatric Serv</source>.
+<year>2007</year>;<volume>58</volume>(<issue>7</issue>):<fpage>8</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1176/ps.2007.58.7.962</pub-id><pub-id pub-id-type="pmid">17602013</pub-id></mixed-citation></ref><ref id="bibr38-07067437221128477"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Keown</surname><given-names>P</given-names></name><name name-style="western"><surname>Weich</surname><given-names>S</given-names></name><name name-style="western"><surname>Bhui</surname><given-names>KS</given-names></name></person-group>, <etal>et al</etal>. <article-title>Association between
+provision of mental illness beds and rate of involuntary admissions in the
+NHS in England 1988&#8211;2008: ecological study</article-title>. <source>Br Med
+J.</source><year>2011</year>;<volume>343</volume>:<fpage>d3736</fpage>&#8208;<lpage>d3736</lpage>.
+doi:<pub-id pub-id-type="doi">10.1136/bmj.d3736</pub-id><pub-id pub-id-type="pmid">21729994</pub-id><pub-id pub-id-type="pmcid">PMC3130113</pub-id></mixed-citation></ref><ref id="bibr39-07067437221128477"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Myklebust</surname><given-names>LH</given-names></name><name name-style="western"><surname>S&#248;rgaard</surname><given-names>K</given-names></name><name name-style="western"><surname>Wynn</surname><given-names>R</given-names></name></person-group>. <article-title>Local psychiatric beds appear to decrease the
+use of involuntary admission: a case-registry study</article-title>.
+<source>BMC Health Serv Res</source>.
+<year>2014</year>;<volume>14</volume>(<issue>1</issue>):<fpage>64</fpage>.
+doi:<pub-id pub-id-type="doi">10.1186/1472-6963-14-64</pub-id><pub-id pub-id-type="pmid">24506810</pub-id><pub-id pub-id-type="pmcid">PMC3923252</pub-id></mixed-citation></ref><ref id="bibr40-07067437221128477"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sealy</surname><given-names>P</given-names></name><name name-style="western"><surname>Whitehead</surname><given-names>PC</given-names></name></person-group>. <article-title>Forty years of deinstitutionalization of
+psychiatric services in Canada: an empirical assessment</article-title>.
+<source>Can J Psychiatry</source>.
+<year>2004</year>;<volume>49</volume>(<issue>4</issue>):<fpage>249</fpage>&#8208;<lpage>257</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/070674370404900405</pub-id><pub-id pub-id-type="pmid">15147023</pub-id></mixed-citation></ref><ref id="bibr41-07067437221128477"><label>41</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Ellis</surname><given-names>E</given-names></name></person-group>. <article-title>Mental-health gap in B.C.: psych beds dwindle as
+community supports struggle to keep up</article-title>. <comment><italic toggle="yes">Vancouver Sun</italic></comment>. <year>2016</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://vancouversun.com/news/local-news/mental-health-gap-in-b-c-psych-beds-dwindle-as-community-supports-struggle-to-keep-up" ext-link-type="uri">https://vancouversun.com/news/local-news/mental-health-gap-in-b-c-psych-beds-dwindle-as-community-supports-struggle-to-keep-up</ext-link></mixed-citation></ref><ref id="bibr42-07067437221128477"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hustoft</surname><given-names>K</given-names></name><name name-style="western"><surname>Larsen</surname><given-names>TK</given-names></name><name name-style="western"><surname>Auestad</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal>. <article-title>Predictors of involuntary
+hospitalizations to acute psychiatry</article-title>. <source>Int J Law
+Psychiatry</source>.
+<year>2013</year>;<volume>36</volume>(<issue>2</issue>):<fpage>136</fpage>&#8208;<lpage>143</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.ijlp.2013.01.006</pub-id><pub-id pub-id-type="pmid">23395506</pub-id></mixed-citation></ref><ref id="bibr43-07067437221128477"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hedden</surname><given-names>L</given-names></name><name name-style="western"><surname>Barer</surname><given-names>ML</given-names></name><name name-style="western"><surname>McGrail</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>In British Columbia, the
+supply of primary care physicians grew, but their rate of clinical activity
+declined</article-title>. <source>Health Aff.</source><year>2017</year>;<volume>36</volume>(<issue>11</issue>):<fpage>1904</fpage>&#8208;<lpage>1911</lpage>.
+doi:<pub-id pub-id-type="doi">10.1377/hlthaff.2017.0014</pub-id><pub-id pub-id-type="pmid">29137511</pub-id></mixed-citation></ref><ref id="bibr44-07067437221128477"><label>44</label><mixed-citation publication-type="other"><collab>BC Family Doctors</collab>.
+<article-title>Still in the news: BC&#8217;s family doctor
+shortage</article-title>. <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bcfamilydocs.ca/still-in-the-news-bcs-family-doctor-shortage/" ext-link-type="uri">https://bcfamilydocs.ca/still-in-the-news-bcs-family-doctor-shortage/</ext-link></mixed-citation></ref><ref id="bibr45-07067437221128477"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Goldner</surname><given-names>EM</given-names></name><name name-style="western"><surname>Jones</surname><given-names>W</given-names></name><name name-style="western"><surname>Fang</surname><given-names>ML</given-names></name></person-group>. <article-title>Access to and waiting time for psychiatrist
+services in a Canadian urban area: a study in real time</article-title>.
+<source>Can J Psychiatry</source>.
+<year>2011</year>;<volume>56</volume>(<issue>8</issue>):<fpage>474</fpage>&#8208;<lpage>480</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/070674371105600805</pub-id><pub-id pub-id-type="pmid">21878158</pub-id></mixed-citation></ref><ref id="bibr46-07067437221128477"><label>46</label><mixed-citation publication-type="other"><collab>Canadian Psychological
+Association</collab>. <article-title>Strong majority of Canadians want
+improved access to psychologists</article-title>. <year>2021</year>.
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cpa.ca/strong-majority-of-canadians-want-improved-access-to-psychologists/" ext-link-type="uri">https://cpa.ca/strong-majority-of-canadians-want-improved-access-to-psychologists/</ext-link></mixed-citation></ref><ref id="bibr47-07067437221128477"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lavergne</surname><given-names>MR</given-names></name><name name-style="western"><surname>Loyal</surname><given-names>JP</given-names></name><name name-style="western"><surname>Shirmaleki</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>The relationship between
+outpatient service use and emergency department visits among people treated
+for mental and substance use disorders: analysis of population-based
+administrative data in British Columbia, Canada</article-title>. <source>BMC
+Health Serv Res</source>.
+<year>2022</year>;<volume>22</volume>(<issue>1</issue>):<fpage>477</fpage>.
+doi:<pub-id pub-id-type="doi">10.1186/s12913-022-07759-z</pub-id><pub-id pub-id-type="pmid">35410219</pub-id><pub-id pub-id-type="pmcid">PMC8996395</pub-id></mixed-citation></ref><ref id="bibr48-07067437221128477"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Burns</surname><given-names>T</given-names></name><name name-style="western"><surname>Catty</surname><given-names>J</given-names></name><name name-style="western"><surname>Dash</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Use of intensive case
+management to reduce time in hospital in people with severe mental illness:
+systematic review and meta-regression</article-title>. <source>Br Med
+J.</source><year>2007</year>;<volume>335</volume>(<issue>7615</issue>):<fpage>336</fpage>.
+doi:<pub-id pub-id-type="doi">10.1136/bmj.39251.599259.55</pub-id><pub-id pub-id-type="pmid">17631513</pub-id><pub-id pub-id-type="pmcid">PMC1949434</pub-id></mixed-citation></ref><ref id="bibr49-07067437221128477"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Richter</surname><given-names>D</given-names></name><name name-style="western"><surname>Wall</surname><given-names>A</given-names></name><name name-style="western"><surname>Bruen</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>. <article-title>Is the global prevalence
+rate of adult mental illness increasing? Systematic review and
+meta-analysis</article-title>. <source>Acta Psychiatr Scand</source>.
+<year>2019</year>;<volume>140</volume>(<issue>5</issue>):<fpage>393</fpage>&#8208;<lpage>407</lpage>.
+doi:<pub-id pub-id-type="doi">10.1111/acps.13083</pub-id><pub-id pub-id-type="pmid">31393996</pub-id></mixed-citation></ref><ref id="bibr50-07067437221128477"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wittchen</surname><given-names>HU</given-names></name><name name-style="western"><surname>Jacobi</surname><given-names>F</given-names></name><name name-style="western"><surname>Rehm</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal>. <article-title>The size and burden of
+mental disorders and other disorders of the brain in Europe
+2010</article-title>. <source>Eur Neuropsychopharmacol</source>.
+<year>2011</year>;<volume>21</volume>(<issue>9</issue>):<fpage>655</fpage>&#8208;<lpage>679</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.euroneuro.2011.07.018</pub-id><pub-id pub-id-type="pmid">21896369</pub-id></mixed-citation></ref><ref id="bibr51-07067437221128477"><label>51</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Kane</surname><given-names>L</given-names></name></person-group>. <article-title>In crisis: Why are police apprehending more
+mentally ill people?</article-title><comment><italic toggle="yes">The Toronto Star</italic></comment>. <year>2014</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.thestar.com/news/gta/2014/06/01/in_crisis_why_are_police_apprehending_more_mentally_ill_people.html" ext-link-type="uri">https://www.thestar.com/news/gta/2014/06/01/in_crisis_why_are_police_apprehending_more_mentally_ill_people.html</ext-link></mixed-citation></ref><ref id="bibr52-07067437221128477"><label>52</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Dyck</surname><given-names>D</given-names></name></person-group>. <article-title>Police should not be &#8216;front-line on mental
+health,&#8217; chiefs say</article-title>. <comment><italic toggle="yes">The Globe and Mail</italic></comment>. <year>2013</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.theglobeandmail.com/news/national/police-should-not-be-front-line-on-mental-health-say-chiefs/article13898687/" ext-link-type="uri">https://www.theglobeandmail.com/news/national/police-should-not-be-front-line-on-mental-health-say-chiefs/article13898687/</ext-link></mixed-citation></ref><ref id="bibr53-07067437221128477"><label>53</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Vaughan</surname><given-names>AD</given-names></name><name name-style="western"><surname>Andresen</surname><given-names>MA</given-names></name></person-group>. <part-title>The cost of mental health-related calls on
+police service: evidence from British Columbia</part-title>. In:
+<person-group person-group-type="editor"><name name-style="western"><surname>Mitchell</surname><given-names>R</given-names></name><name name-style="western"><surname>Huey</surname><given-names>L</given-names></name></person-group>, eds. <source>Evidence based policing: an introduction</source>.
+<publisher-loc>Chicago</publisher-loc>: <publisher-name>Policy
+Press</publisher-name>;
+<year>2018</year>:<fpage>173</fpage>&#8208;<lpage>185</lpage>.</mixed-citation></ref><ref id="bibr54-07067437221128477"><label>54</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Cotton</surname><given-names>D</given-names></name><name name-style="western"><surname>Coleman</surname><given-names>T</given-names></name></person-group>. <article-title>A study of police academy training and education
+for new police officers related to working with people with mental
+illness</article-title>. <publisher-loc>Ottawa, Ontario</publisher-loc>:
+<publisher-name>Mental Health Commission of Canada</publisher-name>;
+<year>2008</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mentalhealthcommission.ca/wp-content/uploads/drupal/Law_Police_Academy_Training_Education_Mental_Illness_Study_ENG_0_1.pdf" ext-link-type="uri">https://www.mentalhealthcommission.ca/wp-content/uploads/drupal/Law_Police_Academy_Training_Education_Mental_Illness_Study_ENG_0_1.pdf</ext-link></mixed-citation></ref><ref id="bibr55-07067437221128477"><label>55</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Coleman</surname><given-names>T</given-names></name><name name-style="western"><surname>Cotton</surname><given-names>D</given-names></name></person-group>. <article-title>TEMPO: Police Interactions</article-title>.
+<publisher-loc>Ottawa, Ontario</publisher-loc>: <publisher-name>Mental
+Health Commission of Canada</publisher-name>; <year>2014</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://mentalhealthcommission.ca/wp-content/uploads/2021/05/TEMPO-Police-Interactions-082014.pdf" ext-link-type="uri">https://mentalhealthcommission.ca/wp-content/uploads/2021/05/TEMPO-Police-Interactions-082014.pdf</ext-link></mixed-citation></ref><ref id="bibr56-07067437221128477"><label>56</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Naylor</surname><given-names>C</given-names></name></person-group>. <article-title>Fraser Health &#8216;unable to support&#8217; mental health
+car in Burnaby: RCMP</article-title>. <comment><italic toggle="yes">Burnaby Now</italic></comment>. <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.burnabynow.com/local-news/fraser-health-unable-to-support-mental-health-car-in-burnaby-rcmp-3661742" ext-link-type="uri">https://www.burnabynow.com/local-news/fraser-health-unable-to-support-mental-health-car-in-burnaby-rcmp-3661742</ext-link></mixed-citation></ref><ref id="bibr57-07067437221128477"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jones</surname><given-names>N</given-names></name><name name-style="western"><surname>Gius</surname><given-names>BK</given-names></name><name name-style="western"><surname>Shields</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Investigating the impact of
+involuntary psychiatric hospitalization on youth and young adult trust and
+help-seeking in pathways to care</article-title>. <source>Soc Psychiatry
+Psychiatr Epidemiol</source>.
+<year>2021</year>;<volume>56</volume>(<issue>11</issue>):<fpage>2017</fpage>&#8208;<lpage>2027</lpage>.
+doi: <pub-id pub-id-type="doi">10.1007/s00127-021-02048-2.58</pub-id><pub-id pub-id-type="pmid">33751175</pub-id><pub-id pub-id-type="pmcid">PMC10105343</pub-id></mixed-citation></ref><ref id="bibr58-07067437221128477"><label>58</label><mixed-citation publication-type="other"><collab>British Columbia Coroners Service
+Death Review Panel</collab>. <article-title>Police: A crucial component of
+BC&#8217;s mental health system</article-title>. <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/death-review-panel/policeencountersdrp.pdf" ext-link-type="uri">https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/death-review-panel/policeencountersdrp.pdf</ext-link></mixed-citation></ref><ref id="bibr59-07067437221128477"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jaeger</surname><given-names>S</given-names></name><name name-style="western"><surname>Pfiffner</surname><given-names>C</given-names></name><name name-style="western"><surname>Weiser</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal>. <article-title>Long-term effects of
+involuntary hospitalization on medication adherence, treatment engagement
+and perception of coercion</article-title>. <source>Soc Psychiatry Psychiatr
+Epidemiol</source>.
+<year>2013</year>;<volume>48</volume>(<issue>11</issue>):<fpage>1787</fpage>&#8208;<lpage>1796</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s00127-013-0687-x</pub-id><pub-id pub-id-type="pmid">23604621</pub-id></mixed-citation></ref><ref id="bibr60-07067437221128477"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Higashi</surname><given-names>K</given-names></name><name name-style="western"><surname>Medic</surname><given-names>G</given-names></name><name name-style="western"><surname>Littlewood</surname><given-names>KJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Medication adherence in
+schizophrenia: factors influencing adherence and consequences of
+nonadherence, a systematic literature review</article-title>. <source>Ther
+Adv Psychopharmacol</source>.
+<year>2013</year>;<volume>3</volume>(<issue>4</issue>):<fpage>200</fpage>&#8208;<lpage>218</lpage>.
+doi:<pub-id pub-id-type="doi">10.1177/2045125312474019</pub-id><pub-id pub-id-type="pmid">24167693</pub-id><pub-id pub-id-type="pmcid">PMC3805432</pub-id></mixed-citation></ref><ref id="bibr61-07067437221128477"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fischer</surname><given-names>B</given-names></name><name name-style="western"><surname>Murphy</surname><given-names>Y</given-names></name><name name-style="western"><surname>Rudzinski</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Illicit drug use and harms,
+and related interventions and policy in Canada: a narrative review of select
+key indicators and developments since 2000</article-title>. <source>Int J
+Drug Policy</source>.
+<year>2016</year>;<volume>27</volume>:<fpage>23</fpage>&#8208;<lpage>35</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.drugpo.2015.08.007</pub-id><pub-id pub-id-type="pmid">26359046</pub-id></mixed-citation></ref><ref id="bibr62-07067437221128477"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Whyte</surname><given-names>S</given-names></name><name name-style="western"><surname>Harrison</surname><given-names>C</given-names></name></person-group>. <article-title>Substance misuse services in secure psychiatric
+units</article-title>. <source>Med Sci Law</source>.
+<year>2004</year>;<volume>44</volume>(<issue>1</issue>):<fpage>71</fpage>&#8208;<lpage>74</lpage>.
+doi:<pub-id pub-id-type="doi">10.1258/rsmmsl.44.1.71</pub-id><pub-id pub-id-type="pmid">14984218</pub-id></mixed-citation></ref><ref id="bibr63-07067437221128477"><label>63</label><mixed-citation publication-type="other"><collab>BC Coroners Service</collab>.
+<article-title>Illicit Drug Toxicity Deaths in BC January 1, 2012&#8211;April 30,
+2022</article-title>. <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/statistical/illicit-drug.pdf" ext-link-type="uri">https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/statistical/illicit-drug.pdf</ext-link></mixed-citation></ref><ref id="bibr64-07067437221128477"><label>64</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Woo</surname><given-names>A</given-names></name></person-group>. <article-title>Crystal meth use steadily rising below the
+headlines in Vancouver</article-title>. <comment><italic toggle="yes">The Globe and Mail</italic></comment><italic toggle="yes">.</italic><year>2016</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.theglobeandmail.com/news/british-columbia/crystal-meth-appears-to-be-on-a-steady-rise-invancouver/article29039597/" ext-link-type="uri">https://www.theglobeandmail.com/news/british-columbia/crystal-meth-appears-to-be-on-a-steady-rise-invancouver/article29039597/</ext-link></mixed-citation></ref><ref id="bibr65-07067437221128477"><label>65</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Papamihali</surname><given-names>K</given-names></name><name name-style="western"><surname>Collins</surname><given-names>D</given-names></name><name name-style="western"><surname>Karamouzian</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Crystal methamphetamine use
+in British Columbia, Canada: a cross-sectional study of people who access
+harm reduction services</article-title>. <source>PLoS ONE</source>.
+<year>2021</year>;<volume>16</volume>(<issue>5</issue>):<fpage>e0252090</fpage>.
+doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0252090</pub-id><pub-id pub-id-type="pmid">34038452</pub-id><pub-id pub-id-type="pmcid">PMC8153500</pub-id></mixed-citation></ref><ref id="bibr66-07067437221128477"><label>66</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Steinberg</surname><given-names>A</given-names></name><name name-style="western"><surname>Mehta</surname><given-names>A</given-names></name><name name-style="western"><surname>Papamihali</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Motivations for concurrent
+use of uppers and downers among people who access harm reduction services in
+British Columbia, Canada: findings from the 2019 harm reduction client
+survey</article-title>. <source>BMJ Open</source>.
+<year>2022</year>;<volume>12</volume>(<issue>5</issue>):<fpage>e060447</fpage>.
+doi:<pub-id pub-id-type="doi">10.1136/bmjopen-2021-060447</pub-id><pub-id pub-id-type="pmcid">PMC9062822</pub-id><pub-id pub-id-type="pmid">35501101</pub-id></mixed-citation></ref><ref id="bibr67-07067437221128477"><label>67</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Opsal</surname><given-names>A</given-names></name><name name-style="western"><surname>Kristensen</surname><given-names>&#216;</given-names></name><name name-style="western"><surname>Ruud</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal>. <article-title>Substance abuse in patients
+admitted voluntarily and involuntarily to acute psychiatric wards: a
+national cross-sectional study</article-title>. <source>Norsk
+Epidemiologi</source>.
+<year>2011</year>;<volume>21</volume>(<issue>1</issue>):85-91. doi:<pub-id pub-id-type="doi">10.5324/nje.v21i1.1430</pub-id></mixed-citation></ref><ref id="bibr68-07067437221128477"><label>68</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Werb</surname><given-names>D</given-names></name><name name-style="western"><surname>Kamarulzaman</surname><given-names>A</given-names></name><name name-style="western"><surname>Meacham</surname><given-names>MC</given-names></name></person-group>, <etal>et al</etal>. <article-title>The effectiveness of
+compulsory drug treatment: a systematic review</article-title>. <source>Int
+J Drug Policy</source>.
+<year>2016</year>;<volume>28</volume>:<fpage>1</fpage>&#8208;<lpage>9</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.drugpo.2015.12.005</pub-id><pub-id pub-id-type="pmid">26790691</pub-id><pub-id pub-id-type="pmcid">PMC4752879</pub-id></mixed-citation></ref><ref id="bibr69-07067437221128477"><label>69</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Pilarinos</surname><given-names>A</given-names></name><name name-style="western"><surname>Kendall</surname><given-names>P</given-names></name><name name-style="western"><surname>Fast</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>. <article-title>Secure care: more harm than
+good</article-title>. <source>Can Med Assoc J</source>.
+<year>2018</year>;<volume>190</volume>(<issue>41</issue>):<fpage>E1219</fpage>&#8208;<lpage>E1220</lpage>.
+doi: <pub-id pub-id-type="doi">10.1503/cmaj.180700</pub-id><pub-id pub-id-type="pmid">30322985</pub-id><pub-id pub-id-type="pmcid">PMC6188950</pub-id></mixed-citation></ref><ref id="bibr70-07067437221128477"><label>70</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Barnett</surname><given-names>P</given-names></name><name name-style="western"><surname>Mackay</surname><given-names>E</given-names></name><name name-style="western"><surname>Matthews</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal>. <article-title>Ethnic variations in
+compulsory detention under the mental health act: a systematic review and
+meta-analysis of international data</article-title>. <source>Lancet
+Psychiatry</source>.
+<year>2019</year>;<volume>6</volume>(<issue>4</issue>):<fpage>305</fpage>&#8208;<lpage>317</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S2215-0366(19)30027-6</pub-id><pub-id pub-id-type="pmid">30846354</pub-id><pub-id pub-id-type="pmcid">PMC6494977</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

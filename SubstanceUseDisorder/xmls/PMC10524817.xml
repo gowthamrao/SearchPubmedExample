@@ -1,0 +1,571 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Yale J Biol Med</journal-id><journal-id journal-id-type="iso-abbrev">Yale J Biol Med</journal-id><journal-id journal-id-type="pmc-domain-id">504</journal-id><journal-id journal-id-type="pmc-domain">yjbm</journal-id><journal-id journal-id-type="publisher-id">YJBM</journal-id><journal-title-group><journal-title>The Yale Journal of Biology and Medicine</journal-title></journal-title-group><issn pub-type="ppub">0044-0086</issn><issn pub-type="epub">1551-4056</issn><publisher><publisher-name>Yale Journal of Biology and Medicine</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10524817</article-id><article-id pub-id-type="pmcid-ver">PMC10524817.1</article-id><article-id pub-id-type="pmcaid">10524817</article-id><article-id pub-id-type="pmcaiid">10524817</article-id><article-id pub-id-type="pmid">37780998</article-id><article-id pub-id-type="doi">10.59249/UDRG5942</article-id><article-id pub-id-type="publisher-id">yjbm963277</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Contribution</subject></subj-group><series-title>Focus: Big Data</series-title></article-categories><title-group><article-title>What Brings You in Today? Sex, Race, Substance Type, and Other
+Sociodemographic and Health-Related Characteristics Predict if Substance Use is
+the Main Reason for a Clinical Encounter</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Courchesne-Krak</surname><given-names initials="NS">Natasia S.</given-names></name><xref rid="COR1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Marienfeld</surname><given-names initials="CB">Carla B.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kepner</surname><given-names initials="W">Wayne</given-names></name></contrib><aff>Department of Psychiatry, University of California, San Diego, La Jolla, CA,
+USA</aff></contrib-group><author-notes><corresp id="COR1"><label>*</label>To whom all correspondence should be addressed:
+Natasia S. Courchesne-Krak, PhD, MPH, Department of Psychiatry, University of
+California, San Diego, La Jolla, CA; Email:
+<email>ncourchesne@health.ucsd.edu</email>; ORCID:
+<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.orcid.org/0000-0002-9231-647X">https://www.orcid.org/0000-0002-9231-647X</uri>.</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>9</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2023</year></pub-date><volume>96</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">446120</issue-id><fpage>277</fpage><lpage>291</lpage><pub-history><event event-type="pmc-release"><date><day>29</day><month>09</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>29</day><month>09</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-02-04 13:25:17.037"><day>04</day><month>02</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>Copyright &#169;2023, Yale Journal of Biology and
+Medicine</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Yale Journal of Biology and Medicine</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the
+Creative Commons CC BY-NC license, which permits use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+You may not use the material for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="yjbm_96_3_277.pdf"/><abstract><p><bold>Background</bold>: Substance-related diagnoses (SRDs) are a common healthcare
+presentation. This study identified sociodemographic and health-related
+characteristics associated with having an SRD as the primary reason for a
+clinical encounter compared to those with an SRD who are treated for other
+reasons. <bold>Methods</bold>: Electronic health record (EHR) data on patients with an SRD
+(n=12,358, ages 18-90) were used to assess if an SRD was the primary reason for
+a clinical encounter from January 1, 2012-January 1, 2018. Patients were matched
+on key demographic characteristics at a 1:1 ratio. Adjusting for covariates,
+odds ratios, and 95% confidence intervals were calculated. <bold>Results</bold>: In the
+matched cohort of 8,630, most reported male sex (65.8%), White race (70.0%), and
+single marital status (62.7%) with a mean age of 47.2 (SD=14.6). Patient
+reported female sex, Black race, age 70+, married status, and low-income
+(&lt;$50,000) were associated with a lower likelihood of presenting to care for
+an SRD as the primary reason for a clinical encounter. A nicotine-, alcohol-,
+opioid-, or stimulant-related diagnosis was associated with a higher likelihood
+of presenting to care for an SRD as the primary reason for the clinical visit.
+<bold>Conclusion</bold>: This is the first study to investigate whether sociodemographic and
+health-related characteristics were associated with having an SRD as the primary
+reason for a clinical encounter. Using rigorous methods, we investigated a
+unique clinical question adding new knowledge to predictors of patients seeking
+clinical care. Understanding these predictors can help us better align service
+provision with population needs and inform new approaches to tailoring care.</p></abstract><kwd-group><kwd>substance-related diagnosis</kwd><kwd>substance use disorder</kwd><kwd>health service utilization</kwd><kwd>clinical visit</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>The treatment gap between the number of people with a substance-related diagnosis
+(SRD) and the number treated represents a major public health challenge [<xref rid="R1" ref-type="bibr">1</xref>-<xref rid="R3" ref-type="bibr">3</xref>]. SRDs
+are a common presentation in healthcare settings [<xref rid="R4" ref-type="bibr">4</xref>-<xref rid="R7" ref-type="bibr">7</xref>]. The International
+Classification of Diseases, 10<sup>th</sup> edition (ICD-10) classifies SRDs into
+categories that include substance intoxication, withdrawal, use, substance use
+disorder (SUD), misuse, and dependence (F10.xx-F19.xx). SRDs can be the main reason
+for a clinical encounter, or one of several healthcare needs. Understanding who is
+receiving clinical care for an SRD as the main reason for the encounter allows
+healthcare providers to plan for the specific needs of these patients. In addition,
+providers can consider addressing those who are treated primarily for other
+healthcare needs, but also have an SRD.</p><p>Although there are no national rates for all SRDs, the 2020 National Survey on Drug
+Use and Health (NSDUH) found that a past year SUD (defined by meeting Diagnostic and
+Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria), which is a
+sub-group of SRD, was reported in 40.3 million people (14.5%) ages 12 or older in
+the United States [<xref rid="R8" ref-type="bibr">8</xref>]. In the same year, 41.1
+million people (14.9%) aged 12 and older were in need of SUD treatment (defined by
+having a SUD or if they received treatment at a specialty facility in the past
+year). However, 97.5% of those who needed treatment but did not receive it in the
+past year, did not feel that they needed treatment. Research has shown that
+socioeconomic and health related characteristics, such as sex and race, may be
+associated with substance use treatment outcomes [<xref rid="R9" ref-type="bibr">9</xref>]. However, there is limited data on the specific sociodemographic and
+health-related characteristics of patients with SRDs being treated primarily for an
+SRD. Identifying predictors of those <italic toggle="yes">not</italic> presenting for an SRD can
+help further characterize those who may be in the &#8220;treatment gap.&#8221; Interventions can
+be designed to improve access to treatment for those who are less likely to be
+treated for an SRD as the primary reason for their healthcare encounter.</p><p>In the present study, electronic health record (EHR) data were used to identify
+factors associated with having an SRD as the primary reason for a clinical encounter
+compared to those with an SRD who are treated for a different primary reason.
+Identifying these factors can help us recognize the populations who are more or less
+likely to make use of the healthcare system for treatment of an SRD and predict
+populations less likely to be receiving care for SRDs, specifically looking at
+populations that are underserved in healthcare, including those with a higher burden
+of the sociodemographic and health-related characteristics. We hypothesized that
+patients in underserved population groups and with known health determinants will
+have a greater health disparity in being treated primarily for a SRD.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2a"><title>Sample and Data Source</title><p>With Institutional Review Board (IRB) approval, this retrospective observational
+study used deidentified EHR data on patients 18-90 years of age with any ICD-10
+code for an SRD (eg, alcohol, nicotine, stimulants, opioids) from a large
+tertiary healthcare system in Southern California from January 1, 2012-January
+1, 2018. Patients with ages &lt;18 or &gt;90 were excluded to reduce the risk of
+identification due to the small number of individuals with and without an SRD in
+these age ranges. This healthcare system is a referral center with a large urban
+hospital and a large suburban hospital with a county-wide network of primary
+care clinics in urban and suburban areas that also serve many rural residents.
+Clinical services include inpatient and outpatient visits for primary, mental
+health, addiction, and other medical specialty care. As such, this healthcare
+system provides a full range of primary and specialty care.</p><p>All of these data were collected from the health center&#8217;s biomedical informatics
+team through their standardized data request process. Data was provided in a
+secured Health Insurance Portability and Accountability Act (HIPAA) approved
+Virtual Research Desktop (VRD).</p></sec><sec id="s2b"><title>Measures</title><p>The sociodemographic and health-related measures used in this study were selected
+based on what was available in the EHR. Data included patient self-reported
+characteristics such as sex (male, female), age (18-24, 25-39, 40-54, 55-69,
+70+), race (Black, White, Other or Mixed (Asian/Pacific Islander, American
+Indian/Alaska Native, other or mixed race)), Latinx ethnicity, and marital
+status (single, married/living as married, divorced/separated/widowed). As a
+proxy for household income, median income was assessed by patient zip code
+estimates data from the US Census Bureau [<xref rid="R10" ref-type="bibr">10</xref>]. After assessing the distribution of the data, income was then
+categorized into &lt; $50,000, $50,000-$75,000, $75,000-$100,000, or $100,000+.
+The Charlson Comorbidity Index was used to create a summary variable that
+captures medical health severity (&#8805; 1 Charlson Comorbidity (yes/no); Appendix A:
+Table B in the supplemental material) [<xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R12" ref-type="bibr">12</xref>]. A serious mental
+illness (SMI) diagnosis (yes/no) included any ICD-10 code for schizophrenia,
+schizotypal disorder, persistent delusional disorder, schizoaffective disorder,
+other psychotic disorder not due to a substance or known physiological
+condition, unspecified psychosis, manic episode, bipolar disorder, or major
+depressive symptom severe (Table A in the supplemental material). A non-SMI
+included any ICD-10 code for brief psychotic disorders, major depressive
+disorder mild or moderate, persistent mood disorder, reaction to severe stress,
+and/or adjustment disorders (includes post-traumatic stress syndrome), obsessive
+compulsive disorder, phobic anxiety disorder, other anxiety disorder, eating
+disorder, specific personality disorder, and/or impulse disorder (Table A in the
+supplemental material).</p><p>For each clinical encounter, an ICD-10 code is assigned for the primary reason
+for the encounter (eg, F10.xx alcohol-related diagnosis). The primary reason for
+the encounter is decided by the provider at the time of the visit, is not
+dependent on the chief complaint, and is coded in this study as &#8220;primary reason
+for the encounter&#8221; (yes/no). Additional ICD-10 codes may be assigned as a
+second, third, etc. reason for the encounter. Because this study aimed to
+capture information from individuals presenting for any substance-related reason
+(eg, use, misuse, dependence), and not just those with a clinically diagnosed
+SUD, any patient with an ICD-10 code for a SRD&#8212;at any point during the study
+period&#8212;were included in the SRD group. Those without an SRD as the primary
+reason for the clinical encounter were included in the group with an SRD who
+present for another clinical reason. The ICD-10 codes used to construct the SRD
+cohort (F10.xx-F19.xx) are available in the supplemental material (Table A). The
+SRD type variables included any alcohol-, nicotine-, stimulant (ie, cocaine,
+other stimulants)-, opioids-, cannabis-, sedatives-, hallucinogen-, inhalant-,
+or other psychoactive SRD. Due to diagnostic uncertainty, those with an ICD-10
+code for multiple drug use and use of other psychoactive substances (F19.xx;
+formerly known as &#8220;polysubstance abuse&#8221;) with no other code for an SRD (eg,
+alcohol, opioids) were not included in the analysis. This is because it is not
+possible to confirm that the patients with an F19.xx diagnosis should not be
+included in one of the other substance type categories (eg, alcohol, stimulants,
+nicotine, cannabis) used in the bivariate and multivariable regression models.
+Those with an ICD-10 code for F19.xx and a co-occurring SRD code for specific
+substances (eg, alcohol, opioids, etc.) remained in the analysis. Routine
+screening for SRD in the healthcare system was not implemented at the time of
+data collection. As such, SRDs were identified by the provider or
+patient-reported.</p></sec><sec id="s2c"><title>Statistical Analysis</title><p>Descriptive statistics were used to describe the data in the unmatched cohort.
+Propensity score matching using the SAS PSMATCH procedure [<xref rid="R13" ref-type="bibr">13</xref>] was used to produce a 1:1 statistical model by matching
+on pre-existing health conditions, defined by &#8805; 1 Charlson Comorbidity (yes/no)
+and SMI (yes/no), which are two predictors known to be associated with
+healthcare service utilization in this population [<xref rid="R14" ref-type="bibr">14</xref>-<xref rid="R16" ref-type="bibr">16</xref>]. This
+approach measures the imbalance in health-related characteristics by creating a
+matched 1:1 sample of those with an SRD as the primary reason for a clinical
+encounter compared to those who were treated for another reason [<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R18" ref-type="bibr">18</xref>]. The new generated 1:1 cohort allows for equal distribution of
+pre-existing health conditions and SMI in both of the SRD groups (ie, primary
+reason for a clinical encounter yes/no). To determine sociodemographic factors
+associated with having an SRD as the primary reason for a clinical encounter
+compared to those with an SRD who are primarily treated for other clinical
+reasons, bivariate analysis in the unmatched and matched cohort using
+Chi-squared (<italic toggle="yes">X</italic><sup>2</sup>) tests of significance for
+categorical data were used. To determine the effect/magnitude of the
+associations, unadjusted odds ratios (ORs) were calculated and reported. Effect
+sizes such as Phi for dichotomous measures were used in addition to p-values and
+ORs to identify meaningful differences. However, OR confidence intervals that
+cross 1 (indicating that there was no significant difference), p-values &#8804; 0.05,
+and knowledge of any key predictor variables from the literature were used to
+determine whether a covariate would be included in the final multivariable
+regression. Multivariable logistic regression was then used to determine the
+measures that were associated with having an SRD as the primary reason for a
+clinical encounter compared to those with an SRD who are primarily treated for
+other clinical reasons. Standardized betas (&#946;), standard errors (SE(&#946;)),
+adjusted odds ratios (AOR) and the respective confidence intervals and p-values
+were reported. None of the interaction terms (eg, age*sex, sex*race) that were
+tested showed a large main effect. As such, interaction terms were not included
+in the multivariable regression analyses. Sensitivity analyses were also
+conducted by 1) including/excluding different covariates in the regression
+models, and 2) including/excluding different variables in the matching procedure
+to measure the robustness of the associations observed in the unmatched and
+matched regression models.</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><sec id="s3a"><title>Sample Characteristics</title><p>There were 13,769 patients with any ICD-10 code for an SRD associated with their
+visit to the health system EHR from January 1, 2012-January 1, 2018 (<xref rid="F1" ref-type="fig">Figure 1</xref>). A total of 1,411 (10.2%) had an
+ICD-10 code for other psychoactive substances (F19.xx) with no other code for an
+SRD (eg, alcohol, opioids). Because the type and number of substances could not
+be determined, these individuals were not included in the analysis resulting in
+a total of 12,358 with a specified SRD. The bivariate and multivariable analysis
+results from the unmatched cohort (n=12,358) can be found in the supplemental
+material (Tables C-D). Briefly, an SRD as the primary reason for a clinical
+encounter was documented in 4,315 (34.9%) unmatched patients. Results from the
+multivariable analyses in the unmatched cohort (n=11,080), showed that all of
+the variables assessed in this study were significantly associated with having
+an SRD as the primary reason for a clinical encounter except for those who
+identified as Black (AOR = 0.90, 95% CI = 0.78-1.03, p-value = 0.1288),
+other/mixed race (AOR = 0.94, 95% CI = 0.83-1.07, p-value = 0.3646, and Latinx
+ethnicity (AOR = 0.88, 95% CI = 0.77-1.01, p-value = 0.0698). Results from the
+sensitivity analyses did not change our understanding or approach. These results
+are available upon request.</p><p>The matched cohort (n=8,630; <xref rid="T1" ref-type="table">Table 1</xref>) was
+mostly male (65.8%), identified as White (70.0%), identified as non-Latinx
+(83.0%), and single (62.7%) with a mean age of 47.2 (SD = 14.6, range 18-90),
+and in the $50,000-$75,000 income range (60.8%; mean = $68,811.3, SD =
+20,554.3). Due to matching on &#8805; 1 Charlson Comorbidity Index and SMI in those
+with and without an SRD, a Charlson comorbidity condition was identified in
+38.5% and SMI was identified in 21.1%. Non-SMI was identified in 44.1%. An SRD
+as the primary reason for a clinical encounter was documented in 4,315 (50.0%)
+patients. Of these, an SRD for alcohol (58.2%), nicotine (11.4%), stimulants
+(24.5%), opioids (20.9%), cannabis (7.5%), and sedatives (3.6%) were identified
+(<xref rid="T1" ref-type="table">Table 1</xref>).</p></sec><sec id="s3b"><title>Correlates of SRD as the Primary Visit Diagnosis in the Matched
+Cohort</title><p>In the matched adjusted regression analysis (n=8,015; <xref rid="T2" ref-type="table">Table 2</xref>), those with an SRD as the primary reason
+for a clinical encounter were more likely to be male (AOR = 1.28, 95% CI =
+1.16-1.41, p-value = &lt;0.0001), report younger age (age 18-24 AOR = 3.80, 95%
+CI = 2.89-5.03, p-value = &lt;0.0001; age 25-39 AOR = 2.89, 95% CI = 2.30-3.65,
+p-value = &lt;0.0001; age 40-54 AOR = 2.29, 95% CI = 1.85-2.86, p-value =
+&lt;0.0001; age 55-69 AOR = 1.78, 95% CI = 1.43-2.23, p-value = &lt;0.0001),
+report divorced/separated/widowed marital status (AOR = 1.29, 95% CI =
+1.11-1.50, p-value = 0.0010), and report $50,000-$75,000 income (AOR = 1.20, 95%
+CI = 1.05-1.37, p-value = 0.0060). Patients who identified as Black with an SRD
+were less likely to be seen for an SRD as the primary reason for a clinical
+encounter compared to patients who identify as White (AOR = 0.71, 95% CI =
+0.61-0.82, p-value = &lt;0.0001). Having an SRD as the primary reason for a
+clinical encounter was also significantly associated with having an alcohol-
+(AOR 2.63, 95% CI = 2.28-3.03, p-value = &lt;0.0001), nicotine- (AOR 1.32, 95%
+CI = 1.14-1.52, p-value = &lt;0.0001), opioid- (AOR 1.23, 95% CI = 1.14-1.52,
+p-value = &lt;0.0001), or stimulant-related diagnosis (AOR 1.22, 95% CI =
+1.06-1.41, p-value = &lt;0.0001). Having an SRD as the primary reason for a
+clinical encounter was not significantly associated with a cannabis-related
+diagnosis (AOR 0.89, 95% CI = 0.73-1.08, p-value = 0.2309).</p></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>To our knowledge, this is the first study to identify factors associated with having
+an SRD as the primary reason for a clinical encounter compared to those with an SRD
+who are treated for other clinical reasons. By using real-world clinical data in
+which the clinician identifies the primary reason for the clinical encounter, we can
+better understand real life clinical encounters.</p><p>Findings from this study suggest that among those treated for an SRD, patients who
+identified as female, reported Black race, and were age 70+, married, and low-income
+(&lt;$50,000) were less likely to present to care for an SRD as the primary reason
+for a clinical encounter. A nicotine-, alcohol-, opioid-, or stimulant-related
+diagnosis was associated with a higher likelihood of presenting to care for an SRD
+as the primary reason for the clinical encounter. A cannabis- and sedative-related
+diagnosis was not associated with having an SRD as the primary reason for a clinical
+encounter.</p><p>Significant attention has been placed on the impact of sociodemographic
+characteristics such as sex and race/ethnicity, on of substance use treatment
+services [<xref rid="R19" ref-type="bibr">19</xref>-<xref rid="R21" ref-type="bibr">21</xref>]. Results from this study show that those receiving care is
+consistent with national rates of substance use by sex and age. For example, studies
+have shown that compared to females, males are more likely to use substances and
+their use is more likely to lead to ED visits and overdose deaths [<xref rid="R22" ref-type="bibr">22</xref>]. Further study to clarify if the reduced
+rate of females being treated primarily for substance use is commensurate with the
+reduced rates of substance-related health problems in females would be
+informative.</p><p>Our data also suggests that patients who identify as Black were less likely to have
+an SRD as the primary reason for a clinical encounter compared to patients who
+identify as White. Research has shown that patients who identify as Black are less
+likely to receive substance use services and are more likely to delay care [<xref rid="R23" ref-type="bibr">23</xref>-<xref rid="R25" ref-type="bibr">25</xref>].
+For those who do access care, there is a disproportionate use of emergency
+psychiatric services, and they are more likely to be treated for reasons other than
+their substance-related diagnosis [<xref rid="R26" ref-type="bibr">26</xref>].
+Studies have shown that certain minoritized populations (eg, Black/African
+Americans) are less likely to report and seek treatment for their substance use due
+to fear, perceived treatment need and efficacy, differences in recovery goals, and
+other barriers stemming from cultural factors [<xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R28" ref-type="bibr">28</xref>]. In the current study, it
+is possible that patients who do not identify as White are less likely to present
+for care for an SRD as a primary reason due to culturally related barriers such a
+stigma. For example, a qualitative study found that individuals who identify as
+Black would initially avoid or delay mental health treatment due to concerns about
+stigma and once they began treatment, they faced stigmatizing reactions from friends
+and family [<xref rid="R29" ref-type="bibr">29</xref>]. Another study found that
+compared to individuals who identify as White, individuals who identify as Black
+with an opioid use disorder had lower odds of utilizing substance use treatment
+[<xref rid="R30" ref-type="bibr">30</xref>]. Our study adds to this body of
+evidence by showing that patients who identify as Black are significantly less
+likely to present for an SRD as their primary reason compared to patients who
+identify as White.</p><p>Those with an alcohol-related diagnosis had the highest odds of having a SRD as the
+primary reason for the clinical encounter, followed by a nicotine-, opioid-, and
+stimulant-related diagnoses. Alcohol-, nicotine-, opioid-, and stimulant- related
+diagnoses have been shown to have adverse impacts on morbidity that lead to higher
+rates of healthcare utilization [<xref rid="R30" ref-type="bibr">30</xref>-<xref rid="R32" ref-type="bibr">32</xref>]. Surprisingly, cannabis- and
+sedative-related diagnoses were not associated with having an SRD as the primary
+reason for a clinical encounter. Individuals with cannabis use disorder typically
+have high rates of comorbid substance use and mental health illnesses [<xref rid="R33" ref-type="bibr">33</xref>]. By matching on SMI, we were able to show
+that having a cannabis-related diagnosis alone is not associated with a primary SRD.
+Although studies suggest that benzodiazepine use is associated with increased ED
+use, our study found no association between sedative-related diagnosis and a primary
+SRD diagnosis [<xref rid="R34" ref-type="bibr">34</xref>]. Future studies should
+investigate how substance-specific groups are engaging with the healthcare system,
+determine rates of healthcare service utilization broadly and in what healthcare
+settings and contexts, and assess if there are differences by substance type among
+these vulnerable populations.</p><p>Having access to a large health record dataset allows for an in-depth review of the
+prevalence and correlates of having an SRD as the primary reason for a clinical
+encounter. This study is strengthened by the large sample size over 6 years of EHR
+data. Utilizing EHR data allows for a unique perspective on the assessment of having
+an SRD as the primary reason for a clinical encounter among a large sample, which is
+focused on provider diagnoses and outcomes instead of patient self-report. Provider
+diagnoses are critical, as these reflect what the provider identified and is
+providing care for, which is of interest in addition to knowing the prevalence of
+true underlying disorders. However, some health-related diagnoses may be missing or
+not adequately assigned in the EHR. It is possible that patients may have not
+disclosed their substance use or providers did not know how to appropriately
+diagnose an SRD. Consequently, there are likely many more patients with SRDs who
+were not included in this study.</p><p>Our approach to conduct this study in a matched sample is supported by the fact that
+important variables that may be associated with having an SRD as the primary reason
+for a clinical encounter (eg, race, substance type) appear to not be significant in
+the unmatched multivariable regression. This is likely due to the large impact that
+pre-existing health conditions and SMI have on the model. Matching on these two
+strong predictors allows for equal distribution of pre-existing health conditions
+and SMI in both of the SRD groups. As a result, we see that race and substance type
+are in fact associated with having an SRD as the primary reason for the clinical
+encounter in the matched cohort.</p><p>This study is limited by the use of ICD-10 codes, which are designed to identify
+diagnoses and procedures for billing purposes. This limitation is clearly observed
+in the way many SRDs are identified in the EHR as &#8220;non-specified substance-related
+disorder,&#8221; which is sufficient for billing purposes, though specific identification
+of the involved substance is clinically and epidemiologically important. Further
+exploration of the factors (eg, unable to identify substance, multiple substances)
+contributing to a clinical provider&#8217;s decision to classify a patient with an SRD in
+this ambiguous category instead of a designated substance type would be helpful to
+improve code classification in the EHR. It would also be advantageous to clearly
+identify the severity of the SRD in the EHR, as is recommended in the DSM-5.</p><p>The group of patients who have an SRD on their record but it is not listed as the
+primary reason may fall into several groups: 1) those not receiving care for their
+SRD, 2) those who are receiving care for it during the clinical encounter but have a
+more pressing issue at that time, so SRD is not listed first, or 3) those who are
+receiving specialty treatment related to their SRD elsewhere. This data set does not
+allow us to determine which category a patient falls into. However, we can
+reasonably say that if an SRD was listed as the primary visit diagnosis, then the
+SRD would have been discussed in the visit.</p></sec><sec sec-type="conclusions" id="s5"><title>Conclusion</title><p>We found that patient reported female sex, Black race, older age, married/living as
+married status, and low-income (&lt;$50,000) was associated with a lower likelihood
+of presenting to care for an SRD as the primary reason for a clinical encounter. A
+nicotine-, alcohol-, opioid-, or stimulant-related diagnosis was associated with a
+higher likelihood of presenting to care for an SRD as the primary reason for the
+clinical encounter. Cannabis- and sedative-related diagnoses were not associated
+with having an SRD as the primary reason for a clinical encounter.</p><p>Results from this study helps us characterize patients who receive care for SRDs
+using demographic patterns, which can be used to understand disparities in care.
+From a public health standpoint, socio-demographic variables are often used to
+identify particularly vulnerable populations. Similarly, policy makers utilize
+sociodemographic and health-related characteristics as well as social determinants
+of health to aid their decision-making when examining structural differences in care
+including disparities in health care. Considering the significant gaps in treatment
+for SRD care for minoritized individuals, demographically characterizing those with
+SRD would guide future research on social determinants of health aimed to identify
+structural barriers to accessing care and can also assist clinicians during clinical
+encounters.</p><p>Future studies should investigate how those with an SRD are engaging with the
+healthcare system, determine rates of healthcare service utilization across
+healthcare settings, and assess if there are differences by substance type among
+vulnerable populations as another step towards reducing health disparities.</p></sec></body><back><ack><p>The authors gratefully acknowledge the contributions to this research by the Altman
+Clinical and Translational Research Institute&#8217;s&#160;Virtual Research Desktop
+(VRD)&#160;analytics team and collaborators at University of California San
+Diego&#160;(supported by the National Institute of Health, Grant&#160;UL1TR001442 of CTSA
+Funding).</p></ack><notes><title>Author Contributions</title><p>NSC-K (ORCID: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.orcid/org/0000-0002-9231-647X">https://www.orcid/org/0000-0002-9231-647X</uri>):
+Conceptualization, Methodology, Validation, Formal analysis, Investigation, Data
+Curation, Writing, Review, and Editing, Visualization, Project administration. CBM
+(ORCID: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.orcid/org/0000-0002-3909-3318">https://www.orcid/org/0000-0002-3909-3318</uri>): Conceptualization,
+Methodology, Validation, Resources, Writing, Review, and Editing, Supervision,
+Funding acquisition. WK (ORCID:
+<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.orcid/org/0000-0003-3182-6131">https://www.orcid/org/0000-0003-3182-6131</uri>): Writing, Review, and
+Editing.</p></notes><notes><title>Statements of Declaration</title><p>The authors report no conflict of interest. This research was funded by Dr. Carla
+Marienfeld research funds through the department of Psychiatry at the University of
+California San Diego School of Medicine. Dr. Courchesne-Krak&#8217;s recent contributions
+to this work were facilitated by the Institutional Ruth L. Kirschstein National
+Research Service Award (NRSA) T32 grant funded by the National Institute on Alcohol
+Abuse and Alcoholism (NIAAA) T32 (T32 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AA013525">AA013525</ext-link>) and the Interdisciplinary Research
+Fellowship in NeuroAIDS (R25MH081482).</p></notes><notes><title>Financial</title><p>The authors declare they have no financial interests.</p></notes><notes><title>Ethics Approval</title><p>This study was performed in line with the principles of the Declaration of Helsinki.
+Approval was granted by the Ethics Committee of University of California San Diego
+(IRB# 180121; 2/19/2019).</p></notes><app-group><app><label>Appendix A</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="yjbm_96_3_277_appendix.pdf" id="d64e268" position="anchor" orientation="portrait"/></app></app-group><glossary><def-list><def-item><term>SUD</term><def><p>Substance use disorder</p></def></def-item><def-item><term>SRD</term><def><p>Substance-related diagnosis</p></def></def-item><def-item><term>ICD-10</term><def><p>International Classification of Diseases, 10th edition</p></def></def-item><def-item><term>EHR</term><def><p>electronic health record</p></def></def-item><def-item><term>HIPAA</term><def><p>Health Insurance Portability and Accountability Act</p></def></def-item><def-item><term>VRD</term><def><p>Virtual Research Desktop</p></def></def-item><def-item><term>SMI</term><def><p>serious mental illness diagnosis</p></def></def-item></def-list></glossary><ref-list><ref id="R1"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Blanco</surname><given-names>C</given-names></string-name><string-name name-style="western"><surname>Iza</surname><given-names>M</given-names></string-name><string-name name-style="western"><surname>Schwartz</surname><given-names>RP</given-names></string-name><string-name name-style="western"><surname>Rafful</surname><given-names>C</given-names></string-name><string-name name-style="western"><surname>Wang</surname><given-names>S</given-names></string-name><string-name name-style="western"><surname>Olfson</surname><given-names>M</given-names></string-name></person-group>. <article-title>Probability and predictors of treatment-seeking
+for prescription opioid use disorders: a national study</article-title>.
+<source>Drug Alcohol Depend</source>. <year>2013</year><month>Jul</month>;<volume>131</volume>(<issue>1-2</issue>):<fpage>143</fpage>&#8211;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.drugalcdep.2012.12.013</pub-id><issn>1879-0046</issn><pub-id pub-id-type="pmid">23306097</pub-id><pub-id pub-id-type="pmcid">PMC3636152</pub-id></mixed-citation></ref><ref id="R2"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Edlund</surname><given-names>MJ</given-names></string-name><string-name name-style="western"><surname>Booth</surname><given-names>BM</given-names></string-name><string-name name-style="western"><surname>Han</surname><given-names>X</given-names></string-name></person-group>. <article-title>Who seeks care where? Utilization of mental
+health and substance use disorder treatment in two national samples of
+individuals with alcohol use disorders</article-title>. <source>J Stud
+Alcohol Drugs</source>. <year>2012</year><month>Jul</month>;<volume>73</volume>(<issue>4</issue>):<fpage>635</fpage>&#8211;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.15288/jsad.2012.73.635</pub-id><issn>1938-4114</issn><pub-id pub-id-type="pmid">22630802</pub-id><pub-id pub-id-type="pmcid">PMC3364329</pub-id></mixed-citation></ref><ref id="R3"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Grella</surname><given-names>CE</given-names></string-name><string-name name-style="western"><surname>Karno</surname><given-names>MP</given-names></string-name><string-name name-style="western"><surname>Warda</surname><given-names>US</given-names></string-name><string-name name-style="western"><surname>Moore</surname><given-names>AA</given-names></string-name><string-name name-style="western"><surname>Niv</surname><given-names>N</given-names></string-name></person-group>. <article-title>Perceptions of need and help received for
+substance dependence in a national probability survey</article-title>.
+<source>Psychiatr Serv</source>. <year>2009</year><month>Aug</month>;<volume>60</volume>(<issue>8</issue>):<fpage>1068</fpage>&#8211;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1176/ps.2009.60.8.1068</pub-id><issn>1557-9700</issn><pub-id pub-id-type="pmid">19648194</pub-id><pub-id pub-id-type="pmcid">PMC2848480</pub-id></mixed-citation></ref><ref id="R4"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Marco</surname><given-names>CA</given-names></string-name><string-name name-style="western"><surname>Weiner</surname><given-names>M</given-names></string-name><string-name name-style="western"><surname>Ream</surname><given-names>SL</given-names></string-name><string-name name-style="western"><surname>Lumbrezer</surname><given-names>D</given-names></string-name><string-name name-style="western"><surname>Karanovic</surname><given-names>D</given-names></string-name></person-group>. <article-title>Access to care among emergency department
+patients</article-title>. <source>Emerg Med J</source>. <year>2012</year><month>Jan</month>;<volume>29</volume>(<issue>1</issue>):<fpage>28</fpage>&#8211;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1136/emj.2010.103077</pub-id><issn>1472-0213</issn><pub-id pub-id-type="pmid">21183527</pub-id></mixed-citation></ref><ref id="R5"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Sacamano</surname><given-names>P</given-names></string-name><string-name name-style="western"><surname>Krawczyk</surname><given-names>N</given-names></string-name><string-name name-style="western"><surname>Latkin</surname><given-names>C</given-names></string-name></person-group>. <article-title>Emergency department visits in a cohort of
+persons with substance use: incorporating the role of social
+networks</article-title>. <source>Subst Use Misuse</source>.
+<year>2018</year><month>Nov</month>;<volume>53</volume>(<issue>13</issue>):<fpage>2265</fpage>&#8211;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1080/10826084.2018.1461225</pub-id><issn>1532-2491</issn><pub-id pub-id-type="pmid">29671696</pub-id><pub-id pub-id-type="pmcid">PMC6105410</pub-id></mixed-citation></ref><ref id="R6"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>LaCalle</surname><given-names>EJ</given-names></string-name><string-name name-style="western"><surname>Rabin</surname><given-names>EJ</given-names></string-name><string-name name-style="western"><surname>Genes</surname><given-names>NG</given-names></string-name></person-group>. <article-title>High-frequency users of emergency department
+care</article-title>. <source>J Emerg Med</source>. <year>2013</year><month>Jun</month>;<volume>44</volume>(<issue>6</issue>):<fpage>1167</fpage>&#8211;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jemermed.2012.11.042</pub-id><issn>0736-4679</issn><pub-id pub-id-type="pmid">23473816</pub-id></mixed-citation></ref><ref id="R7"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Peterson</surname><given-names>C</given-names></string-name><string-name name-style="western"><surname>Li</surname><given-names>M</given-names></string-name><string-name name-style="western"><surname>Xu</surname><given-names>L</given-names></string-name><string-name name-style="western"><surname>Mikosz</surname><given-names>CA</given-names></string-name><string-name name-style="western"><surname>Luo</surname><given-names>F</given-names></string-name></person-group>. <article-title>Assessment of annual cost of substance use
+disorder in US hospitals</article-title>. <source>JAMA Netw Open</source>.
+<year>2021</year><month>Mar</month>;<volume>4</volume>(<issue>3</issue>):<fpage>e210242</fpage>&#8211;<lpage>210242</lpage>.
+<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.0242</pub-id><issn>2574-3805</issn><pub-id pub-id-type="pmid">33666661</pub-id><pub-id pub-id-type="pmcid">PMC7936257</pub-id></mixed-citation></ref><ref id="R8"><mixed-citation publication-type="report"><person-group person-group-type="author"><collab>National Survey on Drug Use and Health.</collab></person-group><article-title>Highlights for the 2020 National Survey on Drug
+Use and Health</article-title>. <year>2020</year>.</mixed-citation></ref><ref id="R9"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Blair</surname><given-names>A</given-names></string-name><string-name name-style="western"><surname>Siddiqi</surname><given-names>A</given-names></string-name></person-group>. <article-title>The social determinants of substance use
+associated with deaths of despair: individual risks and population
+impacts</article-title>. <source>Prev Med</source>. <year>2022</year><month>Nov</month>;<volume>164</volume>:<fpage>107327</fpage>. <pub-id pub-id-type="doi">10.1016/j.ypmed.2022.107327</pub-id><issn>1096-0260</issn><pub-id pub-id-type="pmid">36334684</pub-id></mixed-citation></ref><ref id="R10"><mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>United States Census Bureau.</collab></person-group><article-title>ZIP Code Tabulation Areas
+(ZCTAs)</article-title>. <year>2019</year>. <date-in-citation content-type="access-date">Accessed: Feb. 28, 2022</date-in-citation>.
+Online. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html" ext-link-type="uri">https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html</ext-link></mixed-citation></ref><ref id="R11"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Charlson</surname><given-names>ME</given-names></string-name><string-name name-style="western"><surname>Pompei</surname><given-names>P</given-names></string-name><string-name name-style="western"><surname>Ales</surname><given-names>KL</given-names></string-name><string-name name-style="western"><surname>MacKenzie</surname><given-names>CR</given-names></string-name></person-group>. <article-title>A new method of classifying prognostic
+comorbidity in longitudinal studies: development and
+validation</article-title>. <source>J Chronic Dis</source>.
+<year>1987</year>;<volume>40</volume>(<issue>5</issue>):<fpage>373</fpage>&#8211;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.1016/0021-9681(87)90171-8</pub-id><issn>0021-9681</issn><pub-id pub-id-type="pmid">3558716</pub-id></mixed-citation></ref><ref id="R12"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Quan</surname><given-names>H</given-names></string-name><string-name name-style="western"><surname>Li</surname><given-names>B</given-names></string-name><string-name name-style="western"><surname>Couris</surname><given-names>CM</given-names></string-name><string-name name-style="western"><surname>Fushimi</surname><given-names>K</given-names></string-name><string-name name-style="western"><surname>Graham</surname><given-names>P</given-names></string-name><string-name name-style="western"><surname>Hider</surname><given-names>P</given-names></string-name><etal>et al.</etal></person-group><article-title>Updating and validating the Charlson comorbidity index and score
+for risk adjustment in hospital discharge abstracts using data from 6
+countries</article-title>. <source>Am J Epidemiol</source>.
+<year>2011</year><month>Mar</month>;<volume>173</volume>(<issue>6</issue>):<fpage>676</fpage>&#8211;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.1093/aje/kwq433</pub-id><issn>1476-6256</issn><pub-id pub-id-type="pmid">21330339</pub-id></mixed-citation></ref><ref id="R13"><mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>SAS Institute Inc.</collab></person-group><article-title>The PSMATCH Procedure</article-title> in
+<source>SAS/STAT &#174; 14.2 User&#8217;s Guide</source>. <year>2016</year>. <date-in-citation content-type="access-date">Accessed: Feb. 28, 2022</date-in-citation>.
+Online. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://support.sas.com/thirdpartylicenses" ext-link-type="uri">http://support.sas.com/thirdpartylicenses</ext-link></mixed-citation></ref><ref id="R14"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Moulin</surname><given-names>A</given-names></string-name><string-name name-style="western"><surname>Evans</surname><given-names>EJ</given-names></string-name><string-name name-style="western"><surname>Xing</surname><given-names>G</given-names></string-name><string-name name-style="western"><surname>Melnikow</surname><given-names>J</given-names></string-name></person-group>. <article-title>Substance use, homelessness, mental illness and
+medicaid coverage: A set-up for high emergency department
+utilization</article-title>. <source>West J Emerg Med</source>.
+<year>2018</year><month>Nov</month>;<volume>19</volume>(<issue>6</issue>):<fpage>902</fpage>&#8211;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.5811/westjem.2018.9.38954</pub-id><issn>1936-9018</issn><pub-id pub-id-type="pmid">30429919</pub-id><pub-id pub-id-type="pmcid">PMC6225935</pub-id></mixed-citation></ref><ref id="R15"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Priester</surname><given-names>MA</given-names></string-name><string-name name-style="western"><surname>Browne</surname><given-names>T</given-names></string-name><string-name name-style="western"><surname>Iachini</surname><given-names>A</given-names></string-name><string-name name-style="western"><surname>Clone</surname><given-names>S</given-names></string-name><string-name name-style="western"><surname>DeHart</surname><given-names>D</given-names></string-name><string-name name-style="western"><surname>Seay</surname><given-names>KD</given-names></string-name></person-group>. <article-title>Treatment Access Barriers and Disparities Among
+Individuals with Co-Occurring Mental Health and Substance Use Disorders: An
+Integrative Literature Review</article-title>. <source>J Subst Abuse
+Treat</source>. <year>2016</year><month>Feb</month>;<volume>61</volume>:<fpage>47</fpage>&#8211;<lpage>59</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jsat.2015.09.006</pub-id><issn>1873-6483</issn><pub-id pub-id-type="pmid">26531892</pub-id><pub-id pub-id-type="pmcid">PMC4695242</pub-id></mixed-citation></ref><ref id="R16"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Sporinova</surname><given-names>B</given-names></string-name><string-name name-style="western"><surname>Manns</surname><given-names>B</given-names></string-name><string-name name-style="western"><surname>Tonelli</surname><given-names>M</given-names></string-name><string-name name-style="western"><surname>Hemmelgarn</surname><given-names>B</given-names></string-name><string-name name-style="western"><surname>MacMaster</surname><given-names>F</given-names></string-name><string-name name-style="western"><surname>Mitchell</surname><given-names>N</given-names></string-name><etal>et al.</etal></person-group><article-title>Association of Mental Health Disorders With Health Care
+Utilization and Costs Among Adults With Chronic Disease</article-title>.
+<source>JAMA Netw Open</source>. <year>2019</year><month>Aug</month>;<volume>2</volume>(<issue>8</issue>):<fpage>e199910</fpage>&#8211;<lpage>199910</lpage>.
+<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2019.9910</pub-id><issn>2574-3805</issn><pub-id pub-id-type="pmid">31441939</pub-id><pub-id pub-id-type="pmcid">PMC6714022</pub-id></mixed-citation></ref><ref id="R17"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Ho</surname><given-names>DE</given-names></string-name><string-name name-style="western"><surname>Imai</surname><given-names>K</given-names></string-name><string-name name-style="western"><surname>King</surname><given-names>G</given-names></string-name><string-name name-style="western"><surname>Stuart</surname><given-names>EA</given-names></string-name></person-group>. <article-title>Matching as Nonparametric Preprocessing for
+Reducing Model Dependence in Parametric Causal Inference</article-title>.
+<source>Polit Anal</source>. <year>2007</year><month>Jan</month>;<volume>15</volume>(<issue>3</issue>):<fpage>199</fpage>&#8211;<lpage>236</lpage>.
+<pub-id pub-id-type="doi">10.1093/pan/mpl013</pub-id><issn>1047-1987</issn></mixed-citation></ref><ref id="R18"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Iacus</surname><given-names>SM</given-names></string-name><string-name name-style="western"><surname>King</surname><given-names>G</given-names></string-name><string-name name-style="western"><surname>Porro</surname><given-names>G</given-names></string-name></person-group>. <article-title>Causal Inference without Balance Checking:
+Coarsened Exact Matching</article-title>. <source>Polit Anal</source>.
+<year>2012</year><month>Jan</month>;<volume>20</volume>(<issue>1</issue>):<fpage>1</fpage>&#8211;<lpage>24</lpage>.
+<pub-id pub-id-type="doi">10.1093/pan/mpr013</pub-id><issn>1047-1987</issn></mixed-citation></ref><ref id="R19"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Haney</surname><given-names>JL</given-names></string-name></person-group>. <article-title>Sexual Orientation, Social Determinants of
+Health, and Unmet Substance Use Treatment Need: Findings from a National
+Survey</article-title>. <source>Subst Use Misuse</source>.
+<year>2021</year>;<volume>56</volume>(<issue>2</issue>):<fpage>205</fpage>&#8211;<lpage>13</lpage>.
+<pub-id pub-id-type="doi">10.1080/10826084.2020.1853775</pub-id><issn>1532-2491</issn><pub-id pub-id-type="pmid">33287638</pub-id></mixed-citation></ref><ref id="R20"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Lopez-Vergara</surname><given-names>HI</given-names></string-name><string-name name-style="western"><surname>Zapolski</surname><given-names>TC</given-names></string-name><string-name name-style="western"><surname>Leventhal</surname><given-names>AM</given-names></string-name></person-group>. <article-title>Intersection of minority health, health
+disparities, and social determinants of health with psychopharmacology and
+substance use</article-title>. <source>Exp Clin Psychopharmacol</source>.
+<year>2021</year><month>Oct</month>;<volume>29</volume>(<issue>5</issue>):<fpage>427</fpage>&#8211;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1037/pha0000522</pub-id><issn>1936-2293</issn><pub-id pub-id-type="pmid">34636584</pub-id><pub-id pub-id-type="pmcid">PMC8906390</pub-id></mixed-citation></ref><ref id="R21"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Meyers</surname><given-names>SA</given-names></string-name><string-name name-style="western"><surname>Earnshaw</surname><given-names>VA</given-names></string-name><string-name name-style="western"><surname>D&#8217;Ambrosio</surname><given-names>B</given-names></string-name><string-name name-style="western"><surname>Courchesne</surname><given-names>N</given-names></string-name><string-name name-style="western"><surname>Werb</surname><given-names>D</given-names></string-name><string-name name-style="western"><surname>Smith</surname><given-names>LR</given-names></string-name></person-group>. <article-title>The intersection of gender and drug use-related
+stigma: A mixed methods systematic review and synthesis of the
+literature</article-title>. <source>Drug Alcohol Depend</source>.
+<year>2021</year><month>Jun</month>;<volume>223</volume>:<fpage>108706</fpage>. <pub-id pub-id-type="doi">10.1016/j.drugalcdep.2021.108706</pub-id><issn>1879-0046</issn><pub-id pub-id-type="pmid">33901753</pub-id><pub-id pub-id-type="pmcid">PMC8168566</pub-id></mixed-citation></ref><ref id="R22"><mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>Substance Abuse and Mental Health Services Administration.</collab></person-group><article-title>Key Substance Use and Mental Health Indicators
+in the United States: Results from the 2018 National Survey on Drug Use and
+Health</article-title>. <year>2019</year>. <date-in-citation content-type="access-date">Accessed: Nov. 26, 2019</date-in-citation>.
+Online. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://store.samhsa.gov/product/Key-Substance-Use-and-Mental-Health-Indicators-in-the-United-States-Results-from-the-2018-National-Survey-on-Drug-Use-and-Health/PEP19-5068" ext-link-type="uri">https://store.samhsa.gov/product/Key-Substance-Use-and-Mental-Health-Indicators-in-the-United-States-Results-from-the-2018-National-Survey-on-Drug-Use-and-Health/PEP19-5068</ext-link></mixed-citation></ref><ref id="R23"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Cook</surname><given-names>BL</given-names></string-name><string-name name-style="western"><surname>Zuvekas</surname><given-names>SH</given-names></string-name><string-name name-style="western"><surname>Carson</surname><given-names>N</given-names></string-name><string-name name-style="western"><surname>Wayne</surname><given-names>GF</given-names></string-name><string-name name-style="western"><surname>Vesper</surname><given-names>A</given-names></string-name><string-name name-style="western"><surname>McGuire</surname><given-names>TG</given-names></string-name></person-group>. <article-title>Assessing racial/ethnic disparities in treatment
+across episodes of mental health care</article-title>. <source>Health Serv
+Res</source>. <year>2014</year><month>Feb</month>;<volume>49</volume>(<issue>1</issue>):<fpage>206</fpage>&#8211;<lpage>29</lpage>.
+<pub-id pub-id-type="doi">10.1111/1475-6773.12095</pub-id><issn>1475-6773</issn><pub-id pub-id-type="pmid">23855750</pub-id><pub-id pub-id-type="pmcid">PMC3844061</pub-id></mixed-citation></ref><ref id="R24"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Nowotny</surname><given-names>KM</given-names></string-name></person-group>. <article-title>Race/ethnic disparities in the utilization of
+treatment for drug dependent inmates in U.S. state correctional
+facilities</article-title>. <source>Addict Behav</source>. <year>2015</year><month>Jan</month>;<volume>40</volume>:<fpage>148</fpage>&#8211;<lpage>53</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.addbeh.2014.09.005</pub-id><issn>1873-6327</issn><pub-id pub-id-type="pmid">25270722</pub-id><pub-id pub-id-type="pmcid">PMC4250412</pub-id></mixed-citation></ref><ref id="R25"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><given-names>PS.</given-names><surname>Wang</surname></string-name><string-name name-style="western"><given-names>P.</given-names><surname>Berglund</surname></string-name><string-name name-style="western"><given-names>M.</given-names><surname>Olfson</surname></string-name><string-name name-style="western"><given-names>HA.</given-names><surname>Pincus</surname></string-name><string-name name-style="western"><given-names>KB.</given-names><surname>Wells</surname></string-name><string-name name-style="western"><given-names>RC.</given-names><surname>Kessler</surname></string-name></person-group>.
+<article-title>Failure and delay in initial treatment contact after first
+onset of mental disorders in the National Comorbidity Survey
+Replication</article-title>. <source>Archives of General Psychiatry</source>. <year>2005</year>;<volume>62</volume>:<issue>6</issue>:603&#8211;613. https://doi.org/<pub-id pub-id-type="doi">10.1001/archpsyc.62.6.603</pub-id>.<pub-id pub-id-type="pmid">15939838</pub-id></mixed-citation></ref><ref id="R26"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Snowden</surname><given-names>LR</given-names></string-name><string-name name-style="western"><surname>Catalano</surname><given-names>R</given-names></string-name><string-name name-style="western"><surname>Shumway</surname><given-names>M</given-names></string-name></person-group>. <article-title>Disproportionate use of psychiatric emergency
+services by african americans</article-title>. <source>Psychiatr
+Serv</source>. <year>2009</year><month>Dec</month>;<volume>60</volume>(<issue>12</issue>):<fpage>1664</fpage>&#8211;<lpage>71</lpage>.
+<pub-id pub-id-type="doi">10.1176/ps.2009.60.12.1664</pub-id><issn>1557-9700</issn><pub-id pub-id-type="pmid">19952158</pub-id></mixed-citation></ref><ref id="R27"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>De Luca</surname><given-names>SM</given-names></string-name><string-name name-style="western"><surname>Blosnich</surname><given-names>JR</given-names></string-name><string-name name-style="western"><surname>Hentschel</surname><given-names>EA</given-names></string-name><string-name name-style="western"><surname>King</surname><given-names>E</given-names></string-name><string-name name-style="western"><surname>Amen</surname><given-names>S</given-names></string-name></person-group>. <article-title>Mental Health Care Utilization: How Race,
+Ethnicity and Veteran Status are Associated with Seeking
+Help</article-title>. <source>Community Ment Health J</source>.
+<year>2016</year><month>Feb</month>;<volume>52</volume>(<issue>2</issue>):<fpage>174</fpage>&#8211;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10597-015-9964-3</pub-id><issn>1573-2789</issn><pub-id pub-id-type="pmid">26659853</pub-id></mixed-citation></ref><ref id="R28"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Pinedo</surname><given-names>M</given-names></string-name><string-name name-style="western"><surname>Zemore</surname><given-names>S</given-names></string-name><string-name name-style="western"><surname>Rogers</surname><given-names>S</given-names></string-name></person-group>. <article-title>Understanding barriers to specialty substance
+abuse treatment among Latinos</article-title>. <source>J Subst Abuse
+Treat</source>. <year>2018</year><month>Nov</month>;<volume>94</volume>:<fpage>1</fpage>&#8211;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jsat.2018.08.004</pub-id><issn>1873-6483</issn><pub-id pub-id-type="pmid">30243409</pub-id><pub-id pub-id-type="pmcid">PMC6157272</pub-id></mixed-citation></ref><ref id="R29"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Alvidrez</surname><given-names>J</given-names></string-name><string-name name-style="western"><surname>Snowden</surname><given-names>LR</given-names></string-name><string-name name-style="western"><surname>Kaiser</surname><given-names>DM</given-names></string-name></person-group>. <article-title>The experience of stigma among Black mental
+health consumers</article-title>. <source>J Health Care Poor
+Underserved</source>. <year>2008</year><month>Aug</month>;<volume>19</volume>(<issue>3</issue>):<fpage>874</fpage>&#8211;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1353/hpu.0.0058</pub-id><issn>1049-2089</issn><pub-id pub-id-type="pmid">18677076</pub-id></mixed-citation></ref><ref id="R30"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Wu</surname><given-names>LT</given-names></string-name><string-name name-style="western"><surname>Swartz</surname><given-names>MS</given-names></string-name><string-name name-style="western"><surname>Wu</surname><given-names>Z</given-names></string-name><string-name name-style="western"><surname>Mannelli</surname><given-names>P</given-names></string-name><string-name name-style="western"><surname>Yang</surname><given-names>C</given-names></string-name><string-name name-style="western"><surname>Blazer</surname><given-names>DG</given-names></string-name></person-group>. <article-title>Alcohol and drug use disorders among adults in
+emergency department settings in the United States</article-title>.
+<source>Ann Emerg Med</source>. <year>2012</year><month>Aug</month>;<volume>60</volume>(<issue>2</issue>):<fpage>172</fpage>&#8211;<lpage>80.e5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.annemergmed.2012.02.003</pub-id><issn>1097-6760</issn><pub-id pub-id-type="pmid">22424657</pub-id><pub-id pub-id-type="pmcid">PMC3388174</pub-id></mixed-citation></ref><ref id="R31"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Schulte</surname><given-names>MT</given-names></string-name><string-name name-style="western"><surname>Hser</surname><given-names>YI</given-names></string-name></person-group>. <article-title>Substance use and associated health conditions
+throughout the lifespan</article-title>. <source>Public Health Rev</source>.
+<year>2014</year>;<volume>35</volume>(<issue>2</issue>):<fpage>3</fpage>.
+<pub-id pub-id-type="doi">10.1007/BF03391702</pub-id><issn>0301-0422</issn><pub-id pub-id-type="pmid">28366975</pub-id><pub-id pub-id-type="pmcid">PMC5373082</pub-id></mixed-citation></ref><ref id="R32"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Scott</surname><given-names>KM</given-names></string-name><string-name name-style="western"><surname>Wells</surname><given-names>JE</given-names></string-name><string-name name-style="western"><surname>Angermeyer</surname><given-names>M</given-names></string-name><string-name name-style="western"><surname>Brugha</surname><given-names>TS</given-names></string-name><string-name name-style="western"><surname>Bromet</surname><given-names>E</given-names></string-name><string-name name-style="western"><surname>Demyttenaere</surname><given-names>K</given-names></string-name><etal>et al.</etal></person-group><article-title>Gender and the relationship between marital status and first
+onset of mood, anxiety and substance use disorders</article-title>.
+<source>Psychol Med</source>. <year>2010</year><month>Sep</month>;<volume>40</volume>(<issue>9</issue>):<fpage>1495</fpage>&#8211;<lpage>505</lpage>.
+<pub-id pub-id-type="doi">10.1017/S0033291709991942</pub-id><issn>1469-8978</issn><pub-id pub-id-type="pmid">19939327</pub-id><pub-id pub-id-type="pmcid">PMC2891411</pub-id></mixed-citation></ref><ref id="R33"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Agosti</surname><given-names>V</given-names></string-name><string-name name-style="western"><surname>Levin</surname><given-names>FR</given-names></string-name></person-group>. <article-title>Predictors of treatment contact among
+individuals with cannabis dependence</article-title>. <source>Am J Drug
+Alcohol Abuse</source>.
+<year>2004</year>;<volume>30</volume>(<issue>1</issue>):<fpage>121</fpage>&#8211;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1081/ADA-120029869</pub-id><issn>0095-2990</issn><pub-id pub-id-type="pmid">15083557</pub-id></mixed-citation></ref><ref id="R34"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Schmitz</surname><given-names>A</given-names></string-name></person-group>. <article-title>Benzodiazepine use, misuse, and abuse: A
+review</article-title>. <source>Ment Health Clin</source>. <year>2016</year><month>May</month>;<volume>6</volume>(<issue>3</issue>):<fpage>120</fpage>&#8211;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.9740/mhc.2016.05.120</pub-id><issn>2168-9709</issn><pub-id pub-id-type="pmid">29955458</pub-id><pub-id pub-id-type="pmcid">PMC6007645</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig position="float" id="F1" orientation="portrait"><label>Figure 1</label><caption><p><bold>Flow chart of the study population for substance-related diagnosis as the
+primary reason for a clinical encounter in a large healthcare system from
+January 1, 2012-January 1, 2018</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yjbm_96_3_277_g01.jpg"/></fig><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><title>Matched unadjusted analysis of factors associated with having a
+substance-related diagnosis as the primary reason for a clinical encounter among
+patient records in a Southern California electronic medical record from January
+1, 2012-January 1, 2018 (n= 8,630)</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">Parameter</td><td rowspan="1" colspan="1">Total n (%)</td><td rowspan="1" colspan="1">Primary Visit n (%)</td><td rowspan="1" colspan="1">Non-Primary Visit n (%)</td><td rowspan="1" colspan="1">Odds Ratio 95% (CI)</td><td rowspan="1" colspan="1">
+<italic toggle="yes">&#935;</italic>
+<sup>2</sup>
+</td><td rowspan="1" colspan="1">P</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">All</td><td rowspan="1" colspan="1">8,630 (100.0)</td><td rowspan="1" colspan="1">4,315 (50.0)</td><td rowspan="1" colspan="1">4,315 (50.0)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Sex</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Male</td><td rowspan="1" colspan="1">5,678 (65.8)</td><td rowspan="1" colspan="1">3,002 (69.6)</td><td rowspan="1" colspan="1">2,676 (62.0)</td><td rowspan="1" colspan="1">
+<bold>1.40 (1.29-1.54)</bold>
+</td><td rowspan="1" colspan="1">55.48</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;Female (ref)</td><td rowspan="1" colspan="1">2,948 (34.2)</td><td rowspan="1" colspan="1">1,309 (30.6)</td><td rowspan="1" colspan="1">1,639 (38.0)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Age*</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;18-24</td><td rowspan="1" colspan="1">671 (7.8)</td><td rowspan="1" colspan="1">399 (9.3)</td><td rowspan="1" colspan="1">272 (6.3)</td><td rowspan="1" colspan="1">
+<bold>3.00 (2.35-3.83)</bold>
+</td><td rowspan="1" colspan="1">42.96</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;25-39</td><td rowspan="1" colspan="1">2,058 (23.9)</td><td rowspan="1" colspan="1">1,115 (25.8)</td><td rowspan="1" colspan="1">943 (21.9)</td><td rowspan="1" colspan="1">
+<bold>2.42 (1.96-2.98)</bold>
+</td><td rowspan="1" colspan="1">25.50</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;40-54</td><td rowspan="1" colspan="1">3,020 (35.0)</td><td rowspan="1" colspan="1">1,552 (36.0)</td><td rowspan="1" colspan="1">1,468 (34.0)</td><td rowspan="1" colspan="1">
+<bold>2.16 (1.76-2.65)</bold>
+</td><td rowspan="1" colspan="1">7.99</td><td rowspan="1" colspan="1">
+<bold>0.0047</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;55-69</td><td rowspan="1" colspan="1">2,397 (27.8)</td><td rowspan="1" colspan="1">1,090 (25.3)</td><td rowspan="1" colspan="1">1,307 (30.3)</td><td rowspan="1" colspan="1">
+<bold>1.70 (1.39-2.09)</bold>
+</td><td rowspan="1" colspan="1">8.34</td><td rowspan="1" colspan="1">
+<bold>0.0039</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;70+ (ref)</td><td rowspan="1" colspan="1">484 (5.6)</td><td rowspan="1" colspan="1">159 (3.7)</td><td rowspan="1" colspan="1">325 (7.5)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Race</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Black</td><td rowspan="1" colspan="1">1,028 (12.2)</td><td rowspan="1" colspan="1">413 (9.8)</td><td rowspan="1" colspan="1">615 (14.6)</td><td rowspan="1" colspan="1">
+<bold>1.59 (1.39-1.81)</bold>
+</td><td rowspan="1" colspan="1">44.8</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;Other or mixed</td><td rowspan="1" colspan="1">1,505 (17.8)</td><td rowspan="1" colspan="1">769 (18.2)</td><td rowspan="1" colspan="1">736 (17.5)</td><td rowspan="1" colspan="1">1.02 (0.91-1.14)</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1">0.7495</td></tr><tr><td rowspan="1" colspan="1">&#8194;White (ref)</td><td rowspan="1" colspan="1">5,908 (70.0)</td><td rowspan="1" colspan="1">3,046 (72.0)</td><td rowspan="1" colspan="1">2,862 (67.9)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Hispanic</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">1,398 (17.0)</td><td rowspan="1" colspan="1">694 (16.7)</td><td rowspan="1" colspan="1">704 (17.4)</td><td rowspan="1" colspan="1">1.00 (0.85-1.07)</td><td rowspan="1" colspan="1">0.61</td><td rowspan="1" colspan="1">0.4333</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">6,814 (83.0)</td><td rowspan="1" colspan="1">3,461 (83.3)</td><td rowspan="1" colspan="1">3,353 (82.7)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Single</td><td rowspan="1" colspan="1">5,342 (62.7)</td><td rowspan="1" colspan="1">2,770 (65.1)</td><td rowspan="1" colspan="1">2,572 (60.4)</td><td rowspan="1" colspan="1">
+<bold>1.34 (1.20-1.49)</bold>
+</td><td rowspan="1" colspan="1">18.9</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;Divorced/separated/widowed</td><td rowspan="1" colspan="1">1,501 (17.6)</td><td rowspan="1" colspan="1">740 (17.4)</td><td rowspan="1" colspan="1">761 (17.9)</td><td rowspan="1" colspan="1">1.21 (1.05-1.39)</td><td rowspan="1" colspan="1">0.52</td><td rowspan="1" colspan="1">0.4728</td></tr><tr><td rowspan="1" colspan="1">&#8194;Married/living as married (ref)</td><td rowspan="1" colspan="1">1,675 (19.7)</td><td rowspan="1" colspan="1">748 (17.6)</td><td rowspan="1" colspan="1">927 (21.8)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Income</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;&lt; $50,000 (ref)</td><td rowspan="1" colspan="1">1,310 (15.8)</td><td rowspan="1" colspan="1">597 (14.5)</td><td rowspan="1" colspan="1">713 (17.2)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;$50,000-$75,000</td><td rowspan="1" colspan="1">5,029 (60.8)</td><td rowspan="1" colspan="1">2,595 (62.9)</td><td rowspan="1" colspan="1">2,434 (58.7)</td><td rowspan="1" colspan="1">
+<bold>1.27 (1.13-1.44)</bold>
+</td><td rowspan="1" colspan="1">11.77</td><td rowspan="1" colspan="1">
+<bold>0.0006</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;$75,000-$100,000</td><td rowspan="1" colspan="1">1,240 (15.0)</td><td rowspan="1" colspan="1">589 (14.3)</td><td rowspan="1" colspan="1">651 (15.7)</td><td rowspan="1" colspan="1">1.19 (1.00-1.43)</td><td rowspan="1" colspan="1">0.66</td><td rowspan="1" colspan="1">0.4175</td></tr><tr><td rowspan="1" colspan="1">&#8194;$100,000+</td><td rowspan="1" colspan="1">698 (8.4)</td><td rowspan="1" colspan="1">348 (8.4)</td><td rowspan="1" colspan="1">350 (8.4)</td><td rowspan="1" colspan="1">1.08 (0.93-1.26)</td><td rowspan="1" colspan="1">0.85</td><td rowspan="1" colspan="1">0.3576</td></tr><tr><td rowspan="1" colspan="1">&#8805; 1 Charlson Comorbidity</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">3,322 (38.5)</td><td rowspan="1" colspan="1">1,661 (38.5)</td><td rowspan="1" colspan="1">1,661 (38.5)</td><td rowspan="1" colspan="1">1.00 (0.92-1.09)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">5,308 (61.5)</td><td rowspan="1" colspan="1">2,654 (61.5)</td><td rowspan="1" colspan="1">2,654 (61.5)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Serious mental illness</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">1,818 (21.1)</td><td rowspan="1" colspan="1">909 (21.1)</td><td rowspan="1" colspan="1">909 (21.1)</td><td rowspan="1" colspan="1">1.00 (0.90-1.11)</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">6,812 (78.9)</td><td rowspan="1" colspan="1">3,406 (78.9)</td><td rowspan="1" colspan="1">3,406 (78.9)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Non-serious mental illness</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">3,804 (44.1)</td><td rowspan="1" colspan="1">1,910 (44.3)</td><td rowspan="1" colspan="1">1,894 (43.8)</td><td rowspan="1" colspan="1">1.02 (0.93-1.11)</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">0.7287</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">4,826 (55.9)</td><td rowspan="1" colspan="1">2,405 (55.7)</td><td rowspan="1" colspan="1">2,421 (56.1)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Sedative-related diagnosis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">314 (3.6)</td><td rowspan="1" colspan="1">161 (3.7)</td><td rowspan="1" colspan="1">153 (3.6)</td><td rowspan="1" colspan="1">1.05 (0.84-1.32)</td><td rowspan="1" colspan="1">0.21</td><td rowspan="1" colspan="1">0.6457</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">8,316 (93.4)</td><td rowspan="1" colspan="1">4,154 (96.3)</td><td rowspan="1" colspan="1">4,162 (96.5)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Cannabis-related diagnosis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">644 (7.5)</td><td rowspan="1" colspan="1">285 (6.6)</td><td rowspan="1" colspan="1">359 (8.3)</td><td rowspan="1" colspan="1">
+<bold>0.78 (0.66-0.92)</bold>
+</td><td rowspan="1" colspan="1">9.15</td><td rowspan="1" colspan="1">
+<bold>0.0025</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">7,986 (92.5)</td><td rowspan="1" colspan="1">4,030 (93.4)</td><td rowspan="1" colspan="1">3,956 (91.7)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Opioid-related diagnosis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">1,801 (20.9)</td><td rowspan="1" colspan="1">728 (16.9)</td><td rowspan="1" colspan="1">1,073 (24.9)</td><td rowspan="1" colspan="1">
+<bold>0.61 (0.55-0.68)</bold>
+</td><td rowspan="1" colspan="1">82.67</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">6,829 (79.1)</td><td rowspan="1" colspan="1">3,587 (83.1)</td><td rowspan="1" colspan="1">3,242 (75.1)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Stimulant-related diagnosis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">3,033 (24.5)</td><td rowspan="1" colspan="1">997 (23.1)</td><td rowspan="1" colspan="1">2,036 (25.3)</td><td rowspan="1" colspan="1">
+<bold>0.85 (0.77-0.93)</bold>
+</td><td rowspan="1" colspan="1">11.17</td><td rowspan="1" colspan="1">
+<bold>0.0008</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">9,325 (75.5)</td><td rowspan="1" colspan="1">3,318 (76.9)</td><td rowspan="1" colspan="1">6,007 (74.7)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Nicotine-related diagnosis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">981 (11.4)</td><td rowspan="1" colspan="1">537 (12.4)</td><td rowspan="1" colspan="1">444 (10.3)</td><td rowspan="1" colspan="1">
+<bold>1.24 (1.08-1.42)</bold>
+</td><td rowspan="1" colspan="1">9.92</td><td rowspan="1" colspan="1">
+<bold>0.0016</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">7,649 (88.6)</td><td rowspan="1" colspan="1">3,887 (87.6)</td><td rowspan="1" colspan="1">3,871 (89.7)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Alcohol-related diagnosis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Yes</td><td rowspan="1" colspan="1">5,026 (58.2)</td><td rowspan="1" colspan="1">2,919 (67.7)</td><td rowspan="1" colspan="1">2,107 (48.8)</td><td rowspan="1" colspan="1">
+<bold>2.19 (2.01-2.39)</bold>
+</td><td rowspan="1" colspan="1">309.78</td><td rowspan="1" colspan="1">
+<bold>&lt; 0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;No (ref)</td><td rowspan="1" colspan="1">3,604 (41.8)</td><td rowspan="1" colspan="1">1,396 (32.4)</td><td rowspan="1" colspan="1">2,208 (51.2)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><p>Age range = 18-90, mean = 47.2 (SD = 14.6). Other or mixed race includes American
+Indian/Alaskan Native (n=49), Asian/Pacific Islander (n=197), and other or mixed
+race (n=1,259). Income range = $21,677.0-$208,984.0, mean = $68,811.3 (SD =
+20,554.3). SD = Standard deviation, CI = confidence interval. P-values based on
+Chi-squared (<italic toggle="yes">X</italic><sup>2</sup>) tests of significance for
+categorical data. Bolded adjusted odds ratios &gt;1 with CIs that do not cross 1
+and P-values indicate higher odds of having a primary SRD visit. Bolded adjusted
+odds ratios &lt;1 with CIs that do not cross 1 and p-values indicate lower odds
+of having a primary SRD visit. Variable totals might not sum to column totals
+due to missing data.</p></table-wrap-foot></table-wrap><table-wrap position="float" id="T2" orientation="portrait"><label>Table 2</label><caption><title>Matched adjusted analysis of factors associated with having a
+substance-related diagnosis as the primary reason for a clinical encounter among
+patient records in a Southern California electronic medical record from January
+1, 2012-January 1, 2018 (n= 8,015)</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">Parameter</td><td rowspan="1" colspan="1">
+<italic toggle="yes">B</italic>
+</td><td rowspan="1" colspan="1">SE (&#946;)</td><td rowspan="1" colspan="1">Adjusted Odds Ratio (95% CI)</td><td rowspan="1" colspan="1">
+<italic toggle="yes">&#935;</italic>
+<sup>2</sup>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Male (ref = Female)</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">
+<bold>1.28 (1.16-1.41)</bold>
+</td><td rowspan="1" colspan="1">23.48</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">Age (18-90)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;18-24</td><td rowspan="1" colspan="1">1.34</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">
+<bold>3.80 (2.89-5.03)</bold>
+</td><td rowspan="1" colspan="1">89.02</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;25-39</td><td rowspan="1" colspan="1">1.06</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">
+<bold>2.89 (2.30-3.65)</bold>
+</td><td rowspan="1" colspan="1">81.42</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;40-54</td><td rowspan="1" colspan="1">0.83</td><td rowspan="1" colspan="1">0.11</td><td rowspan="1" colspan="1">
+<bold>2.29 (1.85-2.86)</bold>
+</td><td rowspan="1" colspan="1">54.85</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;55-69</td><td rowspan="1" colspan="1">0.58</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">
+<bold>1.78 (1.43-2.23)</bold>
+</td><td rowspan="1" colspan="1">26.18</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;70+ (ref)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Race</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Black</td><td rowspan="1" colspan="1">-0.35</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">
+<bold>0.71 (0.61-0.82)</bold>
+</td><td rowspan="1" colspan="1">22.03</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;Other or mixed</td><td rowspan="1" colspan="1">-0.07</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">0.94 (0.83-1.06)</td><td rowspan="1" colspan="1">1.14</td><td rowspan="1" colspan="1">0.2850</td></tr><tr><td rowspan="1" colspan="1">&#8194;White (ref)</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;Single</td><td rowspan="1" colspan="1">0.11</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">1.12 (1.00-1.27)</td><td rowspan="1" colspan="1">3.02</td><td rowspan="1" colspan="1">0.0819</td></tr><tr><td rowspan="1" colspan="1">&#8194;Divorced/separated/widowed</td><td rowspan="1" colspan="1">0.26</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">1.29 (1.11-1.50)</td><td rowspan="1" colspan="1">10.78</td><td rowspan="1" colspan="1">
+<bold>0.0010</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;Married/living as married</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Income</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;&lt; $50,000 (ref)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8194;$50,000-$75,000</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">
+<bold>1.20 (1.05-1.37)</bold>
+</td><td rowspan="1" colspan="1">7.54</td><td rowspan="1" colspan="1">
+<bold>0.0060</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8194;$75,000-$100,000</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1">1.18 (0.97-1.44)</td><td rowspan="1" colspan="1">2.62</td><td rowspan="1" colspan="1">0.1053</td></tr><tr><td rowspan="1" colspan="1">&#8194;$100,000+</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">1.06 (0.89-1.25)</td><td rowspan="1" colspan="1">0.43</td><td rowspan="1" colspan="1">0.5136</td></tr><tr><td rowspan="1" colspan="1">Cannabis-related diagnosis (ref = no)</td><td rowspan="1" colspan="1">-0.12</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1">0.89 (0.73-1.08)</td><td rowspan="1" colspan="1">1.44</td><td rowspan="1" colspan="1">0.2309</td></tr><tr><td rowspan="1" colspan="1">Stimulant-related diagnosis (ref = no)</td><td rowspan="1" colspan="1">0.20</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">
+<bold>1.22 (1.06-1.41)</bold>
+</td><td rowspan="1" colspan="1">7.86</td><td rowspan="1" colspan="1">
+<bold>0.0051</bold>
+</td></tr><tr><td rowspan="1" colspan="1">Opioid-related diagnosis (ref = no)</td><td rowspan="1" colspan="1">0.20</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">
+<bold>1.23 (1.05-1.43)</bold>
+</td><td rowspan="1" colspan="1">6.77</td><td rowspan="1" colspan="1">
+<bold>0.0093</bold>
+</td></tr><tr><td rowspan="1" colspan="1">Nicotine-related diagnosis (ref = no)</td><td rowspan="1" colspan="1">0.28</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">
+<bold>1.32 (1.14-1.52)</bold>
+</td><td rowspan="1" colspan="1">14.27</td><td rowspan="1" colspan="1">
+<bold>0.0002</bold>
+</td></tr><tr><td rowspan="1" colspan="1">Alcohol-related diagnosis (ref = no)</td><td rowspan="1" colspan="1">0.97</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">
+<bold>2.63 (2.28-3.03)</bold>
+</td><td rowspan="1" colspan="1">173.40</td><td rowspan="1" colspan="1">
+<bold>&lt;0.0001</bold>
+</td></tr></tbody></table><table-wrap-foot><p><italic toggle="yes">B</italic> = unstandardized beta, &#946; = standardized beta, SE = standard
+error, CI = confidence interval, P-values based on logistic regression. P-values
+based on Chi-squared (<italic toggle="yes">X</italic><sup>2</sup>) tests of significance for
+categorical data. Bolded adjusted odds ratios &gt;1 with CIs that do not cross 1
+and P-values indicate higher odds of having a primary SRD visit. Bolded adjusted
+odds ratios &lt;1 with CIs that do not cross 1 and p-values indicate lower odds
+of having a primary SRD visit.</p></table-wrap-foot></table-wrap></floats-group></article></pmc-articleset>

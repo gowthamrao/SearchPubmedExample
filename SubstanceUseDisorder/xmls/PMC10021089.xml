@@ -1,0 +1,829 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Womens Health (Lond)</journal-id><journal-id journal-id-type="iso-abbrev">Womens Health (Lond)</journal-id><journal-id journal-id-type="pmc-domain-id">3059</journal-id><journal-id journal-id-type="pmc-domain">womhealth</journal-id><journal-id journal-id-type="publisher-id">WHE</journal-id><journal-title-group><journal-title>Women's Health</journal-title></journal-title-group><issn pub-type="ppub">1745-5057</issn><issn pub-type="epub">1745-5065</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10021089</article-id><article-id pub-id-type="pmcid-ver">PMC10021089.1</article-id><article-id pub-id-type="pmcaid">10021089</article-id><article-id pub-id-type="pmcaiid">10021089</article-id><article-id pub-id-type="pmid">36920150</article-id><article-id pub-id-type="doi">10.1177/17455057221147802</article-id><article-id pub-id-type="publisher-id">10.1177_17455057221147802</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Substance Use and Pregnancy</subject><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></subj-group></article-categories><title-group><article-title>An integrative literature review of substance use treatment service
+need and provision to pregnant and postpartum populations in carceral
+settings</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0961-4573</contrib-id><name name-style="western"><surname>Steely Smith</surname><given-names initials="MK">Mollee K</given-names></name><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><xref rid="aff1-17455057221147802" ref-type="aff">1</xref><xref rid="corresp1-17455057221147802" ref-type="corresp"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wilson</surname><given-names initials="SH">Stephanie H</given-names></name><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="aff1-17455057221147802" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zielinski</surname><given-names initials="MJ">Melissa J</given-names></name><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="aff1-17455057221147802" ref-type="aff">1</xref><xref rid="aff2-17455057221147802" ref-type="aff">2</xref></contrib></contrib-group><aff id="aff1-17455057221147802"><label>1</label>University of Arkansas for Medical
+Sciences, Little Rock, AR, USA</aff><aff id="aff2-17455057221147802"><label>2</label>University of Arkansas, Fayetteville,
+AR, USA</aff><author-notes><corresp id="corresp1-17455057221147802">Mollee K Steely Smith, University of
+Arkansas for Medical Sciences, 4301 W Markham Street, Little Rock, AR 72205,
+USA. Email: <email>mksteelysmith@uams.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>3</month><year>2023</year></pub-date><pub-date pub-type="collection"><year>2023</year></pub-date><volume>19</volume><issue-id pub-id-type="pmc-issue-id">426303</issue-id><elocation-id>17455057221147802</elocation-id><history><date date-type="received"><day>4</day><month>7</month><year>2022</year></date><date date-type="rev-recd"><day>12</day><month>10</month><year>2022</year></date><date date-type="accepted"><day>8</day><month>12</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>03</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>18</day><month>03</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-05-04 23:25:13.090"><day>04</day><month>05</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s) 2023</copyright-statement><copyright-year>2023</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_17455057221147802.pdf"/><abstract><p>Pregnancy is a critical time to provide access to substance use treatment; this
+is especially true among incarcerated populations, who are known to be at
+particularly high risk of poor health outcomes. In this integrated literature
+review, we (1) report what is known about the prevalence of substance use among
+incarcerated pregnant and postpartum populations; (2) describe substance use
+treatment programs and current care practices of pregnant and postpartum
+populations in carceral settings; and (3) explore recommendations and strategies
+for increasing access to substance use treatment for incarcerated pregnant and
+postpartum populations. A comprehensive search of seven electronic databases
+yielded in the retrieval of 139 articles that were assessed for inclusion. Of
+the retrieved articles, 33 articles met criteria for inclusion in this review. A
+review of the literature revealed that the understanding of substance use
+prevalence among pregnant incarcerated women is limited. We also found that
+treatment of substance use disorders among pregnant and postpartum populations
+is not routinely available, enhanced perinatal services are sorely needed, and
+substance use treatment programs are feasible with the help of community
+partnerships. More research is required to understand current substance use
+treatment initiatives and outcomes for pregnant women in prison. In addition,
+strategies for integrating evidence-based, substance use treatment in carceral
+settings is also needed. Future directions are discussed.</p></abstract><kwd-group><kwd>incarceration</kwd><kwd>pregnancy</kwd><kwd>substance use</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-17455057221147802"><funding-source id="funding1-17455057221147802"><institution-wrap><institution>eunice kennedy shriver national institute of child health
+and human development</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100009633</institution-id></institution-wrap></funding-source><award-id rid="funding1-17455057221147802">R01HD103634</award-id></award-group><award-group id="award2-17455057221147802"><funding-source id="funding2-17455057221147802"><institution-wrap><institution>National Institute on Drug Abuse</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000026</institution-id></institution-wrap></funding-source><award-id rid="funding2-17455057221147802">DA022981</award-id></award-group><award-group id="award3-17455057221147802"><funding-source id="funding3-17455057221147802"><institution-wrap><institution>National Institute on Drug Abuse</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000026</institution-id></institution-wrap></funding-source><award-id rid="funding3-17455057221147802">K23DA048162</award-id></award-group><award-group id="award4-17455057221147802"><funding-source id="funding4-17455057221147802"><institution-wrap><institution>National Center for Advancing Translational
+Sciences</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100006108</institution-id></institution-wrap></funding-source><award-id rid="funding4-17455057221147802">UL1TR003107</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2023</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="section1-17455057221147802"><title>Background</title><p>In the United States, women comprise only 10% of the incarcerated population, yet
+their arrest rates have risen by 25% over the past 35 years and the rate of women&#8217;s
+incarceration has increased by over 750%.<sup><xref rid="bibr1-17455057221147802" ref-type="bibr">1</xref></sup> Currently, women comprise the
+fastest growing correctional population, with Black, Latinx, and Native American
+women being arrested and incarcerated at disproportionate rates.<sup><xref rid="bibr2-17455057221147802" ref-type="bibr">2</xref></sup> Recent
+incarceration data indicate that Black women are incarcerated at nearly double the
+rate of White women, while Latinx and Native American women are incarcerated at
+nearly 1.5 times the rate of White women.<sup><xref rid="bibr2-17455057221147802" ref-type="bibr">2</xref>,<xref rid="bibr3-17455057221147802" ref-type="bibr">3</xref></sup> The War on Drugs resulted in
+increasingly punitive drug enforcement trends that caused a surge in women&#8217;s
+incarceration, specifically among marginalized and minority women.</p><p>In general, women are more likely to be imprisoned for drug offenses compared to
+their male counterparts, as the number of women convicted for drug-related offenses
+increased nearly 15% since 1986.<sup><xref rid="bibr4-17455057221147802" ref-type="bibr">4</xref></sup> When considering racial
+demographics, American Indian, Latinx, and Black women are more likely than White
+women to be arrested, convicted, and serve time for drug-related offenses.<sup><xref rid="bibr5-17455057221147802" ref-type="bibr">5</xref></sup> In relation to
+substance use, estimates suggest that nearly 70% of incarcerated women would meet
+criteria for a substance use disorder (SUD<sup><xref rid="bibr4-17455057221147802" ref-type="bibr">4</xref></sup>), with up to 90% self-reporting
+a problem with substance use.<sup><xref rid="bibr6-17455057221147802" ref-type="bibr">6</xref></sup> Expansive drug enforcement
+policies contributed to a significant rise in the number of incarcerated women,
+while incarceration simultaneously limited access to adequate substance use
+treatment despite the need.</p><p>Of the women who enter prison, approximately 4% are pregnant upon intake.<sup><xref rid="bibr1-17455057221147802" ref-type="bibr">1</xref></sup> Although the
+true prevalence of substance use among incarcerated perinatal populations is
+unknown, we can assume that a substantial portion of women who enter prison pregnant
+will meet criteria for an SUD given such high prevalence among incarcerated women in
+general. Incarcerated pregnant women (It is assumed that all incarcerated pregnant
+people are women in the studies included within this review. Many studies do not
+adequately assess gender identity; thus, we do not know whether findings extend to
+trans and non-binary perinatal populations.) have significant health care needs and
+are disproportionately vulnerable to a multitude of complex health issues. Many of
+these women have high-risk pregnancies due to economic and social factors, such as
+unstable housing and homelessness; financial instability; lack of education; limited
+and/or inadequate health care; and substance use and addiction.<sup><xref rid="bibr7-17455057221147802" ref-type="bibr">7</xref></sup> Incarcerated
+pregnant women and their fetuses are at risk of poor perinatal outcomes including
+pre-term birth<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref></sup> and low birth-weight,<sup><xref rid="bibr9-17455057221147802" ref-type="bibr">9</xref>,<xref rid="bibr10-17455057221147802" ref-type="bibr">10</xref></sup> which are conditions that are
+often exacerbated by substance use during pregnancy. Furthermore, neonatal
+abstinence syndrome (NAS<sup><xref rid="bibr9-17455057221147802" ref-type="bibr">9</xref></sup>) is of great concern as it is a condition caused by fetal
+exposure to substances in utero and causes withdrawal symptoms in the infant
+post-birth.<sup><xref rid="bibr11-17455057221147802" ref-type="bibr">11</xref>,<xref rid="bibr12-17455057221147802" ref-type="bibr">12</xref></sup> Maternal incarceration adds to the complexity of treatment and
+cost, as it is associated with increases in neonatal intensive care unit (NICU)
+length of stay for infants born with NAS.<sup><xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref></sup></p><p>As such, correctional facilities must be prepared to face the challenges of meeting
+the immense health needs of perinatal populations in relation to substance use and
+addiction. Incarcerated pregnant women who use substances prior to and/or during
+pregnancy are at an increased risk of poor perinatal outcomes; however, the extent
+to which carceral settings provide treatment for substance use is not well
+understood. In the remainder of this article, we summarize themes among the current
+state of literature related to the prevalence of substance use among incarcerated
+pregnant and postpartum populations and the provision of substance use treatment
+offered in correctional facilities. We also describe considerations,
+recommendations, and strategies from previous studies to augment the care of
+incarcerated pregnant and postpartum women, specifically those with concurrent
+substance use using an integrative literature review approach.</p></sec><sec sec-type="methods" id="section2-17455057221147802"><title>Method</title><p>The aim of this integrative literature review is to review, critique, and synthesize
+literature<sup><xref rid="bibr14-17455057221147802" ref-type="bibr">14</xref></sup> related to substance use and treatment services provided to
+incarcerated pregnant and postpartum populations&#8212;a topic still in its infancy. We
+utilized Whittemore and Knafl&#8217;s<sup><xref rid="bibr15-17455057221147802" ref-type="bibr">15</xref></sup> methodology for conducting
+integrative literature reviews, which has been used previously in similar topic
+areas.<sup><xref rid="bibr16-17455057221147802" ref-type="bibr">16</xref></sup> This approach allows for the inclusion of diverse methodologies
+(e.g. experimental and non-experimental) on a relatively new, emerging topic in
+efforts to generate new frameworks and perspectives and inform evidence-based
+practice.<sup><xref rid="bibr15-17455057221147802" ref-type="bibr">15</xref></sup> Thus, this integrative literature review has the potential to
+bridge perspectives in the fields of public health and criminal justice to inform
+research, practice, and policy initiatives<sup><xref rid="bibr15-17455057221147802" ref-type="bibr">15</xref></sup> in carceral settings that are
+otherwise lacking in evidence-based healthcare practices,<sup><xref rid="bibr17-17455057221147802" ref-type="bibr">17</xref></sup> especially for perinatal
+populations.</p><sec id="section3-17455057221147802"><title>Literature search</title><p>The selection of articles for the review was driven by three research
+questions:</p><list list-type="order" id="list1-17455057221147802"><list-item><p>What is the prevalence of substance use among incarcerated pregnant and
+postpartum women?</p></list-item><list-item><p>What are the substance use treatments provided to pregnant and postpartum
+populations in carceral settings?</p></list-item><list-item><p>What are the considerations, recommendations, and strategies for
+increasing access to substance use treatment for incarcerated pregnant
+and postpartum populations?</p></list-item></list><p>The authors and a Health Science Information Specialist from the University&#8217;s
+library conducted an extensive, electronic search for peer-reviewed studies
+limited to papers written in English and that were published between January
+2000 and May 2022 to limit the review to the most recent prevalence rates. The
+following search terms were utilized: (Prisons OR &#8220;Correctional Facilities&#8221; OR
+Jails OR incarcerated OR prisoner* OR inmate*) AND ( pregnant OR pregnancy OR
+&#8220;pregnant person&#8221; OR &#8220;pregnant individual*&#8221; OR &#8220;pregnant women&#8221; OR &#8220;pregnant
+woman&#8221; OR postpartum OR &#8220;postpartum women&#8221; OR postnatal) AND (&#8220;substance abuse
+treatment&#8221; OR &#8220;Medication for Opioid Use Disorder&#8221; OR &#8220;Medication-Assisted
+Treatment&#8221;).</p><p>The search was conducted in seven databases: PubMed, CINAHL, PsychInfo,
+PsychArticles, SocINDEX, Embase, and Google Scholar. Overall, the database
+search yielded 125 articles: 71 results from PubMed, 22 results from PsychInfo,
+14 results from CINAHL, 10 results from SocINDEX, and 8 results from Embase. A
+search of Google Scholar using similar search terms was conducted to determine
+the existence of any additional publications that could meet inclusion criteria.
+Fourteen additional articles were retrieved from Google Scholar, which were not
+included within the larger search. The selection of final papers for analysis
+followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+(PRISMA) flowchart (see <xref rid="fig1-17455057221147802" ref-type="fig">Figure
+1</xref>). Combined search results yielded 139 articles. Duplicates were
+removed and the abstracts of all 139 articles were read to assess relevance and
+were examined for inclusion. Of the abstracts, 124 were retained for evaluation.
+Full texts were downloaded or requested for further analysis. Each full
+manuscript was assessed for content and relevance. The final analysis included
+33 texts.</p><fig position="float" id="fig1-17455057221147802" orientation="portrait"><label>Figure 1.</label><caption><p>PRISMA chart.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_17455057221147802-fig1.jpg"/></fig></sec><sec id="section4-17455057221147802"><title>Inclusion criteria</title><p>The flexibility of the methodology allowed for a wide range of publications and
+methodologies to be included to reflect the exploratory nature of this review.
+To be included, the study sample or content of the publications must relate to
+pregnant and postpartum incarcerated women and substance use. Empirical studies
+must have provided substance use data relevant to a portion (i.e. comparison
+studies) of women who were incarcerated and pregnant or postpartum. Articles
+were excluded if the text was not in English, could not be obtained, or did not
+include incarcerated women within the sample. <xref rid="table1-17455057221147802" ref-type="table">Table 1</xref> summarizes the publications
+examined within the review.</p><table-wrap position="float" id="table1-17455057221147802" orientation="portrait"><label>Table 1.</label><caption><p>Data summary table.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_17455057221147802-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Authors</th><th align="left" rowspan="1" colspan="1">Population</th><th align="left" rowspan="1" colspan="1">Design methods</th><th align="left" rowspan="1" colspan="1">Findings/comments</th></tr></thead><tbody><tr><td colspan="4" rowspan="1">Quantitative studies</td></tr><tr><td rowspan="1" colspan="1"> 1. Testa et al.<sup><xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref></sup></td><td rowspan="1" colspan="1">Survey of 17,551 pregnant women included in the Pregnancy
+Risk Assessment Monitoring Survey (PRAMS)</td><td rowspan="1" colspan="1">Survey, birth certificate records, vital statistics</td><td rowspan="1" colspan="1">Incarcerated exposed women were 2.9 times more likely to use
+opioids during pregnancy when compared to non-incarcerated
+exposed women</td></tr><tr><td rowspan="1" colspan="1"> 2. Drago et al.<sup><xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref></sup></td><td rowspan="1" colspan="1">166 infants with neonatal abstinence syndrome (NAS)</td><td rowspan="1" colspan="1">Retrospective cohort study&#8212;medical records</td><td rowspan="1" colspan="1">Infants born to incarcerated women had longer length of
+hospital stays and exposure to alcohol and benzodiazepines
+in addition to opiates when compared to non-incarcerated
+opiate users</td></tr><tr><td rowspan="1" colspan="1"> 3. Knittel et al.<sup><xref rid="bibr19-17455057221147802" ref-type="bibr">19</xref></sup></td><td rowspan="1" colspan="1">279 incarcerated pregnant women</td><td rowspan="1" colspan="1">Retrospective cohort study&#8212;administrative records</td><td rowspan="1" colspan="1">Custody level, estimated due date, pre-incarceration heroin
+use, and pre-incarceration MOUD were significant predictors
+of MOUD receipt while in prison; less than one-third of
+women were referred to a community MOUD provider upon
+release</td></tr><tr><td rowspan="1" colspan="1"> 4. Sufrin et al.<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref></sup></td><td rowspan="1" colspan="1">2,885 US jails</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">Sixty percent of jails offered MOUD during pregnancy, 32%
+initiated and continued MOUD during pregnancy, 28% continued
+but did not initiate, and 22% percent of pregnant women were
+managed by only withdrawal.</td></tr><tr><td rowspan="1" colspan="1"> 5. Shadowen et al.<sup><xref rid="bibr21-17455057221147802" ref-type="bibr">21</xref></sup></td><td rowspan="1" colspan="1">9 pregnant women using injectable buprenorphine 1 year
+postpartum</td><td rowspan="1" colspan="1">Retrospective chart review&#8212;medical records</td><td rowspan="1" colspan="1">One-third of the women initiated the injectable
+buprenorphine while in jail. All who initiated in jail
+continued post-release for 1 year postpartum</td></tr><tr><td rowspan="1" colspan="1"> 6. Schiff et al.<sup><xref rid="bibr22-17455057221147802" ref-type="bibr">22</xref></sup></td><td rowspan="1" colspan="1">2,314 women who were receiving MOUD at delivery</td><td rowspan="1" colspan="1">Retrospective cohort study&#8212;administrative records</td><td rowspan="1" colspan="1">Incarceration was most strongly associated with the
+discontinuation of MOUD postpartum</td></tr><tr><td rowspan="1" colspan="1"> 7. Knittel et al.<sup><xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref></sup></td><td rowspan="1" colspan="1">179 incarcerated pregnant women with opioid use disorder
+(OUD)</td><td rowspan="1" colspan="1">Retrospective chart review</td><td rowspan="1" colspan="1">The majority of women only received MOUD while incarcerated
+if they received it pre-incarceration. Forty-seven percent
+received no MOUD, while 11.7% of pregnant women received
+buprenorphine, 17.8% received methadone, and 22.8% received
+oxycodone. Those who received buprenorphine and methadone
+were more likely to be referred to a community MOUD provider
+upon release</td></tr><tr><td rowspan="1" colspan="1"> 8. Rose and LeBel<sup><xref rid="bibr24-17455057221147802" ref-type="bibr">24</xref></sup></td><td rowspan="1" colspan="1">27 incarcerated pregnant women in a large, midwestern county
+jail</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">More than half (55.6%) met criteria for substance
+dependence, but only 44% reported substance use disorder
+(SUD) treatment during their lifetime and even fewer (18.5%)
+reported receiving treatment in the previous year</td></tr><tr><td rowspan="1" colspan="1"> 9. Sufrin et al.<sup><xref rid="bibr25-17455057221147802" ref-type="bibr">25</xref></sup></td><td rowspan="1" colspan="1">22 state prison systems; 6 county jails</td><td rowspan="1" colspan="1">Cross-sectional survey</td><td rowspan="1" colspan="1">Twenty-six percent of pregnant women admitted to the prisons
+and 14% admitted to the jails had OUD. One-third were
+managed through withdrawal and were only likely to receive
+MOUD if they were receiving treatment pre-incarceration.
+Only four prisons and two jails initiated MOUD in
+custody</td></tr><tr><td rowspan="1" colspan="1">10. Kelsey et al.<sup><xref rid="bibr26-17455057221147802" ref-type="bibr">26</xref></sup></td><td rowspan="1" colspan="1">53 jails across 40 states</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">Almost half of the jails reported women were managed through
+withdrawal without the use of symptom alleviators (e.g.
+suboxone) after intake. One-third allowed pregnant women to
+remain on MOUD if they were receiving treatment prior to
+incarceration. Twenty-one percent of facilities report
+initiating MOUD</td></tr><tr><td rowspan="1" colspan="1">11. Tanner et al.<sup><xref rid="bibr27-17455057221147802" ref-type="bibr">27</xref></sup></td><td rowspan="1" colspan="1">Birth outcomes of 200 pregnancies in a women&#8217;s prison</td><td rowspan="1" colspan="1">Administrative correctional data</td><td rowspan="1" colspan="1">Substance use is common in incarcerated women&#8217;s pregnancies.
+Only 17 women reported no history of drug use. The most
+commonly abused substances were tobacco, alcohol, cocaine,
+methamphetamine, marijuana, and opiates</td></tr><tr><td rowspan="1" colspan="1">12. Rich et al.<sup><xref rid="bibr28-17455057221147802" ref-type="bibr">28</xref></sup></td><td rowspan="1" colspan="1">Medical directors of federal prison systems in all 39
+states</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">Thirteen respondents indicated their prisons provided MOUD
+to opiate-dependent pregnant women; however, they were
+significantly less likely to refer to a community provider
+upon release for continued treatment</td></tr><tr><td rowspan="1" colspan="1">13. Bell et al.<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref></sup></td><td rowspan="1" colspan="1">496 births to incarcerated women compared to 4960
+Medicaid-recipient births from the community</td><td rowspan="1" colspan="1">Retrospective cohort study</td><td rowspan="1" colspan="1">In general, substance use rates were much higher among
+incarcerated pregnant women. Incidents of alcohol use during
+pregnancy were significantly higher among incarcerated women
+at 36.5% compared to 28.1% in the Medcaid-recipient
+births</td></tr><tr><td rowspan="1" colspan="1">14. Eliason and Arndt<sup><xref rid="bibr29-17455057221147802" ref-type="bibr">29</xref></sup></td><td rowspan="1" colspan="1">Comparison of demographics and substance use histories of 53
+pregnant inmates and 1160 non-pregnant inmates</td><td rowspan="1" colspan="1">Cross-sectional administrative correctional data</td><td rowspan="1" colspan="1">Eighty-five percent of pregnant women reported problems with
+substance use. Twenty-four percent of pregnant women
+reported only abusing one substance. Most problematic
+substances reported by pregnant women included alcohol
+(20%), cocaine/crack (27%), marijuana (24%), and
+methamphetamine (29%). Nearly 30% reported IV drug use
+history</td></tr><tr><td rowspan="1" colspan="1">15. Barkauskas et al.<sup><xref rid="bibr30-17455057221147802" ref-type="bibr">30</xref></sup></td><td rowspan="1" colspan="1">90 incarcerated pregnant women with histories of substance
+use</td><td rowspan="1" colspan="1">Retrospective chart review</td><td rowspan="1" colspan="1">Women who were diverted to a community-based, residential
+substance use treatment program had low occurrences of
+positive drug screens and received adequate prenatal care
+and case management which improved maternal and infant
+health outcomes</td></tr><tr><td rowspan="1" colspan="1">16. Kyei-Aboagye et al.<sup><xref rid="bibr31-17455057221147802" ref-type="bibr">31</xref></sup></td><td rowspan="1" colspan="1">149 women who delivered at Boston Medical Center
+full-term&#8212;31 were incarcerated, 47 enrolled in methadone
+maintenance program, 71 were in randomly chosen control
+group</td><td rowspan="1" colspan="1">Retrospective cohort study</td><td rowspan="1" colspan="1">Women who were incarcerated (76%) or in the methadone
+maintenance program (96%) were more likely smoking
+cigarettes during pregnancy when compared to the control
+group. Sixty-two percent of incarcerated women reported
+alcohol use</td></tr><tr><td colspan="4" rowspan="1">Qualitative studies</td></tr><tr><td rowspan="1" colspan="1">17. King et al.<sup><xref rid="bibr32-17455057221147802" ref-type="bibr">32</xref></sup></td><td rowspan="1" colspan="1">16 OTP</td><td rowspan="1" colspan="1">Phone interviews</td><td rowspan="1" colspan="1">Only nine OTPs reported having an arrangement with a
+carceral settings to provide care for pregnant people with
+OUD. Many will experience barriers to care when transiting
+into the community after release. Lack of access to
+childcare, preparing for the baby, feeling unwell,
+transportation, inadequate housing, and financial stability
+were all cited as barriers to continuity of care
+post-release</td></tr><tr><td rowspan="1" colspan="1">18. Gray et al.<sup><xref rid="bibr33-17455057221147802" ref-type="bibr">33</xref></sup></td><td rowspan="1" colspan="1">Incarcerated pregnant woman with OUD who gave birth in
+custody</td><td rowspan="1" colspan="1">Case study</td><td rowspan="1" colspan="1">A 28-year-old women with a history of severe OUD following a
+polysubstance overdose while on methadone treatment. While
+incarcerated, she gave birth to a healthy baby at 37 weeks&#8217;
+gestation. An obstetric team within the jail advocated for
+continuing MOUD postpartum. After release, she continued
+methadone, reported no illicit opioid use, attended group
+therapy and counseling regularly, and obtained custody of
+her child</td></tr><tr><td rowspan="1" colspan="1">19. Clarke and Adashi<sup><xref rid="bibr11-17455057221147802" ref-type="bibr">11</xref></sup></td><td rowspan="1" colspan="1">25-year-old woman who was in jail while pregnant</td><td rowspan="1" colspan="1">Interview</td><td rowspan="1" colspan="1">Herself and others she met in prison were addicted to drugs.
+She mentions that prison is a time where women experience a
+stable living environment conducive to recovery.
+Communication between clinicians and patients would be
+greatly beneficial if receiving care from a single site</td></tr><tr><td rowspan="1" colspan="1">20. Fogel and Belyea<sup><xref rid="bibr34-17455057221147802" ref-type="bibr">34</xref></sup></td><td rowspan="1" colspan="1">63 incarcerated pregnant women in their third trimester</td><td rowspan="1" colspan="1">Interviews</td><td rowspan="1" colspan="1">Half reported using alcohol or drugs during their current
+pregnancy. The majority reported histories of family
+violence prior to the age of 18; however, those who reported
+substance during pregnancy were more likely to have
+experienced physical and/or sexual abuse during childhood.
+Seventy percent reported depressive symptoms meeting the
+criteria for clinical depression</td></tr><tr><td colspan="4" rowspan="1">Systematic review</td></tr><tr><td rowspan="1" colspan="1">21. Mukherjee et al.<sup><xref rid="bibr35-17455057221147802" ref-type="bibr">35</xref></sup></td><td rowspan="1" colspan="1">11 studies of pregnant women in correctional facilities that
+addressed at least one mental illness, including substance
+use disorder</td><td rowspan="1" colspan="1">Systematic review</td><td rowspan="1" colspan="1">Substance use is common among pregnant populations. Tobacco
+and alcohol use were commonly reported. Range for tobacco
+use included 50%&#8211;84%, while 36% of inmates reported illicit
+substance use</td></tr><tr><td colspan="4" rowspan="1">Protocol</td></tr><tr><td rowspan="1" colspan="1">22. O&#8217;Connor and Bowling<sup><xref rid="bibr36-17455057221147802" ref-type="bibr">36</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Creation of a multidisciplinary work group at a rural
+hospital in Maine inclusive of medical/nursing staff, social
+work, hospital administration, and law enforcement to assist
+staff at jail facilities in the initial management of
+incarcerated women with OUD who are pregnant</td></tr><tr><td rowspan="1" colspan="1">23. Lorenzen and Bracey<sup><xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Creation of a public health case management program offered
+to substance-using pregnant women, including those who are
+incarcerated. Program encourages prenatal care and substance
+use treatment by a multidisciplinary team</td></tr><tr><td rowspan="1" colspan="1">24. Wiewel &amp; Mosley<sup><xref rid="bibr38-17455057221147802" ref-type="bibr">38</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Family Foundation Program (FFP) is an alternative sentencing
+program for women in prison who are non-violent and have
+histories of substance use. The program is administered
+through a community-based, non-profit substance use
+treatment provider. Women are sentenced to a 12-month,
+highly structured, residential treatment program where their
+children are allowed to stay with them.</td></tr><tr><td rowspan="1" colspan="1">25. Siefert and Pimlott<sup><xref rid="bibr39-17455057221147802" ref-type="bibr">39</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Women and Infants at Risk (WIAR) is a residential treatment
+program for incarcerated, pregnant, substance-using women
+that increases the availability of substance use treatment,
+reduces the effect and severity of drug exposure to fetuses,
+reduces recidivism, promotes community awareness of
+incarcerated pregnant and postpartum women to improve
+services, and facilitates coordination among relevant
+agencies to meet the complex needs of these women</td></tr><tr><td colspan="4" rowspan="1">Policy or research brief</td></tr><tr><td rowspan="1" colspan="1">26. Jones, Hairston, Alexander, et al<sup><xref rid="bibr40-17455057221147802" ref-type="bibr">40</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Pregnant people who use substances face significant
+challenges that are exacerbated by incarceration. Integrated
+prenatal services, substance use disorder treatment, and
+transitional care upon release in carceral settings are
+needed</td></tr><tr><td rowspan="1" colspan="1">27. Poehlmann<sup><xref rid="bibr41-17455057221147802" ref-type="bibr">41</xref></sup></td><td rowspan="1" colspan="1">Interviews with 60 incarcerated pregnant women in a
+Wisconsin prison</td><td rowspan="1" colspan="1">Interviews</td><td rowspan="1" colspan="1">Sixty percent of children born to incarcerated mothers from
+60 Wisconsin families reported that 60% of children were
+exposed to illicit substances in utero, 45% experience
+complications at birth, and 20% were pre-term</td></tr><tr><td colspan="4" rowspan="1">Commentary</td></tr><tr><td rowspan="1" colspan="1">28. Ahlbach et al.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Outlines legal and ethical obligations of carceral settings,
+specifically related to OUD treatment and pregnancy and
+recommendations to consider when providing MOUD to pregnant,
+incarcerated populations</td></tr><tr><td rowspan="1" colspan="1">29. Williams<sup><xref rid="bibr43-17455057221147802" ref-type="bibr">43</xref></sup></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Argues that incarcerated pregnant women have a
+constitutional right to MOUD during incarceration</td></tr><tr><td colspan="4" rowspan="1">Recommendation</td></tr><tr><td rowspan="1" colspan="1">30. National Commission on Correctional Healthcare<sup><xref rid="bibr44-17455057221147802" ref-type="bibr">44</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">All incarcerated pregnant women should have timely access to
+MOUD to avoid withdrawal due to maternal and fetal risks.
+Treatment should be administered by experienced clinicians
+in both MOUD and pregnancy</td></tr><tr><td rowspan="1" colspan="1">31. Peeler et al.<sup><xref rid="bibr45-17455057221147802" ref-type="bibr">45</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">MAT is an evidence-based treatment for OUD and buprenorphine
+and methadone are effective treatments for pregnant
+populations. Correctional facilities that house pregnant and
+postpartum women should be prepared to provide MAT and
+invest in multifaceted programs including support groups,
+Cognitive Behavioral Therapy (CBT), or contingency
+management for substance use treatment</td></tr><tr><td rowspan="1" colspan="1">32. Sutter et al.<sup><xref rid="bibr46-17455057221147802" ref-type="bibr">46</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Recognition and treatment of incarcerated pregnant,
+opioid-dependent women are essential to increase the
+likelihood of entering treatment upon release and avoid the
+risk of withdrawal and neonatal complications. Programs that
+incorporate full spectrum of care show improved outcomes,
+including increased rates of retention and completion and
+sustained recovery post-release</td></tr><tr><td rowspan="1" colspan="1">33. American College of Obstetricians and
+Gynecologists<sup><xref rid="bibr47-17455057221147802" ref-type="bibr">47</xref></sup></td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">Offers various best practices to caring for pregnant women
+with histories of OUD including universal screening with
+validated tools, brief intervention, and referral to
+treatment which should be integrated into routine prenatal
+care. Pharmacotherapy is a recommended alternative to
+supervised withdrawal because of the maternal and infant
+health risks. Adequate postpartum support should be provided
+including MOUD and relapse prevention programs</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-17455057221147802"><p>MOUD: medication for opioid use disorder; OTP: opioid treatment
+providers; NA: not applicable; MAT: medication-assisted therapy; IV:
+intravenous.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="results" id="section5-17455057221147802"><title>Results</title><p>The articles that met criteria for inclusion in our review (<italic toggle="yes">N</italic>&#8201;=&#8201;33)
+included secondary data analysis studies using medical records or administrative
+data (<italic toggle="yes">n</italic>&#8201;=&#8201;11), perspective papers (<italic toggle="yes">n</italic>&#8201;=&#8201;6),
+quantitative survey studies (<italic toggle="yes">n</italic>&#8201;=&#8201;5), protocol papers
+(<italic toggle="yes">n</italic>&#8201;=&#8201;4), qualitative studies (<italic toggle="yes">n</italic>&#8201;=&#8201;2), case
+studies (<italic toggle="yes">n</italic>&#8201;=&#8201;2), policy briefs (<italic toggle="yes">n</italic>&#8201;=&#8201;2), and a
+systematic review (<italic toggle="yes">n</italic>&#8201;=&#8201;1). Overall, we found that research that
+focused on incarcerated pregnant populations and substance use was sparse until the
+mid-2000s. Also, most publications had a primary focus on opiate use and/or
+treatment and were published during the height of the on-going opioid pandemic. We
+present key findings relevant to each of our literature review aims in the sections
+below.</p><sec id="section6-17455057221147802"><title>Prevalence of substance use among incarcerated pregnant and postpartum
+populations</title><p>Ten of the 33 articles that met inclusion criteria for this review reported data
+relevant to the prevalence of substance use among incarcerated pregnant and
+postpartum populations<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref>,<xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref>,<xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref>,<xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref><xref rid="bibr24-17455057221147802" ref-type="bibr"/>&#8211;<xref rid="bibr25-17455057221147802" ref-type="bibr">25</xref>,<xref rid="bibr27-17455057221147802" ref-type="bibr">27</xref>,<xref rid="bibr29-17455057221147802" ref-type="bibr">29</xref>,<xref rid="bibr35-17455057221147802" ref-type="bibr">35</xref>,<xref rid="bibr41-17455057221147802" ref-type="bibr">41</xref></sup> (see
+<xref rid="table2-17455057221147802" ref-type="table">Table 2</xref>).
+However, the degree to which assessing the prevalence of substance use was a
+central aim of the article varied as did the methodology and breadth of
+substances assessed. Six of the articles presented provided rates of use for
+multiple substances, two reported findings related to one substance, and the
+remaining two articles focused exclusively on opiate use.</p><table-wrap position="float" id="table2-17455057221147802" orientation="portrait"><label>Table 2.</label><caption><p>Prevalence rates of substance use among incarcerated pregnant women by
+study.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_17455057221147802-table2.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Authors</th><th align="left" rowspan="1" colspan="1">Population</th><th align="left" rowspan="1" colspan="1">Prevalence rates of substance use by
+substance(s) assessed</th><th align="left" rowspan="1" colspan="1">Prevalence of substance use disorders or
+self-identified problem (if assessed)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">1.&#8195;Poehlmann<sup><xref rid="bibr41-17455057221147802" ref-type="bibr">41</xref></sup></td><td rowspan="1" colspan="1">Interviews with 60 incarcerated pregnant women in a
+Wisconsin prison</td><td rowspan="1" colspan="1">Unspecified illicit substances (60%)</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">2.&#8195;Bell et al.<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref></sup></td><td rowspan="1" colspan="1">Comparison of 496 incarcerated women&#8217;s births and 4960
+Medicaid-recipient births from the community</td><td rowspan="1" colspan="1">Unspecified illicit substance use (56%)<break/>Tobacco
+(54%)<break/>Alcohol (37%)</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">3.&#8195;Eliason and Arndt<sup><xref rid="bibr29-17455057221147802" ref-type="bibr">29</xref></sup></td><td rowspan="1" colspan="1">Comparison of 53 pregnant inmates to 1160 non-pregnant
+female inmates on demographic and substance use and
+abuse</td><td rowspan="1" colspan="1">Methamphetamine (29%)<break/>Unspecified IV use
+(29%)<break/>Cocaine or crack (27%)<break/>Marijuana
+(24%)<break/>Alcohol (20%)</td><td rowspan="1" colspan="1">Self-reported substance abuse problem
+(84.91%)<break/>Self-report illegal drug problem
+(91.11%)</td></tr><tr><td rowspan="1" colspan="1">4.&#8195;Tanner<sup><xref rid="bibr27-17455057221147802" ref-type="bibr">27</xref></sup></td><td rowspan="1" colspan="1">Outcomes of 200 pregnant women in an Indiana prison</td><td rowspan="1" colspan="1">Tobacco (81%)<break/>Alcohol (50%)<break/>Cocaine
+(40%)<break/>Marijuana (33%)<break/>Opiates
+(11%)<break/>Methamphetamine (10%)<break/>Barbiturates
+(0.8%)<break/>Benzodiazepines (0.5%)</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">5.&#8195;Mukherjee et al.<sup><xref rid="bibr35-17455057221147802" ref-type="bibr">35</xref></sup></td><td rowspan="1" colspan="1">Systematic review of mental health issues among incarcerated
+women.</td><td rowspan="1" colspan="1">Unspecified illicit substance use (60%&#8211;90%)<break/>Tobacco
+(50%&#8211;84%)<break/>Alcohol (15%&#8211;62%)</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">6.&#8195;Knittel et al.<sup><xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref></sup></td><td rowspan="1" colspan="1">Chart review of 179 incarcerated women with OUD</td><td rowspan="1" colspan="1">Opiates (86%)<break/>Tobacco (74%)<break/>Marijuana
+(30%)<break/>Cocaine or crack (30%)<break/>Alcohol
+(27%)<break/>Amphetamines (24%)<break/>Heroin (16%)</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">7.&#8195;Rose and LeBel<sup><xref rid="bibr24-17455057221147802" ref-type="bibr">24</xref></sup></td><td rowspan="1" colspan="1">Self-report assessments with 27 incarcerated pregnant women
+in a large, midwestern county jail</td><td rowspan="1" colspan="1">Alcohol (55%)</td><td rowspan="1" colspan="1">Self-reported substance use problems (33.3%)<break/>Positive
+substance use disorder screen (55%)</td></tr><tr><td rowspan="1" colspan="1">8.&#8195;Sufrin et al.<sup><xref rid="bibr25-17455057221147802" ref-type="bibr">25</xref></sup></td><td rowspan="1" colspan="1">Cross-sectional survey and 6-month epidemiological survey of
+US state prisons and county jails participating in the
+Pregnancy in Prison Statistics (PIPS) study</td><td rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1">OUD among women entering prison (26%)<break/>OUD among women
+entering jail (14%)</td></tr><tr><td rowspan="1" colspan="1">9.&#8195;Drago et al.<sup><xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref></sup></td><td rowspan="1" colspan="1">Chart review of opioid-exposed infants born to 28
+incarcerated women and compared to 138 non-incarcerated
+women&#8217;s opioid-exposed infants</td><td rowspan="1" colspan="1">Unspecified illicit substance use
+(39%)<break/>Benzodiazepine (21%)<break/>Alcohol (14%)</td><td rowspan="1" colspan="1">NA</td></tr><tr><td rowspan="1" colspan="1">10.&#8195;Testa et al.<sup><xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref></sup></td><td rowspan="1" colspan="1">Comparison of opiate use by (non)incarceration exposure
+among 17,551 pregnant women included in the Pregnancy Risk
+Assessment Monitoring Survey (PRAMS). Of the 17,551 women,
+5850 reported incarceration exposure</td><td rowspan="1" colspan="1">Hydrocodone (8%)<break/>Oxycodone (7%)<break/>Codeine
+(6%)<break/>Morphine (3%)<break/>Tramadol
+(3%)<break/>Fentanyl (3%)<break/>Hydromorphone/Meperidine
+(2%)<break/>Oxymorphone (0.9%)</td><td rowspan="1" colspan="1">NA</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-17455057221147802"><p>NA: not applicable; OUD: opioid use disorder; IV: intravenous.</p></fn></table-wrap-foot></table-wrap><p>Although most of these studies are now dated, the prevalence of substance use
+among the studies included within our review ranged from 30% to 96% of pregnant
+women who enter prison report using substances during their pregnancy, which is
+much higher than the rates found in community samples<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref>,<xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref>,<xref rid="bibr27-17455057221147802" ref-type="bibr">27</xref>,<xref rid="bibr29-17455057221147802" ref-type="bibr">29</xref>,<xref rid="bibr35-17455057221147802" ref-type="bibr">35</xref>,<xref rid="bibr41-17455057221147802" ref-type="bibr">41</xref></sup> For example, Bell et
+al.<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref></sup> examined the prevalence of illicit drug use, alcohol use,
+and tobacco use among incarcerated pregnant women and compared their use to
+pregnant Medicaid recipients. They found higher rates of drug and alcohol use
+among incarcerated women (57% and 37%, respectively, compared to 55% and 28%,
+respectively, among Medicaid recipients). Half of the women (54%) in both groups
+reported tobacco use.</p><p>Of the 10 studies, 4 of the more recent articles examined the prevalence of
+opioid use disorder (OUD) among incarcerated pregnant women as a primary
+focus.<sup><xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref>,<xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref>,<xref rid="bibr25-17455057221147802" ref-type="bibr">25</xref>,<xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref></sup> The most robust study of OUD among incarcerated women
+was conducted by Sufrin et al.<sup><xref rid="bibr25-17455057221147802" ref-type="bibr">25</xref></sup> In this large study of
+monthly pregnancy data from 22 state and federal prison systems and six of the
+largest county jails, Sufrin et al.<sup><xref rid="bibr25-17455057221147802" ref-type="bibr">25</xref></sup> found that a quarter of
+pregnant women entering prison have an OUD (26% of women admitted to state
+prisons and 14% of women admitted to jails, respectively). In a statewide study
+of pregnant women entering North Carolina&#8217;s prison system, the prevalence of OUD
+was found to be significantly higher. Knittel et al.<sup><xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref></sup> reported that 179
+pregnant women with OUD entered prison over 2 years, which accounted for half of
+the entire pregnant population. Although the prevalence of OUD was the primary
+focus of this study, they also examined pre-incarceration substance use history.
+Among those with OUD, pregnant women also reported pre-incarceration use of
+tobacco (74%), marijuana (30%), cocaine/crack (32%), alcohol (27%),
+methamphetamines (24%), and heroin (16%).</p><p>Although the American College of Obstetricians and Gynecologists (ACOG; 2017)
+recommends universal screening of SUDs among pregnant populations, no articles
+assessed the degree to which this practice is occurring in carceral settings or
+reported on administrative data from routine screenings. Rose and
+LeBel<sup><xref rid="bibr24-17455057221147802" ref-type="bibr">24</xref></sup> utilized the Alcohol Use Disorder Identification Test
+(AUDIT-12) screening tool to determine the prevalence of alcohol use disorders
+in a sample of 27 pregnant women admitted to a large mid-western jail; however,
+the screening was administered by the research team and is not a routine
+practice within the facility.</p><p>Overall, prevalence studies tend to be small, single-site, and cross-sectional.
+Most are also now dated. Furthermore, most data were sourced from electronic
+medical records extracted by research teams from academic medical centers or
+college universities. Most studies were dedicated to the determination of
+prevalence of substance use during only the current pregnancy, which largely
+neglects those who continue or resume using in the postpartum period. Notably,
+no studies examined racial or income disparities. Collectively, the existing
+prevalence data vary widely; however; this culmination of research indicates
+that an overwhelming majority of incarcerated perinatal women report illicit
+substance use during pregnancy.</p></sec><sec id="section7-17455057221147802"><title>SUD treatment in carceral settings for perinatal populations</title><p>A significant portion of the literature on SUD treatment for incarcerated
+pregnant and postpartum women is dedicated to the treatment of OUD; 18 of the 33
+publications examined or provided perspectives on OUD and medication for opioid
+use disorder (MOUD) treatment in carceral settings.<sup><xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref>,<xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref><xref rid="bibr19-17455057221147802" ref-type="bibr"/><xref rid="bibr20-17455057221147802" ref-type="bibr"/><xref rid="bibr21-17455057221147802" ref-type="bibr"/><xref rid="bibr22-17455057221147802" ref-type="bibr"/><xref rid="bibr23-17455057221147802" ref-type="bibr"/><xref rid="bibr24-17455057221147802" ref-type="bibr"/><xref rid="bibr25-17455057221147802" ref-type="bibr"/>&#8211;<xref rid="bibr26-17455057221147802" ref-type="bibr">26</xref>,<xref rid="bibr28-17455057221147802" ref-type="bibr">28</xref>,<xref rid="bibr33-17455057221147802" ref-type="bibr">33</xref>,<xref rid="bibr36-17455057221147802" ref-type="bibr">36</xref>,<xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref>,<xref rid="bibr43-17455057221147802" ref-type="bibr">43</xref>,<xref rid="bibr45-17455057221147802" ref-type="bibr">45</xref>,<xref rid="bibr46-17455057221147802" ref-type="bibr">46</xref>,<xref rid="bibr48-17455057221147802" ref-type="bibr">48</xref><xref rid="bibr49-17455057221147802" ref-type="bibr"/>&#8211;<xref rid="bibr50-17455057221147802" ref-type="bibr">50</xref></sup> Of those 18 publications,
+12 discussed the provision and accessibility of substance use treatment in
+carceral settings. Although MOUD is the recommended standard of care for OUD
+treatment,<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref>,<xref rid="bibr39-17455057221147802" ref-type="bibr">39</xref>,<xref rid="bibr48-17455057221147802" ref-type="bibr">48</xref>,<xref rid="bibr51-17455057221147802" ref-type="bibr">51</xref></sup> articles included within the review show that only some
+carceral facilities provide MOUD to pregnant and postpartum women. Taken
+together, these studies show that access is limited and significant gaps exist
+in the initiation, retention, and referral to community MOUD providers upon
+release. Overall, a notable portion of facilities report offering MOUD, but only
+provide it to those who were already receiving treatment in the community prior
+to their incarceration or discontinue treatment immediately following delivery.
+Even fewer facilities provide perinatal individuals with referrals to community
+MOUD providers upon release to either initiate or continue treatment.</p><p>Despite the existence of carceral facilities that do provide MOUD, medically
+supervised withdrawal is the most common treatment utilized in prisons and
+jails,<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref>,<xref rid="bibr52-17455057221147802" ref-type="bibr">52</xref></sup> and access to MOUD when offered is limited. In a recent
+large-scale, national survey to determine the availability of MOUD treatment of
+pregnant individuals in 836 US jails, Sufrin et al.<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref></sup> found that 60% of jails
+reported offering MOUD during pregnancy; however, only 32% initiate MOUD upon
+intake. Most jails that offered MOUD only continued treatment for pregnant women
+who were receiving treatment immediately prior to incarceration. Moreover, only
+23% of facilities continued MOUD treatment during the immediate postpartum
+period<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref></sup> despite being when women are at their highest risk for
+relapse and overdose.<sup><xref rid="bibr53-17455057221147802" ref-type="bibr">53</xref></sup> The forced withdrawal during the postpartum period is
+largely attributed to administration&#8217;s desire for a &#8220;drug free&#8221; treatment,
+despite being inconsistent with clinical recommendations.<sup><xref rid="bibr54-17455057221147802" ref-type="bibr">54</xref></sup></p><p>Also, researchers expressed that the initiation of MOUD for pregnant women and
+continuation postpartum while incarcerated is shown to increase engagement and
+retention in community-based treatment, increase likelihood of abstinence during
+re-entry, and decrease risk of overdose death.<sup><xref rid="bibr21-17455057221147802" ref-type="bibr">21</xref>,<xref rid="bibr30-17455057221147802" ref-type="bibr">30</xref></sup> Although a small sample
+size, one study found that pregnant women who initiated a once-monthly
+injectable buprenorphine treatment while in jail continued postpartum and upon
+release in the community.<sup><xref rid="bibr21-17455057221147802" ref-type="bibr">21</xref></sup> Despite the increased
+benefit of continuation upon release, estimates indicate that only 19%&#8211;30% of
+pregnant and postpartum women will receive referral for MOUD in the community
+upon release.<sup><xref rid="bibr19-17455057221147802" ref-type="bibr">19</xref>,<xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref></sup> Ultimately, articles in this review indicate that few
+incarcerated pregnant and postpartum women will have the opportunity to access
+the standard of care for OUD, thus underscoring the importance of interventions
+to improve care and promote maternal and infant health,<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref></sup> such as
+mechanisms to enhance perinatal care.</p><p>Five publications included within the review expressed that incarcerated
+perinatal populations with SUDs require comprehensive and intensive care to make
+a successful recovery.<sup><xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref>,<xref rid="bibr24-17455057221147802" ref-type="bibr">24</xref>,<xref rid="bibr36-17455057221147802" ref-type="bibr">36</xref>,<xref rid="bibr45-17455057221147802" ref-type="bibr">45</xref>,<xref rid="bibr46-17455057221147802" ref-type="bibr">46</xref></sup> These publications stressed that in order to improve
+both maternal and infant outcomes, incarcerated pregnant women require
+coordinated and collaborative enhanced prenatal care that addresses mental
+health and trauma sequelae in tandem with substance use and addiction.
+Incarcerated pregnant women who use substances are likely to have also
+experienced trauma and have comorbid mental health disorders such as depression,
+anxiety, and posttraumatic stress disorder.<sup><xref rid="bibr24-17455057221147802" ref-type="bibr">24</xref>,<xref rid="bibr34-17455057221147802" ref-type="bibr">34</xref></sup> In qualitative interviews
+with 63 pregnant incarcerated women in their third trimester, Fogel and
+Belyea<sup><xref rid="bibr34-17455057221147802" ref-type="bibr">34</xref></sup> found that almost half of the women reported using
+alcohol or drugs during their current pregnancy. The majority reported histories
+of family violence prior to the age of 18 years; however, those who reported
+substance use during pregnancy were more likely to have experienced physical
+and/or sexual abuse during childhood. Moreover, 70% reported depressive symptoms
+meeting the criteria for clinical depression. Indeed, Sutter et al.<sup><xref rid="bibr46-17455057221147802" ref-type="bibr">46</xref></sup> suggested
+that programs that incorporate a full spectrum of care in addition to substance
+use treatment (e.g. perinatal care, trauma-informed care) show improved outcomes
+in retention, completion, and sustained recovery post-release and lead to an
+overall reduction in stigma surrounding substance use and pregnancy.</p></sec><sec id="section8-17455057221147802"><title>Recommendations and strategies to increase SUD treatment</title><p>Although it is understood that correctional facilities will experience barriers
+to provide the recommended standard of care for pregnant and postpartum women
+with SUDs,<sup><xref rid="bibr55-17455057221147802" ref-type="bibr">55</xref></sup> scholars provided recommendations and strategies for
+integrating substance use treatment into standard of correctional care. Themes
+among recommendations and strategies discussing the integration of
+evidence-based substance use treatment within the broader literature are
+summarized below. Fourteen publications referenced the importance of community
+partnerships to integrate evidence-based substance use treatments into carceral
+settings and the feasibility of such programs.</p><sec id="section9-17455057221147802"><title>Community partnerships can help facilitate the uptake of evidence-based
+practices</title><p>Fourteen publications specifically stressed the importance of partnerships
+with community organizations and providers to overcome barriers. Most of
+these articles focused on the provision of MOUD in carceral settings, but
+all recognized that carceral settings will experience significant
+barriers<sup><xref rid="bibr32-17455057221147802" ref-type="bibr">32</xref></sup> in integrating treatment into their current system
+or providing referrals upon release. For example, not all prisons can meet
+the Drug Enforcement Administration&#8217;s (DEA) licensing requirements for
+dispensing MOUD. According to regulations outlined by the Substance Abuse
+and Mental Health Services Administration (SAMHSA) and the National
+Commission for Correctional Health Care (NCCHC), methadone can only be
+administered by DEA-licensed opioid treatment programs (OTPs), while
+buprenorphine may only be administered by trained and waived medical
+practitioners.<sup><xref rid="bibr56-17455057221147802" ref-type="bibr">56</xref></sup> However, if prisons
+and jails are not DEA-licensed or have staff eligible for waiver, they can
+partner with community-based OTPs or medical providers.</p><p>Recommendations by both NCCHC and ACOG, two large proponents of the expansion
+of healthcare services in prisons, specifically stress the importance of
+community partnerships in facilitating integration of evidence-based
+practices into correctional settings. The NCCHC (2005) encouraged ongoing
+collaborations between public health, community, public assistance, and
+correctional agencies to meet the gender-specific healthcare needs of
+incarcerated women, specifically in relation to pregnancy and substance use.
+Thus, stakeholder partnerships can and should be leveraged to increase
+capacity within these settings to create long-term, sustainable systems to
+optimize maternal and child health.<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref></sup></p><p>Three articles discussed barriers correctional facilities, especially jails,
+might face when providing someone with a referral to a community substance
+use treatment program.<sup><xref rid="bibr11-17455057221147802" ref-type="bibr">11</xref>,<xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref>,<xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup> Some of the greatest
+barriers mentioned are the uncertainty of release dates, where treatment
+will be arranged and received upon release, and ensuring insurance coverage
+at the time of release.<sup><xref rid="bibr11-17455057221147802" ref-type="bibr">11</xref>,<xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup> To overcome such
+barriers and ensure women receive care when transitioning into the
+community, Lorenzen and Bracey<sup><xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup> suggest that
+connections with knowledgeable public health and community healthcare
+providers are paramount. Upon release, referral to community clinical care
+must be available, which stresses the importance of community relationships.
+Sufrin et al.<sup><xref rid="bibr20-17455057221147802" ref-type="bibr">20</xref></sup> mention that continued communication and mutual
+support between correctional administration, community organizations, and
+healthcare professionals can help encourage women to continue treatment upon
+release and can lead to an increase in post-release service utilization for
+women re-entering the community.</p></sec><sec id="section10-17455057221147802"><title>SUD treatment is feasible through community partnerships</title><p>Literature surrounding the integration of evidence-based substance use
+treatment specific to perinatal populations into carceral settings is
+sparse; however, four studies provided overviews of existing models and
+suggest that substance use treatment for pregnant and postpartum populations
+is feasible and sustainable with the assistance from community health
+organizations. One example described in the literature was the Women and
+Infants at Risk (WIAR) residential treatment program for incarcerated,
+pregnant, substance-using women in the Michigan state adult correction
+system. WIAR reportedly works to increase the availability of substance use
+treatment, reduce the effect and severity of drug exposure to fetuses,
+reduce recidivism, promote community awareness of incarcerated pregnant and
+postpartum women to improve services, and facilitate coordination among
+relevant agencies to meet the complex needs of these women.<sup><xref rid="bibr39-17455057221147802" ref-type="bibr">39</xref></sup></p><p>Women are eligible if they have a history of drug and/or alcohol dependence,
+a non-violent offense, and a sentence of less than 2 years. Women agree to
+actively parent their infant and remain in the program for at least 4 months
+after the infant&#8217;s birth. Women remain incarcerated until they reach their
+third trimester. Once women have reached their third trimester of pregnancy,
+they are transported to WIAR&#8217;s community-based residential facility, roomed,
+assessed for other needs (e.g. nutrition and clothing), and provided with
+education materials regarding pregnancy, prenatal care, and breastfeeding.
+Program staff assist with scheduling prenatal care and applying for
+Medicaid. Women are then matched with a multidisciplinary team including a
+nurse, social worker, and nutritionist. In addition to intensive prenatal
+care, women are provided with individual counseling sessions, group therapy,
+and didactic sessions for substance use. Unfortunately, &#8220;truth in sentencing
+laws&#8221; enacted to reform judicial sentencing ultimately led to the demise of
+the program despite 10 years of operation and successful, measurable
+outcomes.<sup><xref rid="bibr30-17455057221147802" ref-type="bibr">30</xref></sup></p><p>In another example, Public Health-Seattle and King County Correctional
+Facility partnered to create MOMS Plus (Maternal Opiate Medical Supports
+Plus), which is a case management program that serves incarcerated pregnant
+women who use substances.<sup><xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup> MOMS Plus connects
+incarcerated, pregnant substance-using women to prenatal care and supportive
+services inclusive of housing, counseling, and substance use treatment in an
+effort to improve maternal health and reduce infant mortality. This
+collaborative model of care involves public health agencies, county
+corrections, community medical providers, substance use treatment centers,
+and drug and mental health courts. Referrals are provided by the inmates
+themselves, correctional officers, medical providers, courts, and state and
+community corrections staff. Because incarcerated women&#8217;s needs are complex
+and multifaceted, MOMS Plus case management works to connect incarcerated
+pregnant women to services that are most likely to impact prenatal outcomes,
+such as prenatal care, substance use treatment, housing programs, behavioral
+healthcare, and food programs.</p></sec></sec></sec><sec sec-type="discussion" id="section11-17455057221147802"><title>Discussion</title><p>Taken together, results of this integrative review show significant gaps in research
+and provision of substance use treatment for incarcerated perinatal women. Findings
+from the publications included within in this review suggest that our understanding
+of substance use prevalence among incarcerated pregnant and postpartum populations
+is limited. Despite the lack of recent, national estimates inclusive of a wide range
+of substances, the prevalence among the studies included within our review ranged
+from 30% to 96% of pregnant women who enter prison report using one or more illicit
+substances during their pregnancy.<sup><xref rid="bibr8-17455057221147802" ref-type="bibr">8</xref>,<xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref>,<xref rid="bibr27-17455057221147802" ref-type="bibr">27</xref>,<xref rid="bibr29-17455057221147802" ref-type="bibr">29</xref>,<xref rid="bibr35-17455057221147802" ref-type="bibr">35</xref>,<xref rid="bibr41-17455057221147802" ref-type="bibr">41</xref></sup> Given that the highest
+estimate is 96%, we should anticipate that many women who enter prison pregnant will
+have used substances over their lifetime, during their current pregnancy, and/or
+meet diagnostic criteria for an SUD.</p><p>Furthermore, this extensive review indicated that substance use treatment for
+pregnant and postpartum women is not routinely accessible. For MOUD, carceral
+settings report providing MOUD treatment to pregnant populations; however, only a
+small portion of these settings initiate such treatment or continue MOUD treatment
+post-delivery despite being constitutionally mandated to provide healthcare and
+treat incarcerated persons with &#8220;serious medical need&#8221; (<italic toggle="yes">Estelle v.
+Gamble</italic>, 1976). Although <italic toggle="yes">Estelle</italic> did not classify
+&#8220;serious medical need,&#8221; forced withdrawal is the most widely used method of
+treatment, which can be dangerous for both the mother and the fetus. For pregnant
+women, medically supervised withdrawal does not contribute to lower rates of
+neonatal abstinence syndrome and increases risk of relapse, overdose, and death upon
+release.<sup><xref rid="bibr57-17455057221147802" ref-type="bibr">57</xref></sup> Generally, this method of treatment is not recommended for
+pregnant and postpartum populations because of withdrawal symptoms that can lead to
+maternal and infant health complications during pregnancy and birth and high risk of
+maternal relapse postpartum. Instead incarcerated pregnant women should be offered
+medications for OUD.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref></sup> Carceral settings have a moral, ethical, and medical
+responsibility to provide life-saving medication treatment to incarcerated pregnant
+and postpartum persons.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref></sup></p><p>A large majority of this literature focuses on the treatment of OUD; while needed and
+insightful, there is an overall neglect of substance use treatment practices and
+outcomes for pregnant and postpartum populations in carceral settings more broadly.
+Specifically, studies included within this review show that polysubstance use is
+prevalent among incarcerated women<sup><xref rid="bibr13-17455057221147802" ref-type="bibr">13</xref>,<xref rid="bibr58-17455057221147802" ref-type="bibr">58</xref></sup> and is salient for pregnant
+and postpartum populations;<sup><xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref></sup> however, few correctional interventions are tailored to
+treat polysubstance use in perinatal populations.</p><p>The current state of the literature regarding substance use and treatment provided to
+incarcerated pregnant and postpartum women is ripe with implications. In the future,
+greater emphasis should be placed on policy development surrounding the creation and
+use of existing diversion programs for women with substance use and addiction who
+are convicted of non-violent offenses to encourage service utilization. In recent
+years, several state legislatures have passed increasingly punitive laws or extended
+existing child endangerment laws to prosecute women who use substances while
+pregnant.<sup><xref rid="bibr59-17455057221147802" ref-type="bibr">59</xref></sup></p><p>Current retaliatory laws and policies targeting pregnant women who use illicit drugs
+are counter-productive and disproportionately enforced, and in turn discourage women
+from seeking care for both pregnancy and substance use treatment.<sup><xref rid="bibr60-17455057221147802" ref-type="bibr">60</xref></sup> Pregnant
+women who use substances are more likely to avoid prenatal care in fear of being
+reported to law enforcement and child protective agencies.<sup><xref rid="bibr60-17455057221147802" ref-type="bibr">60</xref>,<xref rid="bibr61-17455057221147802" ref-type="bibr">61</xref></sup> For pregnant women who are
+justice-involved, community treatment while under alternative forms of supervision,
+such as drug court, expedited parole, or suspended sentencing, should be considered
+rather than solely relying on correctional intuitions to provide adequate,
+integrative treatment.</p><p>In some circumstances, incarceration of a pregnant woman cannot be avoided. For these
+occurrences, facilities should implement substance use screening procedures with a
+validated tool to determine the presence of an SUD.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref>,<xref rid="bibr55-17455057221147802" ref-type="bibr">55</xref></sup> Early substance use treatment
+intervention leads to better pregnancy, birth, and postpartum outcomes, as well as
+the likelihood of treatment continuation upon release.<sup><xref rid="bibr18-17455057221147802" ref-type="bibr">18</xref>,<xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup> Although for most,
+incarceration can interrupt care, when adequate, evidence-based substance use
+treatment is initiated during incarceration, and the likelihood of continuity and
+retention upon release increases.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref></sup> In one study, Knittel et
+al.<sup><xref rid="bibr23-17455057221147802" ref-type="bibr">23</xref></sup>
+found that pre-incarceration receipt of MOUD predicted continued receipt during
+incarceration in facilities that offered MOUD treatment, which suggests that the
+prison can serve as a viable site of retention. In addition, given the high
+prevalence of trauma exposure among incarcerated populations, trauma-informed care
+for incarcerated perinatal populations is paramount to successfully address and
+treat SUDs.<sup><xref rid="bibr46-17455057221147802" ref-type="bibr">46</xref></sup>
+Trauma-informed care practices recognize the role of violence and exposure to trauma
+in the development of SUDs among women.<sup><xref rid="bibr62-17455057221147802" ref-type="bibr">62</xref></sup></p><p>However, it is understood that some correctional facilities do not have the capacity
+to treat SUDs, including OUD. To effectively integrate substance use treatment
+services into carceral settings that are tailored to the needs of pregnant women,
+criminal justice and public health agencies cannot continue working in isolation and
+should focus on the development of partnerships. Carceral settings can benefit from
+relationships with community-based providers to administer SUD treatment,
+specifically MOUD. The incorporation of correctional facilities into a system of
+care allows for incarcerated individuals to initiate, continue treatment during
+incarceration, and connect to resources through referral to a provider upon release.
+In addition, colleges, universities, and medical school personnel can serve as a
+tremendous resource for the location SUD specialists and champion the integration of
+evidence-based practices.<sup><xref rid="bibr56-17455057221147802" ref-type="bibr">56</xref></sup> Researchers should consider guidance from international
+models as well.</p><p>It should be noted that this population is marginalized and extremely
+vulnerable&#8212;incarcerated and pregnant; thus, some women have felt coerced into
+substance use treatment, specifically for OUD.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref>,<xref rid="bibr63-17455057221147802" ref-type="bibr">63</xref></sup> Providers should be careful
+in their recommendations regarding treatment to avoid coercion.<sup><xref rid="bibr64-17455057221147802" ref-type="bibr">64</xref></sup> Furthermore,
+while this review includes programming in both prisons and jails, it should be noted
+that these facilities are characteristically and fundamentally different, which
+affects the healthcare they are able to provide.<sup><xref rid="bibr42-17455057221147802" ref-type="bibr">42</xref></sup></p><p>Jails are operated by city or county jurisdiction, house individuals for sentences
+less than 1 year, and release dates can be unpredictable. Because each jurisdiction
+has the freedom to create their own healthcare policies with little regulation, the
+care available varies. This stresses the importance of community partnership and
+involvement, especially when determining the medical or mental healthcare needed
+among pregnant and postpartum populations. Furthermore, because jail facilities
+typically house those with short-term sentences, community-based and/or residential
+diversion programs should be considered for pregnant women as alternatives to
+incarceration. Some jails offer diversion programs designed to connect individuals
+with pre-existing mental health and substance use problems to treatment services and
+often reduce jail time in return.<sup><xref rid="bibr65-17455057221147802" ref-type="bibr">65</xref></sup> Although pilot programs
+created specifically for pregnant, incarcerated women have been difficult to sustain
+due to political climate and available resources,<sup><xref rid="bibr30-17455057221147802" ref-type="bibr">30</xref></sup> diversion programs should be
+used more frequently for incarcerated pregnant women as they could potentially
+benefit both maternal and infant health<sup><xref rid="bibr66-17455057221147802" ref-type="bibr">66</xref></sup> by facilitating the
+connection to resources such as mental, physical, and perinatal care.</p><p>Alternatively, prisons are operated at the state or federal level and required to
+adhere to a minimal standard of care. Despite prisons housing individuals for
+sentences longer than 1 year and more predictable release dates, there is no
+mandatory standard of healthcare defining what is considered to be minimal care and
+the services that must be provided.<sup><xref rid="bibr49-17455057221147802" ref-type="bibr">49</xref></sup> Nonetheless, healthcare
+spending in jails and prisons, quality of care, medical expertise, and organization
+structure vary widely across facilities and services provided to women.</p><sec id="section12-17455057221147802"><title>Limitations</title><p>A few limitations should be acknowledged. First, it is possible our review is
+limited by key phrases and search terms used for our database search, databases
+we could access, and the method of the literature search. It is possible that
+additional studies exist and were not included within our original search. Also,
+our review was limited to only studies conducted within the United States and
+published in English. Second, our conclusions were limited by the existing data.
+We were unable to assess for income and racial disparities that exist between
+incarcerated perinatal populations; however, we recommend that future studies
+examine such differences. Finally, the articles included within our review
+spanned nearly two decades. As a result, the socioeconomic and political climate
+are likely to have varied among the studies.</p></sec></sec><sec sec-type="conclusions" id="section13-17455057221147802"><title>Conclusion</title><p>Incarceration could present an opportunity to provide pregnant women with access to
+critical healthcare services that might otherwise be inaccessible,<sup><xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref></sup> in turn
+increasing the possibility of continued healthcare utilization
+post-release.<sup><xref rid="bibr67-17455057221147802" ref-type="bibr">67</xref></sup> An overwhelming majority of incarcerated pregnant and
+postpartum women report illicit substance use both prior to and during pregnancy,
+yet carceral systems are deficient in providing treatment for addiction among this
+population. Despite the abundance of evidence of long-term effectiveness of SUD
+treatment programs for pregnant women in the community,<sup><xref rid="bibr37-17455057221147802" ref-type="bibr">37</xref>,<xref rid="bibr67-17455057221147802" ref-type="bibr">67</xref></sup> the scarcity of empirical
+data and research of incarcerated pregnant women suggests there might be an unmet
+need of pregnancy-focused SUD treatment for these women. Incarcerated pregnant women
+and their infants possess significant health care need. Initiation of SUD treatment
+and aftercare planning through community-based organizations in all carceral
+settings upon intake and release can help facilitate a smooth transition back into
+the community and engender lasting benefits for both maternal and infant health.</p></sec></body><back><ack><p>The authors would like to thank Stefani Gafford, our Health Science Informationist
+with the University of Arkansas for Medical Sciences, for her assistance with our
+literature search.</p></ack><fn-group><fn fn-type="other"><p><bold>ORCID iD:</bold> Mollee K Steely Smith <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_17455057221147802-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-0961-4573" ext-link-type="uri">https://orcid.org/0000-0002-0961-4573</ext-link></p></fn></fn-group><sec id="section14-17455057221147802"><title>Declarations</title><fn-group><fn fn-type="other"><p><bold>Ethics approval and consent to participate:</bold> Not applicable.</p></fn><fn fn-type="other"><p><bold>Consent for publication:</bold> Not applicable.</p></fn><fn fn-type="con"><p><bold>Author contribution(s):</bold>
+<bold>Mollee K Steely Smith:</bold> Conceptualization; Data curation; Formal
+analysis; Investigation; Methodology; Writing &#8211; original draft.</p><p><bold>Stephanie H Wilson:</bold> Conceptualization; Data curation;
+Investigation; Writing &#8211; review &amp; editing.</p><p><bold>Melissa J Zielinski:</bold> Conceptualization; Supervision; Writing &#8211;
+review &amp; editing.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: Manuscript
+preparation was supported by the NIDA T32 Translational Training in
+Addiction program (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="DA022981">DA022981</ext-link>; PI: Kilts), K23DA048162(PI: Zielinski),
+R01HD103634 (PI: Shlafer), and UL1TR003107.</p></fn><fn fn-type="COI-statement"><p>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="other"><p><bold>Availability of data and materials:</bold> Not applicable.</p></fn></fn-group></sec><ref-list><title>References</title><ref id="bibr1-17455057221147802"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sufrin</surname><given-names>C</given-names></name><name name-style="western"><surname>Beal</surname><given-names>L</given-names></name><name name-style="western"><surname>Clarke</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal>. <article-title>Pregnancy outcomes in US
+prisons, 2016&#8211;2017</article-title>. <source>Am J Public Health</source><year>2019</year>; <volume>109</volume>(<issue>5</issue>):
+<fpage>799</fpage>&#8211;<lpage>805</lpage>.<pub-id pub-id-type="pmid">30897003</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/AJPH.2019.305006</pub-id><pub-id pub-id-type="pmcid">PMC6459671</pub-id></mixed-citation></ref><ref id="bibr2-17455057221147802"><label>2</label><mixed-citation publication-type="gov"><person-group person-group-type="author"><name name-style="western"><surname>Carson</surname><given-names>AE.</given-names></name></person-group><article-title>Prisoners in 2018</article-title>. <source>Bureau of Justice
+Statistics</source>, <year>2018</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bjs.ojp.gov/content/pub/pdf/p18.pdf" ext-link-type="uri">https://bjs.ojp.gov/content/pub/pdf/p18.pdf</ext-link></mixed-citation></ref><ref id="bibr3-17455057221147802"><label>3</label><mixed-citation publication-type="webpage"><collab>The Sentencing Project</collab>. <article-title>Fact sheet: incarcerated
+women and girls incarcerated women and girls</article-title>,
+<year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sentencingproject.org/fact-sheet/incarcerated-women-and-girls/" ext-link-type="uri">https://www.sentencingproject.org/fact-sheet/incarcerated-women-and-girls/</ext-link></mixed-citation></ref><ref id="bibr4-17455057221147802"><label>4</label><mixed-citation publication-type="gov"><person-group person-group-type="author"><name name-style="western"><surname>Zeng</surname><given-names>Z.</given-names></name></person-group><article-title>Jail inmates in 2018</article-title>. <source>Bureau of Justice
+Statistics</source>, <year>2020</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bjs.ojp.gov/library/publications/jail-inmates-2018" ext-link-type="uri">https://bjs.ojp.gov/library/publications/jail-inmates-2018</ext-link></mixed-citation></ref><ref id="bibr5-17455057221147802"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Camplain</surname><given-names>R</given-names></name><name name-style="western"><surname>Sabo</surname><given-names>S</given-names></name><name name-style="western"><surname>Baldwin</surname><given-names>JA</given-names></name></person-group>, <etal>et al</etal>. <article-title>Racial/ethnic differences in
+drug- and alcohol-related arrest outcomes in a southwest county from 2009 to
+2018</article-title>. <source>Am J Public Health</source><year>2020</year>; <volume>110</volume>:
+<fpage>S85</fpage>&#8211;<lpage>S92</lpage>.<pub-id pub-id-type="pmid">31967892</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/AJPH.2019.305409</pub-id><pub-id pub-id-type="pmcid">PMC6987943</pub-id></mixed-citation></ref><ref id="bibr6-17455057221147802"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Staton</surname><given-names>M</given-names></name><name name-style="western"><surname>Leukefeld</surname><given-names>C</given-names></name><name name-style="western"><surname>Webster</surname><given-names>JM.</given-names></name></person-group><article-title>Substance use, health, and mental health: problems and service
+utilization among incarcerated women</article-title>. <source>Int J Offender
+Ther Comp Criminol</source><year>2003</year>; <volume>47</volume>(<issue>2</issue>):
+<fpage>224</fpage>&#8211;<lpage>239</lpage>.<pub-id pub-id-type="pmid">12710367</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0306624X03251120</pub-id></mixed-citation></ref><ref id="bibr7-17455057221147802"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hotelling</surname><given-names>BA.</given-names></name></person-group><article-title>Perinatal needs of pregnant, incarcerated women</article-title>.
+<source>J Perinat Educ</source><year>2008</year>; <volume>17</volume>(<issue>2</issue>):
+<fpage>37</fpage>&#8211;<lpage>44</lpage>.<pub-id pub-id-type="pmid">19252687</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1624/105812408X298372</pub-id><pub-id pub-id-type="pmcid">PMC2409166</pub-id></mixed-citation></ref><ref id="bibr8-17455057221147802"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bell</surname><given-names>JF</given-names></name><name name-style="western"><surname>Zimmerman</surname><given-names>FJ</given-names></name><name name-style="western"><surname>Cawthon</surname><given-names>ML</given-names></name></person-group>, <etal>et al</etal>. <article-title>Jail incarceration and birth
+outcomes</article-title>. <source>J Urban Heal</source><year>2004</year>; <volume>81</volume>(<issue>4</issue>):
+<fpage>630</fpage>&#8211;<lpage>644</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jurban/jth146</pub-id><pub-id pub-id-type="pmcid">PMC3455933</pub-id><pub-id pub-id-type="pmid">15466844</pub-id></mixed-citation></ref><ref id="bibr9-17455057221147802"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Martin</surname><given-names>SL</given-names></name><name name-style="western"><surname>Kim</surname><given-names>H</given-names></name><name name-style="western"><surname>Kupper</surname><given-names>LL</given-names></name></person-group>, <etal>et al</etal>. <article-title>Is incarceration during
+pregnancy associated with infant birthweight</article-title>. <source>Am J
+Public Health</source><year>1997</year>; <volume>87</volume>(<issue>9</issue>):
+<fpage>1526</fpage>&#8211;<lpage>1531</lpage>.<pub-id pub-id-type="pmid">9314809</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/ajph.87.9.1526</pub-id><pub-id pub-id-type="pmcid">PMC1380983</pub-id></mixed-citation></ref><ref id="bibr10-17455057221147802"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mertens</surname><given-names>DJ.</given-names></name></person-group><article-title>Pregnancy outcomes of inmates in a large county jail system:
+issues affecting quality of care</article-title>. <source>J Correct Heal
+Care</source><year>2000</year>; <volume>7</volume>(<issue>1</issue>):
+<fpage>105</fpage>&#8211;<lpage>125</lpage>.</mixed-citation></ref><ref id="bibr11-17455057221147802"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Clarke</surname><given-names>JG</given-names></name><name name-style="western"><surname>Adashi</surname><given-names>EY.</given-names></name></person-group><article-title>Perinatal care for incarcerated patients: a 25-year-old woman
+pregnant in jail</article-title>. <source>JAMA</source><year>2011</year>; <volume>305</volume>(<issue>9</issue>):
+<fpage>923</fpage>&#8211;<lpage>929</lpage>.<pub-id pub-id-type="pmid">21304069</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2011.125</pub-id></mixed-citation></ref><ref id="bibr12-17455057221147802"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shlafer</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Gerrity</surname><given-names>E</given-names></name><name name-style="western"><surname>Duwe</surname><given-names>G.</given-names></name></person-group><article-title>Pregnancy and parenting support for incarcerated women: lessons
+learned</article-title>. <source>Prog Community Health Partnersh</source><year>2015</year>; <volume>9</volume>(<issue>3</issue>):
+<fpage>371</fpage>&#8211;<lpage>378</lpage>.<pub-id pub-id-type="pmid">26548788</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1353/cpr.2015.0061</pub-id><pub-id pub-id-type="pmcid">PMC5536343</pub-id></mixed-citation></ref><ref id="bibr13-17455057221147802"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Drago</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Shabanova</surname><given-names>V</given-names></name><name name-style="western"><surname>Hochreiter</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>. <article-title>Does maternal incarceration
+impact infants with neonatal abstinence syndrome?</article-title><source>Matern Child Health J</source><year>2022</year>; <volume>26</volume>(<issue>5</issue>):
+<fpage>1095</fpage>&#8211;<lpage>1103</lpage>.<pub-id pub-id-type="pmid">35088297</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10995-021-03356-4</pub-id></mixed-citation></ref><ref id="bibr14-17455057221147802"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Torraco</surname><given-names>RJ.</given-names></name></person-group><article-title>Writing integrative literature reviews: guidelines and
+examples</article-title>. <source>Hum Resour Dev Rev</source><year>2005</year>; <volume>4</volume>(<issue>3</issue>):
+<fpage>356</fpage>&#8211;<lpage>367</lpage>.</mixed-citation></ref><ref id="bibr15-17455057221147802"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Whittemore</surname><given-names>R</given-names></name><name name-style="western"><surname>Knafl</surname><given-names>K.</given-names></name></person-group><article-title>The integrative review: updated methodology</article-title>.
+<source>J Adv Nurs</source><year>2005</year>; <volume>52</volume>:
+<fpage>546</fpage>&#8211;<lpage>553</lpage>.<pub-id pub-id-type="pmid">16268861</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2648.2005.03621.x</pub-id></mixed-citation></ref><ref id="bibr16-17455057221147802"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Baldwin</surname><given-names>A</given-names></name><name name-style="western"><surname>Sobolewska</surname><given-names>A</given-names></name><name name-style="western"><surname>Capper</surname><given-names>T.</given-names></name></person-group><article-title>Pregnant in prison: an integrative literature
+review</article-title>. <source>Women Birth</source><year>2020</year>; <volume>33</volume>(<issue>1</issue>):
+<fpage>41</fpage>&#8211;<lpage>50</lpage>.<pub-id pub-id-type="pmid">30559007</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.wombi.2018.12.004</pub-id></mixed-citation></ref><ref id="bibr17-17455057221147802"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zielinski</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Allison</surname><given-names>MK</given-names></name><name name-style="western"><surname>Brinkley-Rubinstein</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal>. <article-title>Making change happen in
+criminal justice settings: leveraging implementation science to improve
+mental health care</article-title>. <source>Heal Justice</source><year>2020</year>; <volume>8</volume>(<issue>1</issue>):
+<fpage>1</fpage>&#8211;<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40352-020-00122-6</pub-id><pub-id pub-id-type="pmcid">PMC7487468</pub-id><pub-id pub-id-type="pmid">32892276</pub-id></mixed-citation></ref><ref id="bibr18-17455057221147802"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Testa</surname><given-names>A</given-names></name><name name-style="western"><surname>Fahmy</surname><given-names>C</given-names></name><name name-style="western"><surname>Jackson</surname><given-names>DB.</given-names></name></person-group><article-title>Incarceration exposure and prescription opioid use during
+pregnancy</article-title>. <source>Drug Alcohol Depend</source><year>2022</year>; <volume>235</volume>: <fpage>109434</fpage>.<pub-id pub-id-type="pmid">35405460</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2022.109434</pub-id></mixed-citation></ref><ref id="bibr19-17455057221147802"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Knittel</surname><given-names>AK</given-names></name><name name-style="western"><surname>Swartzwelder</surname><given-names>RA</given-names></name><name name-style="western"><surname>Zarnick</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>Medications for opioid use
+disorder during pregnancy: access and continuity in a state women&#8217;s prison
+facility, 2016&#8211;2019</article-title>. <source>Drug Alcohol Depend</source><year>2022</year>; <volume>232</volume>: <fpage>109308</fpage>.<pub-id pub-id-type="pmid">35074696</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2022.109308</pub-id><pub-id pub-id-type="pmcid">PMC8946772</pub-id></mixed-citation></ref><ref id="bibr20-17455057221147802"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sufrin</surname><given-names>C</given-names></name><name name-style="western"><surname>Kramer</surname><given-names>CT</given-names></name><name name-style="western"><surname>Terplan</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Availability of medications
+for the treatment of opioid use disorder among pregnant and postpartum
+individuals in US jails</article-title>. <source>JAMA Netw Open</source><year>2022</year>; <volume>5</volume>(<issue>1</issue>):
+<fpage>1</fpage>&#8211;<lpage>15</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.44369</pub-id><pub-id pub-id-type="pmcid">PMC8777564</pub-id><pub-id pub-id-type="pmid">35050354</pub-id></mixed-citation></ref><ref id="bibr21-17455057221147802"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shadowen</surname><given-names>C</given-names></name><name name-style="western"><surname>Moeller</surname><given-names>FG</given-names></name><name name-style="western"><surname>Martin</surname><given-names>CE.</given-names></name></person-group><article-title>The use of once-monthly injectable buprenorphine for the
+treatment of opioid use disorder in postpartum women: a case
+series</article-title>. <source>J Addict Med</source><year>2021</year>; <volume>15</volume>(<issue>4</issue>):
+<fpage>292</fpage>&#8211;<lpage>296</lpage>.<pub-id pub-id-type="pmid">34397780</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ADM.0000000000000835</pub-id><pub-id pub-id-type="pmcid">PMC8369037</pub-id></mixed-citation></ref><ref id="bibr22-17455057221147802"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schiff</surname><given-names>DM</given-names></name><name name-style="western"><surname>Nielsen</surname><given-names>TC</given-names></name><name name-style="western"><surname>Hoeppner</surname><given-names>BB</given-names></name></person-group>, <etal>et al</etal>. <article-title>Methadone and buprenorphine
+discontinuation among postpartum women with opioid use
+disorder</article-title>. <source>Am J Obstet Gynecol</source><year>2021</year>; <volume>225</volume>(<issue>4</issue>):
+424e1&#8211;<volume>424</volume>.<fpage>e12</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajog.2021.04.210</pub-id><pub-id pub-id-type="pmcid">PMC8492487</pub-id><pub-id pub-id-type="pmid">33845029</pub-id></mixed-citation></ref><ref id="bibr23-17455057221147802"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Knittel</surname><given-names>AK</given-names></name><name name-style="western"><surname>Zarnick</surname><given-names>S</given-names></name><name name-style="western"><surname>Thorp</surname><given-names>JM</given-names></name></person-group>, <etal>et al</etal>. <article-title>Medications for opioid use
+disorder in pregnancy in a state women&#8217;s prison facility</article-title>.
+<source>Drug Alcohol Depend</source><year>2020</year>; <volume>214</volume>: <fpage>108159</fpage>.<pub-id pub-id-type="pmid">32683223</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2020.108159</pub-id><pub-id pub-id-type="pmcid">PMC7977476</pub-id></mixed-citation></ref><ref id="bibr24-17455057221147802"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rose</surname><given-names>SJ</given-names></name><name name-style="western"><surname>LeBel</surname><given-names>TP.</given-names></name></person-group><article-title>Confined to obscurity: health challenges of pregnant women in
+jail</article-title>. <source>Heal Soc Work</source><year>2020</year>; <volume>45</volume>(<issue>3</issue>):
+<fpage>177</fpage>&#8211;<lpage>185</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/hsw/hlaa015</pub-id><pub-id pub-id-type="pmid">32746452</pub-id></mixed-citation></ref><ref id="bibr25-17455057221147802"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sufrin</surname><given-names>C</given-names></name><name name-style="western"><surname>Sutherland</surname><given-names>L</given-names></name><name name-style="western"><surname>Beal</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal>. <article-title>Opioid use disorder
+incidence and treatment among incarcerated pregnant people in the U.S.:
+results from a national surveillance study</article-title>.
+<source>Addiction</source><year>2020</year>; <volume>115</volume>(<issue>11</issue>):
+<fpage>2057</fpage>&#8211;<lpage>2065</lpage>.<pub-id pub-id-type="pmid">32141128</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/add.15030</pub-id><pub-id pub-id-type="pmcid">PMC7483586</pub-id></mixed-citation></ref><ref id="bibr26-17455057221147802"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kelsey</surname><given-names>CM</given-names></name><name name-style="western"><surname>Thompson</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Dallaire</surname><given-names>DH.</given-names></name></person-group><article-title>Community-based service requests and utilization among pregnant
+women incarcerated in jail</article-title>. <source>Psychol Serv</source><year>2018</year>; <volume>17</volume>:
+<fpage>393</fpage>&#8211;<lpage>404</lpage>.<pub-id pub-id-type="pmid">30489110</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/ser0000314</pub-id></mixed-citation></ref><ref id="bibr27-17455057221147802"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tanner</surname><given-names>R.</given-names></name></person-group><article-title>Pregnancy outcomes at the indiana women&#8217;s prison</article-title>.
+<source>J Correct Health Care</source><year>2010</year>; <volume>16</volume>(<issue>3</issue>):
+<fpage>216</fpage>&#8211;<lpage>219</lpage>.<pub-id pub-id-type="pmid">20466701</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1078345810366697</pub-id></mixed-citation></ref><ref id="bibr28-17455057221147802"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rich</surname><given-names>JD</given-names></name><name name-style="western"><surname>Boutwell</surname><given-names>AE</given-names></name><name name-style="western"><surname>Shield</surname><given-names>DC</given-names></name></person-group>, <etal>et al</etal>. <article-title>Attitudes and practices
+regarding the use of methadone in US state and federal
+prisons</article-title>. <source>J Urban Health</source><year>2005</year>; <volume>82</volume>(<issue>3</issue>):
+<fpage>411</fpage>&#8211;<lpage>419</lpage>.<pub-id pub-id-type="pmid">15917502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jurban/jti072</pub-id><pub-id pub-id-type="pmcid">PMC3456063</pub-id></mixed-citation></ref><ref id="bibr29-17455057221147802"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Eliason</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Arndt</surname><given-names>S.</given-names></name></person-group><article-title>Pregnant inmates: a growing concern</article-title>. <source>J
+Addict Nurs</source><year>2004</year>; <volume>15</volume>(<issue>4</issue>):
+<fpage>163</fpage>&#8211;<lpage>170</lpage>.</mixed-citation></ref><ref id="bibr30-17455057221147802"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Barkauskas</surname><given-names>VH</given-names></name><name name-style="western"><surname>Low</surname><given-names>LK</given-names></name><name name-style="western"><surname>Pimlott</surname><given-names>S.</given-names></name></person-group><article-title>Health outcomes of incarcerated pregnant women and their infants
+in a community-based program</article-title>. <source>J Midwifery Womens
+Health</source><year>2002</year>; <volume>47</volume>(<issue>5</issue>):
+<fpage>371</fpage>&#8211;<lpage>379</lpage>.<pub-id pub-id-type="pmid">12361349</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1526-9523(02)00279-9</pub-id></mixed-citation></ref><ref id="bibr31-17455057221147802"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kyei-Aboagye</surname><given-names>K</given-names></name><name name-style="western"><surname>Vragovic</surname><given-names>O</given-names></name><name name-style="western"><surname>Chong</surname><given-names>D</given-names></name></person-group>. <article-title>Birth outcome in incarcerated, high-risk
+pregnant women</article-title>. <source>Obset &amp; Gyn Surv</source><year>2000</year>; <volume>55</volume>:
+<fpage>682</fpage>&#8211;<lpage>684</lpage>.<pub-id pub-id-type="pmid">10756495</pub-id></mixed-citation></ref><ref id="bibr32-17455057221147802"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>King</surname><given-names>Z</given-names></name><name name-style="western"><surname>Kramer</surname><given-names>C</given-names></name><name name-style="western"><surname>Latkin</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal>. <article-title>Access to treatment for
+pregnant incarcerated people with opioid use disorder: perspectives from
+community opioid treatment providers</article-title>. <source>J Subst Abuse
+Treat</source><year>2021</year>; <volume>126</volume>: <fpage>108338</fpage>.<pub-id pub-id-type="pmid">34116823</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2021.108338</pub-id><pub-id pub-id-type="pmcid">PMC8197773</pub-id></mixed-citation></ref><ref id="bibr33-17455057221147802"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gray</surname><given-names>J</given-names></name><name name-style="western"><surname>Saia</surname><given-names>K</given-names></name><name name-style="western"><surname>Walley</surname><given-names>AY.</given-names></name></person-group><article-title>28-year-old woman with opioid use disorder delivers healthy baby
+while in custody: addressing forced detox</article-title>. <source>J Addict
+Med</source><year>2019</year>; <volume>13</volume>(<issue>3</issue>):
+<fpage>237</fpage>&#8211;<lpage>240</lpage>.<pub-id pub-id-type="pmid">30379779</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ADM.0000000000000468</pub-id></mixed-citation></ref><ref id="bibr34-17455057221147802"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fogel</surname><given-names>C</given-names></name><name name-style="western"><surname>Belyea</surname><given-names>M.</given-names></name></person-group><article-title>Psychosocial risk factors in pregnant inmates: a challenge for
+nursing</article-title>. <source>Am J Matern Child Nurs</source><year>2001</year>; <volume>26</volume>(<issue>1</issue>):
+<fpage>10</fpage>&#8211;<lpage>16</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00005721-200101000-00004</pub-id><pub-id pub-id-type="pmid">11198449</pub-id></mixed-citation></ref><ref id="bibr35-17455057221147802"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mukherjee</surname><given-names>S</given-names></name><name name-style="western"><surname>Pierre-Victor</surname><given-names>D</given-names></name><name name-style="western"><surname>Bahelah</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal>. <article-title>Mental health issues among
+pregnant women in correctional facilities: a systematic
+review</article-title>. <source>Women Health</source><year>2014</year>; <volume>54</volume>(<issue>8</issue>):
+<fpage>816</fpage>&#8211;<lpage>842</lpage>.<pub-id pub-id-type="pmid">25190332</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/03630242.2014.932894</pub-id></mixed-citation></ref><ref id="bibr36-17455057221147802"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>O&#8217;Connor</surname><given-names>A</given-names></name><name name-style="western"><surname>Bowling</surname><given-names>N.</given-names></name></person-group><article-title>Initial management of incarcerated pregnant women with opioid use
+disorder</article-title>. <source>J Correct Health Care</source><year>2020</year>; <volume>26</volume>(<issue>1</issue>):
+<fpage>17</fpage>&#8211;<lpage>26</lpage>.<pub-id pub-id-type="pmid">31960750</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1078345819897063</pub-id></mixed-citation></ref><ref id="bibr37-17455057221147802"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lorenzen</surname><given-names>D</given-names></name><name name-style="western"><surname>Bracy</surname><given-names>K.</given-names></name></person-group><article-title>Moms plus: a public health program for substance using pregnant
+inmates in an urban jail</article-title>. <source>J Correct Health
+Care</source><year>2011</year>; <volume>17</volume>(<issue>3</issue>):
+<fpage>233</fpage>&#8211;<lpage>240</lpage>.<pub-id pub-id-type="pmid">21474528</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1078345811401361</pub-id></mixed-citation></ref><ref id="bibr38-17455057221147802"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wiewel</surname><given-names>B</given-names></name><name name-style="western"><surname>Mosley</surname><given-names>T</given-names></name></person-group>. <article-title>Family foundations: a new program for pregnant
+and parent women offenders with substance use histories</article-title>.
+<source>J Offender Rehabil</source><year>2006</year>; <volume>43</volume>(<issue>1</issue>):
+<fpage>65</fpage>&#8211;<lpage>91</lpage>.</mixed-citation></ref><ref id="bibr39-17455057221147802"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Siefert</surname><given-names>K</given-names></name><name name-style="western"><surname>Pimlott</surname><given-names>S.</given-names></name></person-group><article-title>Improving pregnancy outcome during imprisonment: a model
+residential care program</article-title>. <source>Soc Work</source><year>2001</year>; <volume>46</volume>(<issue>2</issue>):
+<fpage>125</fpage>&#8211;<lpage>134</lpage>.<pub-id pub-id-type="pmid">11329642</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/sw/46.2.125</pub-id></mixed-citation></ref><ref id="bibr40-17455057221147802"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jones</surname><given-names>H</given-names></name><name name-style="western"><surname>Hairston</surname><given-names>E</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal>. <source>Intergrating obstetrical and
+substance use disorder treatment for pregnant and postpartum people in
+prisons</source>. <article-title>Foundation for Opioid Response Efforts
+Policy Brief</article-title><year>2021</year>.</mixed-citation></ref><ref id="bibr41-17455057221147802"><label>41</label><mixed-citation publication-type="webpage"><person-group person-group-type="author"><name name-style="western"><surname>Poehlmann</surname><given-names>J.</given-names></name></person-group><article-title>New study shows children of incarcerated mothers experience
+multiple challenges</article-title>. <source>Family matters</source>,
+<year>2003</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.purdue.edu/hhs/hdfs/fii/wp-content/uploads/2015/06/fia_nlarticle_v3i2.pdf" ext-link-type="uri">https://www.purdue.edu/hhs/hdfs/fii/wp-content/uploads/2015/06/fia_nlarticle_v3i2.pdf</ext-link></mixed-citation></ref><ref id="bibr42-17455057221147802"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ahlbach</surname><given-names>C</given-names></name><name name-style="western"><surname>Sufrin</surname><given-names>C</given-names></name><name name-style="western"><surname>Shlafer</surname><given-names>R.</given-names></name></person-group><article-title>Care for incarcerated pregnant people with opioid use disorder:
+equity and justice implications</article-title>. <source>Obstet
+Gynecol</source><year>2020</year>; <volume>136</volume>(<issue>3</issue>):
+<fpage>576</fpage>&#8211;<lpage>581</lpage>.<pub-id pub-id-type="pmid">32769655</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000004002</pub-id><pub-id pub-id-type="pmcid">PMC7483637</pub-id></mixed-citation></ref><ref id="bibr43-17455057221147802"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Williams</surname><given-names>JB.</given-names></name></person-group><article-title>Do pregnant inmates have a constitutional right to opioid
+replacement therapy</article-title>. <source>Am J Obstet Gynecol</source><year>2018</year>; <volume>219</volume>(<issue>5</issue>):
+455.e1&#8211;<volume>455</volume>.<fpage>e4</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajog.2018.07.004</pub-id><pub-id pub-id-type="pmid">30017681</pub-id></mixed-citation></ref><ref id="bibr44-17455057221147802"><label>44</label><mixed-citation publication-type="webpage"><collab>National Commission on Correctional Healthcare (NCCH)</collab>.
+<article-title>Opioid use disorder treatment in correctional settings
+[Position Statement]</article-title>. <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncchc.org/opioid-use-disorder-treatment-in-correctional-settings-2021/" ext-link-type="uri">https://www.ncchc.org/opioid-use-disorder-treatment-in-correctional-settings-2021/</ext-link></mixed-citation></ref><ref id="bibr45-17455057221147802"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Peeler</surname><given-names>M</given-names></name><name name-style="western"><surname>Fiscella</surname><given-names>K</given-names></name><name name-style="western"><surname>Terplan</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Best practices for pregnant
+incarcerated women with opioid use disorder</article-title>. <source>J
+Correct Health Care</source><year>2019</year>; <volume>25</volume>(<issue>1</issue>):
+<fpage>4</fpage>&#8211;<lpage>14</lpage>.<pub-id pub-id-type="pmid">30616487</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1078345818819855</pub-id><pub-id pub-id-type="pmcid">PMC6543816</pub-id></mixed-citation></ref><ref id="bibr46-17455057221147802"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sutter</surname><given-names>MB</given-names></name><name name-style="western"><surname>Gopman</surname><given-names>S</given-names></name><name name-style="western"><surname>Leeman</surname><given-names>L.</given-names></name></person-group><article-title>Patient-centered care to address barriers for pregnant women with
+opioid dependence</article-title>. <source>Obstet Gynecol Clin North
+Am</source><year>2017</year>; <volume>44</volume>(<issue>1</issue>):
+<fpage>95</fpage>&#8211;<lpage>107</lpage>.<pub-id pub-id-type="pmid">28160896</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ogc.2016.11.004</pub-id></mixed-citation></ref><ref id="bibr47-17455057221147802"><label>47</label><mixed-citation publication-type="webpage"><collab>American College of Obstetricians and Gynecologists (ACOG)</collab>.
+<article-title>Opioid use and opioid use disorder in pregnancy [Committee
+Opinion]</article-title>. <year>2017</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.acog.org/-/media/project/acog/acogorg/clinical/files/committee-opinion/articles/2017/08/opioid-use-and-opioid-use-disorder-in-pregnancy.pdf" ext-link-type="uri">https://www.acog.org/-/media/project/acog/acogorg/clinical/files/committee-opinion/articles/2017/08/opioid-use-and-opioid-use-disorder-in-pregnancy.pdf</ext-link></mixed-citation></ref><ref id="bibr48-17455057221147802"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mascola</surname><given-names>MA</given-names></name><name name-style="western"><surname>Borders</surname><given-names>AE</given-names></name><name name-style="western"><surname>Terplan</surname><given-names>M.</given-names></name></person-group><article-title>Committee opinion no. 711: Opioid use and opioid use disorder in
+pregnancy</article-title>. <source>Obstet Gynecol</source><year>2017</year>; <volume>130</volume>(<issue>2</issue>):
+<fpage>e81</fpage>&#8211;<lpage>e94</lpage>.<pub-id pub-id-type="pmid">28742676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000002235</pub-id></mixed-citation></ref><ref id="bibr49-17455057221147802"><label>49</label><mixed-citation publication-type="webpage"><collab>NCCHC</collab>. <article-title>Women&#8217;s health care in correctional
+settings</article-title>, <year>2021</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncchc.org/womens-health-care-in-correctional-settings-2020/" ext-link-type="uri">https://www.ncchc.org/womens-health-care-in-correctional-settings-2020/</ext-link></mixed-citation></ref><ref id="bibr50-17455057221147802"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>King</surname><given-names>EA.</given-names></name></person-group><article-title>Outcomes of trauma-informed interventions for incarcerated women:
+a review</article-title>. <source>Int J Offender Ther Comp Criminol</source><year>2017</year>; <volume>61</volume>(<issue>6</issue>):
+<fpage>667</fpage>&#8211;<lpage>688</lpage>.<pub-id pub-id-type="pmid">26338529</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0306624X15603082</pub-id></mixed-citation></ref><ref id="bibr51-17455057221147802"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Saia</surname><given-names>KA</given-names></name><name name-style="western"><surname>Schiff</surname><given-names>D</given-names></name><name name-style="western"><surname>Wachman</surname><given-names>EM</given-names></name></person-group>, <etal>et al</etal>. <article-title>Caring for pregnant women
+with opioid use disorder in the USA: expanding and improving
+treatment</article-title>. <source>Curr Obstet Gynecol Rep</source><year>2016</year>; <volume>5</volume>(<issue>3</issue>):
+<fpage>257</fpage>&#8211;<lpage>263</lpage>.<pub-id pub-id-type="pmid">27563497</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13669-016-0168-9</pub-id><pub-id pub-id-type="pmcid">PMC4981621</pub-id></mixed-citation></ref><ref id="bibr52-17455057221147802"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Neill-Gubitz</surname><given-names>H</given-names></name><name name-style="western"><surname>Graves</surname><given-names>JM</given-names></name><name name-style="western"><surname>Barbosa-Leiker</surname><given-names>C.</given-names></name></person-group><article-title>Availability of health care services and medications for opioid
+use disorder in carceral facilities in Washington, Oregon, and
+Idaho</article-title>. <source>J Health Care Poor Underserved</source><year>2022</year>; <volume>33</volume>(<issue>1</issue>):
+<fpage>407</fpage>&#8211;<lpage>418</lpage>.<pub-id pub-id-type="pmid">35153230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1353/hpu.2022.0031</pub-id></mixed-citation></ref><ref id="bibr53-17455057221147802"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schiff</surname><given-names>DM</given-names></name><name name-style="western"><surname>Nielsen</surname><given-names>T</given-names></name><name name-style="western"><surname>Terplan</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Women in
+Massachusetts</article-title>. <source>Obstet Gynecol</source><year>2018</year>; <volume>132</volume>(<issue>2</issue>):
+<fpage>466</fpage>&#8211;<lpage>474</lpage>.<pub-id pub-id-type="pmid">29995730</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000002734</pub-id><pub-id pub-id-type="pmcid">PMC6060005</pub-id></mixed-citation></ref><ref id="bibr54-17455057221147802"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nunn</surname><given-names>A</given-names></name><name name-style="western"><surname>Zaller</surname><given-names>N</given-names></name><name name-style="western"><surname>Dickman</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>Methadone and buprenorphine
+prescribing and referral practices in US prison systems: results from a
+nationwide survey</article-title>. <source>Drug Alcohol Depend</source><year>2009</year>; <volume>105</volume>(1&#8211;2):
+<fpage>83</fpage>&#8211;<lpage>88</lpage>.<pub-id pub-id-type="pmid">19625142</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2009.06.015</pub-id><pub-id pub-id-type="pmcid">PMC2743749</pub-id></mixed-citation></ref><ref id="bibr55-17455057221147802"><label>55</label><mixed-citation publication-type="book"><collab>SAMHSA</collab>. <source>Use of medication-assisted treatment for opioid
+use disorder in criminal justice settings (evidence-based resource guide
+series)</source>. <publisher-loc>Rockville, MD</publisher-loc>:
+<publisher-name>SAMHSA</publisher-name>, <year>2019</year>.</mixed-citation></ref><ref id="bibr56-17455057221147802"><label>56</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Terplan</surname><given-names>M</given-names></name><name name-style="western"><surname>Laird</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Hand</surname><given-names>DJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Opioid detoxification during
+pregnancy: a systematic review HHS public access author
+manuscript</article-title>. <source>Obs Gynecol</source><year>2018</year>; <volume>131</volume>(<issue>5</issue>):
+<fpage>803</fpage>&#8211;<lpage>814</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000002562</pub-id><pub-id pub-id-type="pmcid">PMC6034119</pub-id><pub-id pub-id-type="pmid">29630016</pub-id></mixed-citation></ref><ref id="bibr57-17455057221147802"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jarlenski</surname><given-names>MP</given-names></name><name name-style="western"><surname>Paul</surname><given-names>NC</given-names></name><name name-style="western"><surname>Krans</surname><given-names>EE.</given-names></name></person-group><article-title>Polysubstance use among pregnant women with opioid use disorder
+in the United States, 2007&#8211;2016</article-title>. <source>Obstet
+Gynecol</source><year>2020</year>; <volume>136</volume>(<issue>3</issue>):
+<fpage>556</fpage>&#8211;<lpage>564</lpage>.<pub-id pub-id-type="pmid">32769641</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AOG.0000000000003907</pub-id><pub-id pub-id-type="pmcid">PMC7483798</pub-id></mixed-citation></ref><ref id="bibr58-17455057221147802"><label>58</label><mixed-citation publication-type="webpage"><collab>Guttmacher Institute</collab>. <article-title>Substance use during
+pregnancy</article-title>, <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.guttmacher.org/state-policy/explore/substance-use-during-pregnancy" ext-link-type="uri">https://www.guttmacher.org/state-policy/explore/substance-use-during-pregnancy</ext-link></mixed-citation></ref><ref id="bibr59-17455057221147802"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Roberts</surname><given-names>SC</given-names></name><name name-style="western"><surname>Pies</surname><given-names>C.</given-names></name></person-group><article-title>Complex calculations: how drug use during pregnancy becomes a
+barrier to prenatal care</article-title>. <source>Matern Child Health
+J</source><year>2011</year>; <volume>15</volume>(<issue>3</issue>):
+<fpage>333</fpage>&#8211;<lpage>341</lpage>.<pub-id pub-id-type="pmid">20232126</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10995-010-0594-7</pub-id><pub-id pub-id-type="pmcid">PMC2904854</pub-id></mixed-citation></ref><ref id="bibr60-17455057221147802"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Schempf</surname><given-names>AH</given-names></name><name name-style="western"><surname>Strobino</surname><given-names>DM.</given-names></name></person-group><article-title>Drug use and limited prenatal care: an examination of responsible
+barriers</article-title>. <source>Am J Obstet Gynecol</source><year>2009</year>; <volume>200</volume>(<issue>4</issue>):
+412.e1&#8211;10.e10.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajog.2008.10.055</pub-id><pub-id pub-id-type="pmid">19217591</pub-id></mixed-citation></ref><ref id="bibr61-17455057221147802"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Harner</surname><given-names>H</given-names></name><name name-style="western"><surname>Burgess</surname><given-names>AW.</given-names></name></person-group><article-title>Using a trauma-informed framework to care for incarcerated
+women</article-title>. <source>J Obstet Gynecol Neonatal Nurs</source><year>2011</year>; <volume>40</volume>(<issue>4</issue>): 469&#8211;75. Quiz
+475&#8211;476.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1552-6909.2011.01259.x</pub-id><pub-id pub-id-type="pmid">21894637</pub-id></mixed-citation></ref><ref id="bibr62-17455057221147802"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Damon</surname><given-names>W</given-names></name><name name-style="western"><surname>Small</surname><given-names>W</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal>. <article-title>&#8220;Crisis&#8221; and &#8220;everyday&#8221;
+initiators: a qualitative study of coercion and agency in the context of
+methadone maintenance treatment initiation</article-title>. <source>Drug
+Alcohol Rev</source><year>2017</year>; <volume>36</volume>(<issue>2</issue>):
+<fpage>253</fpage>&#8211;<lpage>260</lpage>.<pub-id pub-id-type="pmid">27126765</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/dar.12411</pub-id><pub-id pub-id-type="pmcid">PMC5086307</pub-id></mixed-citation></ref><ref id="bibr63-17455057221147802"><label>63</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hall</surname><given-names>RC</given-names></name><name name-style="western"><surname>Friedman</surname><given-names>SH</given-names></name><name name-style="western"><surname>Jain</surname><given-names>A.</given-names></name></person-group><article-title>Pregnant women and the use of corrections restraints and
+substance use commitment</article-title>. <source>J Am Acad Psychiatry
+Law</source><year>2015</year>; <volume>43</volume>(<issue>3</issue>):
+<fpage>359</fpage>&#8211;<lpage>368</lpage>.<pub-id pub-id-type="pmid">26438814</pub-id></mixed-citation></ref><ref id="bibr64-17455057221147802"><label>64</label><mixed-citation publication-type="webpage"><collab>The Pew Center</collab>. <article-title>Time served: the high cost, low
+return of longer prison terms, Public Safety Performace
+Project</article-title>, <year>2015</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.pewtrusts.org/~/media/legacy/uploadedfiles/wwwpewtrustsorg/reports/sentencing_and_corrections/prisontimeservedpdf.pdf" ext-link-type="uri">https://www.pewtrusts.org/~/media/legacy/uploadedfiles/wwwpewtrustsorg/reports/sentencing_and_corrections/prisontimeservedpdf.pdf</ext-link></mixed-citation></ref><ref id="bibr65-17455057221147802"><label>65</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cassidy</surname><given-names>J</given-names></name><name name-style="western"><surname>Ziv</surname><given-names>Y</given-names></name><name name-style="western"><surname>Stupica</surname><given-names>B</given-names></name></person-group>, <etal>et al</etal>. <article-title>Enhancing attachment
+security in the infants of women in a jail-diversion
+program</article-title>. <source>Attach Hum Dev</source><year>2010</year>; <volume>12</volume>(<issue>4</issue>):
+<fpage>333</fpage>&#8211;<lpage>353</lpage>.<pub-id pub-id-type="pmid">20582844</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14616730903416955</pub-id></mixed-citation></ref><ref id="bibr66-17455057221147802"><label>66</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sufrin</surname><given-names>CB</given-names></name><name name-style="western"><surname>Knittel</surname><given-names>A.</given-names></name></person-group><article-title>Health care and social justice implications of incarceration for
+pregnant people who use drugs</article-title>. <source>Int Rev
+Psychiatry</source><year>2021</year>; <volume>33</volume>(<issue>6</issue>):
+<fpage>557</fpage>&#8211;<lpage>571</lpage>.<pub-id pub-id-type="pmid">34098837</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09540261.2021.1887097</pub-id><pub-id pub-id-type="pmcid">PMC9251864</pub-id></mixed-citation></ref><ref id="bibr67-17455057221147802"><label>67</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Joshi</surname><given-names>C</given-names></name><name name-style="western"><surname>Skeer</surname><given-names>MR</given-names></name><name name-style="western"><surname>Chui</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Women-centered drug
+treatment models for pregnant women with opioid use disorder: a scoping
+review</article-title>. <source>Drug Alcohol Depend</source><year>2021</year>; <volume>226</volume>: <fpage>108855</fpage>.<pub-id pub-id-type="pmid">34198134</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2021.108855</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

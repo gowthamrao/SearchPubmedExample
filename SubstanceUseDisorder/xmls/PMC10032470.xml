@@ -1,0 +1,1022 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Rare Dis</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Rare Dis</journal-id><journal-id journal-id-type="pmc-domain-id">4403</journal-id><journal-id journal-id-type="pmc-domain">tard</journal-id><journal-id journal-id-type="publisher-id">TRD</journal-id><journal-title-group><journal-title>Therapeutic Advances in Rare Disease</journal-title></journal-title-group><issn pub-type="epub">2633-0040</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10032470</article-id><article-id pub-id-type="pmcid-ver">PMC10032470.1</article-id><article-id pub-id-type="pmcaid">10032470</article-id><article-id pub-id-type="pmcaiid">10032470</article-id><article-id pub-id-type="pmid">37180424</article-id><article-id pub-id-type="doi">10.1177/26330040211070295</article-id><article-id pub-id-type="publisher-id">10.1177_26330040211070295</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Therapeutic angiogenesis in Buerger&#8217;s disease: reviewing the
+treatment landscape</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7380-3435</contrib-id><name name-style="western"><surname>Ribieras</surname><given-names initials="AJ">Antoine J.</given-names></name><aff id="aff1-26330040211070295">DeWitt Daughtry Family Department of Surgery,
+University of Miami Miller School of Medicine, Miami, FL, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ortiz</surname><given-names initials="YY">Yulexi Y.</given-names></name><aff id="aff2-26330040211070295">DeWitt Daughtry Family Department of Surgery,
+University of Miami Miller School of Medicine, Miami, FL, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="ZJ">Zhao-Jun</given-names></name><aff id="aff3-26330040211070295">DeWitt Daughtry Family Department of Surgery,
+University of Miami Miller School of Medicine, RMSB 1046, 1600 NW 10th
+Avenue, Miami, FL 33136, USA. Vascular Biology Institute, University of
+Miami Miller School of Medicine, Miami, FL, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Velazquez</surname><given-names initials="OC">Omaida C.</given-names></name><xref rid="corresp2-26330040211070295" ref-type="corresp"/><aff id="aff4-26330040211070295">DeWitt Daughtry Family Department of Surgery,
+University of Miami Miller School of Medicine, 1120 NW 14th Street, Miami,
+FL 33136, USA. Vascular Biology Institute, University of Miami Miller School
+of Medicine, Miami, FL, USA</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role></contrib></contrib-group><author-notes><corresp id="corresp1-26330040211070295"><email>zliu@med.miami.edu</email></corresp><corresp id="corresp2-26330040211070295"><email>ovelazquez@med.miami.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>1</month><year>2022</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2022</year></pub-date><volume>3</volume><issue-id pub-id-type="pmc-issue-id">431834</issue-id><elocation-id>26330040211070295</elocation-id><history><date date-type="received"><day>2</day><month>7</month><year>2021</year></date><date date-type="accepted"><day>7</day><month>12</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>01</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>11</day><month>05</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-09-14 02:25:17.403"><day>14</day><month>09</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s), 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_26330040211070295.pdf"/><abstract><p>Thromboangiitis obliterans, also known as Buerger&#8217;s disease, is a rare
+inflammatory vasculitis that predominantly develops in smokers and
+characteristically affects the small- and medium-sized peripheral arteries and
+veins. Patients typically present with extremity claudication, but symptoms may
+progress to rest pain and tissue loss, especially in those unable to abstain
+from tobacco use. Unfortunately, traditional medical treatments are largely
+ineffective and due to the small caliber of affected vessels and lack of
+suitable distal targets or venous conduits, endovascular and open surgical
+approaches are often not possible. Eventually, a significant number of patients
+require major amputation. For these reasons, much research effort has been made
+in developing techniques of therapeutic angiogenesis to improve limb perfusion,
+both for atherosclerotic peripheral arterial disease and the smaller subset of
+patients with critical limb ischemia due to Buerger&#8217;s disease.
+Neovascularization in response to ischemia relies on a complex interplay between
+the local tissue microenvironment and circulating stem and progenitor cells. To
+date, studies of therapeutic angiogenesis have therefore focused on exploiting
+known angiogenic factors and stem cells to induce neovascularization in ischemic
+tissues. This review summarizes the available clinical data regarding the safety
+and efficacy of various angiogenic therapies, notably injection of naked DNA
+plasmids, viral gene constructs, and cell-based preparations, and describes
+techniques for potentiating <italic toggle="yes">in vivo</italic> efficacy of gene- and
+cell-based therapies as well as ongoing developments in exosome-based cell-free
+approaches for therapeutic angiogenesis.</p><sec id="section1-26330040211070295"><title>Plain Language Title and Summary</title><p>
+<italic toggle="yes">A review of available and emerging treatments for improving blood
+flow and wound healing in patients with Buerger&#8217;s disease, a rare
+disorder of blood vessels</italic>
+</p><p>Buerger&#8217;s disease is a rare disorder of the small- and medium-sized blood
+vessels in the arms and legs that almost exclusively develops in young
+smokers. Buerger&#8217;s disease causes inflammation in arteries and veins, which
+leads to blockage of these vessels and reduces blood flow to and from the
+extremities. Decreased blood flow to the arms and legs can lead to
+development of nonhealing wounds and infection for which some patients may
+eventually require amputation. Unfortunately, traditional medical and
+surgical treatments are not effective in Buerger&#8217;s disease, so other methods
+for improving blood flow are needed for these patients. There are several
+different ways to stimulate new blood vessel formation, both in humans and
+animal models. The most common treatments involve injection of DNA or
+viruses that express genes related to blood vessel formation or,
+alternatively, stem cell&#8211;based treatments that help regenerate blood vessels
+and repair wound tissue. This review explores how safe and effective these
+various treatments are and describes recent research developments that may
+lead to better therapies for patients with Buerger&#8217;s disease and other
+vascular disorders.</p></sec></abstract><kwd-group><kwd>Buerger&#8217;s disease</kwd><kwd>critical limb ischemia</kwd><kwd>gene therapy</kwd><kwd>neovascularization</kwd><kwd>therapeutic angiogenesis</kwd><kwd>thromboangiitis obliterans</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2022</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="section2-26330040211070295"><title>Background</title><sec id="section3-26330040211070295"><title>Epidemiology</title><p>Thromboangiitis obliterans (TAO) is a rare inflammatory vasculitis that affects
+the small- and medium-sized arteries and veins of the arms and legs. The disease
+was first described by Felix Von Winiwarter in 1879 but later named after Leo
+Buerger who, in 1908, provided a detailed pathological account in 11 amputated
+limbs.<sup><xref rid="bibr1-26330040211070295" ref-type="bibr">1</xref></sup> Buerger&#8217;s disease predominantly develops in young to
+middle-aged male tobacco users,<sup><xref rid="bibr2-26330040211070295" ref-type="bibr">2</xref>,<xref rid="bibr3-26330040211070295" ref-type="bibr">3</xref></sup> and most investigators
+agree that exposure to tobacco, whether firsthand or secondhand, is a
+prerequisite for development of the disease.<sup><xref rid="bibr4-26330040211070295" ref-type="bibr">4</xref></sup> In a recent Japanese study,
+however, up to 8% of patients identified as never smokers. Never smoker patients
+tended to present with milder symptoms, but as objective nicotine testing was
+not performed, this population may represent patients with an unrecognized
+milder secondhand exposure to tobacco.<sup><xref rid="bibr5-26330040211070295" ref-type="bibr">5</xref></sup> In the United States,
+incidence of Buerger&#8217;s disease has been declining alongside smoking rates and is
+now estimated as 12.6&#8211;20 per 100,000 people.<sup><xref rid="bibr6-26330040211070295" ref-type="bibr">6</xref></sup> In parts of Asia and the
+Far and Middle East, however, the disease is much more prevalent.<sup><xref rid="bibr6-26330040211070295" ref-type="bibr">6</xref></sup> In India,
+for example, between 45% and 63% of patients with peripheral arterial disease
+(PAD) are suspected of having Buerger&#8217;s disease, while in Korea and Japan,
+Buerger&#8217;s disease represents 16&#8211;66% of PAD cases.<sup><xref rid="bibr2-26330040211070295" ref-type="bibr">2</xref>,<xref rid="bibr4-26330040211070295" ref-type="bibr">4</xref>,<xref rid="bibr6-26330040211070295" ref-type="bibr">6</xref></sup></p></sec><sec id="section4-26330040211070295"><title>Clinical features</title><p>Buerger&#8217;s disease presents with ischemic symptoms of the distal upper and, more
+commonly, lower extremities. While the disease can progress proximally,
+involvement of large arteries is rare, especially in the absence of small vessel
+disease.<sup><xref rid="bibr6-26330040211070295" ref-type="bibr">6</xref></sup> Typical symptoms are claudication of the hands, arms,
+feet, or legs, with severe disease leading to rest pain and ulceration. More
+than one limb is often affected. In a series of 112 patients with Buerger&#8217;s
+disease, 85 of whom had ischemic ulcerations, 28% had upper extremity, 46% lower
+extremity, and 26% both upper and lower extremity lesions.<sup><xref rid="bibr7-26330040211070295" ref-type="bibr">7</xref></sup></p><p>Patients with ischemic ulcerations are at risk of developing chronic nonhealing
+wounds with superimposed infection that may ultimately require amputation.
+Compared with patients with critical limb ischemia (CLI) due to atherosclerotic
+PAD, patients with Buerger&#8217;s disease tend to present at younger age and with
+fewer comorbidities. As such, overall survival remains favorable. However,
+vascular events are common and represent a significant source of morbidity for
+this population. In a 2018 study of 224 patients with Buerger&#8217;s disease treated
+in France between 1970 and 2016, 5-, 10-, and 15-year vascular event-free
+survival was 41%, 23%, and 19% and amputation-free survival was 85%, 74%, and
+66%.<sup><xref rid="bibr8-26330040211070295" ref-type="bibr">8</xref></sup> Limb infection and nonwhite race conferred additional risk
+for vascular complications, and conversely, patients who quit using tobacco had
+lower risk of amputation that those who continued.</p></sec><sec id="section5-26330040211070295"><title>Pathophysiology</title><p>In contrast to atherosclerotic PAD, endarteritis in Buerger&#8217;s disease is
+nonatherosclerotic by definition and can affect both arteries and veins.
+Pathologically, Buerger&#8217;s disease progresses in three distinct phases. In the
+acute phase, the most diagnostic, a hypercellular inflammatory infiltrate
+accumulates within the vessel lumen. Vascular inflammation fosters a local
+prothrombotic state which leads to vaso-occlusion and then microabscess
+formation. Subacutely, granulomatous inflammation develops, and the thrombus is
+reorganized and recanalized. As the thrombus matures chronically, vascular
+fibrosis ensues, leaving a stenotic arterial lumen that clinically mimics
+lesions of atherosclerosis (<xref rid="fig1-26330040211070295" ref-type="fig">Figure 1</xref>).<sup><xref rid="bibr2-26330040211070295" ref-type="bibr">2</xref></sup></p><fig position="float" id="fig1-26330040211070295" orientation="portrait"><label>Figure 1.</label><caption><p>Pathogenesis of atherosclerotic PAD and Buerger&#8217;s disease. Prolonged
+exposure to atherosclerotic risk factors leads to plaque formation and
+arterial stenoses in atherosclerotic PAD. In Buerger&#8217;s disease, tobacco
+smoking triggers an inflammatory response in susceptible individuals
+leading to progressive thrombosis and fibrosis of small and medium-sized
+vessels. Both disease processes lead to luminal stenosis and
+location-dependent symptoms of tissue ischemia. Despite
+revascularization attempts, many patients with chronic nonhealing wounds
+develop gangrenous changes and superimposed infection which necessitate
+amputation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_26330040211070295-fig1.jpg"/></fig><p>While tobacco exposure is central to disease onset and continuation, the precise
+mechanisms of disease initiation remain unknown. Genetic predisposition
+certainly plays a role as several polymerase chain reaction (PCR)-based studies
+have identified specific human leukocyte antigen (HLA) class I and II alleles
+associated with increased odds of developing Buerger&#8217;s disease.<sup><xref rid="bibr9-26330040211070295" ref-type="bibr">9</xref>
+<xref rid="bibr10-26330040211070295" ref-type="bibr"/>&#8211;<xref rid="bibr11-26330040211070295" ref-type="bibr">11</xref></sup> In susceptible
+individuals, exposure to tobacco may incite an aberrant immune reaction toward
+endothelium via toll-like receptor (TLR) signaling and the TLR-MyD88-NF&#954;B
+pathway.<sup><xref rid="bibr12-26330040211070295" ref-type="bibr">12</xref></sup> Serologic analyses have also found increased levels of
+circulating pro-inflammatory (IL-1&#946;, TNF-&#945;, and IL-6), type 1 helper cell (IFN-&#947;
+and IL-12), and type 2 helper cell cytokine profiles (IL-4, IL-5, and IL-13) in
+patients with Buerger&#8217;s disease, as well as those of type 17 helper cells (IL-17
+and IL-23) which are strongly associated with autoimmunity.<sup><xref rid="bibr13-26330040211070295" ref-type="bibr">13</xref></sup></p></sec><sec id="section6-26330040211070295"><title>Diagnosis</title><p>Careful history-taking and physical examination are critical for identifying
+Buerger&#8217;s disease. Diagnostic criteria by Shionoya<sup><xref rid="bibr14-26330040211070295" ref-type="bibr">14</xref></sup> and Olin<sup><xref rid="bibr4-26330040211070295" ref-type="bibr">4</xref></sup> and a
+scoring system by Papa <italic toggle="yes">et al.</italic><sup><xref rid="bibr15-26330040211070295" ref-type="bibr">15</xref></sup> all utilize common
+elements including history of tobacco use, onset before the age of 45&#8211;50 years,
+documentation of peripheral vascular disease by noninvasive or angiographic
+imaging, and exclusion of other etiologies, such as atherosclerosis, proximal
+embolic source, hypercoagulable state, diabetes, and autoimmune
+disorders.<sup><xref rid="bibr4-26330040211070295" ref-type="bibr">4</xref>,<xref rid="bibr14-26330040211070295" ref-type="bibr">14</xref>
+<xref rid="bibr15-26330040211070295" ref-type="bibr"/><xref rid="bibr16-26330040211070295" ref-type="bibr"/>&#8211;<xref rid="bibr17-26330040211070295" ref-type="bibr">17</xref></sup> Workup for Buerger&#8217;s
+disease should focus on ruling out other disease processes with similar
+presenting signs and symptoms. Routine laboratory tests, including complete
+blood count with differential, renal and liver function tests, erythrocyte
+sedimentation rate, and C-reactive protein levels are indicated, as well as
+markers of certain autoimmune conditions, notably rheumatoid factor (rheumatoid
+arthritis and vasculitis), antinuclear antibody (systemic lupus erythematosus,
+SLE), anticentromere antibody (CREST syndrome: calcinosis, Raynaud&#8217;s phenomenon,
+esophageal dysmotility, sclerodactyly, telangiectasia), and serum
+antitopoisomerase (scleroderma). Hypercoagulability screening is also indicated
+given the pathogenic role of thrombosis in this disease.</p><p>Angiographic evaluation can provide both diagnostic information and, in select
+cases, opportunity for therapeutic intervention. Characteristic angiographic
+findings include segmental stenoses or occlusions of the small- and medium-sized
+arteries distal to the brachial and popliteal arteries in the arms and legs,
+respectively. As such, the vessels most commonly involved are the palmar,
+radial, ulnar, and digital arteries in the upper extremities and the plantar,
+tibial, and peroneal arteries in the lower extremities. Corkscrew collaterals,
+known as Martorell&#8217;s sign, can reflect compensatory changes in the vasa vasorum,
+although similar changes may be observed in other autoimmune vasculitides and
+connective tissue disorders.<sup><xref rid="bibr4-26330040211070295" ref-type="bibr">4</xref>,<xref rid="bibr18-26330040211070295" ref-type="bibr">18</xref></sup></p></sec><sec id="section7-26330040211070295"><title>Burden of disease</title><p>Failure of medical and surgical treatment in Buerger&#8217;s disease is multifactorial.
+Smoking cessation remains the mainstay of treatment, and those unable to do so
+are at increased risk of persistent disease and complications from surgical
+interventions. In addition, some patients present with late-stage, irreversible
+features such as digital gangrene which cannot be ameliorated by limb
+reperfusion. Given the autoimmune nature of this disease, individual variations
+in genetic and environmental background may also predispose certain patients to
+recurrent disease. In some cases, tissue loss may be severe enough to require
+amputation of the affected digit or limb. The risk of any amputation has been
+reported as 25% at 5 years, 38% at 10 years, and 46% at 20 years, and that of
+major amputation (above-the-knee, below-the-knee, or hand amputation) as 11% at
+5 years, 21% at 10 years, and 23% at 20 years.<sup><xref rid="bibr19-26330040211070295" ref-type="bibr">19</xref></sup> Patients undergoing
+amputation for gangrene or infection often face impaired mobility, reduced
+quality of life and psychosocial well-being, and increased healthcare costs. One
+study reported that 85% of patients with Buerger&#8217;s disease who underwent major
+lower limb amputation lost their jobs compared with 9% of those who did not
+require amputation.<sup><xref rid="bibr20-26330040211070295" ref-type="bibr">20</xref></sup> Compared with a matched US population, patients with
+Buerger&#8217;s disease also had worse overall survival with average lifespan of 52.2
+years. These findings highlight that despite earlier age and fewer comorbidities
+at presentation compared with patients with atherosclerotic PAD, patients with
+Buerger&#8217;s disease still face significant disease-related morbidity.</p></sec><sec id="section8-26330040211070295"><title>Current medical therapy</title><p>Cessation of all tobacco use remains the most important intervention in Buerger&#8217;s
+disease but substituting for smokeless tobacco does not appear to prevent limb
+loss.<sup><xref rid="bibr21-26330040211070295" ref-type="bibr">21</xref></sup> Various pharmacological treatments have been used in the
+care of patients with Buerger&#8217;s disease, including anticoagulants,
+thrombolytics, vasodilators, and anti-inflammatory drugs; however, most of these
+therapies are ineffective. A recent <italic toggle="yes">Cochrane</italic> meta-analysis of
+five randomized controlled trials (RCTs) with a total of 602 patients evaluated
+the efficacy of several intravenous and oral therapies in treating Buerger&#8217;s
+disease.<sup><xref rid="bibr22-26330040211070295" ref-type="bibr">22</xref></sup> Compared with aspirin, intravenous iloprost, a
+prostacyclin (PGI2) analogue, was effective in healing ulcers and eradicating
+rest pain after 28 days of treatment but had no effect on amputation rate 6
+months after treatment.<sup><xref rid="bibr22-26330040211070295" ref-type="bibr">22</xref>,<xref rid="bibr23-26330040211070295" ref-type="bibr">23</xref></sup> In addition, there was no difference in ulcer healing
+rate between prostacyclin (iloprost and clinprost) and prostaglandin
+(alprostadil) analogues, and oral iloprost was no more effective than placebo
+for healing of ischemic ulcers and resolution of rest pain.<sup><xref rid="bibr22-26330040211070295" ref-type="bibr">22</xref>,<xref rid="bibr24-26330040211070295" ref-type="bibr">24</xref></sup> Outcomes
+data from these studies remain limited as none of the trials evaluated
+amputation-free survival, pain-free walking distance, or ankle-brachial indices
+(ABI).</p></sec><sec id="section9-26330040211070295"><title>Current surgical therapy</title><p>Surgical treatment of Buerger&#8217;s disease is limited by the small caliber of
+peripheral vessels typically involved. While angiography may be performed for
+diagnostic purposes, the affected arteries are often too small to access for
+angioplasty. In recent series, however, outcomes following percutaneous
+transluminal angioplasty (PTA) have been more favorable with technical success
+and limb salvage rates as high as 92&#8211;96% and 92&#8211;100%, respectively.<sup><xref rid="bibr25-26330040211070295" ref-type="bibr">25</xref>
+<xref rid="bibr26-26330040211070295" ref-type="bibr"/><xref rid="bibr27-26330040211070295" ref-type="bibr"/>&#8211;<xref rid="bibr28-26330040211070295" ref-type="bibr">28</xref></sup> Although reintervention
+is required in approximately 30% of endovascular cases,<sup><xref rid="bibr25-26330040211070295" ref-type="bibr">25</xref></sup> outcomes
+following open vascular reconstruction are significantly worse, partially due to
+lack of suitable venous conduits. In a retrospective study of 110 patients with
+Buerger&#8217;s disease, primary graft patency was 41% at 1 year, 32% at 5 years, and
+30% at 10 years for 46 bypasses performed.<sup><xref rid="bibr20-26330040211070295" ref-type="bibr">20</xref></sup> Secondary graft patency
+was 54% at 1 year, 47% at 5 years, and 39% at 10 years. All bypasses with
+prosthetic, bovine, or composite grafts were occluded within 10 months and, in
+patients with failed grafts, amputation was required in 5 of 35 limbs (14%). In
+inoperable cases, lumbar sympathectomy is sometimes offered to help reduce pain
+and increase perfusion via vasodilatory effect. However, the only RCT evaluating
+sympathectomy in Buerger&#8217;s disease found inferior benefit for pain relief and
+wound healing compared with intravenous iloprost.<sup><xref rid="bibr29-26330040211070295" ref-type="bibr">29</xref></sup></p></sec></sec><sec id="section10-26330040211070295"><title>Therapeutic angiogenesis</title><p>Other than smoking cessation, standard medical and surgical therapies for Buerger&#8217;s
+disease remain limited. In parallel, as many as 25&#8211;40% of patients with CLI due to
+atherosclerotic PAD are no longer eligible for or have failed prior
+revascularization attempts.<sup><xref rid="bibr30-26330040211070295" ref-type="bibr">30</xref></sup> As such, both for Buerger&#8217;s disease and no-option CLI
+patients, alternative methods of improving limb perfusion are needed. With this goal
+in mind, significant research efforts have been made in developing gene and
+cell-based therapies to promote neovascularization in ischemic tissues, otherwise
+referred to as therapeutic angiogenesis. The term neovascularization encompasses all
+types of new blood vessel formation. In response to tissue hypoxia, endothelial
+cells (ECs) may be stimulated to sprout capillaries from pre-existing vessels
+(angiogenesis) or recruited from a pool of circulating stem and progenitor cells
+(vasculogenesis) to areas in need of new blood vessels (<xref rid="fig2-26330040211070295" ref-type="fig">Figure 2</xref>).<sup><xref rid="bibr31-26330040211070295" ref-type="bibr">31</xref></sup> In contrast, arteriogenesis
+refers to collateral formation in response to arterial occlusion and resulting shear
+stress forces. Arteriogenesis therefore plays an important role in compensating for
+large vessel occlusion seen in atherosclerotic PAD, but vascular remodeling
+secondary to small vessel disease, such as that in Buerger&#8217;s disease, relies
+primarily on angiogenesis and vasculogenesis.</p><fig position="float" id="fig2-26330040211070295" orientation="portrait"><label>Figure 2.</label><caption><p>Sequence of events in angiogenesis and points of action of various angiogenic
+therapies. Tissue hypoxia, ischemia, and injury lead to the release of
+pro-inflammatory cytokines from stromal cells. Activated endothelium
+expresses a variety of CAMs via HIF-1 and other response pathways to recruit
+EPCs necessary for vasculogenesis and MSCs that support the local tissue
+microenvironment. Stromal cells secrete VEGF and other growth factors to
+stimulate tip cell selection and migration, key steps in angiogenesis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_26330040211070295-fig2.jpg"/></fig><p>Stem and progenitor cells include endothelial progenitor cells (EPCs) that directly
+contribute to blood vessel formation and mesenchymal stem cells (MSCs) that
+influence the local stromal environment and support angiogenesis via paracrine
+secretion of growth factors and cytokines/chemokines. In 1997, putative EPCs were
+first characterized as CD34<sup>+</sup>/KDR<sup>+</sup> (CD34, marker of
+stemness/immaturity; KDR, vascular endothelial growth factor receptor-2 (VEGFR2),
+marker of endothelial commitment).<sup><xref rid="bibr32-26330040211070295" ref-type="bibr">32</xref></sup> EPCs arise from a heterogenic
+pool of CD133<sup>+</sup> hemangioblasts that may differentiate into endothelial or
+myeloid lineages.<sup><xref rid="bibr33-26330040211070295" ref-type="bibr">33</xref></sup> MSCs, however, are multipotent cells present in bone marrow,
+adipose tissue, and the umbilical cord that may differentiate into various
+connective tissue cells, including adipocytes, osteoblasts, myocytes, and
+chondrocytes.</p><p>In Buerger&#8217;s disease, angiogenic potential is uniquely altered compared with
+otherwise healthy smoker and nonsmoker patients. In a study comparing circulating
+progenitor cells and angiogenic factor levels in these groups, both smokers and
+patients with Buerger&#8217;s disease exhibited a decrease in the heterogenic pool of
+circulating CD45<sup>+</sup>/CD34<sup>+</sup> progenitor cells. In Buerger&#8217;s disease
+only, however, the number of endothelial-specific progenitor cells remained
+comparable with healthy nonsmokers. Interestingly, despite similar levels of
+angiogenic factors (vascular endothelial growth factor (VEGF), angiopoietin-1
+(ANG-1), endoglin, endostatin, matrix metalloproteinase-8 (MMP-8)), only serum from
+patients with Buerger&#8217;s disease impaired migration, sprouting, and proliferation of
+human umbilical vein endothelial cells (HUVECs) <italic toggle="yes">in vitro</italic>.<sup><xref rid="bibr34-26330040211070295" ref-type="bibr">34</xref></sup> In contrast,
+another study found reduced number of EPCs in patients with Buerger&#8217;s disease and
+smokers, but no differences in endothelial cell function compared with healthy
+nonsmokers.<sup><xref rid="bibr35-26330040211070295" ref-type="bibr">35</xref></sup> These contradictory findings highlight the poorly
+understood relationship between tobacco use, endothelial cell function, and EPC
+viability, but do suggest unique differences in angiogenic potential in patients
+with Buerger&#8217;s disease compared with smoker and nonsmoker controls.</p></sec><sec id="section11-26330040211070295"><title>Gene therapies</title><p>In response to tissue hypoperfusion, angiogenic factors such as VEGF, ANG-1,
+fibroblast growth factor (FGF), and various cytokines/chemokines are released by
+inflammatory cells, thereby initiating a paracrine signaling cascade that leads to
+pericyte detachment, endothelial permeabilization, and endothelial cell
+migration.<sup><xref rid="bibr36-26330040211070295" ref-type="bibr">36</xref></sup> Given their pivotal role in angiogenesis, inducing
+overexpression of such factors in ischemic tissue is a logical therapeutic approach.
+To date, angiogenic factors have primarily been administered as naked DNA plasmids
+encoding the respective gene of interest or DNA packaged with a viral gene delivery
+vector. Given the higher prevalence of CLI due to atherosclerosis rather than
+Buerger&#8217;s disease, many clinical trials of therapeutic angiogenesis have primarily
+enrolled patients with atherosclerotic PAD. Nevertheless, results from these studies
+are valuable and, in several cases, patients with Buerger&#8217;s disease are specifically
+recruited in trials and included in analyses (<xref rid="table1-26330040211070295" ref-type="table">Table 1</xref>).</p><table-wrap position="float" id="table1-26330040211070295" orientation="portrait"><label>Table 1.</label><caption><p>Clinical trials of gene therapy in Buerger&#8217;s disease and atherosclerotic
+PAD/CLI.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_26330040211070295-table1.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Study</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">Phase</th><th align="left" rowspan="1" colspan="1">Gene</th><th align="left" rowspan="1" colspan="1">Vector (delivery)</th><th align="left" rowspan="1" colspan="1">Population (<italic toggle="yes">N</italic>)</th><th align="left" rowspan="1" colspan="1">Outcomes</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Baumgartner <italic toggle="yes">et al.</italic><sup><xref rid="bibr40-26330040211070295" ref-type="bibr">40</xref></sup></td><td rowspan="1" colspan="1">1998</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (9)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing, vascularity on DSA/MRA</td></tr><tr><td rowspan="1" colspan="1">Isner <italic toggle="yes">et al.</italic><sup><xref rid="bibr41-26330040211070295" ref-type="bibr">41</xref></sup></td><td rowspan="1" colspan="1">1998</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">BD (6)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing, vascularity on DSA/MRA</td></tr><tr><td rowspan="1" colspan="1">M&#228;kinen <italic toggle="yes">et al.</italic><sup><xref rid="bibr44-26330040211070295" ref-type="bibr">44</xref></sup></td><td rowspan="1" colspan="1">2002</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">pDNA and Adeno (IA)</td><td rowspan="1" colspan="1">PAD/CLI (17 plasmid, 18 Adeno, 19 placebo)</td><td rowspan="1" colspan="1">&#8593; Vascularity on DSA</td></tr><tr><td rowspan="1" colspan="1">Shyu <italic toggle="yes">et al.</italic><sup><xref rid="bibr42-26330040211070295" ref-type="bibr">42</xref></sup></td><td rowspan="1" colspan="1">2003</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (17)<break/>BD (4)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing, vascularity on DSA<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Kim <italic toggle="yes">et al.</italic><sup><xref rid="bibr43-26330040211070295" ref-type="bibr">43</xref></sup></td><td rowspan="1" colspan="1">2004</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">BD (7)<break/>ASO (2)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing, vascularity on DSA<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Kusumanto <italic toggle="yes">et al.</italic><sup><xref rid="bibr45-26330040211070295" ref-type="bibr">45</xref></sup></td><td rowspan="1" colspan="1">2006</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI and DM<break/>(27 plasmid, 27 placebo)</td><td rowspan="1" colspan="1">&#8593; Wound healing<break/>No change in amputation rate</td></tr><tr><td rowspan="1" colspan="1">Rajagopalan <italic toggle="yes">et al.</italic><sup><xref rid="bibr61-26330040211070295" ref-type="bibr">61</xref></sup></td><td rowspan="1" colspan="1">2003</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">VEGF</italic>
+</td><td rowspan="1" colspan="1">Adeno (IM)</td><td rowspan="1" colspan="1">PAD/claudication (32 low dose, 40 high dose, 33 placebo)</td><td rowspan="1" colspan="1">No improvement in peak walking time, ABI, QOL</td></tr><tr><td rowspan="1" colspan="1">Morishita <italic toggle="yes">et al.</italic><sup><xref rid="bibr49-26330040211070295" ref-type="bibr">49</xref></sup></td><td rowspan="1" colspan="1">2004</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">BD (3)<break/>ASO (3)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Powell <italic toggle="yes">et al.</italic><sup><xref rid="bibr53-26330040211070295" ref-type="bibr">53</xref></sup></td><td rowspan="1" colspan="1">2008</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (26 low dose, 25 middle dose, 27 high dose, 26
+placebo)</td><td rowspan="1" colspan="1">&#8593; TcPO<sub>2</sub> for high dose<break/>No difference in ABI,
+wound healing, major amputation, or death</td></tr><tr><td rowspan="1" colspan="1">Powell <italic toggle="yes">et al.</italic><sup><xref rid="bibr54-26330040211070295" ref-type="bibr">54</xref></sup></td><td rowspan="1" colspan="1">2010</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (21 plasmid, 6 placebo)</td><td rowspan="1" colspan="1">&#8593; TBI<break/>&#8595; Rest pain<break/>No difference in amputation</td></tr><tr><td rowspan="1" colspan="1">Shigematsu <italic toggle="yes">et al.</italic><sup><xref rid="bibr55-26330040211070295" ref-type="bibr">55</xref></sup></td><td rowspan="1" colspan="1">2010</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (27 plasmid, 13 placebo)</td><td rowspan="1" colspan="1">&#8593; Combined endpoint of wound healing/rest pain<break/>No
+difference in ABI</td></tr><tr><td rowspan="1" colspan="1">Morishita <italic toggle="yes">et al.</italic><sup><xref rid="bibr50-26330040211070295" ref-type="bibr">50</xref></sup></td><td rowspan="1" colspan="1">2011</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">ASO (14)<break/>BD (8)</td><td rowspan="1" colspan="1">Tolerated</td></tr><tr><td rowspan="1" colspan="1">Makino <italic toggle="yes">et al.</italic><sup><xref rid="bibr51-26330040211070295" ref-type="bibr">51</xref></sup></td><td rowspan="1" colspan="1">2012</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">ASO (14)<break/>BD (8)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Morishita <italic toggle="yes">et al.</italic><sup><xref rid="bibr52-26330040211070295" ref-type="bibr">52</xref></sup></td><td rowspan="1" colspan="1">2020</td><td rowspan="1" colspan="1">III</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI and BD (27 plasmid, 6 placebo)</td><td rowspan="1" colspan="1">&#8593; Wound healing<break/>&#8595; Rest pain in DM</td></tr><tr><td rowspan="1" colspan="1">Comerota <italic toggle="yes">et al.</italic><sup><xref rid="bibr58-26330040211070295" ref-type="bibr">58</xref></sup></td><td rowspan="1" colspan="1">2002</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">FGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (51 treated, 15 analyzed)</td><td rowspan="1" colspan="1">&#8593; ABI, TcPO<sub>2</sub>, wound healing<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Nikol <italic toggle="yes">et al.</italic><sup><xref rid="bibr59-26330040211070295" ref-type="bibr">59</xref></sup></td><td rowspan="1" colspan="1">2008</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">
+<italic toggle="yes">FGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (59 plasmid, 66 placebo)</td><td rowspan="1" colspan="1">&#8595; Amputation rate<break/>No difference in wound healing</td></tr><tr><td rowspan="1" colspan="1">Belch <italic toggle="yes">et al.</italic><sup><xref rid="bibr60-26330040211070295" ref-type="bibr">60</xref></sup></td><td rowspan="1" colspan="1">2011</td><td rowspan="1" colspan="1">III</td><td rowspan="1" colspan="1">
+<italic toggle="yes">FGF</italic>
+</td><td rowspan="1" colspan="1">pDNA (IM)</td><td rowspan="1" colspan="1">PAD/CLI (259 plasmid, 266 placebo)</td><td rowspan="1" colspan="1">No difference in major amputation</td></tr><tr><td rowspan="1" colspan="1">Rajagopalan <italic toggle="yes">et al.</italic><sup><xref rid="bibr62-26330040211070295" ref-type="bibr">62</xref></sup></td><td rowspan="1" colspan="1">2007</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">
+<italic toggle="yes">HIF-1&#945;</italic>
+</td><td rowspan="1" colspan="1">Adeno (IM)</td><td rowspan="1" colspan="1">PAD/CLI (28)</td><td rowspan="1" colspan="1">No difference in amputation or death</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-26330040211070295"><p>ABI, ankle-brachial index; Adeno, adenoviral; ASO, arteriosclerosis
+obliterans; BD, Buerger&#8217;s disease; CLI, critical limb ischemia; DM,
+diabetes mellitus; DSA, digital subtraction angiography; FGF, fibroblast
+growth factor; HGF, hepatocyte growth factor; HIF-1&#945;, hypoxia-inducible
+factor 1&#945;; IA, intra-arterial; IM, intramuscular; MRA, magnetic
+resonance angiography; PAD, peripheral arterial disease; pDNA, plasmid
+DNA; QOL, quality of life; TBI, toe-brachial index; TcPO<sub>2</sub>,
+transcutaneous oxygen pressure; VEGF, vascular endothelial growth
+factor.</p></fn></table-wrap-foot></table-wrap><sec id="section12-26330040211070295"><title>Vascular endothelial growth factor</title><p>In the 1970s, Folkman hypothesized the existence of a soluble mediator of tumor
+angiogenesis,<sup><xref rid="bibr37-26330040211070295" ref-type="bibr">37</xref></sup> and in 1989, Ferrara and Henzel isolated the factor now
+known as VEGF in media conditioned by pituitary follicular cells.<sup><xref rid="bibr38-26330040211070295" ref-type="bibr">38</xref></sup> VEGF
+expression is critical for embryonic development and postnatal
+neovascularization. Preclinical studies in rabbits provided early evidence that
+VEGF gene therapy can enhance angiogenesis following induction of hindlimb
+ischemia.<sup><xref rid="bibr39-26330040211070295" ref-type="bibr">39</xref></sup> In 1998, Baumgartner <italic toggle="yes">et al.</italic><sup><xref rid="bibr40-26330040211070295" ref-type="bibr">40</xref></sup>
+subsequently published a phase I trial of intramuscular (IM) administration of
+naked DNA plasmid encoding the 165-amino-acid soluble isoform of human VEGF
+(phVEGF<sub>165</sub>) in 10 limbs of nine patients with CLI and nonhealing
+ulcers. Mean ABI improved from 0.33 to 0.48, ischemic ulcers improved in four of
+seven limbs, and three patients originally recommended for below-knee amputation
+achieved limb salvage. An additional seven limbs in six patients with Buerger&#8217;s
+disease were treated in a separate study with similar results: an increase in
+ABI of 0.10 in four of five patients with baseline ABI &lt;0.60, improved
+angiographic findings, and salvage of six of seven limbs.<sup><xref rid="bibr41-26330040211070295" ref-type="bibr">41</xref></sup></p><p>Following Isner and Baumgartner&#8217;s pioneering work, several other studies of
+VEGF-based gene therapy emerged. In 2003, Shyu <italic toggle="yes">et al.</italic><sup><xref rid="bibr42-26330040211070295" ref-type="bibr">42</xref></sup> published
+their experience with phVEGF<sub>165</sub> in 24 limbs of 21 patients with rest
+pain, 16 of whom also had nonhealing ulcers. Mean ABI improved from 0.58 to
+0.72, ischemic ulcers improved in 75% of cases, and rest pain was relieved in
+83% of patients. In a 2004 dose-finding study of IM VEGF<sub>165</sub> in nine
+patients with debilitating PAD, seven of whom had Buerger&#8217;s disease, mean ABI
+improved from 0.52 at baseline to 0.71 and 0.69 at 3 and 9 months
+posttreatment.<sup><xref rid="bibr43-26330040211070295" ref-type="bibr">43</xref></sup> Of the seven patients with ischemic ulcers, two had
+complete resolution and another two had improvement in ulcer size. Digital
+subtraction angiography (DSA) also demonstrated increased collateral density in
+six of nine patients at 3 months posttreatment and ischemic pain improved in
+most patients. Of note, both studies reported transient leg edema in six of 24
+limbs and three of nine patients, respectively.</p><p>In randomized studies, VEGF-based plasmid therapy has yielded more modest
+benefit. In 2002, M&#228;kinen <italic toggle="yes">et al.</italic><sup><xref rid="bibr44-26330040211070295" ref-type="bibr">44</xref></sup> published a trial of
+intra-arterial (IA) <italic toggle="yes">VEGF</italic> gene therapy administered at time of
+angioplasty either as naked plasmid or adenoviral vector. Three months after
+treatment, DSA revealed improved vascularity in both VEGF-treated groups
+compared with placebo, but there were no significant difference in hemodynamic
+parameters or amputation rate. In a RCT of phVEGF<sub>165</sub> in 54 diabetic
+patients with CLI, Kusumanto <italic toggle="yes">et al.</italic><sup><xref rid="bibr45-26330040211070295" ref-type="bibr">45</xref></sup> found that 33% of
+patients in the treatment group had a &gt;60% decrease in ulcer surface compared
+with none of the patients in the control group; however, there was no
+significant difference in major amputation rate at 100 days. Altogether, these
+results indicate that VEGF therapy may improve wound healing rate with increase
+in ABI on the order of 0.1 but no definitive clinical efficacy with regard to
+amputation rate.</p></sec><sec id="section13-26330040211070295"><title>Hepatocyte growth factor</title><p>Hepatocyte growth factor (HGF) is secreted from stromal cells and acts via its
+target receptor, cMet, on smooth muscle cells, fibroblasts, and ECs.<sup><xref rid="bibr46-26330040211070295" ref-type="bibr">46</xref></sup> As a
+potent mitogen, HGF stimulates proliferation, motility, and morphogenesis of
+these cells via paracrine and autocrine effects. In contrast to VEGF and FGF,
+HGF also exerts anti-inflammatory and antifibrotic effects by means of epidermal
+growth factor receptor (EGFR) downregulation.<sup><xref rid="bibr46-26330040211070295" ref-type="bibr">46</xref>,<xref rid="bibr47-26330040211070295" ref-type="bibr">47</xref></sup> Interest in HGF-based
+angiogenic therapies stemmed from preclinical studies of HGF plasmid
+transfection in rabbit and rat ischemia models that showed dose-dependent
+increases in blood flow following treatment.<sup><xref rid="bibr48-26330040211070295" ref-type="bibr">48</xref></sup> In a subsequent trial of
+<italic toggle="yes">HGF</italic> gene therapy in six patients with CLI secondary to
+arteriosclerosis obliterans (ASO) and Buerger&#8217;s disease who were not candidates
+for surgical revascularization,<sup><xref rid="bibr49-26330040211070295" ref-type="bibr">49</xref></sup> ABI improved from 0.43 at
+baseline to 0.63 at 4 weeks and 0.60 at 8 weeks.</p><p>In 2011, Morishita <italic toggle="yes">et al.</italic><sup><xref rid="bibr50-26330040211070295" ref-type="bibr">50</xref></sup> published their initial
+findings of <italic toggle="yes">HGF</italic> gene transfer in 22 patients with CLI. ABI
+increased from 0.44 at baseline to 0.59 at 2 months and 0.65 at 6 months.
+Walking distance also improved in all seven patients with severe claudication
+and ulcer size decreased in 63.6% of patients with wounds. Treatment effect was
+sustained in the 14 patients evaluated at 2-year follow-up as ABI remained
+significantly elevated to 0.61.<sup><xref rid="bibr51-26330040211070295" ref-type="bibr">51</xref></sup> Importantly, no adverse
+events related to the treatment were reported. In a follow-up analysis of all
+Japanese trials, Morishita <italic toggle="yes">et al.</italic> reported that HGF therapy was
+associated with improved wound healing, including complete ulcer resolution at
+12 weeks in 48% of treated patients compared with 17% for placebo group. Rest
+pain was also significantly improved but only in patients with Buerger&#8217;s disease
+and diabetes.<sup><xref rid="bibr52-26330040211070295" ref-type="bibr">52</xref></sup></p><p>Placebo-controlled studies have confirmed some positive effects of HGF therapy
+but failed to show benefit for other important clinical endpoints. In 2008,
+Powell <italic toggle="yes">et al.</italic><sup><xref rid="bibr53-26330040211070295" ref-type="bibr">53</xref></sup> reported that high-dose
+(4 mg IM at 0, 14, and 28 days) HGF plasmid therapy increased transcutaneous
+oxygen pressure (TcPO<sub>2</sub>) in 100 patients with CLI and screening
+TcPO<sub>2</sub>&#8196;&lt;&#8196;40 mmHg. However, there were no differences in ABI,
+toe-brachial index (TBI), ulcer healing rate, or major amputation rate at 6
+months. In a follow-up phase II study, the same group showed that TBI and pain
+were significantly improved after HGF therapy in 21 patients with CLI compared
+with six subjects assigned to placebo.<sup><xref rid="bibr54-26330040211070295" ref-type="bibr">54</xref></sup> However, wound healing,
+amputation, and mortality rates were no different between the two groups.
+Another randomized study of HGF plasmid injection in CLI found improved ulcer
+size or rest pain in 70.4% of treated patients compared with 30.8% in placebo
+group but no significant difference in change of ABI at 12 weeks between the two
+groups.<sup><xref rid="bibr55-26330040211070295" ref-type="bibr">55</xref></sup> In all trials, HGF therapy demonstrated favorable
+safety profile without significant treatment-related adverse events or cases of
+peripheral edema as seen with VEGF therapy.</p></sec><sec id="section14-26330040211070295"><title>Fibroblast growth factor</title><p>FGF comprises a family of growth factors and signaling proteins that exert
+mitogenic effects on a variety of cell types, thereby playing a role in
+organogenesis and angiogenesis. FGF exists in two major forms, acidic FGF
+(FGF-1) and basic FGF (FGF-2). In preclinical studies, both FGF-1 and FGF-2 were
+able to improve limb revascularization in hamster and rabbit models of hindlimb
+ischemia, respectively.<sup><xref rid="bibr56-26330040211070295" ref-type="bibr">56</xref>,<xref rid="bibr57-26330040211070295" ref-type="bibr">57</xref></sup> An early pilot study of nonviral FGF-1 (NV1FGF) in 51
+patients with inoperable CLI found that therapy was well-tolerated and
+associated with reduced pain and ulcer size and increased TcPO<sub>2</sub> and
+ABI compared with pretreatment values.<sup><xref rid="bibr58-26330040211070295" ref-type="bibr">58</xref></sup> Subsequently, the phase 2
+TALISMAN trial randomized 107 patients with no-option CLI and nonhealing ulcers
+to NV1FGF or placebo. While ulcer healing rate, the primary endpoint, was no
+different between the two groups, NV1FGF did reduce risk of major and any
+amputation (hazard ratio (HR)&#8196;=&#8196;0.371 and 0.498, respectively).<sup><xref rid="bibr59-26330040211070295" ref-type="bibr">59</xref></sup> In
+contrast, the phase 3 TAMARIS study randomized 525 patients with inoperable CLI
+to NV1FGF or placebo and showed no difference in the combined primary endpoint,
+time to major amputation on the treated leg or death.<sup><xref rid="bibr60-26330040211070295" ref-type="bibr">60</xref></sup> This discrepancy
+regarding benefit of NV1FGF therapy on amputation rate may be explained by
+unequal amputation rates in the placebo groups of these studies, which was more
+than 50% in the initial TALISMAN study compared with 33% in the subsequent
+TAMARIS trial.</p></sec></sec><sec id="section15-26330040211070295"><title>Cell therapies</title><p>While angiogenic factors are logical targets for therapeutic angiogenesis, cell-based
+approaches provide another means of improving perfusion and wound healing in
+ischemic tissue. Mononuclear cell (MNC) fractions derived from bone marrow or
+peripheral blood contain cells of monocyte/macrophage lineage, as well as EPCs that
+can directly participate in vasculogenesis. MSCs, however, are multipotent stromal
+precursors that may differentiate into cells required for tissue regeneration, such
+as ECs for angiogenesis and fibroblasts for wound healing, but primarily function
+via paracrine mechanisms to prime the engrafted tissue for cell recruitment,
+migration, and differentiation. In preclinical studies, both MNCs and MSCs have been
+shown to induce neovascularization. For example, in a rat model of hindlimb
+ischemia, perfusion index was significantly increased 3 weeks after IM injection of
+either 5&#8196;&#215;&#8196;10<sup>6</sup> MSCs or MNCs compared with vehicle.<sup><xref rid="bibr63-26330040211070295" ref-type="bibr">63</xref></sup> Compared with
+MNCs, however, MSCs were better able to improve perfusion index and capillary
+density and were the only cell type capable of differentiation into vascular smooth
+muscle cells and ECs.</p><sec id="section16-26330040211070295"><title>MNC therapy</title><p>Findings from the above and other preclinical studies paved the way for clinical
+trials of cell-based therapeutics for patients with CLI due to atherosclerotic
+PAD and Buerger&#8217;s disease (<xref rid="table2-26330040211070295" ref-type="table">Table 2</xref>). In the Therapeutic Angiogenesis by Cell Transplantation
+(TACT) trial, 45 patients with bilateral lower limb ischemia received injection
+of bone marrow&#8211;derived MNCs (BM-MNCs) into the left or right gastrocnemius
+muscles and saline or peripheral blood MNCs (PB-MNCs) in the other limb as
+control treatment in a within-patient trial design.<sup><xref rid="bibr64-26330040211070295" ref-type="bibr">64</xref></sup> Compared with those
+receiving PB-MNCs, limbs treated with BM-MNCs demonstrated mean ABI increase of
+0.09. Improvements were also noted in TcPO<sub>2</sub> measurements, rest pain,
+new collateral formation, and pain-free walking time at 4 and 24 weeks
+posttreatment. Long-term follow-up of 115 patients from TACT showed that
+beneficial effects on pain, ulcer size, and pain-free walking distance were
+durable up to 2 years after therapy.<sup><xref rid="bibr65-26330040211070295" ref-type="bibr">65</xref></sup> Importantly, patients
+with Buerger&#8217;s disease fared better than those with atherosclerotic PAD: 3-year
+amputation-free survival was 91% in patients with Buerger&#8217;s disease compared
+with 60% in those with atherosclerotic PAD. Idei <italic toggle="yes">et
+al.</italic><sup><xref rid="bibr66-26330040211070295" ref-type="bibr">66</xref></sup> found similar differences in their nonrandomized study
+of BM-MNC transplantation in 51 patients with CLI, 26 of whom had Buerger&#8217;s
+disease. Four-year amputation-free survival for patients with Buerger&#8217;s disease
+was 95% after BM-MNC treatment and 6% in the control group, compared with 48%
+and 0%, respectively, for patients with atherosclerotic PAD. Consistently, in
+Buerger&#8217;s disease patients, ABI and TcPO<sub>2</sub> increased 1 month after
+treatment and remained elevated at 3-year follow-up, while in PAD patients,
+improvements in ABI and TcPO<sub>2</sub> observed at 1 month regressed to
+baseline on long-term follow-up. The more durable benefits observed in Buerger&#8217;s
+disease compared with atherosclerotic PAD may reflect the potentially reversible
+autoimmune nature of the former compared with the cumulative, and more
+permanent, plaque burden characteristic of the latter.</p><table-wrap position="float" id="table2-26330040211070295" orientation="portrait"><label>Table 2.</label><caption><p>Clinical trials of cell-based therapeutic angiogenesis in Buerger&#8217;s
+disease and atherosclerotic PAD/CLI.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_26330040211070295-table2.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Study</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">Phase</th><th align="left" rowspan="1" colspan="1">Cell preparation</th><th align="left" rowspan="1" colspan="1">Population (<italic toggle="yes">N</italic>)</th><th align="left" rowspan="1" colspan="1">Outcomes</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Tateishi-Yuyama <italic toggle="yes">et al.</italic><sup><xref rid="bibr64-26330040211070295" ref-type="bibr">64</xref></sup></td><td rowspan="1" colspan="1">2002</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">BM-MNC <italic toggle="yes">versus</italic> PB-MNC
+<italic toggle="yes">versus</italic> saline</td><td rowspan="1" colspan="1">PAD/CLI, bilateral (45)</td><td rowspan="1" colspan="1">&#8593; ABI, TcPO<sub>2</sub>, pain-free walking time<break/>&#8595;
+Rest pain</td></tr><tr><td rowspan="1" colspan="1">Durdu <italic toggle="yes">et al.</italic><sup><xref rid="bibr67-26330040211070295" ref-type="bibr">67</xref></sup></td><td rowspan="1" colspan="1">2006</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">BM-MNC</td><td rowspan="1" colspan="1">BD (28)</td><td rowspan="1" colspan="1">&#8593; ABI, wound healing, peak walking time, QOL<break/>&#8595; Rest
+pain</td></tr><tr><td rowspan="1" colspan="1">Saito <italic toggle="yes">et al.</italic><sup><xref rid="bibr68-26330040211070295" ref-type="bibr">68</xref></sup></td><td rowspan="1" colspan="1">2007</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">BM-MNC</td><td rowspan="1" colspan="1">BD (14)</td><td rowspan="1" colspan="1">&#8593; Wound healing<break/>&#8595; Rest pain, ulcer size</td></tr><tr><td rowspan="1" colspan="1">Matoba <italic toggle="yes">et al.</italic><sup><xref rid="bibr65-26330040211070295" ref-type="bibr">65</xref></sup></td><td rowspan="1" colspan="1">2008</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">BM-MNC</td><td rowspan="1" colspan="1">PAD/CLI (74)<break/>BD (41)</td><td rowspan="1" colspan="1">&#8593; Wound healing, pain-free walking time<break/>&#8595; Rest
+pain</td></tr><tr><td rowspan="1" colspan="1">Motukuru <italic toggle="yes">et al.</italic><sup><xref rid="bibr69-26330040211070295" ref-type="bibr">69</xref></sup></td><td rowspan="1" colspan="1">2008</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">BM-MNC</td><td rowspan="1" colspan="1">BD (36)</td><td rowspan="1" colspan="1">&#8593; ABI, TcPO<sub>2</sub>
+<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Idei <italic toggle="yes">et al.</italic><sup><xref rid="bibr66-26330040211070295" ref-type="bibr">66</xref></sup></td><td rowspan="1" colspan="1">2011</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">BM-MNC</td><td rowspan="1" colspan="1">BD (26)<break/>PAD/CLI (25)</td><td rowspan="1" colspan="1">&#8593; ABI, TcPO<sub>2</sub> in BD patients only</td></tr><tr><td rowspan="1" colspan="1">Lu <italic toggle="yes">et al.</italic><sup><xref rid="bibr77-26330040211070295" ref-type="bibr">77</xref></sup></td><td rowspan="1" colspan="1">2011</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">BM-MNC <italic toggle="yes">versus</italic> BM-MSC
+<italic toggle="yes">versus</italic> saline</td><td rowspan="1" colspan="1">PAD/CLI and DM (41)</td><td rowspan="1" colspan="1">&#8593; Pain-free walking time, ABI, TcPO<sub>2</sub> for
+BM-MSC<break/>No difference in rest pain or amputation</td></tr><tr><td rowspan="1" colspan="1">Dash <italic toggle="yes">et al.</italic><sup><xref rid="bibr70-26330040211070295" ref-type="bibr">70</xref></sup></td><td rowspan="1" colspan="1">2009</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">BM-MSC</td><td rowspan="1" colspan="1">BD (9 BM-MSC, 9 placebo)<break/>Diabetic foot (3 BM-MSC, 3
+placebo)</td><td rowspan="1" colspan="1">&#8593; Wound healing, pain-free walking distance</td></tr><tr><td rowspan="1" colspan="1">Gupta <italic toggle="yes">et al.</italic><sup><xref rid="bibr72-26330040211070295" ref-type="bibr">72</xref></sup></td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">II</td><td rowspan="1" colspan="1">BM-MSC</td><td rowspan="1" colspan="1">BD (36 low dose, 36 high dose)</td><td rowspan="1" colspan="1">&#8593; Wound healing, ABI, peak walking distance<break/>&#8595; Rest
+pain</td></tr><tr><td rowspan="1" colspan="1">Lee <italic toggle="yes">et al.</italic><sup><xref rid="bibr74-26330040211070295" ref-type="bibr">74</xref></sup></td><td rowspan="1" colspan="1">2012</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">AD-MSC</td><td rowspan="1" colspan="1">BD (12)<break/>Diabetic foot (3)</td><td rowspan="1" colspan="1">&#8593; Wound healing, vascularity on DSA<break/>&#8595; Rest pain</td></tr><tr><td rowspan="1" colspan="1">Bura <italic toggle="yes">et al.</italic><sup><xref rid="bibr73-26330040211070295" ref-type="bibr">73</xref></sup></td><td rowspan="1" colspan="1">2014</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">AD-MSC</td><td rowspan="1" colspan="1">PAD/CLI (6)<break/>BD (1)</td><td rowspan="1" colspan="1">&#8593; Wound healing</td></tr><tr><td rowspan="1" colspan="1">Ra <italic toggle="yes">et al.</italic><sup><xref rid="bibr75-26330040211070295" ref-type="bibr">75</xref></sup></td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">I/II</td><td rowspan="1" colspan="1">AD-MSC</td><td rowspan="1" colspan="1">BD (17)</td><td rowspan="1" colspan="1">&#8593; Peak walking distance</td></tr><tr><td rowspan="1" colspan="1">Katagiri <italic toggle="yes">et al.</italic><sup><xref rid="bibr76-26330040211070295" ref-type="bibr">76</xref></sup></td><td rowspan="1" colspan="1">2020</td><td rowspan="1" colspan="1">I</td><td rowspan="1" colspan="1">ADRC</td><td rowspan="1" colspan="1">PAD/CLI (5)</td><td rowspan="1" colspan="1">&#8593; Wound healing, 6-min walking distance<break/>&#8595; Rest
+pain</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-26330040211070295"><p>ABI, ankle-brachial index; AD-MSC, adipose-derived mesenchymal stem
+cell; ADRC, adipose-derived regenerative cell; BD, Buerger&#8217;s
+disease; BM-MNC, bone marrow-derived mononuclear cell; BM-MSC, bone
+marrow-derived mesenchymal stem cell; CLI, critical limb ischemia;
+DM, diabetes mellitus; DSA, digital subtraction angiography; PAD,
+peripheral arterial disease; PB-MNC, peripheral blood mononuclear
+cell; QOL, quality of life; TcPO<sub>2</sub>, transcutaneous oxygen
+pressure.</p></fn></table-wrap-foot></table-wrap><p>Studies of cell-based therapy specifically enrolling patients with Buerger&#8217;s
+disease have also yielded encouraging results. In 2006, Durdu <italic toggle="yes">et
+al.</italic><sup><xref rid="bibr67-26330040211070295" ref-type="bibr">67</xref></sup> reported on their experience with autologous IM
+injection of BM-MNCs in 28 patients with unilateral CLI secondary to Buerger&#8217;s
+disease. By 6 months posttreatment, patients demonstrated significant
+improvements in rest pain, peak walking time, and quality of life. Complete
+ulcer healing was achieved in 83% of patients with wounds, while half of
+patients had an increase in ABI &gt;0.15 and 78.5% demonstrated collateral
+formation on DSA. In 2007, Saito <italic toggle="yes">et al.</italic><sup><xref rid="bibr68-26330040211070295" ref-type="bibr">68</xref></sup> published
+their results of a nonrandomized study of autologous BM-MNC transplantation in
+14 patients with ischemic rest pain or ulceration due to Buerger&#8217;s disease. Pain
+scores improved from 5.4 at baseline to 2.5 at 4 weeks and 1.1 at 24 weeks. Of
+the 19 ulcers in nine patients, 12 completely healed, two diminished in size,
+and four increased in size by 24 weeks. In 2008, Motukuru <italic toggle="yes">et
+al.</italic><sup><xref rid="bibr69-26330040211070295" ref-type="bibr">69</xref></sup> reported on 36 patients with inoperable Buerger&#8217;s
+disease treated with IM injection of autologous BM-MNCs. Three patients (12%)
+required major amputation by 6 months posttreatment. ABI and TcPO<sub>2</sub>
+significantly improved by 0.14 and 52 mmHg, respectively, as did pain measured
+on a visual analogue scale. In all studies, no treatment-related complications
+were reported.</p></sec><sec id="section17-26330040211070295"><title>MSC therapy</title><p>In 2009, Dash <italic toggle="yes">et al.</italic> published the only randomized study of
+autologous bone marrow&#8211;derived MSC (BM-MSC) administration in 24 patients with
+nonhealing ulcers of the lower extremities.<sup><xref rid="bibr70-26330040211070295" ref-type="bibr">70</xref>,<xref rid="bibr71-26330040211070295" ref-type="bibr">71</xref></sup> In the 18 patients with a
+diagnosis of Buerger&#8217;s disease, ulcer area decreased by 71% in the treatment
+group compared with 23% in the control group by 12-week follow-up. Pain-free
+walking distance also improved from 38.3 m to 284.4 in the treatment group
+compared with an increase from 35.7 to 78.2 m in the control group. In 2017, a
+nonrandomized dose-finding study of allogenic BM-MSC treatment in 72 patients
+with Buerger&#8217;s disease found that ulcer healing and rest pain reduction rates
+were significantly better in the 2 million cells/kg group compared with 1
+million cells/kg and standard of care groups; however, there was no significant
+difference in collateral formation on magnetic resonance angiography (MRA) or
+amputation-free survival.<sup><xref rid="bibr72-26330040211070295" ref-type="bibr">72</xref></sup></p><p>Adipose tissue is another source of MSCs for autologous transplantation and early
+pilot studies demonstrated feasibility and safety of this technique.<sup><xref rid="bibr73-26330040211070295" ref-type="bibr">73</xref></sup> In one
+series, seven of 12 patients with Buerger&#8217;s disease noted improved ulcer
+appearance after AD-MSC treatment,<sup><xref rid="bibr74-26330040211070295" ref-type="bibr">74</xref></sup> while in another, walking
+distance increased from 300 m at baseline to 397 m 24 weeks after treatment in
+17 patients with severe Buerger&#8217;s disease.<sup><xref rid="bibr75-26330040211070295" ref-type="bibr">75</xref></sup> In TACT-ADRC, five
+patients with CLI received autologous IM injection of adipose-derived
+regenerative cells (ADRCs) and noted significant improvements in pain and 6-min
+walking distance with no amputations during the 6-month study period.<sup><xref rid="bibr76-26330040211070295" ref-type="bibr">76</xref></sup>
+Interestingly, ADRCs increased the number of circulating progenitor cells
+(CD34<sup>+</sup>/CD133<sup>+</sup>) and decreased the relative expression
+of VEGF-A<sub>165</sub>b, an antiangiogenic alternative splice variant of
+VEGF-A. In comparing different cell preparations, a <italic toggle="yes">Cochrane</italic>
+review pooling results from seven RCTs (359 patients) of autologous cell-based
+therapy in no-option CLI found no difference in outcomes between BM-MNC and
+mobilized peripheral blood stem cell (mPBSC) treatment, or between IM or IA
+injection.<sup><xref rid="bibr30-26330040211070295" ref-type="bibr">30</xref></sup> However, in one RCT comparing BM-MSCs and BM-MNCs in 41
+patients with diabetes and CLI, BM-MSCs were better able to induce limb
+reperfusion and ulcer healing with significantly greater increase in ABI,
+TcPO<sub>2</sub>, and pain-free walking time.<sup><xref rid="bibr77-26330040211070295" ref-type="bibr">77</xref></sup></p></sec></sec><sec id="section18-26330040211070295"><title>Adverse effects and limitations of current angiogenic therapies</title><p>In all examined studies, the most prevalent treatment-related side effects have been
+limited to injection site reactions which are generally self-limited and managed
+conservatively. In the case of <italic toggle="yes">VEGF</italic> gene therapy, specifically,
+there are several reports of peripheral edema as a complication of both naked
+plasmid and adenoviral delivery mechanisms. This complication has not been observed
+with other gene therapies. Potential adverse effects of angiogenic therapy include
+proliferative retinopathy, arteriovenous malformation, and neoplasia; however, none
+of the available studies reported significant associations between either gene or
+cell therapy and such complications. Nevertheless, patients should be screened for
+malignancy and retinopathy and counseled on these potential risks prior to
+initiating angiogenic therapy.</p><p>As research into therapeutic angiogenesis has progressed from small observational
+studies to larger prospective cohort and randomized trials, several meta-analyses
+have collectively analyzed safety and efficacy data for gene and cell-based
+therapeutics in CLI. Recently, a <italic toggle="yes">Cochrane</italic> meta-analysis of 17 RCTs
+evaluated efficacy of various gene therapies for intermittent claudication and CLI
+in 1988 participants.<sup><xref rid="bibr78-26330040211070295" ref-type="bibr">78</xref></sup> Pooled data showed no clear difference between gene therapy
+and placebo with regard to amputation-free survival and all-cause mortality.
+Although there was limited evidence for improved ulcer healing with gene therapy,
+the authors found no difference in pain scores or change in ABI between treatment
+and control groups. In subgroup analyses, there was no difference in outcomes
+between gene therapy and placebo according to PAD severity (claudication
+<italic toggle="yes">versus</italic> CLI), vector type (plasmid <italic toggle="yes">versus</italic>
+viral), or gene encoded.</p><p>Results from meta-analyses of cell-based therapies have also been mixed. Multiple
+studies using data from randomized as well as nonrandomized and uncontrolled trials
+have reported favorable effects on amputation and ulcer healing rates with cell
+therapy.<sup><xref rid="bibr79-26330040211070295" ref-type="bibr">79</xref>
+<xref rid="bibr80-26330040211070295" ref-type="bibr"/><xref rid="bibr81-26330040211070295" ref-type="bibr"/>&#8211;<xref rid="bibr82-26330040211070295" ref-type="bibr">82</xref></sup> However, when only randomized
+studies are included, the benefits are more marginal. For example, Peeters Weem
+<italic toggle="yes">et al.</italic><sup><xref rid="bibr83-26330040211070295" ref-type="bibr">83</xref></sup> found significantly improved ABI (mean difference 0.11),
+TcPO<sub>2</sub>, and pain scores with cell therapy, but no significant
+differences in primary outcome measures of amputation, survival, and amputation-free
+survival in 499 CLI patients from 10 studies. Another meta-analysis of 12 randomized
+trials including 510 CLI patients initially found reduced major amputation risk
+(risk ratio (RR)&#8196;=&#8196;0.58) with cell therapy, but the results became nonsignificant
+when only placebo-controlled studies were analyzed.<sup><xref rid="bibr84-26330040211070295" ref-type="bibr">84</xref></sup> Similarly, an analysis of 774
+CLI patients from 16 RCTs found reduced odds of major amputation (odds ratio
+(OR)&#8196;=&#8196;0.54) and improved ulcer healing (OR&#8196;=&#8196;2.90) with cell therapy, but again,
+all differences became nonsignificant when only placebo-controlled trials were
+reanalayzed.<sup><xref rid="bibr85-26330040211070295" ref-type="bibr">85</xref></sup></p></sec><sec id="section19-26330040211070295"><title>Emerging trends in therapeutic angiogenesis</title><p>To date, clinical trials of therapeutic angiogenesis have primarily focused on DNA
+plasmids encoding known angiogenic factors or cell-based treatments using MNCs or
+MSCs. Improving upon these treatments and developing novel therapies for CLI hinges
+on an understanding of the precise mechanisms involved in vasculogenesis and
+angiogenesis. The recruitment of EPCs and MSCs from the bone marrow to areas of
+ischemia and wound healing is known as the process of homing. Homing of EPCs and
+MSCs is subject to regulation by many factors and mediated by a panel of cell
+adhesion molecules (CAMs). Under pathological conditions, such as tissue injury,
+ischemia, and inflammation, the normally quiescent endothelium is stimulated to
+express a variety of CAMs and secrete cytokines/chemokines to recruit the necessary
+immune-modulatory and repair cells. Importantly, hypoxia-inducible factor 1&#945;
+(HIF-1&#945;) expression induces secretion of various cytokines/chemokines, including
+stromal cell-derived factor 1 alpha (SDF-1&#945;&amp;x41;, TNF-&#945;, and IL-1.<sup><xref rid="bibr86-26330040211070295" ref-type="bibr">86</xref>,<xref rid="bibr87-26330040211070295" ref-type="bibr">87</xref></sup> Consistently,
+in preclinical studies, increasing tissue microenvironment levels of SDF-1&#945; in
+diabetic mice has been shown to improve wound healing rates.<sup><xref rid="bibr86-26330040211070295" ref-type="bibr">86</xref></sup></p><sec id="section20-26330040211070295"><title>E-selectin for therapeutic angiogenesis</title><p>In particular, SDF-1&#945; upregulates expression of E-selectin and its ligands on
+ECs.<sup><xref rid="bibr86-26330040211070295" ref-type="bibr">86</xref>,<xref rid="bibr88-26330040211070295" ref-type="bibr">88</xref></sup> E-selectin is an inducible CAM expressed on endothelium
+which binds P-selectin glycoproteins-1 (PSGL-1/CD162), CD44, and E-selectin
+ligand (ESL-1) presented on the surface of circulating cells. In this way,
+E-selectin serves as endothelial docking sites to anchor circulating stem and
+progenitor cells, such as EPCs, that reciprocally express E-selectin ligands. In
+murine models, levels of membrane-bound E-selectin peak 12 h after ischemic
+insult, while serum levels of soluble E-selectin remain elevated for up to 7
+days.<sup><xref rid="bibr89-26330040211070295" ref-type="bibr">89</xref></sup> Homing of EPCs is impaired in E-selectin knock-out mice
+(Esel<sup>&#8722;/&#8722;</sup>) but can be rescued by IV administration of
+sE-selectin.<sup><xref rid="bibr89-26330040211070295" ref-type="bibr">89</xref></sup> In addition, Esel<sup>&#8722;/&#8722;</sup> mice demonstrate
+impaired EPC homing to wound tissue, slower wound closure rate, and delayed
+recovery of hindlimb perfusion following femoral artery ligation.<sup><xref rid="bibr88-26330040211070295" ref-type="bibr">88</xref></sup>
+E-selectin-mediated cell&#8211;cell interactions between MSCs and ECs are also
+critical events for MSC-induced angiogenesis and tissue repair.<sup><xref rid="bibr86-26330040211070295" ref-type="bibr">86</xref>,<xref rid="bibr90-26330040211070295" ref-type="bibr">90</xref>,<xref rid="bibr91-26330040211070295" ref-type="bibr">91</xref></sup> While the
+above effects of E-selectin reflect cell&#8211;cell interactions mediated by the
+protein&#8217;s extracellular domain, we have unpublished gene profiling data from
+ischemic hindlimbs treated with IM E-selectin gene therapy indicating that,
+compared with control vector, E-selectin overexpression leads to intense
+upregulation of dozens of pro-angiogenesis genes while having an overall
+inhibitory or cooling effect on the majority of pro-inflammatory genes.
+Altogether, these findings illustrate the role of E-selectin in the tissue
+response to ischemia and present a novel target for therapeutic angiogenesis in
+CLI and Buerger&#8217;s disease.</p></sec><sec id="section21-26330040211070295"><title>Viral vectors for gene delivery</title><p>To date, most growth factor&#8211;based therapeutics have been formulated as naked
+DNA-encoding plasmids. Viral vectors provide another means of increasing local
+expression of angiogenic factors, and adenovirus, specifically, has been used in
+studies of therapeutic angiogenesis. A randomized, double-blind,
+placebo-controlled trial assessed the efficacy of Ad2/HIF-1&#945;/VP16, an adenoviral
+construct encoding a constitutively active form of HIF-1&#945;, in 34 no-option CLI
+patients.<sup><xref rid="bibr62-26330040211070295" ref-type="bibr">62</xref></sup> Injection site reactions and peripheral edema were the
+most common side effects. After 1 year, complete resolution of rest pain
+occurred in 14 of 21 patients and complete ulcer healing in 5 of 8 patients
+alive with the index limb. Another RCT evaluated adenoviral delivery of VEGF but
+failed to show benefit in 105 patients with unilateral exercise-limiting
+claudication.<sup><xref rid="bibr61-26330040211070295" ref-type="bibr">61</xref></sup> Specifically, there was no significant difference
+between treatment and placebo groups with regards to change in peak walking
+time, the primary endpoint, or secondary endpoints of ABI, claudication onset
+time, and quality of life. In addition, AdVEGF121 therapy was associated with
+peripheral edema in the treated limb. Recently, the Food and Drug Administration
+(FDA) approved two gene therapy products, Luxturna&#174; (voretigene neparvovec) and
+Zolgensma&#174; (onasemnogene abeparvovec-xioi), which are now available for the
+treatment of Leber congenital amaurosis and spinal muscular atrophy,
+respectively. These treatments employ another gene delivery vector,
+adeno-associated virus (AAV), which has a more favorable safety profile than
+adenovirus. In comparison with adenoviral vectors, which activate the NF-&#954;B
+pathway, AAV does not promote a strong immune response to virally encoded
+proteins and provides long-lasting stable tissue transduction up to 2
+years.<sup><xref rid="bibr92-26330040211070295" ref-type="bibr">92</xref></sup> These features make AAV an interesting gene delivery
+platform for future clinical trials of therapeutic angiogenesis.</p></sec><sec id="section22-26330040211070295"><title>E-selectin/adeno-associated virus gene therapy</title><p>As discussed, the adhesion molecule E-selectin and its ligands play a crucial
+role in the response to tissue ischemia and injury by priming the endothelium to
+recruit necessary repair cells from the circulation. E-selectin overexpression
+in ischemic hindlimb tissue also causes activation of secondary paracrine
+signaling cascades that augment tissue angiogenesis and downregulate
+inflammation. With the goal of leveraging these actions of E-selectin for
+therapeutic benefit, we have tested the feasibility, safety, and efficacy of IM
+E-selectin/AAV gene therapy in murine hindlimb ischemia and gangrene models
+(<xref rid="table3-26330040211070295" ref-type="table">Table
+3</xref>).<sup><xref rid="bibr93-26330040211070295" ref-type="bibr">93</xref>,<xref rid="bibr94-26330040211070295" ref-type="bibr">94</xref></sup> In summary, treating hindlimb muscle with
+E-selectin/AAV results in significantly improved recovery of hindlimb perfusion
+following ischemic insult. Clinically, enhanced blood flow to the hindlimb
+translates into more rapid wound healing, reduced gangrene severity, and
+increased exercise capacity. On DiI perfusion imaging, mice treated with
+E-selectin/AAV demonstrate plusher capillary networks surrounding the wound bed
+and murine footpad. Importantly, systemic D-dimer levels are not increased from
+baseline and no microvascular thrombosis or T cell infiltration is noted on
+histological analysis, indicating that local IM E-selectin gene therapy does not
+have a prothrombotic effect or cause a lymphocytic reaction. Altogether, these
+preclinical results pave the way for development of E-selectin-based angiogenic
+therapies.</p><table-wrap position="float" id="table3-26330040211070295" orientation="portrait"><label>Table 3.</label><caption><p>Emerging modalities for therapeutic angiogenesis in preclinical
+stages.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_26330040211070295-table3.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Study</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">Model</th><th align="left" rowspan="1" colspan="1">Therapy</th><th align="left" rowspan="1" colspan="1">Outcomes</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Castilla <italic toggle="yes">et al.</italic><sup><xref rid="bibr95-26330040211070295" ref-type="bibr">95</xref></sup></td><td rowspan="1" colspan="1">2012</td><td rowspan="1" colspan="1">Mouse, diabetic wound</td><td rowspan="1" colspan="1">SDF-1&#945;-primed-BMDSC</td><td rowspan="1" colspan="1">&#8593; Wound healing, EPC recruitment, wound
+neovascularization</td></tr><tr><td rowspan="1" colspan="1">Ranghino <italic toggle="yes">et al.</italic><sup><xref rid="bibr99-26330040211070295" ref-type="bibr">99</xref></sup></td><td rowspan="1" colspan="1">2012</td><td rowspan="1" colspan="1">Mouse, hindlimb ischemia</td><td rowspan="1" colspan="1">EPC-derived microvesicles</td><td rowspan="1" colspan="1">&#8593; Perfusion (LDI), capillary density</td></tr><tr><td rowspan="1" colspan="1">Liu <italic toggle="yes">et al.</italic><sup><xref rid="bibr91-26330040211070295" ref-type="bibr">91</xref></sup></td><td rowspan="1" colspan="1">2016</td><td rowspan="1" colspan="1">Mouse, diabetic wound</td><td rowspan="1" colspan="1">E-selectin nanocarrier-coated MSC</td><td rowspan="1" colspan="1">&#8593; Wound healing</td></tr><tr><td rowspan="1" colspan="1">Komaki <italic toggle="yes">et al.</italic><sup><xref rid="bibr100-26330040211070295" ref-type="bibr">100</xref></sup></td><td rowspan="1" colspan="1">2017</td><td rowspan="1" colspan="1">Mouse, auricle ischemia</td><td rowspan="1" colspan="1">MSC-derived exosomes</td><td rowspan="1" colspan="1">&#8593; Perfusion (LDI)</td></tr><tr><td rowspan="1" colspan="1">Parikh <italic toggle="yes">et al.</italic><sup><xref rid="bibr93-26330040211070295" ref-type="bibr">93</xref></sup></td><td rowspan="1" colspan="1">2018</td><td rowspan="1" colspan="1">Mouse, hindlimb ischemia</td><td rowspan="1" colspan="1">E-selectin/AAV2/9</td><td rowspan="1" colspan="1">&#8593; Perfusion (LDI), wound healing</td></tr><tr><td rowspan="1" colspan="1">Quiroz <italic toggle="yes">et al.</italic><sup><xref rid="bibr94-26330040211070295" ref-type="bibr">94</xref></sup></td><td rowspan="1" colspan="1">2021</td><td rowspan="1" colspan="1">Mouse, hindlimb gangrene</td><td rowspan="1" colspan="1">E-selectin/AAV2/9</td><td rowspan="1" colspan="1">&#8593; Perfusion (LDI), exercise capacity<break/>&#8595; Tissue
+loss</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-26330040211070295"><p>AAV, adeno-associated virus; BMDSC, bone marrow-derived stem cell;
+EPC, endothelial progenitor cell; LDI, laser Doppler imaging; MSC,
+mesenchymal stem cell; SDF-1&#945;, stromal cell-derived factor 1
+alpha.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section23-26330040211070295"><title>Enhanced cell-based therapies</title><p>In clinical studies, cell-based therapies have shown potential for improving
+ulcer healing, pain, and walking capacity, but placebo-controlled trials have
+reported modest to no benefit on hemodynamic parameters and amputation rate.
+Importantly, these studies have only employed unmodified, unstimulated MSCs or
+MNCs isolated from the circulation, bone marrow, or adipose tissue. One
+potential avenue for increasing the potency of these therapies involves priming
+stem cells with various growth or mitogenic factors in culture prior to
+transplantation. For example, in mice, priming bone marrow&#8211;derived stem cells
+(BMDSCs) with SDF-1&#945; prior to intradermal injection increases wound healing
+potential compared with unstimulated BMDSCs.<sup><xref rid="bibr95-26330040211070295" ref-type="bibr">95</xref></sup> There is also evidence
+that AAV-induced expression of E-selectin in MSCs, which do not normally express
+this adhesion molecule, can increase proliferative and anti-inflammatory
+properties of these cells, translating to improved recovery of limb perfusion
+and function in murine hindlimb ischemia models. Similarly, in rat myocardial
+infarction models, <italic toggle="yes">HGF</italic> gene-engineered myoblasts exhibit
+improved engraftment and ultimately lead to better recovery of cardiac
+function.<sup><xref rid="bibr96-26330040211070295" ref-type="bibr">96</xref></sup> Rather than directly administering modified stem cells,
+BM-MSCs can also be primed in co-culture with genetically modified
+HGF-expressing MSCs.<sup><xref rid="bibr97-26330040211070295" ref-type="bibr">97</xref></sup> In the form of a cardiac patch, conditioned BM-MSC
+demonstrated improved repair of infarcted myocardium compared with unstimulated
+BM-MSC. In another approach, coating MSCs with E-selectin/dendrimer nanocarrier
+can specifically direct these cells from the circulation to activated
+endothelium in ischemic or inflamed tissue, thereby improving wound healing
+rate.<sup><xref rid="bibr91-26330040211070295" ref-type="bibr">91</xref></sup></p></sec><sec id="section24-26330040211070295"><title>Exosomes and cell-free approaches</title><p>Despite promising preclinical and clinical results, there remain several inherent
+limitations to cell-based therapies. Autologous stem cell treatments raise the
+theoretical risk of unmitigated cell proliferation and potential malignant
+transformation, while allogeneic transplantation carries additional risk of
+immune rejection. In addition, there is evidence that cells isolated from
+patients with Buerger&#8217;s disease, diabetes, or other forms of PAD and CLI have
+poorer angiogenic potential compared with cells from healthy subjects, which
+further limits <italic toggle="yes">in vivo</italic> efficacy.<sup><xref rid="bibr74-26330040211070295" ref-type="bibr">74</xref></sup> With this in mind,
+multiple studies have observed that conditioned media, or the supernatant
+collected from cell culture plates after incubation for a period of time, can
+alone exert angiogenic and antiapoptotic effects <italic toggle="yes">in
+vitro</italic>.<sup><xref rid="bibr98-26330040211070295" ref-type="bibr">98</xref></sup> In particular, microvesicles derived from EPCs have
+been shown to improve neovascularization in a murine hindlimb ischemia
+model,<sup><xref rid="bibr99-26330040211070295" ref-type="bibr">99</xref></sup> whereas exosomes isolated from MSC cultures have been
+shown to improve neovascularization in a murine model of auricle
+ischemia<sup><xref rid="bibr100-26330040211070295" ref-type="bibr">100</xref></sup> and fracture healing in a rat model of
+nonunion.<sup><xref rid="bibr101-26330040211070295" ref-type="bibr">101</xref></sup> Exosomes are small vesicles (30&#8211;150 nm) secreted by
+MSCs and other cell types to deliver protein, RNA, and cytokines/chemokines that
+stimulate biological functions by paracrine mechanisms. Exosomes lack major
+histocompatibility complex (MHC) and are therefore nonimmunogenic. This is
+advantageous as exosome extracted from cells isolated from unrelated healthy
+donors could be administered to patients in an allogeneic manner without concern
+for immune reaction. In addition, exosomes can be concentrated and then stored
+or transported with greater logistical ease than the cell cultures they are
+derived from.</p></sec></sec><sec id="section25-26330040211070295"><title>Conclusion</title><p>While increasingly rare in the West, Buerger&#8217;s disease represents an important form
+of PAD worldwide with significant morbidity for patients afflicted with the disease.
+Despite remarkable advances in drug development and surgical technology over the
+past century, the treatment landscape for Buerger&#8217;s disease remains limited. Current
+medical therapies have little to no benefit in randomized studies, and surgical
+revascularization, both open and endovascular, is not a viable option for many
+patients. As such, noninvasive regenerative approaches are attractive avenues for
+clinical research. Multiple prospective studies have reported positive effects of
+gene and cell therapies on limb pain, walking distance, and ulcer healing rates in
+patients with CLI and Buerger&#8217;s disease. However, there is still a lack of strong
+evidence for improvement in hemodynamic parameters or amputation-free survival in
+randomized trials. For these reasons, optimizing existing technologies and exploring
+new targets for therapeutic angiogenesis are important strategies for helping
+patients with Buerger&#8217;s disease, and the larger population of no-option CLI
+patients. E-selectin is one such possible target, with multiple preclinical studies
+having elucidated its role in angiogenesis and efficacy in diabetic wound healing
+and reversal of hindlimb ischemia. Inducing cellular expression of E-selectin, or
+other CAMs and growth factors, may be used to potentiate <italic toggle="yes">in vivo</italic>
+angiogenic effect of some cell-based therapies. Alternatively, cell-free
+preparations of concentrated MSC-derived exosomes may deliver angiogenic effect
+while avoiding complications of naked plasmids, viral vectors, and cell-based
+therapies. In summary, the treatments reviewed herein represent some of the most
+promising emerging modalities for therapeutic angiogenesis that may someday be
+readily available to relieve ischemic pain, heal ulcers, prevent major amputation,
+and improve quality of life in patients with Buerger&#8217;s disease and no-option
+CLI.</p></sec></body><back><ack><p>All figures were created with <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://BioRender.com" ext-link-type="uri">BioRender.com</ext-link>.</p></ack><fn-group><fn fn-type="con"><p><bold>Author contributions:</bold>
+<bold>Antoine J. Ribieras:</bold> Conceptualization, Investigation, Methodology,
+Writing &#8211; original draft, Writing &#8211; review &amp; editing.</p><p><bold>Yulexi Y. Ortiz:</bold> Conceptualization, Writing &#8211; review &amp;
+editing.</p><p><bold>Zhao-Jun Liu:</bold> Conceptualization, Methodology, Supervision, Writing &#8211;
+review &amp; editing.</p><p><bold>Omaida C. Velazquez:</bold> Conceptualization, Methodology, Supervision,
+Writing &#8211; review &amp; editing.</p></fn><fn fn-type="COI-statement"><p>The authors declared the following potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article: The E-selectin
+gene modification technologies described were developed in our research
+laboratory and patented/licensed by the University of Miami. This technology is
+currently under preclinical development by Ambulero Inc., a new start-up company
+out of the University of Miami that focuses on developing new vascular
+treatments for ischemic conditions. Co-authors, Z.J.L. and O.C.V., serve as
+consultants and scientific and medical advisory officers.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors received no financial support for the research, authorship, and/or
+publication of this article.</p></fn><fn fn-type="other"><p><bold>Ethics statement:</bold> Animal experiments performed at the University of Miami were approved by the
+University of Miami Institutional Animal Care and Use Committee (IACUC) under
+protocol 19-163. Ethical approval and informed consent were not required for the
+remainder of this review.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Antoine J. Ribieras <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_26330040211070295-img1.jpg"/>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0001-7380-3435" ext-link-type="uri">https://orcid.org/0000-0001-7380-3435</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-26330040211070295"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Buerger</surname><given-names>L</given-names></name></person-group>. <article-title>Landmark publication from the American Journal
+of the Medical Sciences, &#8216;thrombo-angiitis obliterans: a study of the
+vascular lesions leading to presenile spontaneous gangrene&#8217;.
+1908</article-title>. <source>Am J Med Sci</source><year>2009</year>; <volume>337</volume>:
+<fpage>274</fpage>&#8211;<lpage>284</lpage>.<pub-id pub-id-type="pmid">19365174</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MAJ.0b013e31818c8bc9</pub-id></mixed-citation></ref><ref id="bibr2-26330040211070295"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rivera-Chavarr&#237;a</surname><given-names>IJ</given-names></name><name name-style="western"><surname>Brenes-Guti&#233;rrez</surname><given-names>JD</given-names></name></person-group>. <article-title>Thromboangiitis obliterans (Buerger&#8217;s
+disease)</article-title>. <source>Ann Med Surg</source><year>2016</year>; <volume>7</volume>:
+<fpage>79</fpage>&#8211;<lpage>82</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amsu.2016.03.028</pub-id><pub-id pub-id-type="pmcid">PMC4840397</pub-id><pub-id pub-id-type="pmid">27144003</pub-id></mixed-citation></ref><ref id="bibr3-26330040211070295"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lazarides</surname><given-names>MK</given-names></name><name name-style="western"><surname>Georgiadis</surname><given-names>GS</given-names></name><name name-style="western"><surname>Papas</surname><given-names>TT</given-names></name></person-group>, <etal>et al</etal><article-title>Diagnostic criteria and treatment of Buerger&#8217;s disease: a
+review</article-title>. <source>Int J Low Extrem Wounds</source><year>2006</year>; <volume>5</volume>:
+<fpage>89</fpage>&#8211;<lpage>95</lpage>.<pub-id pub-id-type="pmid">16698911</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1534734606288817</pub-id></mixed-citation></ref><ref id="bibr4-26330040211070295"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Olin</surname><given-names>JW</given-names></name></person-group>. <article-title>Thromboangiitis obliterans (Buerger&#8217;s
+disease)</article-title>. <source>N Engl J Med</source><year>2000</year>; <volume>343</volume>:
+<fpage>864</fpage>&#8211;<lpage>869</lpage>.<pub-id pub-id-type="pmid">10995867</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJM200009213431207</pub-id></mixed-citation></ref><ref id="bibr5-26330040211070295"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Watanabe</surname><given-names>Y</given-names></name><name name-style="western"><surname>Miyata</surname><given-names>T</given-names></name><name name-style="western"><surname>Shigematsu</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal><article-title>Current trends in epidemiology and clinical features of
+thromboangiitis obliterans in Japan &#8211; a nationwide survey using the medical
+support system database</article-title>. <source>Circ J</source><year>2020</year>; <volume>84</volume>:
+<fpage>1786</fpage>&#8211;<lpage>1796</lpage>.<pub-id pub-id-type="pmid">32879220</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1253/circj.CJ-19-1165</pub-id></mixed-citation></ref><ref id="bibr6-26330040211070295"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Olin</surname><given-names>JW</given-names></name><name name-style="western"><surname>Shih</surname><given-names>A</given-names></name></person-group>. <article-title>Thromboangiitis obliterans (Buerger&#8217;s
+disease)</article-title>. <source>Curr Opin Rheumatol</source><year>2006</year>; <volume>18</volume>:
+<fpage>18</fpage>&#8211;<lpage>24</lpage>.<pub-id pub-id-type="pmid">16344615</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.bor.0000198000.58073.aa</pub-id></mixed-citation></ref><ref id="bibr7-26330040211070295"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Olin</surname><given-names>JW</given-names></name><name name-style="western"><surname>Young</surname><given-names>JR</given-names></name><name name-style="western"><surname>Graor</surname><given-names>RA</given-names></name></person-group>, <etal>et al</etal><article-title>The changing clinical spectrum of thromboangiitis obliterans
+(Buerger&#8217;s disease)</article-title>. <source>Circulation</source><year>1990</year>; <volume>82</volume>(<issue>Suppl. 5</issue>):
+<fpage>IV3</fpage>&#8211;<lpage>IV8</lpage>.<pub-id pub-id-type="pmid">2225420</pub-id></mixed-citation></ref><ref id="bibr8-26330040211070295"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Le Joncour</surname><given-names>A</given-names></name><name name-style="western"><surname>Soudet</surname><given-names>S</given-names></name><name name-style="western"><surname>Dupont</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal><article-title>Long-term outcome and prognostic factors of complications in
+thromboangiitis obliterans (Buerger&#8217;s disease): a multicenter study of 224
+patients</article-title>. <source>J Am Heart Assoc</source><year>2018</year>; <volume>7</volume>: <fpage>e010677</fpage>.<pub-id pub-id-type="pmid">30571594</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/JAHA.118.010677</pub-id><pub-id pub-id-type="pmcid">PMC6405548</pub-id></mixed-citation></ref><ref id="bibr9-26330040211070295"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Aerbajinai</surname><given-names>W</given-names></name><name name-style="western"><surname>Tsuchiya</surname><given-names>T</given-names></name><name name-style="western"><surname>Kimura</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal><article-title>HLA class II DNA typing in Buerger&#8217;s disease</article-title>.
+<source>Int J Cardiol</source><year>1996</year>; <volume>54</volume>(<issue>Suppl.</issue>):
+<fpage>S197</fpage>&#8211;<lpage>S202</lpage>.<pub-id pub-id-type="pmid">9119524</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0167-5273(96)88790-0</pub-id></mixed-citation></ref><ref id="bibr10-26330040211070295"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jaini</surname><given-names>R</given-names></name><name name-style="western"><surname>Mandal</surname><given-names>S</given-names></name><name name-style="western"><surname>Khazanchi</surname><given-names>RK</given-names></name></person-group>, <etal>et al</etal><article-title>Immunogenetic analysis of Buerger&#8217;s disease in
+India</article-title>. <source>Int J Cardiol</source><year>1998</year>; <volume>66</volume>:
+<fpage>283</fpage>&#8211;<lpage>285</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0167-5273(98)00180-6</pub-id><pub-id pub-id-type="pmid">9951831</pub-id></mixed-citation></ref><ref id="bibr11-26330040211070295"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shapouri-Moghaddam</surname><given-names>A</given-names></name><name name-style="western"><surname>Mohammadi</surname><given-names>M</given-names></name><name name-style="western"><surname>Rahimi</surname><given-names>HR</given-names></name></person-group>, <etal>et al</etal><article-title>The association of HLA-A, B and DRB1 with Buerger&#8217;s
+disease</article-title>. <source>Rep Biochem Mol Biol</source><year>2019</year>; <volume>8</volume>:
+<fpage>153</fpage>&#8211;<lpage>160</lpage>.<pub-id pub-id-type="pmid">31832439</pub-id><pub-id pub-id-type="pmcid">PMC6844607</pub-id></mixed-citation></ref><ref id="bibr12-26330040211070295"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sun</surname><given-names>XL</given-names></name><name name-style="western"><surname>Law</surname><given-names>BYK</given-names></name><name name-style="western"><surname>de Seabra Rodrigues Dias</surname><given-names>IR</given-names></name></person-group>, <etal>et al</etal><article-title>Pathogenesis of thromboangiitis obliterans: gene polymorphism and
+immunoregulation of human vascular endothelial cells</article-title>.
+<source>Atherosclerosis</source><year>2017</year>; <volume>265</volume>:
+<fpage>258</fpage>&#8211;<lpage>265</lpage>.<pub-id pub-id-type="pmid">28864202</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.atherosclerosis.2017.08.009</pub-id></mixed-citation></ref><ref id="bibr13-26330040211070295"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dellalibera-Joviliano</surname><given-names>R</given-names></name><name name-style="western"><surname>Joviliano</surname><given-names>EE</given-names></name><name name-style="western"><surname>Silva</surname><given-names>JS</given-names></name></person-group>, <etal>et al</etal><article-title>Activation of cytokines corroborate with development of
+inflammation and autoimmunity in thromboangiitis obliterans
+patients</article-title>. <source>Clin Exp Immunol</source><year>2012</year>; <volume>170</volume>:
+<fpage>28</fpage>&#8211;<lpage>35</lpage>.<pub-id pub-id-type="pmid">22943198</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2249.2012.04624.x</pub-id><pub-id pub-id-type="pmcid">PMC3444714</pub-id></mixed-citation></ref><ref id="bibr14-26330040211070295"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shionoya</surname><given-names>S</given-names></name></person-group>. <article-title>Diagnostic criteria of Buerger&#8217;s
+disease</article-title>. <source>Int J Cardiol</source><year>1998</year>; <volume>66</volume>:
+<fpage>243</fpage>&#8211;<lpage>246</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0167-5273(98)00175-2</pub-id><pub-id pub-id-type="pmid">9951826</pub-id></mixed-citation></ref><ref id="bibr15-26330040211070295"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Papa</surname><given-names>MZ</given-names></name><name name-style="western"><surname>Rabi</surname><given-names>I</given-names></name><name name-style="western"><surname>Adar</surname><given-names>R</given-names></name></person-group>. <article-title>A point scoring system for the clinical
+diagnosis of Buerger&#8217;s disease</article-title>. <source>Eur J Vasc Endovasc
+Surg</source><year>1996</year>; <volume>11</volume>:
+<fpage>335</fpage>&#8211;<lpage>339</lpage>.<pub-id pub-id-type="pmid">8601245</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1078-5884(96)80081-5</pub-id></mixed-citation></ref><ref id="bibr16-26330040211070295"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mills</surname><given-names>JL</given-names></name><name name-style="western"><surname>Porter</surname><given-names>JM</given-names></name></person-group>. <article-title>Buerger&#8217;s disease (thromboangiitis
+obliterans)</article-title>. <source>Ann Vasc Surg</source><year>1991</year>; <volume>5</volume>:
+<fpage>570</fpage>&#8211;<lpage>572</lpage>.<pub-id pub-id-type="pmid">1772769</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF02015288</pub-id></mixed-citation></ref><ref id="bibr17-26330040211070295"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dargon</surname><given-names>PT</given-names></name><name name-style="western"><surname>Landry</surname><given-names>GJ</given-names></name></person-group>. <article-title>Buerger&#8217;s disease</article-title>. <source>Ann
+Vasc Surg</source><year>2012</year>; <volume>26</volume>:
+<fpage>871</fpage>&#8211;<lpage>880</lpage>.<pub-id pub-id-type="pmid">22284771</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.avsg.2011.11.005</pub-id></mixed-citation></ref><ref id="bibr18-26330040211070295"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gallagher</surname><given-names>KA</given-names></name><name name-style="western"><surname>Tracci</surname><given-names>MC</given-names></name><name name-style="western"><surname>Scovell</surname><given-names>SD</given-names></name></person-group>. <article-title>Vascular arteritides in women</article-title>.
+<source>J Vasc Surg</source><year>2013</year>; <volume>57</volume>(<issue>Suppl. 4</issue>):
+<fpage>27S</fpage>&#8211;<lpage>36S</lpage>.<pub-id pub-id-type="pmid">23522715</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2012.10.119</pub-id></mixed-citation></ref><ref id="bibr19-26330040211070295"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cooper</surname><given-names>LT</given-names></name><name name-style="western"><surname>Tse</surname><given-names>TS</given-names></name><name name-style="western"><surname>Mikhail</surname><given-names>MA</given-names></name></person-group>, <etal>et al</etal><article-title>Long-term survival and amputation risk in thromboangiitis
+obliterans (Buerger&#8217;s disease)</article-title>. <source>J Am Coll
+Cardiol</source><year>2004</year>; <volume>44</volume>:
+<fpage>2410</fpage>&#8211;<lpage>2411</lpage>.<pub-id pub-id-type="pmid">15607407</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2004.09.029</pub-id></mixed-citation></ref><ref id="bibr20-26330040211070295"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ohta</surname><given-names>T</given-names></name><name name-style="western"><surname>Ishioashi</surname><given-names>H</given-names></name><name name-style="western"><surname>Hosaka</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal><article-title>Clinical and social consequences of Buerger
+disease</article-title>. <source>J Vasc Surg</source><year>2004</year>; <volume>39</volume>:
+<fpage>176</fpage>&#8211;<lpage>180</lpage>.<pub-id pub-id-type="pmid">14718836</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2003.08.006</pub-id></mixed-citation></ref><ref id="bibr21-26330040211070295"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lawrence</surname><given-names>PF</given-names></name><name name-style="western"><surname>Lund</surname><given-names>OI</given-names></name><name name-style="western"><surname>Jimenez</surname><given-names>JC</given-names></name></person-group>, <etal>et al</etal><article-title>Substitution of smokeless tobacco for cigarettes in Buerger&#8217;s
+disease does not prevent limb loss</article-title>. <source>J Vasc
+Surg</source><year>2008</year>; <volume>48</volume>:
+<fpage>210</fpage>&#8211;<lpage>212</lpage>.<pub-id pub-id-type="pmid">18589234</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2008.02.007</pub-id></mixed-citation></ref><ref id="bibr22-26330040211070295"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cacione</surname><given-names>D</given-names></name><name name-style="western"><surname>Macedo</surname><given-names>C</given-names></name><name name-style="western"><surname>do Carmo Novaes</surname><given-names>F</given-names></name></person-group>, <etal>et al</etal><article-title>Pharmacological treatment for Buerger&#8217;s disease
+(Review)</article-title>. <source>Cochrane Database Syst Rev</source><year>2020</year>; <volume>5</volume>: CD011033.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD011033.pub4</pub-id><pub-id pub-id-type="pmcid">PMC7197514</pub-id><pub-id pub-id-type="pmid">32364620</pub-id></mixed-citation></ref><ref id="bibr23-26330040211070295"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fiessinger</surname><given-names>JN</given-names></name><name name-style="western"><surname>Schafer</surname><given-names>M</given-names></name></person-group>. <article-title>Trial of iloprost versus aspirin treatment for
+critical limb ischaemia of thromboangiitis obliterans</article-title>.
+<source>Lancet</source><year>1990</year>; <volume>335</volume>:
+<fpage>555</fpage>&#8211;<lpage>557</lpage>.<pub-id pub-id-type="pmid">1689791</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0140-6736(90)90346-7</pub-id></mixed-citation></ref><ref id="bibr24-26330040211070295"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Verstraete</surname><given-names>M</given-names></name></person-group>. <article-title>Oral iloprost in the treatment of
+thromboangiitis obliterans (Buerger&#8217;s disease): a double-blind, randomised,
+placebo-controlled trial</article-title>. <source>Eur J Vasc Endovasc
+Surg</source><year>1998</year>; <volume>15</volume>:
+<fpage>300</fpage>&#8211;<lpage>307</lpage>.<pub-id pub-id-type="pmid">9610341</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1078-5884(98)80032-4</pub-id></mixed-citation></ref><ref id="bibr25-26330040211070295"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Modaghegh</surname><given-names>MHS</given-names></name><name name-style="western"><surname>Hafezi</surname><given-names>S</given-names></name></person-group>. <article-title>Endovascular treatment of thromboangiitis
+obliterans (Buerger&#8217;s disease)</article-title>. <source>Vasc Endovascular
+Surg</source><year>2018</year>; <volume>52</volume>:
+<fpage>124</fpage>&#8211;<lpage>130</lpage>.<pub-id pub-id-type="pmid">29237360</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1538574417744085</pub-id></mixed-citation></ref><ref id="bibr26-26330040211070295"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Firat</surname><given-names>A</given-names></name><name name-style="western"><surname>Igus</surname><given-names>B</given-names></name></person-group>. <article-title>Endovascular recanalization of thromboangiitis
+obliterans (Buerger&#8217;s disease) in twenty-eight consecutive patients and
+combined antegrade&#8211;retrograde intervention in eight
+patients</article-title>. <source>Cardiovasc Intervent Radiol</source><year>2019</year>; <volume>42</volume>:
+<fpage>820</fpage>&#8211;<lpage>828</lpage>.<pub-id pub-id-type="pmid">30834476</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00270-019-02193-x</pub-id></mixed-citation></ref><ref id="bibr27-26330040211070295"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Graziani</surname><given-names>L</given-names></name><name name-style="western"><surname>Morelli</surname><given-names>L</given-names></name><name name-style="western"><surname>Parini</surname><given-names>F</given-names></name></person-group>, <etal>et al</etal><article-title>Clinical outcome after extended endovascular recanalization in
+Buerger&#8217;s disease in 20 consecutive cases</article-title>. <source>Ann Vasc
+Surg</source><year>2012</year>; <volume>26</volume>:
+<fpage>387</fpage>&#8211;<lpage>395</lpage>.<pub-id pub-id-type="pmid">22285343</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.avsg.2011.08.014</pub-id></mixed-citation></ref><ref id="bibr28-26330040211070295"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kawarada</surname><given-names>O</given-names></name><name name-style="western"><surname>Kume</surname><given-names>T</given-names></name><name name-style="western"><surname>Ayabe</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal><article-title>Endovascular therapy outcomes and intravascular ultrasound
+findings in thromboangiitis obliterans (Buerger&#8217;s disease)</article-title>.
+<source>J Endovasc Ther</source><year>2017</year>; <volume>24</volume>:
+<fpage>504</fpage>&#8211;<lpage>515</lpage>.<pub-id pub-id-type="pmid">28743226</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1526602817710917</pub-id></mixed-citation></ref><ref id="bibr29-26330040211070295"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bozkurt</surname><given-names>AK</given-names></name><name name-style="western"><surname>K&#246;ksal</surname><given-names>C</given-names></name><name name-style="western"><surname>Demirbas</surname><given-names>MY</given-names></name></person-group>, <etal>et al</etal><article-title>A randomized trial of intravenous iloprost (a stable prostacyclin
+analogue) versus lumbar sympathectomy in the management of Buerger&#8217;s
+disease</article-title>. <source>Int Angiol</source><year>2006</year>; <volume>25</volume>:
+<fpage>162</fpage>&#8211;<lpage>168</lpage>.<pub-id pub-id-type="pmid">16763533</pub-id></mixed-citation></ref><ref id="bibr30-26330040211070295"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Abdul Wahid</surname><given-names>SF</given-names></name><name name-style="western"><surname>Ismail</surname><given-names>NA</given-names></name><name name-style="western"><surname>Wan Jamaludin</surname><given-names>WF</given-names></name></person-group>, <etal>et al</etal><article-title>Autologous cells derived from different sources and administered
+using different regimens for &#8216;no-option&#8217; critical lower limb ischaemia
+patients</article-title>. <source>Cochrane Database Syst Rev</source><year>2018</year>; <volume>8</volume>: CD010747.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD010747.pub2</pub-id><pub-id pub-id-type="pmcid">PMC6513643</pub-id><pub-id pub-id-type="pmid">30155883</pub-id></mixed-citation></ref><ref id="bibr31-26330040211070295"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sanada</surname><given-names>F</given-names></name><name name-style="western"><surname>Taniyama</surname><given-names>Y</given-names></name><name name-style="western"><surname>Azuma</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis by gene therapy for critical limb
+ischemia: choice of biological agent</article-title>. <source>Immunol Endocr
+Metab Agents Med Chem</source><year>2014</year>; <volume>14</volume>:
+<fpage>32</fpage>&#8211;<lpage>39</lpage>.<pub-id pub-id-type="pmid">26005508</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1871522213999131231105139</pub-id><pub-id pub-id-type="pmcid">PMC4435566</pub-id></mixed-citation></ref><ref id="bibr32-26330040211070295"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Asahara</surname><given-names>T</given-names></name><name name-style="western"><surname>Murohara</surname><given-names>T</given-names></name><name name-style="western"><surname>Sullivan</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal><article-title>Isolation of putative progenitor endothelial cells for
+angiogenesis</article-title>. <source>Science</source><year>1997</year>; <volume>275</volume>:
+<fpage>964</fpage>&#8211;<lpage>967</lpage>.<pub-id pub-id-type="pmid">9020076</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.275.5302.964</pub-id></mixed-citation></ref><ref id="bibr33-26330040211070295"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fadini</surname><given-names>GP</given-names></name><name name-style="western"><surname>Losordo</surname><given-names>D</given-names></name><name name-style="western"><surname>Dimmeler</surname><given-names>S</given-names></name></person-group>. <article-title>Critical re-evaluation of endothelial progenitor
+cell phenotypes for therapeutic and diagnostic use</article-title>.
+<source>Circ Res</source><year>2012</year>; <volume>110</volume>:
+<fpage>624</fpage>&#8211;<lpage>637</lpage>.<pub-id pub-id-type="pmid">22343557</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCRESAHA.111.243386</pub-id><pub-id pub-id-type="pmcid">PMC3382070</pub-id></mixed-citation></ref><ref id="bibr34-26330040211070295"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hewing</surname><given-names>B</given-names></name><name name-style="western"><surname>Stangl</surname><given-names>V</given-names></name><name name-style="western"><surname>Stangl</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal><article-title>Circulating angiogenic factors in patients with thromboangiitis
+obliterans</article-title>. <source>PLoS ONE</source><year>2012</year>; <volume>7</volume>: <fpage>e34717</fpage>.<pub-id pub-id-type="pmid">22506045</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0034717</pub-id><pub-id pub-id-type="pmcid">PMC3323572</pub-id></mixed-citation></ref><ref id="bibr35-26330040211070295"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Park</surname><given-names>HS</given-names></name><name name-style="western"><surname>Cho</surname><given-names>KH</given-names></name><name name-style="western"><surname>Kim</surname><given-names>KL</given-names></name></person-group>, <etal>et al</etal><article-title>Reduced circulating endothelial progenitor cells in
+thromboangiitis obliterans (Buerger&#8217;s disease)</article-title>. <source>Vasc
+Med</source><year>2013</year>; <volume>18</volume>:
+<fpage>331</fpage>&#8211;<lpage>339</lpage>.<pub-id pub-id-type="pmid">24292638</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1358863X13513935</pub-id></mixed-citation></ref><ref id="bibr36-26330040211070295"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Carmeliet</surname><given-names>P</given-names></name><name name-style="western"><surname>Jain</surname><given-names>RK</given-names></name></person-group>. <article-title>Molecular mechanisms and clinical applications
+of angiogenesis</article-title>. <source>Nature</source><year>2011</year>; <volume>473</volume>:
+<fpage>298</fpage>&#8211;<lpage>307</lpage>.<pub-id pub-id-type="pmid">21593862</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature10144</pub-id><pub-id pub-id-type="pmcid">PMC4049445</pub-id></mixed-citation></ref><ref id="bibr37-26330040211070295"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Folkman</surname><given-names>J</given-names></name></person-group>. <article-title>Tumor angiogenesis: therapeutic
+implications</article-title>. <source>N Engl J Med</source><year>1971</year>; <volume>285</volume>:
+<fpage>1182</fpage>&#8211;<lpage>1186</lpage>.<pub-id pub-id-type="pmid">4938153</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJM197111182852108</pub-id></mixed-citation></ref><ref id="bibr38-26330040211070295"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ferrara</surname><given-names>N</given-names></name></person-group>. <article-title>Pituitary follicular cells secrete a novel
+heparin-binding growth factor specific for vascular endothelial
+cells</article-title>. <source>Biochem Biophys Res Commun</source><year>1989</year>; <volume>161</volume>:
+<fpage>851</fpage>&#8211;<lpage>858</lpage>.<pub-id pub-id-type="pmid">2735925</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0006-291x(89)92678-8</pub-id></mixed-citation></ref><ref id="bibr39-26330040211070295"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Takeshita</surname><given-names>S</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>LP</given-names></name><name name-style="western"><surname>Brogi</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis. A single intraarterial bolus of
+vascular endothelial growth factor augments revascularization in a rabbit
+ischemic hind limb model</article-title>. <source>J Clin Invest</source><year>1994</year>; <volume>93</volume>:
+<fpage>662</fpage>&#8211;<lpage>670</lpage>.<pub-id pub-id-type="pmid">7509344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI117018</pub-id><pub-id pub-id-type="pmcid">PMC293894</pub-id></mixed-citation></ref><ref id="bibr40-26330040211070295"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Baumgartner</surname><given-names>I</given-names></name><name name-style="western"><surname>Pieczek</surname><given-names>A</given-names></name><name name-style="western"><surname>Manor</surname><given-names>O</given-names></name></person-group>, <etal>et al</etal><article-title>Constitutive expression of phVEGF165 after intramuscular gene
+transfer promotes collateral vessel development in patients with critical
+limb ischemia</article-title>. <source>Circulation</source><year>1998</year>; <volume>97</volume>:
+<fpage>1114</fpage>&#8211;<lpage>1123</lpage>.<pub-id pub-id-type="pmid">9537336</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.cir.97.12.1114</pub-id></mixed-citation></ref><ref id="bibr41-26330040211070295"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Isner</surname><given-names>JM</given-names></name><name name-style="western"><surname>Baumgartner</surname><given-names>I</given-names></name><name name-style="western"><surname>Rauh</surname><given-names>G</given-names></name></person-group>, <etal>et al</etal><article-title>Treatment of thromboangiitis obliterans (Buerger&#8217;s disease) by
+intramuscular gene transfer of vascular endothelial growth factor:
+preliminary clinical results</article-title>. <source>J Vasc Surg</source><year>1998</year>; <volume>28</volume>: <fpage>964</fpage>&#8211;<lpage>973</lpage>;
+discussion 73&#8211;75.<pub-id pub-id-type="pmid">9845647</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0741-5214(98)70022-9</pub-id></mixed-citation></ref><ref id="bibr42-26330040211070295"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shyu</surname><given-names>K-G</given-names></name><name name-style="western"><surname>Chang</surname><given-names>H</given-names></name><name name-style="western"><surname>Wang</surname><given-names>B-W</given-names></name></person-group>, <etal>et al</etal><article-title>Intramuscular vascular endothelial growth factor gene therapy in
+patients with chronic critical leg ischemia</article-title>. <source>Am J
+Med</source><year>2003</year>; <volume>114</volume>:
+<fpage>85</fpage>&#8211;<lpage>92</lpage>.<pub-id pub-id-type="pmid">12586226</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0002-9343(02)01392-x</pub-id></mixed-citation></ref><ref id="bibr43-26330040211070295"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Jang</surname><given-names>SY</given-names></name><name name-style="western"><surname>Park</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal><article-title>Vascular endothelial growth factor-induced angiogenic gene
+therapy in patients with peripheral artery disease</article-title>.
+<source>Exp Mol Med</source><year>2004</year>; <volume>36</volume>:
+<fpage>336</fpage>&#8211;<lpage>344</lpage>.<pub-id pub-id-type="pmid">15365252</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/emm.2004.44</pub-id></mixed-citation></ref><ref id="bibr44-26330040211070295"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>M&#228;kinen</surname><given-names>K</given-names></name><name name-style="western"><surname>Manninen</surname><given-names>H</given-names></name><name name-style="western"><surname>Hedman</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal><article-title>Increased vascularity detected by digital subtraction angiography
+after VEGF gene transfer to human lower limb artery: a randomized,
+placebo-controlled, double-blinded phase II study</article-title>.
+<source>Mol Ther</source><year>2002</year>; <volume>6</volume>:
+<fpage>127</fpage>&#8211;<lpage>133</lpage>.<pub-id pub-id-type="pmid">12095313</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/mthe.2002.0638</pub-id></mixed-citation></ref><ref id="bibr45-26330040211070295"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kusumanto</surname><given-names>YH</given-names></name><name name-style="western"><surname>van Weel</surname><given-names>V</given-names></name><name name-style="western"><surname>Mulder</surname><given-names>NH</given-names></name></person-group>, <etal>et al</etal><article-title>Treatment with intramuscular vascular endothelial growth factor
+gene compared with placebo for patients with diabetes mellitus and critical
+limb ischemia: a double-blind randomized trial</article-title>. <source>Hum
+Gene Ther</source><year>2006</year>; <volume>17</volume>:
+<fpage>683</fpage>&#8211;<lpage>691</lpage>.<pub-id pub-id-type="pmid">16776576</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/hum.2006.17.683</pub-id></mixed-citation></ref><ref id="bibr46-26330040211070295"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sanada</surname><given-names>F</given-names></name><name name-style="western"><surname>Fujikawa</surname><given-names>T</given-names></name><name name-style="western"><surname>Shibata</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis using HGF plasmid</article-title>.
+<source>Ann Vasc Dis</source><year>2020</year>; <volume>13</volume>:
+<fpage>109</fpage>&#8211;<lpage>115</lpage>.<pub-id pub-id-type="pmid">32595785</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3400/avd.ra.20-00035</pub-id><pub-id pub-id-type="pmcid">PMC7315247</pub-id></mixed-citation></ref><ref id="bibr47-26330040211070295"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kaga</surname><given-names>T</given-names></name><name name-style="western"><surname>Kawano</surname><given-names>H</given-names></name><name name-style="western"><surname>Sakaguchi</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal><article-title>Hepatocyte growth factor stimulated angiogenesis without
+inflammation: differential actions between hepatocyte growth factor,
+vascular endothelial growth factor and basic fibroblast growth
+factor</article-title>. <source>Vascul Pharmacol</source><year>2012</year>; <volume>57</volume>:
+<fpage>3</fpage>&#8211;<lpage>9</lpage>.<pub-id pub-id-type="pmid">22361334</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vph.2012.02.002</pub-id></mixed-citation></ref><ref id="bibr48-26330040211070295"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Taniyama</surname><given-names>Y</given-names></name><name name-style="western"><surname>Morishita</surname><given-names>R</given-names></name><name name-style="western"><surname>Aoki</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis induced by human hepatocyte growth
+factor gene in rat and rabbit hindlimb ischemia models: preclinical study
+for treatment of peripheral arterial disease</article-title>. <source>Gene
+Ther</source><year>2001</year>; <volume>8</volume>:
+<fpage>181</fpage>&#8211;<lpage>189</lpage>.<pub-id pub-id-type="pmid">11313789</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.gt.3301379</pub-id></mixed-citation></ref><ref id="bibr49-26330040211070295"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Morishita</surname><given-names>R</given-names></name><name name-style="western"><surname>Aoki</surname><given-names>M</given-names></name><name name-style="western"><surname>Hashiya</surname><given-names>N</given-names></name></person-group>, <etal>et al</etal><article-title>Safety evaluation of clinical gene therapy using hepatocyte
+growth factor to treat peripheral arterial disease</article-title>.
+<source>Hypertension</source><year>2004</year>; <volume>44</volume>:
+<fpage>203</fpage>&#8211;<lpage>209</lpage>.<pub-id pub-id-type="pmid">15238569</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.HYP.0000136394.08900.ed</pub-id></mixed-citation></ref><ref id="bibr50-26330040211070295"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Morishita</surname><given-names>R</given-names></name><name name-style="western"><surname>Makino</surname><given-names>H</given-names></name><name name-style="western"><surname>Aoki</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal><article-title>Phase I/IIa clinical trial of therapeutic angiogenesis using
+hepatocyte growth factor gene transfer to treat critical limb
+ischemia</article-title>. <source>Arterioscler Thromb Vasc Biol</source><year>2011</year>; <volume>31</volume>:
+<fpage>713</fpage>&#8211;<lpage>720</lpage>.<pub-id pub-id-type="pmid">21183732</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.110.219550</pub-id></mixed-citation></ref><ref id="bibr51-26330040211070295"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Makino</surname><given-names>H</given-names></name><name name-style="western"><surname>Aoki</surname><given-names>M</given-names></name><name name-style="western"><surname>Hashiya</surname><given-names>N</given-names></name></person-group>, <etal>et al</etal><article-title>Long-term follow-up evaluation of results from clinical trial
+using hepatocyte growth factor gene to treat severe peripheral arterial
+disease</article-title>. <source>Arterioscler Thromb Vasc Biol</source><year>2012</year>; <volume>32</volume>:
+<fpage>2503</fpage>&#8211;<lpage>2509</lpage>.<pub-id pub-id-type="pmid">22904270</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/ATVBAHA.111.244632</pub-id></mixed-citation></ref><ref id="bibr52-26330040211070295"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Morishita</surname><given-names>R</given-names></name><name name-style="western"><surname>Shimamura</surname><given-names>M</given-names></name><name name-style="western"><surname>Takeya</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal><article-title>Combined analysis of clinical data on HGF gene therapy to treat
+critical limb ischemia in Japan</article-title>. <source>Curr Gene
+Ther</source><year>2020</year>; <volume>20</volume>:
+<fpage>25</fpage>&#8211;<lpage>35</lpage>.<pub-id pub-id-type="pmid">32416690</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1566523220666200516171447</pub-id></mixed-citation></ref><ref id="bibr53-26330040211070295"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Powell</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Simons</surname><given-names>M</given-names></name><name name-style="western"><surname>Mendelsohn</surname><given-names>FO</given-names></name></person-group>, <etal>et al</etal><article-title>Results of a double-blind, placebo-controlled study to assess the
+safety of intramuscular injection of hepatocyte growth factor plasmid to
+improve limb perfusion in patients with critical limb
+ischemia</article-title>. <source>Circulation</source><year>2008</year>; <volume>118</volume>:
+<fpage>58</fpage>&#8211;<lpage>65</lpage>.<pub-id pub-id-type="pmid">18559703</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.107.727347</pub-id></mixed-citation></ref><ref id="bibr54-26330040211070295"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Powell</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Goodney</surname><given-names>P</given-names></name><name name-style="western"><surname>Mendelsohn</surname><given-names>FO</given-names></name></person-group>, <etal>et al</etal><article-title>Safety and efficacy of patient specific intramuscular injection
+of HGF plasmid gene therapy on limb perfusion and wound healing in patients
+with ischemic lower extremity ulceration: results of the HGF-0205
+trial</article-title>. <source>J Vasc Surg</source><year>2010</year>; <volume>52</volume>:
+<fpage>1525</fpage>&#8211;<lpage>1530</lpage>.<pub-id pub-id-type="pmid">21146749</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2010.07.044</pub-id><pub-id pub-id-type="pmcid">PMC5292269</pub-id></mixed-citation></ref><ref id="bibr55-26330040211070295"><label>55</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shigematsu</surname><given-names>H</given-names></name><name name-style="western"><surname>Yasuda</surname><given-names>K</given-names></name><name name-style="western"><surname>Iwai</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal><article-title>Randomized, double-blind, placebo-controlled clinical trial of
+hepatocyte growth factor plasmid for critical limb ischemia</article-title>.
+<source>Gene Ther</source><year>2010</year>; <volume>17</volume>:
+<fpage>1152</fpage>&#8211;<lpage>1161</lpage>.<pub-id pub-id-type="pmid">20393508</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/gt.2010.51</pub-id></mixed-citation></ref><ref id="bibr56-26330040211070295"><label>56</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Caron</surname><given-names>A</given-names></name><name name-style="western"><surname>Michelet</surname><given-names>S</given-names></name><name name-style="western"><surname>Caron</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal><article-title>Human FGF-1 gene transfer promotes the formation of collateral
+vesselsand arterioles in ischemic muscles of hypercholestremic
+hamsters</article-title>. <source>J Gene Med</source><year>2004</year>; <volume>6</volume>:
+<fpage>1033</fpage>&#8211;<lpage>1045</lpage>.<pub-id pub-id-type="pmid">15352076</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jgm.594</pub-id></mixed-citation></ref><ref id="bibr57-26330040211070295"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Baffour</surname><given-names>R</given-names></name><name name-style="western"><surname>Berman</surname><given-names>J</given-names></name><name name-style="western"><surname>Garb</surname><given-names>JL</given-names></name></person-group>, <etal>et al</etal><article-title>Enhanced angiogenesis and growth of collaterals by in vivo
+administration of recombinant basic fibroblast growth factor in a rabbit
+model of acute lower limb ischemia: dose-response effect of basic fibroblast
+growth factor</article-title>. <source>J Vasc Surg</source><year>1992</year>; <volume>16</volume>:
+<fpage>181</fpage>&#8211;<lpage>191</lpage>.<pub-id pub-id-type="pmid">1379646</pub-id></mixed-citation></ref><ref id="bibr58-26330040211070295"><label>58</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Comerota</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Throm</surname><given-names>RC</given-names></name><name name-style="western"><surname>Miller</surname><given-names>KA</given-names></name></person-group>, <etal>et al</etal><article-title>Naked plasmid DNA encoding fibroblast growth factor type 1 for
+the treatment of end-stage unreconstructible lower extremity ischemia:
+preliminary results of a phase I trial</article-title>. <source>J Vasc
+Surg</source><year>2002</year>; <volume>35</volume>:
+<fpage>930</fpage>&#8211;<lpage>936</lpage>.<pub-id pub-id-type="pmid">12021709</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1067/mva.2002.123677</pub-id></mixed-citation></ref><ref id="bibr59-26330040211070295"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nikol</surname><given-names>S</given-names></name><name name-style="western"><surname>Baumgartner</surname><given-names>I</given-names></name><name name-style="western"><surname>Van Belle</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis with intramuscular NV1FGF improves
+amputation-free survival in patients with critical limb
+ischemia</article-title>. <source>Mol Ther</source><year>2008</year>; <volume>16</volume>:
+<fpage>972</fpage>&#8211;<lpage>978</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2008.33</pub-id><pub-id pub-id-type="pmid">28178491</pub-id></mixed-citation></ref><ref id="bibr60-26330040211070295"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Belch</surname><given-names>J</given-names></name><name name-style="western"><surname>Hiatt</surname><given-names>WR</given-names></name><name name-style="western"><surname>Baumgartner</surname><given-names>I</given-names></name></person-group>, <etal>et al</etal><article-title>Effect of fibroblast growth factor NV1FGF on amputation and
+death: a randomised placebo-controlled trial of gene therapy in critical
+limb ischaemia</article-title>. <source>Lancet</source><year>2011</year>; <volume>377</volume>:
+<fpage>1929</fpage>&#8211;<lpage>1937</lpage>.<pub-id pub-id-type="pmid">21621834</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(11)60394-2</pub-id></mixed-citation></ref><ref id="bibr61-26330040211070295"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rajagopalan</surname><given-names>S</given-names></name><name name-style="western"><surname>Mohler</surname><given-names>ER</given-names></name><name name-style="western"><surname>Lederman</surname><given-names>RJ</given-names></name></person-group>, <etal>et al</etal><article-title>Regional angiogenesis with vascular endothelial growth factor in
+peripheral arterial disease: a phase II randomized, double-blind, controlled
+study of adenoviral delivery of vascular endothelial growth factor 121 in
+patients with disabling intermittent claudication</article-title>.
+<source>Circulation</source><year>2003</year>; <volume>108</volume>:
+<fpage>1933</fpage>&#8211;<lpage>1938</lpage>.<pub-id pub-id-type="pmid">14504183</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.CIR.0000093398.16124.29</pub-id></mixed-citation></ref><ref id="bibr62-26330040211070295"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rajagopalan</surname><given-names>S</given-names></name><name name-style="western"><surname>Olin</surname><given-names>J</given-names></name><name name-style="western"><surname>Deitcher</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal><article-title>Use of a constitutively active hypoxia-inducible factor-1&#945;
+transgene as a therapeutic strategy in no-option critical limb ischemia
+patients: phase I dose-escalation experience</article-title>.
+<source>Circulation</source><year>2007</year>; <volume>115</volume>:
+<fpage>1234</fpage>&#8211;<lpage>1243</lpage>.<pub-id pub-id-type="pmid">17309918</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.106.607994</pub-id></mixed-citation></ref><ref id="bibr63-26330040211070295"><label>63</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Iwase</surname><given-names>T</given-names></name><name name-style="western"><surname>Nagaya</surname><given-names>N</given-names></name><name name-style="western"><surname>Fujii</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal><article-title>Comparison of angiogenic potency between mesenchymal stem cells
+and mononuclear cells in a rat model of hindlimb ischemia</article-title>.
+<source>Cardiovasc Res</source><year>2005</year>; <volume>66</volume>:
+<fpage>543</fpage>&#8211;<lpage>551</lpage>.<pub-id pub-id-type="pmid">15914119</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cardiores.2005.02.006</pub-id></mixed-citation></ref><ref id="bibr64-26330040211070295"><label>64</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tateishi-Yuyama</surname><given-names>E</given-names></name><name name-style="western"><surname>Matsubara</surname><given-names>H</given-names></name><name name-style="western"><surname>Murohara</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis for patients with limb ischaemia by
+autologous transplantation of bone-marrow cells: a pilot study and a
+randomised controlled trial</article-title>. <source>Lancet</source><year>2002</year>; <volume>360</volume>:
+<fpage>427</fpage>&#8211;<lpage>435</lpage>.<pub-id pub-id-type="pmid">12241713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(02)09670-8</pub-id></mixed-citation></ref><ref id="bibr65-26330040211070295"><label>65</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Matoba</surname><given-names>S</given-names></name><name name-style="western"><surname>Tatsumi</surname><given-names>T</given-names></name><name name-style="western"><surname>Murohara</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal><article-title>Long-term clinical outcome after intramuscular implantation of
+bone marrow mononuclear cells (Therapeutic Angiogenesis by Cell
+Transplantation [TACT] trial) in patients with chronic limb
+ischemia</article-title>. <source>Am Heart J</source><year>2008</year>; <volume>156</volume>:
+<fpage>1010</fpage>&#8211;<lpage>1018</lpage>.<pub-id pub-id-type="pmid">19061721</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ahj.2008.06.025</pub-id></mixed-citation></ref><ref id="bibr66-26330040211070295"><label>66</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Idei</surname><given-names>N</given-names></name><name name-style="western"><surname>Soga</surname><given-names>J</given-names></name><name name-style="western"><surname>Hata</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal><article-title>Autologous bone-marrow mononuclear cell implantation reduces
+long-term major amputation risk in patients with critical limb ischemia: a
+comparison of atherosclerotic peripheral arterial disease and Buerger
+disease</article-title>. <source>Circ Cardiovasc Interv</source><year>2011</year>; <volume>4</volume>:
+<fpage>15</fpage>&#8211;<lpage>25</lpage>.<pub-id pub-id-type="pmid">21205941</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCINTERVENTIONS.110.955724</pub-id></mixed-citation></ref><ref id="bibr67-26330040211070295"><label>67</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Durdu</surname><given-names>S</given-names></name><name name-style="western"><surname>Akar</surname><given-names>AR</given-names></name><name name-style="western"><surname>Arat</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal><article-title>Autologous bone-marrow mononuclear cell implantation for patients
+with Rutherford grade II-III thromboangiitis obliterans</article-title>.
+<source>J Vasc Surg</source><year>2006</year>; <volume>44</volume>:
+<fpage>732</fpage>&#8211;<lpage>739</lpage>.<pub-id pub-id-type="pmid">16926085</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2006.06.023</pub-id></mixed-citation></ref><ref id="bibr68-26330040211070295"><label>68</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Saito</surname><given-names>Y</given-names></name><name name-style="western"><surname>Sasaki</surname><given-names>KI</given-names></name><name name-style="western"><surname>Katsuda</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal><article-title>Effect of autologous bone-marrow cell transplantation on ischemic
+ulcer in patients with Buerger&#8217;s disease</article-title>. <source>Circ
+J</source><year>2007</year>; <volume>71</volume>:
+<fpage>1187</fpage>&#8211;<lpage>1192</lpage>.<pub-id pub-id-type="pmid">17652879</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1253/circj.71.1187</pub-id></mixed-citation></ref><ref id="bibr69-26330040211070295"><label>69</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Motukuru</surname><given-names>V</given-names></name><name name-style="western"><surname>Suresh</surname><given-names>KR</given-names></name><name name-style="western"><surname>Vivekanand</surname><given-names>V</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis in Buerger&#8217;s disease (thromboangiitis
+obliterans) patients with critical limb ischemia by autologous
+transplantation of bone marrow mononuclear cells</article-title>. <source>J
+Vasc Surg</source><year>2008</year>; <volume>48</volume>(<issue>Suppl. 6</issue>):
+<fpage>53S</fpage>&#8211;<lpage>60S</lpage>; discussion 60S.<pub-id pub-id-type="pmid">19084740</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvs.2008.09.005</pub-id></mixed-citation></ref><ref id="bibr70-26330040211070295"><label>70</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dash</surname><given-names>NR</given-names></name><name name-style="western"><surname>Dash</surname><given-names>SN</given-names></name><name name-style="western"><surname>Routray</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal><article-title>Targeting nonhealing ulcers of lower extremity</article-title>.
+<source>Rejuvenation Res</source><year>2009</year>; <volume>12</volume>:
+<fpage>359</fpage>&#8211;<lpage>366</lpage>.<pub-id pub-id-type="pmid">19929258</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/rej.2009.0872</pub-id></mixed-citation></ref><ref id="bibr71-26330040211070295"><label>71</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cacione</surname><given-names>DG</given-names></name><name name-style="western"><surname>do Carmo Novaes</surname><given-names>F</given-names></name><name name-style="western"><surname>Moreno</surname><given-names>DH</given-names></name></person-group>. <article-title>Stem cell therapy for treatment of
+thromboangiitis obliterans (Buerger&#8217;s disease)</article-title>.
+<source>Cochrane Database Syst Rev</source><year>2018</year>; <volume>10</volume>: CD012794.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD012794.pub2</pub-id><pub-id pub-id-type="pmcid">PMC6516882</pub-id><pub-id pub-id-type="pmid">30378681</pub-id></mixed-citation></ref><ref id="bibr72-26330040211070295"><label>72</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gupta</surname><given-names>PK</given-names></name><name name-style="western"><surname>Krishna</surname><given-names>M</given-names></name><name name-style="western"><surname>Chullikana</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal><article-title>Administration of adult human bone marrow-derived, cultured,
+pooled, allogeneic mesenchymal stromal cells in critical limb ischemia due
+to Buerger&#8217;s disease: phase II study report suggests clinical
+efficacy</article-title>. <source>Stem Cells Transl Med</source><year>2017</year>; <volume>6</volume>:
+<fpage>689</fpage>&#8211;<lpage>699</lpage>.<pub-id pub-id-type="pmid">28297569</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5966/sctm.2016-0237</pub-id><pub-id pub-id-type="pmcid">PMC5442769</pub-id></mixed-citation></ref><ref id="bibr73-26330040211070295"><label>73</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bura</surname><given-names>A</given-names></name><name name-style="western"><surname>Planat-Benard</surname><given-names>V</given-names></name><name name-style="western"><surname>Bourin</surname><given-names>P</given-names></name></person-group>, <etal>et al</etal><article-title>Phase I trial: the use of autologous cultured adipose-derived
+stroma/stem cells to treat patients with non-revascularizable critical limb
+ischemia</article-title>. <source>Cytotherapy</source><year>2014</year>; <volume>16</volume>:
+<fpage>245</fpage>&#8211;<lpage>257</lpage>.<pub-id pub-id-type="pmid">24438903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcyt.2013.11.011</pub-id></mixed-citation></ref><ref id="bibr74-26330040211070295"><label>74</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>HC</given-names></name><name name-style="western"><surname>An</surname><given-names>SG</given-names></name><name name-style="western"><surname>Lee</surname><given-names>HW</given-names></name></person-group>, <etal>et al</etal><article-title>Safety and effect of adipose tissue-derived stem cell
+implantation in patients with critical limb ischemia: a pilot
+study</article-title>. <source>Circ J</source><year>2012</year>; <volume>76</volume>:
+<fpage>1750</fpage>&#8211;<lpage>1760</lpage>.<pub-id pub-id-type="pmid">22498564</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1253/circj.cj-11-1135</pub-id></mixed-citation></ref><ref id="bibr75-26330040211070295"><label>75</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ra</surname><given-names>JC</given-names></name><name name-style="western"><surname>Jeong</surname><given-names>EC</given-names></name><name name-style="western"><surname>Kang</surname><given-names>SK</given-names></name></person-group>, <etal>et al</etal><article-title>A prospective, nonrandomized, no placebo-controlled, phase I/II
+clinical trial assessing the safety and efficacy of intramuscular injection
+of autologous adipose tissue-derived mesenchymal stem cells in patients with
+severe Buerger&#8217;s disease</article-title>. <source>Cell Med</source><year>2017</year>; <volume>9</volume>:
+<fpage>87</fpage>&#8211;<lpage>102</lpage>.<pub-id pub-id-type="pmid">28713639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3727/215517916X693069</pub-id><pub-id pub-id-type="pmcid">PMC5509019</pub-id></mixed-citation></ref><ref id="bibr76-26330040211070295"><label>76</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Katagiri</surname><given-names>T</given-names></name><name name-style="western"><surname>Kondo</surname><given-names>K</given-names></name><name name-style="western"><surname>Shibata</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal><article-title>Therapeutic angiogenesis using autologous adipose-derived
+regenerative cells in patients with critical limb ischaemia in Japan: a
+clinical pilot study</article-title>. <source>Sci Rep</source><year>2020</year>; <volume>10</volume>: <fpage>16045</fpage>.<pub-id pub-id-type="pmid">32994527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-73096-y</pub-id><pub-id pub-id-type="pmcid">PMC7525513</pub-id></mixed-citation></ref><ref id="bibr77-26330040211070295"><label>77</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>D</given-names></name><name name-style="western"><surname>Chen</surname><given-names>B</given-names></name><name name-style="western"><surname>Liang</surname><given-names>Z</given-names></name></person-group>, <etal>et al</etal><article-title>Comparison of bone marrow mesenchymal stem cells with bone
+marrow-derived mononuclear cells for treatment of diabetic critical limb
+ischemia and foot ulcer: a double-blind, randomized, controlled
+trial</article-title>. <source>Diabetes Res Clin Pract</source><year>2011</year>; <volume>92</volume>:
+<fpage>26</fpage>&#8211;<lpage>36</lpage>.<pub-id pub-id-type="pmid">21216483</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2010.12.010</pub-id></mixed-citation></ref><ref id="bibr78-26330040211070295"><label>78</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Forster</surname><given-names>R</given-names></name><name name-style="western"><surname>Liew</surname><given-names>A</given-names></name><name name-style="western"><surname>Bhattacharya</surname><given-names>V</given-names></name></person-group>, <etal>et al</etal><article-title>Gene therapy for peripheral arterial disease</article-title>.
+<source>Cochrane Database Syst Rev</source><year>2018</year>; <volume>10</volume>: CD012058.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD012058.pub2</pub-id><pub-id pub-id-type="pmcid">PMC6517203</pub-id><pub-id pub-id-type="pmid">30380135</pub-id></mixed-citation></ref><ref id="bibr79-26330040211070295"><label>79</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Benoit</surname><given-names>E</given-names></name><name name-style="western"><surname>O&#8217;Donnell</surname><given-names>TF</given-names></name><name name-style="western"><surname>Patel</surname><given-names>AN</given-names></name></person-group>. <article-title>Safety and efficacy of autologous cell therapy
+in critical limb ischemia: a systematic review</article-title>. <source>Cell
+Transplant</source><year>2013</year>; <volume>22</volume>:
+<fpage>545</fpage>&#8211;<lpage>562</lpage>.<pub-id pub-id-type="pmid">22490340</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3727/096368912X636777</pub-id></mixed-citation></ref><ref id="bibr80-26330040211070295"><label>80</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rigato</surname><given-names>M</given-names></name><name name-style="western"><surname>Monami</surname><given-names>M</given-names></name><name name-style="western"><surname>Fadini</surname><given-names>GP</given-names></name></person-group>. <article-title>Autologous cell therapy for peripheral arterial
+disease: systematic review and meta-analysis of randomized, nonrandomized,
+and noncontrolled studies</article-title>. <source>Circ Res</source><year>2017</year>; <volume>120</volume>:
+<fpage>1326</fpage>&#8211;<lpage>1340</lpage>.<pub-id pub-id-type="pmid">28096194</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCRESAHA.116.309045</pub-id></mixed-citation></ref><ref id="bibr81-26330040211070295"><label>81</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xie</surname><given-names>B</given-names></name><name name-style="western"><surname>Luo</surname><given-names>H</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal><article-title>Autologous stem cell therapy in critical limb ischemia: a
+meta-analysis of randomized controlled trials</article-title>. <source>Stem
+Cells Int</source><year>2018</year>; <volume>2018</volume>:
+<fpage>7528464</fpage>.<pub-id pub-id-type="pmid">29977308</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2018/7528464</pub-id><pub-id pub-id-type="pmcid">PMC5994285</pub-id></mixed-citation></ref><ref id="bibr82-26330040211070295"><label>82</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jaluvka</surname><given-names>F</given-names></name><name name-style="western"><surname>Ihnat</surname><given-names>P</given-names></name><name name-style="western"><surname>Madaric</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal><article-title>Current status of cell-based therapy in patients with critical
+limb ischemia</article-title>. <source>Int J Mol Sci</source><year>2020</year>; <volume>21</volume>: <fpage>8999</fpage>.<pub-id pub-id-type="pmid">33256237</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms21238999</pub-id><pub-id pub-id-type="pmcid">PMC7731417</pub-id></mixed-citation></ref><ref id="bibr83-26330040211070295"><label>83</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Peeters Weem</surname><given-names>SMO</given-names></name><name name-style="western"><surname>Teraa</surname><given-names>M</given-names></name><name name-style="western"><surname>de Borst</surname><given-names>GJ</given-names></name></person-group>, <etal>et al</etal><article-title>Bone marrow derived cell therapy in critical limb ischemia: a
+meta-analysis of randomized placebo controlled trials</article-title>.
+<source>Eur J Vasc Endovasc Surg</source><year>2015</year>; <volume>50</volume>:
+<fpage>775</fpage>&#8211;<lpage>783</lpage>.<pub-id pub-id-type="pmid">26460286</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejvs.2015.08.018</pub-id></mixed-citation></ref><ref id="bibr84-26330040211070295"><label>84</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Teraa</surname><given-names>M</given-names></name><name name-style="western"><surname>Sprengers</surname><given-names>RW</given-names></name><name name-style="western"><surname>van der Graaf</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal><article-title>Autologous bone marrow-derived cell therapy in patients with
+critical limb ischemia: a meta-analysis of randomized controlled clinical
+trials</article-title>. <source>Ann Surg</source><year>2013</year>; <volume>258</volume>:
+<fpage>922</fpage>&#8211;<lpage>929</lpage>.<pub-id pub-id-type="pmid">23426345</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0b013e3182854cf1</pub-id></mixed-citation></ref><ref id="bibr85-26330040211070295"><label>85</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liew</surname><given-names>A</given-names></name><name name-style="western"><surname>Bhattacharya</surname><given-names>V</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal><article-title>Cell therapy for critical limb ischemia</article-title>.
+<source>Angiology</source><year>2016</year>; <volume>67</volume>:
+<fpage>444</fpage>&#8211;<lpage>455</lpage>.<pub-id pub-id-type="pmid">26195561</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0003319715595172</pub-id></mixed-citation></ref><ref id="bibr86-26330040211070295"><label>86</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>Z-J</given-names></name><name name-style="western"><surname>Tian</surname><given-names>R</given-names></name><name name-style="western"><surname>An</surname><given-names>W</given-names></name></person-group>, <etal>et al</etal><article-title>Identification of E-selectin as a novel target for the regulation
+of post-natal neovascularization: implications for diabetic wound
+healing</article-title>. <source>Ann Surg</source><year>2010</year>; <volume>252</volume>:
+<fpage>625</fpage>&#8211;<lpage>634</lpage>.<pub-id pub-id-type="pmid">20881769</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0b013e3181f5a079</pub-id><pub-id pub-id-type="pmcid">PMC3391745</pub-id></mixed-citation></ref><ref id="bibr87-26330040211070295"><label>87</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wyble</surname><given-names>CW</given-names></name><name name-style="western"><surname>Hynes</surname><given-names>KL</given-names></name><name name-style="western"><surname>Kuchibhotla</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal><article-title>TNF-&#945; and IL-1 upregulate membrane-bound and soluble E-selectin
+through a common pathway</article-title>. <source>J Surg Res</source><year>1997</year>; <volume>73</volume>:
+<fpage>107</fpage>&#8211;<lpage>112</lpage>.<pub-id pub-id-type="pmid">9441802</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/jsre.1997.5207</pub-id></mixed-citation></ref><ref id="bibr88-26330040211070295"><label>88</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>ZJ</given-names></name><name name-style="western"><surname>Tian</surname><given-names>R</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal><article-title>SDF-1&#945;-induced dual pairs of E-selectin/ligand mediate
+endothelial progenitor cell homing to critical ischemia</article-title>.
+<source>Sci Rep</source><year>2016</year>; <volume>6</volume>: <fpage>34416</fpage>.<pub-id pub-id-type="pmid">27713493</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep34416</pub-id><pub-id pub-id-type="pmcid">PMC5054375</pub-id></mixed-citation></ref><ref id="bibr89-26330040211070295"><label>89</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Oh</surname><given-names>IY</given-names></name><name name-style="western"><surname>Yoon</surname><given-names>CH</given-names></name><name name-style="western"><surname>Hur</surname><given-names>J</given-names></name></person-group>, <etal>et al</etal><article-title>Involvement of E-selectin in recruitment of endothelial
+progenitor cells and angiogenesis in ischemic muscle</article-title>.
+<source>Blood</source><year>2007</year>; <volume>110</volume>:
+<fpage>3891</fpage>&#8211;<lpage>3899</lpage>.<pub-id pub-id-type="pmid">17699745</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2006-10-048991</pub-id></mixed-citation></ref><ref id="bibr90-26330040211070295"><label>90</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>ZJ</given-names></name><name name-style="western"><surname>Tian</surname><given-names>R</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal><article-title>Inhibition of tumor angiogenesis and melanoma growth by targeting
+vascular E-selectin</article-title>. <source>Ann Surg</source><year>2011</year>; <volume>254</volume>: <fpage>450</fpage>&#8211;<lpage>456</lpage>;
+discussion 456&#8211;457.<pub-id pub-id-type="pmid">21795970</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0b013e31822a72dc</pub-id></mixed-citation></ref><ref id="bibr91-26330040211070295"><label>91</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>ZJ</given-names></name><name name-style="western"><surname>Daftarian</surname><given-names>P</given-names></name><name name-style="western"><surname>Kovalski</surname><given-names>L</given-names></name></person-group>, <etal>et al</etal><article-title>Directing and potentiating stem cell-mediated angiogenesis and
+tissue repair by cell surface E-selectin coating</article-title>.
+<source>PLoS ONE</source><year>2016</year>; <volume>11</volume>:
+<fpage>e0154053</fpage>.<pub-id pub-id-type="pmid">27104647</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0154053</pub-id><pub-id pub-id-type="pmcid">PMC4841581</pub-id></mixed-citation></ref><ref id="bibr92-26330040211070295"><label>92</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nowak-Sliwinska</surname><given-names>P</given-names></name><name name-style="western"><surname>Alitalo</surname><given-names>K</given-names></name><name name-style="western"><surname>Allen</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal><article-title>Consensus guidelines for the use and interpretation of
+angiogenesis assays</article-title>. <source>Angiogenesis</source><year>2018</year>; <volume>21</volume>:
+<fpage>425</fpage>&#8211;<lpage>532</lpage>.<pub-id pub-id-type="pmid">29766399</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10456-018-9613-x</pub-id><pub-id pub-id-type="pmcid">PMC6237663</pub-id></mixed-citation></ref><ref id="bibr93-26330040211070295"><label>93</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Parikh</surname><given-names>PP</given-names></name><name name-style="western"><surname>Lassance-Soares</surname><given-names>RM</given-names></name><name name-style="western"><surname>Shao</surname><given-names>H</given-names></name></person-group>, <etal>et al</etal><article-title>Intramuscular E-selectin/adeno-associated virus gene therapy
+promotes wound healing in an ischemic mouse model</article-title>. <source>J
+Surg Res</source><year>2018</year>; <volume>228</volume>:
+<fpage>68</fpage>&#8211;<lpage>76</lpage>.<pub-id pub-id-type="pmid">29907232</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jss.2018.02.061</pub-id></mixed-citation></ref><ref id="bibr94-26330040211070295"><label>94</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Quiroz</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Parikh</surname><given-names>PP</given-names></name><name name-style="western"><surname>Lassance-Soares</surname><given-names>RM</given-names></name></person-group>, <etal>et al</etal><article-title>Gangrene, revascularization, and limb function improved with
+E-selectin/adeno-associated virus gene therapy</article-title>. <source>JVS
+Vasc Sci</source><year>2021</year>; <volume>2</volume>:
+<fpage>20</fpage>&#8211;<lpage>32</lpage>.<pub-id pub-id-type="pmid">34617055</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvssci.2020.10.001</pub-id><pub-id pub-id-type="pmcid">PMC8489216</pub-id></mixed-citation></ref><ref id="bibr95-26330040211070295"><label>95</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Castilla</surname><given-names>DM</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Z-J</given-names></name><name name-style="western"><surname>Tian</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal><article-title>A novel autologous cell based therapy to promote diabetic wound
+healing</article-title>. <source>Ann Surg</source><year>2012</year>; <volume>256</volume>:
+<fpage>560</fpage>&#8211;<lpage>572</lpage>.<pub-id pub-id-type="pmid">22964729</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0b013e31826a9064</pub-id><pub-id pub-id-type="pmcid">PMC3465680</pub-id></mixed-citation></ref><ref id="bibr96-26330040211070295"><label>96</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rong</surname><given-names>SL</given-names></name><name name-style="western"><surname>Wang</surname><given-names>XL</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>CY</given-names></name></person-group>, <etal>et al</etal><article-title>Transplantation of HGF gene-engineered skeletal myoblasts improve
+infarction recovery in a rat myocardial ischemia model</article-title>.
+<source>PLoS ONE</source><year>2017</year>; <volume>12</volume>:
+<fpage>e0175807</fpage>.<pub-id pub-id-type="pmid">28459804</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0175807</pub-id><pub-id pub-id-type="pmcid">PMC5411067</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC10631659"/></mixed-citation></ref><ref id="bibr97-26330040211070295"><label>97</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Park</surname><given-names>BW</given-names></name><name name-style="western"><surname>Jung</surname><given-names>SH</given-names></name><name name-style="western"><surname>Das</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal><article-title>In vivo priming of human mesenchymal stem cells with hepatocyte
+growth factor&#8211;engineered mesenchymal stem cells promotes therapeutic
+potential for cardiac repair</article-title>. <source>Sci Adv</source><year>2020</year>; <volume>6</volume>: eaay6994.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.aay6994</pub-id><pub-id pub-id-type="pmcid">PMC7141892</pub-id><pub-id pub-id-type="pmid">32284967</pub-id></mixed-citation></ref><ref id="bibr98-26330040211070295"><label>98</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hung</surname><given-names>S-C</given-names></name><name name-style="western"><surname>Pochampally</surname><given-names>RR</given-names></name><name name-style="western"><surname>Chen</surname><given-names>S-C</given-names></name></person-group>, <etal>et al</etal><article-title>Angiogenic effects of human multipotent stromal cell conditioned
+medium activate the PI3K-Akt pathway in hypoxic endothelial cells to inhibit
+apoptosis, increase survival, and stimulate angiogenesis</article-title>.
+<source>Stem Cells</source><year>2007</year>; <volume>25</volume>:
+<fpage>2363</fpage>&#8211;<lpage>2370</lpage>.<pub-id pub-id-type="pmid">17540857</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1634/stemcells.2006-0686</pub-id></mixed-citation></ref><ref id="bibr99-26330040211070295"><label>99</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ranghino</surname><given-names>A</given-names></name><name name-style="western"><surname>Cantaluppi</surname><given-names>V</given-names></name><name name-style="western"><surname>Grange</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal><article-title>Endothelial progenitor cell-derived microvesicles improve
+neovascularization in a murine model of hindlimb ischemia</article-title>.
+<source>Int J Immunopathol Pharmacol</source><year>2012</year>; <volume>25</volume>:
+<fpage>75</fpage>&#8211;<lpage>85</lpage>.<pub-id pub-id-type="pmid">22507320</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/039463201202500110</pub-id></mixed-citation></ref><ref id="bibr100-26330040211070295"><label>100</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Komaki</surname><given-names>M</given-names></name><name name-style="western"><surname>Numata</surname><given-names>Y</given-names></name><name name-style="western"><surname>Morioka</surname><given-names>C</given-names></name></person-group>, <etal>et al</etal><article-title>Exosomes of human placenta-derived mesenchymal stem cells
+stimulate angiogenesis</article-title>. <source>Stem Cell Res Ther</source><year>2017</year>; <volume>8</volume>: <fpage>219</fpage>.<pub-id pub-id-type="pmid">28974256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13287-017-0660-9</pub-id><pub-id pub-id-type="pmcid">PMC5627451</pub-id></mixed-citation></ref><ref id="bibr101-26330040211070295"><label>101</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name><name name-style="western"><surname>Jiao</surname><given-names>G</given-names></name><name name-style="western"><surname>Ren</surname><given-names>S</given-names></name></person-group>, <etal>et al</etal><article-title>Exosomes from bone marrow mesenchymal stem cells enhance fracture
+healing through the promotion of osteogenesis and angiogenesis in a rat
+model of nonunion</article-title>. <source>Stem Cell Res Ther</source><year>2020</year>; <volume>11</volume>: <fpage>38</fpage>.<pub-id pub-id-type="pmid">31992369</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13287-020-1562-9</pub-id><pub-id pub-id-type="pmcid">PMC6986095</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

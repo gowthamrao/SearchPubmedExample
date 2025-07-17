@@ -1,0 +1,1265 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">JMIR Form Res</journal-id><journal-id journal-id-type="iso-abbrev">JMIR Form Res</journal-id><journal-id journal-id-type="pmc-domain-id">3595</journal-id><journal-id journal-id-type="pmc-domain">formative</journal-id><journal-id journal-id-type="publisher-id">JFR</journal-id><journal-title-group><journal-title>JMIR Formative Research</journal-title></journal-title-group><issn pub-type="epub">2561-326X</issn><publisher><publisher-name>JMIR Publications Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10152335</article-id><article-id pub-id-type="pmcid-ver">PMC10152335.1</article-id><article-id pub-id-type="pmcaid">10152335</article-id><article-id pub-id-type="pmcaiid">10152335</article-id><article-id pub-id-type="pmid">37067873</article-id><article-id pub-id-type="doi">10.2196/41775</article-id><article-id pub-id-type="publisher-id">v7i1e41775</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Comparison of Machine Learning Algorithms for Predicting Hospital Readmissions and Worsening Heart Failure Events in Patients With Heart Failure With Reduced Ejection Fraction: Modeling Study</article-title></title-group><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Mavragani</surname><given-names initials="A">Amaryllis</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name name-style="western"><surname>Yan</surname><given-names initials="X">Xiaowei</given-names></name></contrib><contrib contrib-type="reviewer"><name name-style="western"><surname>Zhong</surname><given-names initials="X">Xiang</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Ru</surname><given-names initials="B">Boshu</given-names></name><degrees>PhD</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9620-1306</contrib-id></contrib><contrib id="contrib2" contrib-type="author"><name name-style="western"><surname>Tan</surname><given-names initials="X">Xi</given-names></name><degrees>PhD, PharmD</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2409-5927</contrib-id></contrib><contrib id="contrib3" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="Y">Yu</given-names></name><degrees>MS</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9038-9157</contrib-id></contrib><contrib id="contrib4" contrib-type="author"><name name-style="western"><surname>Kannapur</surname><given-names initials="K">Kartik</given-names></name><degrees>MS</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-3442-6386</contrib-id></contrib><contrib id="contrib5" contrib-type="author"><name name-style="western"><surname>Ramanan</surname><given-names initials="D">Dheepan</given-names></name><degrees>BA</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3848-8585</contrib-id></contrib><contrib id="contrib6" contrib-type="author"><name name-style="western"><surname>Kessler</surname><given-names initials="G">Garin</given-names></name><degrees>BA</degrees><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-7292-4707</contrib-id></contrib><contrib id="contrib7" contrib-type="author"><name name-style="western"><surname>Lautsch</surname><given-names initials="D">Dominik</given-names></name><degrees>PhD</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3803-1817</contrib-id></contrib><contrib id="contrib8" contrib-type="author" corresp="yes"><name name-style="western"><surname>Fonarow</surname><given-names initials="G">Gregg</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3192-8093</contrib-id><xref rid="aff4" ref-type="aff">4</xref><address><institution>Ahmanson-UCLA Cardiomyopathy Center</institution><institution>University of California, Los Angeles</institution><addr-line>10833 LeConte Avenue</addr-line><addr-line>Los Angeles, CA, 90095</addr-line><country>United States</country><phone>1 310 206 9112</phone><email>GFonarow@mednet.ucla.edu</email></address></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Merck &amp; Co, Inc</institution>
+<addr-line>Rahway, NJ</addr-line>
+<country>United States</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Amazon Web Services Inc</institution>
+<addr-line>Seattle, WA</addr-line>
+<country>United States</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>School of Continuing Studies</institution>
+<institution>Georgetown University</institution>
+<addr-line>Washington, DC</addr-line>
+<country>United States</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution>Ahmanson-UCLA Cardiomyopathy Center</institution>
+<institution>University of California, Los Angeles</institution>
+<addr-line>Los Angeles, CA</addr-line>
+<country>United States</country>
+</aff><author-notes><corresp>Corresponding Author: Gregg Fonarow <email>GFonarow@mednet.ucla.edu</email></corresp></author-notes><pub-date pub-type="collection"><year>2023</year></pub-date><pub-date pub-type="epub"><day>17</day><month>4</month><year>2023</year></pub-date><volume>7</volume><issue-id pub-id-type="pmc-issue-id">434372</issue-id><elocation-id>e41775</elocation-id><history><date date-type="received"><day>19</day><month>9</month><year>2022</year></date><date date-type="rev-request"><day>14</day><month>12</month><year>2022</year></date><date date-type="rev-recd"><day>16</day><month>2</month><year>2023</year></date><date date-type="accepted"><day>19</day><month>2</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>04</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>03</day><month>05</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-07-20 04:25:10.580"><day>20</day><month>07</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>&#169;Boshu Ru, Xi Tan, Yu Liu, Kartik Kannapur, Dheepan Ramanan, Garin Kessler, Dominik Lautsch, Gregg Fonarow. Originally published in JMIR Formative Research (https://formative.jmir.org), 17.04.2023.</copyright-statement><copyright-year>2023</copyright-year><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Formative Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://formative.jmir.org" ext-link-type="uri">https://formative.jmir.org</ext-link>, as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="formative_v7i1e41775.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://formative.jmir.org/2023/1/e41775"/><abstract><sec sec-type="background"><title>Background</title><p>Heart failure (HF) is highly prevalent in the United States. Approximately one-third to one-half of HF cases are categorized as HF with reduced ejection fraction (HFrEF). Patients with HFrEF are at risk of worsening HF, have a high risk of adverse outcomes, and experience higher health care use and costs. Therefore, it is crucial to identify patients with HFrEF who are at high risk of subsequent events after HF hospitalization.</p></sec><sec sec-type="objective"><title>Objective</title><p>Machine learning (ML) has been used to predict HF-related outcomes. The objective of this study was to compare different ML prediction models and feature construction methods to predict 30-, 90-, and 365-day hospital readmissions and worsening HF events (WHFEs).</p></sec><sec sec-type="methods"><title>Methods</title><p>We used the Veradigm PINNACLE outpatient registry linked to Symphony Health&#8217;s Integrated Dataverse data from July 1, 2013, to September 30, 2017. Adults with a confirmed diagnosis of HFrEF and HF-related hospitalization were included. WHFEs were defined as HF-related hospitalizations or outpatient intravenous diuretic use within 1 year of the first HF hospitalization. We used different approaches to construct ML features from clinical codes, including frequencies of clinical classification software (CCS) categories, Bidirectional Encoder Representations From Transformers (BERT) trained with CCS sequences (BERT + CCS), BERT trained on raw clinical codes (BERT + raw), and prespecified features based on clinical knowledge. A multilayer perceptron neural network, extreme gradient boosting (XGBoost), random forest, and logistic regression prediction models were applied and compared.</p></sec><sec sec-type="results"><title>Results</title><p>A total of 30,687 adult patients with HFrEF were included in the analysis; 11.41% (3184/27,917) of adults experienced a hospital readmission within 30 days of their first HF hospitalization, and nearly half (9231/21,562, 42.81%) of the patients experienced at least 1 WHFE within 1 year after HF hospitalization. The prediction models and feature combinations with the best area under the receiver operating characteristic curve (AUC) for each outcome were XGBoost with CCS frequency (AUC=0.595) for 30-day readmission, random forest with CCS frequency (AUC=0.630) for 90-day readmission, XGBoost with CCS frequency (AUC=0.649) for 365-day readmission, and XGBoost with CCS frequency (AUC=0.640) for WHFEs. Our ML models could discriminate between readmission and WHFE among patients with HFrEF. Our model performance was mediocre, especially for the 30-day readmission events, most likely owing to limitations of the data, including an imbalance between positive and negative cases and high missing rates of many clinical variables and outcome definitions.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>We predicted readmissions and WHFEs after HF hospitalizations in patients with HFrEF. Features identified by data-driven approaches may be comparable with those identified by clinical domain knowledge. Future work may be warranted to validate and improve the models using more longitudinal electronic health records that are complete, are comprehensive, and have a longer follow-up time.</p></sec></abstract><kwd-group><kwd>deep learning</kwd><kwd>machine learning</kwd><kwd>hospital readmission</kwd><kwd>heart failure</kwd><kwd>heart failure with reduced ejection fraction</kwd><kwd>worsening heart failure event</kwd><kwd>Bidirectional Encoder Representations From Transformers</kwd><kwd>BERT</kwd><kwd>clinical registry</kwd><kwd>medical claims</kwd><kwd>real-world data</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>Heart failure (HF), defined by the US Centers for Disease Control and Prevention as a condition when the heart cannot pump enough blood and oxygen to support other organs in one&#8217;s body [<xref rid="ref1" ref-type="bibr">1</xref>], is highly prevalent in the United States, affecting approximately 6 million Americans aged &#8805;20 years [<xref rid="ref2" ref-type="bibr">2</xref>]. HF represents a major and growing public health concern in the United States. Between 2008 and 2018, hospitalizations owing to HF increased by 20% from 1,060,540 to 1,270,360 [<xref rid="ref3" ref-type="bibr">3</xref>]. A systematic review of medical costs associated with HF in the United States found that the annual median total medical costs for HF were estimated at US $24,383 per patient between 2014 and 2020 [<xref rid="ref4" ref-type="bibr">4</xref>] with total annual costs of US $43.6 billion in 2020 [<xref rid="ref5" ref-type="bibr">5</xref>].</p><p>Approximately 31% to 56% of HF cases in the United States are classified as HF with reduced ejection fraction (HFrEF) [<xref rid="ref6" ref-type="bibr">6</xref>-<xref rid="ref8" ref-type="bibr">8</xref>], defined as a left ventricular ejection fraction of &#8804;40% [<xref rid="ref9" ref-type="bibr">9</xref>]. Patients with HFrEF represent a subset of patients with HF with substantial morbidity and mortality. Patients with HFrEF are also at risk of worsening HF events (WHFEs, including outpatient intravenous [IV] diuretic use or HF-related hospitalization) [<xref rid="ref10" ref-type="bibr">10</xref>,<xref rid="ref11" ref-type="bibr">11</xref>]. Patients with a WHFE have a high risk of adverse outcomes and substantially higher health care use and costs than those without a WHFE [<xref rid="ref10" ref-type="bibr">10</xref>,<xref rid="ref11" ref-type="bibr">11</xref>].</p><p>The 30-day readmission rate has been used as an important quality of care measure to evaluate hospital performance, and through the Hospital Readmissions Reduction Program, the Centers for Medicare &amp; Medicaid Services have penalized hospitals with higher 30-day readmission rates of &gt;US $3 billion [<xref rid="ref12" ref-type="bibr">12</xref>]. A 2021 study using HF hospitalizations from 2010 to 2017 in the National Readmission database found that among patients with HFrEF who had an HF hospitalization, approximately 18.1% had a 30-day all-cause readmission [<xref rid="ref13" ref-type="bibr">13</xref>]. A 2011 to 2014 database analysis of patients with HFrEF found that 56% of patients with HFrEF with WHFE were readmitted within 30 days of the WHFE [<xref rid="ref11" ref-type="bibr">11</xref>].</p><p>It is crucial for providers and payers to identify patients with HF who are at high risk of readmission and WHFEs and to provide targeted interventions in an attempt to prevent these adverse events from occurring. However, predictive model performance for readmission after HF hospitalization remains unsatisfactory, and it is substantially worse than that of models that predict mortality [<xref rid="ref14" ref-type="bibr">14</xref>].</p><p>Machine learning (ML) [<xref rid="ref15" ref-type="bibr">15</xref>] has been applied to predict HF-related outcomes, and most ML models (76%) have outperformed conventional statistical models [<xref rid="ref16" ref-type="bibr">16</xref>]. One major advantage of ML models is that they do not require statistical assumptions that are usually too strict for real-world data. Because semantic relationships between medical codes can be complicated (eg, is-a, synonym, equivalent, or overlapping), they can void statistical assumptions regarding independence. Furthermore, the granularity of medical codes often causes extraordinarily high dimensionality of the search space, making models more vulnerable to overfitting. Deep learning (DL), a state-of-the-art ML method [<xref rid="ref15" ref-type="bibr">15</xref>], has the additional advantage of not requiring labor-intensive feature engineering and data preprocessing. Owing to these advantages, ML methods, including DL, have become popular in health outcome prediction research [<xref rid="ref17" ref-type="bibr">17</xref>-<xref rid="ref19" ref-type="bibr">19</xref>].</p><p>Most current ML prediction models [<xref rid="ref16" ref-type="bibr">16</xref>,<xref rid="ref20" ref-type="bibr">20</xref>-<xref rid="ref23" ref-type="bibr">23</xref>] are limited by (1) being developed using single-center data and lacking external validation or (2) focusing on general HF or other disease indications in which the disease progression trajectory is clinically different from HFrEF. Furthermore, limited evidence is available on how DL works in the area of HF as a feature extraction method and how traditional and neural network models perform using different types of features. This study aims to compare different ML models to predict 30-day, 90-day, and 365-day hospital readmissions and WHFEs after HF hospitalization among patients with HFrEF using a nationally representative US-based HF registry linked to claims data.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Study Design and Data Sources</title><p>The study was conducted by analyzing a US database linking the Veradigm PINNACLE outpatient registry with Symphony Health&#8217;s Integrated Dataverse (IDV) pharmacy and medical claims data from July 1, 2013, to September 30, 2017. The PINNACLE registry is cardiology&#8217;s largest outpatient quality improvement registry, which captures data on coronary artery disease, hypertension, HF, and atrial fibrillation. PINNACLE contains information on patient demographics, diagnoses and comorbidities, cardiovascular events, vital signs, HF symptoms, laboratory orders and results, medications, and death date [<xref rid="ref24" ref-type="bibr">24</xref>]. The Symphony IDV data set includes physician office medical claims, hospital claims, and pharmacy claims. These claims were preadjudicated and submitted by providers to different types of payers in the United States.</p><p>The date of the first documentation of HF diagnosis was set as the index date for each patient (<xref rid="figure1" ref-type="fig">Figure 1</xref>). The time interval before the index date within the study period was considered the preindex period. The admission date of the first HF hospitalization was either on or after the index date. The period after the discharge date of the first HF hospitalization was considered the outcome assessment period. The period before the discharge date of the first HF hospitalization was defined as the predictor lookup period. We chose 6 months as the length of the predictor lookup period. While 6 and 12 months are both common selections in retrospective outcome research, we chose the shorter period to increase the available number of patients for model training and evaluation. Only the predictor variables observed during the predictor lookup period were used in the training and evaluation of the prediction models.</p><fig position="float" id="figure1" orientation="portrait"><label>Figure 1</label><caption><p>Study design. HF: heart failure. *Index date can be any date between January 1, 2014, and September 30, 2017. **The predictor look-up period ended at the discharge date of the first HF hospitalization after the index date and started at 6 months before the end date. The start of the predictor look-up period could be prior to, on, or after the index date. ***The outcome assessment period began at the end of the predictor look-up period. The length varied (30, 90, and 365 days) by outcome type.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="formative_v7i1e41775_fig1.jpg"/></fig></sec><sec><title>Ethical Considerations</title><p>As this study was a retrospective study on existing deidentified data, it was exempt from institutional review board review as determined by the WIRB-Copernicus Group, Inc (WCG) Institutional Review Board (Work order # 1-1435573-1).</p></sec><sec><title>Study Population</title><p>Patients were included if they met the following criteria: (1) had a diagnosis of HF in the registry, with HFrEF confirmed by the presence of either an ejection fraction &lt;45% or at least 2 claims of the HFrEF diagnosis using the International Classification of Diseases, Tenth Revision (ICD-10) codes I50.2X or I50.4X or ICD-9 code 428.2X; (2) had their first diagnosis of HF (index date) between January 1, 2014, and September 30, 2016; (3) were aged &#8805;18 years on the index date; (4) had at least 1 medical claim and 1 pharmacy claim in the preindex period and at least 1 medical claim and 1 pharmacy claim after the index date; and (5) had an HF-related hospitalization on or after the index date.</p><p>Patients with the following diagnoses or procedures in the preindex period were excluded: clinical trial participation, heart transplant, left ventricular assist device, adult congenital heart disease (eg, single-ventricle disease), and amyloidosis. <xref rid="app1" ref-type="supplementary-material">Multimedia Appendix 1</xref> presents a flowchart to obtain the final sample.</p><p>For WHFEs, the discharge date of the first HF hospitalization was between the index date and September 30, 2016 (to ensure the availability of 1 year of follow-up time within the study period). For 30-day readmission, the discharge date of the first HF hospitalization was between the index date and August 31, 2017. For 90-day readmission, the discharge date of the first HF hospitalization was between the index date and July 2, 2017. For 365-day readmission, the discharge date of the first HF hospitalization was between the index date and September 30, 2016.</p></sec><sec><title>Outcome Measures</title><p>The outcomes included 30-day, 90-day, and 365-day hospital readmission as well as WHFEs. Recent clinical studies [<xref rid="ref25" ref-type="bibr">25</xref>-<xref rid="ref27" ref-type="bibr">27</xref>] on HF, specifically the HFrEF subtype, have been performed in a population of patients with worsening HF who are at increased risk for subsequent all-cause and HF-related hospitalization and death.</p><p>WHFEs were defined as HF-related hospitalizations or outpatient IV diuretic use in the year after the first HF hospitalization. Any hospital claims with a primary diagnosis of HF using ICD-10 codes I50.1, I50.2x, I50.3x, I50.4x, I50.8x, I50.9, or I11.0; ICD-9 codes 402.01, 402.11, 402.91, or 428.XX; or a record of hospital admission with a primary reason for HF in the registry was considered an HF-related hospitalization. IV diuretic use was identified using either the registry records or procedure codes in claims (J1205, J1940, J3265, S0171, or S9361). Sensitivity analyses were conducted to study the composite outcome of a WHFE or death.</p><p>An individual would be categorized as &#8220;yes&#8221; or &#8220;positive&#8221; for 30-day readmission if the first hospital claim of a subsequent hospitalization was within 30 days of the discharge date of the previous HF-related hospitalization. We excluded patients who neither belonged to the positive class nor had any records on or beyond 30 days after the previously mentioned discharge date. Then, we categorized the response of remaining patients as &#8220;no&#8221; or &#8220;negative.&#8221; Similar definitions were applied to 90- and 365-day readmissions, using the 90- and 365-day periods to measure readmission. For the analyses of 30-day and 90-day readmission, we excluded those who died within 30 days or 90 days after the discharge date. For the analysis of 365-day readmission, we conducted sensitivity analyses to study the composite outcome of readmission or death. Additional sensitivity analyses were conducted to exclude planned readmissions.</p></sec><sec><title>Predictors and Feature Engineering</title><p>Demographics and health care use included sociodemographic factors (age as a continuous variable, gender, race, ethnicity, and health insurance) and health care use in the preindex period (the number of all-cause hospitalizations, number of all-cause emergency room visits, and number of all-cause outpatient visits).</p><p>Medical diagnoses and procedures and drugs were identified using the ICD-9 and ICD-10 codes, procedure codes, and national drug codes (NDCs).</p><p>Clinical attributes included (as available in the Veradigm PINNACLE outpatient registry): alcohol use, tobacco use, HF education completed or documented, HF plan of care (yes/no), New York Heart Association functional classification for HF, left ventricular ejection fraction, HF symptoms, physical assessment, quality of life measures, height, weight, BMI, heart rate, sodium, potassium, B-type natriuretic peptide, N-terminal pro B&#8211;type natriuretic peptide, Hemoglobin A<sub>1c</sub>, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, triglycerides, total cholesterol, systolic blood pressure, diastolic blood pressure, serum creatinine, creatinine clearance, estimated glomerular filtration rate, international normalized ratio, amylase levels, alanine transaminase, aspartate transaminase, direct bilirubin, total bilirubin, cystatin-C, high-sensitivity C-reactive protein, thyroid-stimulating hormone, hemoglobin, hematocrit, platelet count, and white blood cell count.</p></sec><sec><title>Feature Engineering for Medical Diagnoses, Procedures, and Drugs</title><p>We investigated 4 approaches for building ML features from medical diagnoses, procedures, and drug records.</p><list list-type="order"><list-item><p>Clinical classification software (CCS) frequency: first, we reduced the dimensionality of the predictors and aggregated the medical codes at different granularities. We converted diagnosis and procedure codes into the Agency for Healthcare Research and Quality&#8217;s CCS categories [<xref rid="ref28" ref-type="bibr">28</xref>] and mapped NDC codes onto the top-level anatomical components of the body, as defined by the World Health Organization Anatomic Therapeutic Chemical (ATC) classification system [<xref rid="ref29" ref-type="bibr">29</xref>]. Approaches similar to ours have been used in recent studies. For example, Chen et al [<xref rid="ref30" ref-type="bibr">30</xref>] aggregated diagnosis and procedure codes into CCS categories and generic drug names into ATC therapeutic subclasses [<xref rid="ref31" ref-type="bibr">31</xref>,<xref rid="ref32" ref-type="bibr">32</xref>]. Denny et al [<xref rid="ref33" ref-type="bibr">33</xref>] transformed the ICD diagnosis codes to PheCodes for phenotype groups specified in the PheWAS project [<xref rid="ref30" ref-type="bibr">30</xref>-<xref rid="ref32" ref-type="bibr">32</xref>]. Specifically, we made modifications to the NDC-ATC mapping table based on the study by Kury et al [<xref rid="ref34" ref-type="bibr">34</xref>] by assigning drugs with multiple therapeutic target areas to a new category that combines all target areas (eg, if drug A treats both blood forming organs [ATC category B] and the cardiovascular system [ATC category C], it was categorized as &#8220;BC&#8221;). We then built a frequency table with CCS and ATC categories as columns, where the values in the rows represent the number of times a CCS- or ATC-relevant event had happened to the patient in the predictor lookup period. This is a traditional feature engineering approach often used in data mining competitions and industrial projects and has been criticized for not preserving sequential patterns and causing high sparsity.</p></list-item><list-item><p>Bidirectional Encoder Representations from Transformers (BERT) + CCS: BERT is a deep neural network model that achieves state-of-the-art performance in multiple natural language processing (NLP) tasks [<xref rid="ref35" ref-type="bibr">35</xref>]. Considering that both human written texts (eg, novels and news) and patient clinical records are recorded in the form of sequential events, recent research has explored the use of BERT to represent patient medical records [<xref rid="ref36" ref-type="bibr">36</xref>,<xref rid="ref37" ref-type="bibr">37</xref>]. In this study, we adopted the BERT model and the Hugging-Face Transformer Python package [<xref rid="ref38" ref-type="bibr">38</xref>] to process the sequences of medical code records into vectors during the predictor look-up period. The BERT+CCS models were first pretrained on claims of 298,284 patients with HF in the Merative MarketScan 2011 to 2020 Commercial and Medicare Databases, with medical codes converted to the CCS and ATC categories found in approach 1. The models were then fine-tuned on sequences of the CCS and ATC categories from the PINNACLE+IDV data. To avoid information leakage, data for patients used in the validation and testing were not used to fine-tune the BERT model. We configured the hidden size of BERT to 64, hidden layers to 4, attention heads to 4, and intermediate size to 256 to control the total number of model parameters. We used the output of the pooling layer of the fine-tuned BERT model to map patient sequences of medical codes to a fixed-length feature vector, which was 64 dimensions per sequence and 256 dimensions per patient (for a total of 4 sequences, each covering 1.5 months of the predictor look-up period).</p></list-item><list-item><p>BERT + raw: Similarly, we pretrained and fine-tuned another type of BERT model using the sequence of medical codes obtained from the original (also known as the raw format of) ICD-9/ICD-10 codes, procedure codes, and ATC categories (derived from NDC codes).</p></list-item><list-item><p>Prespecified features: we built features from groups of diagnoses, procedures, and drug codes recognized by clinical science experts as risk factors of the WHFE based on clinical knowledge and previous literature [<xref rid="ref39" ref-type="bibr">39</xref>].</p></list-item></list></sec><sec><title>Feature Engineering for Clinical Attributes</title><p>We converted numerical clinical attribute measurements available in the Veradigm PINNACLE outpatient registry into a frequency table, in which the values in the rows represented the number of times a laboratory test was taken in the predictor look-up period. We did not use the measurement results directly for the following reasons: (1) missing information on normal range, assay type, collection route, and many other details prevented the accurate normalization of results from different laboratory facilities; (2) high sparsity in many variables; and (3) orders of nonroutine laboratory tests suggest that physicians were suspicious of certain disease conditions, and simply using the frequency can preserve such insight. We used the latest value in each predictor look-up period for nominal clinical attribute measures.</p></sec><sec><title>Prediction Models</title><p>We used a multilayer perceptron neural network model [<xref rid="ref40" ref-type="bibr">40</xref>] with 3 fully connected layers (256, 128, and 64 neurons), 2 dropout and batch normalization layers, and a sigmoid function for prediction as well as extreme gradient boosting (XGBoost) [<xref rid="ref41" ref-type="bibr">41</xref>], random forest [<xref rid="ref42" ref-type="bibr">42</xref>], and logistic regression [<xref rid="ref43" ref-type="bibr">43</xref>] models. For each type, we trained 4 models corresponding to the 4 feature engineering approaches mentioned above.</p><p>Patients with each outcome were randomly divided into the training (70%), validation (15%), and testing (15%) data sets. We used the training and validation data to maximize the area under the receiver operating characteristic curve (AUC) to select the optimal value for the following hyperparameters: learning rate and dropout rate for multilayer perceptron neural network; number of trees, eta, max depth, colsample by tree, and minimum child weight for XGBoost; number of trees, maximum features, and maximum depth for random forest; and C (penalty strength) for logistic regression. To address the class imbalance issue in the data, we adopt a cost-sensitive learning approach by setting the weight of the negative class to the prevalence of the positive class in the training data set. We also investigated assigning different class weights and synthetic oversampling methods using the adaptive synthetic sampling approach for imbalanced learning (ADASYN) [<xref rid="ref44" ref-type="bibr">44</xref>], but these methods were not superior to our original approach.</p><p>We evaluated the prediction models and feature engineering approaches in terms of AUC and area under the precision-recall curve (AUPR) using the testing data set. Although AUC was more commonly reported in recent research, we listed both because some studies argued that AUPR was more informative on imbalanced data sets [<xref rid="ref45" ref-type="bibr">45</xref>]. We also included the precision and recall scores of each model after converting the predicted probability &gt;0.5 to a positive prediction. Precision and recall were derived from the proportions of true positive (TP), false positive, true negative, and false negative predictions, by definitions of precision as <italic toggle="yes">TP / (TP + false positive)</italic> and recall as <italic toggle="yes">TP / (TP &#8211; false negative)</italic>.</p></sec></sec><sec sec-type="results"><title>Results</title><p>A total of 30,687 adults with HFrEF were included in the analysis (<xref rid="table1" ref-type="table">Table 1</xref>; <xref rid="app1" ref-type="supplementary-material">Multimedia Appendix 1</xref>). The average age was 70.1 years, and most patients (18,206/30,687, 59.32%) were male (<xref rid="table1" ref-type="table">Table 1</xref>). The rates of 30-, 90-, and 365-day readmission rates were 11.41% (3186/27,917), 21.09% (5792/27,455), and 38.93% (8394/21,562), respectively (<xref rid="app2" ref-type="supplementary-material">Multimedia Appendix 2</xref>). In all, 42.81% (9231/21,562) of patients experienced at least one WHFE within 1 year after HF hospitalization (<xref rid="app2" ref-type="supplementary-material">Multimedia Appendix 2</xref>). Note that 99.22% (2770/27,917) of patients were excluded from the 30-day readmission calculations because of a lack of follow-up on or beyond 30 days (see the <italic toggle="yes">Methods</italic> section, <italic toggle="yes">Outcome Measures</italic>). For the same reason, 11.77% (3232/27,455) of patients were excluded from the 90-day readmission outcome analyses, and 42.31% (9125/21,562) of patients were excluded from the 365-day readmission and WHFE analyses.</p><table-wrap position="float" id="table1" orientation="portrait"><label>Table 1</label><caption><p>Descriptive results of patient characteristics and outcome measures (N=30,687)<sup>a</sup>.</p></caption><table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1"><col width="30" span="1"/><col width="230" span="1"/><col width="140" span="1"/><col width="150" span="1"/><col width="150" span="1"/><col width="0" span="1"/><col width="150" span="1"/><col width="150" span="1"/><thead><tr valign="bottom"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">All patients (N=30,687)</td><td colspan="3" rowspan="1">30-day readmission<sup>b</sup></td><td colspan="2" rowspan="1">WHFE<sup>c</sup></td></tr><tr valign="top"><td colspan="2" rowspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Yes (n=3186)</td><td rowspan="1" colspan="1">No (n=24,731)</td><td colspan="2" rowspan="1">Yes (n=9231)</td><td rowspan="1" colspan="1">No (n=12,331)</td></tr></thead><tbody><tr valign="top"><td colspan="8" rowspan="1">
+<bold>Age (years)</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Value, mean (SD)</td><td rowspan="1" colspan="1">70.1 (13.0)</td><td rowspan="1" colspan="1">69.7 (13.2)</td><td rowspan="1" colspan="1">70.1 (13.0)</td><td colspan="2" rowspan="1">69.4 (13.3)</td><td rowspan="1" colspan="1">70.4 (12.9)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Value, median (IQR)</td><td rowspan="1" colspan="1">72 (62-80)</td><td rowspan="1" colspan="1">71 (61-80)</td><td rowspan="1" colspan="1">72 (62-80)</td><td colspan="2" rowspan="1">71 (61-80)</td><td rowspan="1" colspan="1">72 (62-80)</td></tr><tr valign="top"><td colspan="8" rowspan="1">
+<bold>Gender, n (%)</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">12,481 (40.67)</td><td rowspan="1" colspan="1">1337 (41.96)</td><td rowspan="1" colspan="1">10,082 (40.77)</td><td colspan="2" rowspan="1">3927 (42.54)</td><td rowspan="1" colspan="1">4895 (39.69)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">18,206 (59.33)</td><td rowspan="1" colspan="1">1849 (58.03)</td><td rowspan="1" colspan="1">14,649 (59.23)</td><td colspan="2" rowspan="1">5304 (57.46)</td><td rowspan="1" colspan="1">7436 (60.30)</td></tr><tr valign="top"><td colspan="8" rowspan="1">
+<bold>Race, n (%)</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Asian</td><td rowspan="1" colspan="1">241 (0.78)</td><td rowspan="1" colspan="1">20 (0.62)</td><td rowspan="1" colspan="1">209 (0.84)</td><td colspan="2" rowspan="1">70 (0.75)</td><td rowspan="1" colspan="1">110 (0.89)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Black or African American</td><td rowspan="1" colspan="1">3705 (12.07)</td><td rowspan="1" colspan="1">401 (12.59)</td><td rowspan="1" colspan="1">3010 (12.17)</td><td colspan="2" rowspan="1">1307 (14.16)</td><td rowspan="1" colspan="1">1340 (10.86)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">143 (0.47)</td><td rowspan="1" colspan="1">11 (0.34)</td><td rowspan="1" colspan="1">125 (0.51)</td><td colspan="2" rowspan="1">37 (0.40)</td><td rowspan="1" colspan="1">73 (0.6)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unknown</td><td rowspan="1" colspan="1">9389 (30.59)</td><td rowspan="1" colspan="1">988 (31.01)</td><td rowspan="1" colspan="1">7590 (30.69)</td><td colspan="2" rowspan="1">2866 (31.05)</td><td rowspan="1" colspan="1">3811 (30.91)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">White</td><td rowspan="1" colspan="1">17,209 (56.08)</td><td rowspan="1" colspan="1">1766 (55.43)</td><td rowspan="1" colspan="1">13,797 (55.79)</td><td colspan="2" rowspan="1">4951 (53.63)</td><td rowspan="1" colspan="1">6997 (56.74)</td></tr><tr valign="top"><td colspan="8" rowspan="1">
+<bold>Ethnicity, n (%)</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Hispanic</td><td rowspan="1" colspan="1">1275 (4.15)</td><td rowspan="1" colspan="1">159 (4.9)</td><td rowspan="1" colspan="1">1009 (4.08)</td><td colspan="2" rowspan="1">427 (4.62)</td><td rowspan="1" colspan="1">478 (3.87)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Non-Hispanic</td><td rowspan="1" colspan="1">677 (2.21)</td><td rowspan="1" colspan="1">77 (2.42)</td><td rowspan="1" colspan="1">564 (2.28)</td><td colspan="2" rowspan="1">230 (2.49)</td><td rowspan="1" colspan="1">333 (2.70)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unknown</td><td rowspan="1" colspan="1">28,735 (93.64)</td><td rowspan="1" colspan="1">2950 (92.59)</td><td rowspan="1" colspan="1">23,158 (93.64)</td><td colspan="2" rowspan="1">8574 (92.88)</td><td rowspan="1" colspan="1">11,520 (93.42)</td></tr><tr valign="top"><td colspan="8" rowspan="1">
+<bold>Health insurance, n (%)</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Medicaid</td><td rowspan="1" colspan="1">786 (2.56)</td><td rowspan="1" colspan="1">89 (2.8)</td><td rowspan="1" colspan="1">645 (2.61)</td><td colspan="2" rowspan="1">281 (3.04)</td><td rowspan="1" colspan="1">285 (2.3)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Medicare</td><td rowspan="1" colspan="1">4894 (15.95)</td><td rowspan="1" colspan="1">474 (14.87)</td><td rowspan="1" colspan="1">3944 (15.95)</td><td colspan="2" rowspan="1">1423 (15.42)</td><td rowspan="1" colspan="1">1919 (15.56)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Private</td><td rowspan="1" colspan="1">4666 (15.21)</td><td rowspan="1" colspan="1">482 (15.13)</td><td rowspan="1" colspan="1">3826 (15.47)</td><td colspan="2" rowspan="1">1330 (14.41)</td><td rowspan="1" colspan="1">1964 (15.92)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">133 (0.43)</td><td rowspan="1" colspan="1">11 (0.34)</td><td rowspan="1" colspan="1">107 (0.43)</td><td colspan="2" rowspan="1">38 (0.4)</td><td rowspan="1" colspan="1">52 (0.4)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Multiple<sup>d</sup></td><td rowspan="1" colspan="1">9243 (30.12)</td><td rowspan="1" colspan="1">981 (30.79)</td><td rowspan="1" colspan="1">7325 (29.62)</td><td colspan="2" rowspan="1">2757 (29.86)</td><td rowspan="1" colspan="1">3605 (29.23)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">No insurance</td><td rowspan="1" colspan="1">156 (0.51)</td><td rowspan="1" colspan="1">18 (0.56)</td><td rowspan="1" colspan="1">125 (0.51)</td><td colspan="2" rowspan="1">55 (0.6)</td><td rowspan="1" colspan="1">55 (0.4)</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Unknown</td><td rowspan="1" colspan="1">10,809 (35.22)</td><td rowspan="1" colspan="1">1131 (35.49)</td><td rowspan="1" colspan="1">8759 (35.42)</td><td colspan="2" rowspan="1">3347 (36.25)</td><td rowspan="1" colspan="1">3811 (30.91)</td></tr></tbody></table><table-wrap-foot><fn id="table1fn1"><p><sup>a</sup>Some percentages may not add up to 100%, owing to rounding. Percentages were calculated using the number of available respondents as the denominator.</p></fn><fn id="table1fn2"><p><sup>b</sup>90.27% (2770/30,687) of patients were not included in the yes and no categories of 30-day readmission outcomes owing to no follow-up on or beyond 30 days after the first hospitalization for heart failure.</p></fn><fn id="table1fn3"><p><sup>c</sup>WHFE: worsening heart failure event.</p></fn><fn id="table1fn4"><p><sup>d</sup>If a patient had health insurance plans in at least 2 categories among Medicaid, Medicare, Private, and Other, the patient was classified in the &#8220;multiple&#8221; category.</p></fn></table-wrap-foot></table-wrap><p>The prediction model and feature engineering approach combinations with the best AUC for each outcome were XGBoost with CCS frequency (0.595) for 30-day readmission, random forest with CCS frequency (0.630) for 90-day readmission, XGBoost with CCS frequency (0.649) for 365-day readmission, and XGBoost with CCS frequency (0.640) for WHFE (<xref rid="table2" ref-type="table">Table 2</xref>).</p><table-wrap position="float" id="table2" orientation="portrait"><label>Table 2</label><caption><p>Primary analysis results of machine learning prediction models to predict 30-day, 90-day, and 365-day hospital readmission, as well as worsening heart failure events (WHFEs) after heart failure hospitalizations.</p></caption><table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1"><col width="30" span="1"/><col width="30" span="1"/><col width="510" span="1"/><col width="0" span="1"/><col width="90" span="1"/><col width="0" span="1"/><col width="90" span="1"/><col width="0" span="1"/><col width="120" span="1"/><col width="0" span="1"/><col width="130" span="1"/><thead><tr valign="bottom"><td colspan="4" rowspan="1">Prediction model and medical code processing method</td><td colspan="2" rowspan="1">AUC<sup>a</sup></td><td colspan="2" rowspan="1">AUPR<sup>b</sup></td><td colspan="2" rowspan="1">Precision</td><td rowspan="1" colspan="1">Recall</td></tr></thead><tbody><tr valign="top"><td colspan="11" rowspan="1">
+<bold>30-day hospital readmission</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS<sup>c</sup> frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.580</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.129</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.154</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.381</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT<sup>e</sup> + CCS</td><td colspan="2" rowspan="1">0.491</td><td colspan="2" rowspan="1">0.114</td><td colspan="2" rowspan="1">0.114</td><td colspan="2" rowspan="1">0.448</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw<sup>f</sup></td><td colspan="2" rowspan="1">0.561</td><td colspan="2" rowspan="1">0.123</td><td colspan="2" rowspan="1">0.133</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.490</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.568</td><td colspan="2" rowspan="1">0.126</td><td colspan="2" rowspan="1">0.141</td><td colspan="2" rowspan="1">0.436</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN<sup>g</sup></bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.583</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.131</td><td colspan="2" rowspan="1">0.157</td><td colspan="2" rowspan="1">0.385</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.548</td><td colspan="2" rowspan="1">0.121</td><td colspan="2" rowspan="1">0.130</td><td colspan="2" rowspan="1">0.425</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.554</td><td colspan="2" rowspan="1">0.122</td><td colspan="2" rowspan="1">0.135</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.445</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.565</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.133</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.161</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.407</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.577</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.125</td><td colspan="2" rowspan="1">0.142</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.400</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.576</td><td colspan="2" rowspan="1">0.125</td><td colspan="2" rowspan="1">0.141</td><td colspan="2" rowspan="1">0.391</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.565</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.127</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.148</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.377</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.566</td><td colspan="2" rowspan="1">0.126</td><td colspan="2" rowspan="1">0.146</td><td colspan="2" rowspan="1">0.371</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost<sup>i</sup></bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.595</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.130</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.145</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.513</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.592</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.131</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.145</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.525</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.570</td><td colspan="2" rowspan="1">0.128</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.145</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.454</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.570</td><td colspan="2" rowspan="1">0.123</td><td colspan="2" rowspan="1">0.135</td><td colspan="2" rowspan="1">0.432</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>90-day hospital readmission</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.616</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.255</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.307</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.457</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.500</td><td colspan="2" rowspan="1">0.216<sup>d</sup></td><td colspan="2" rowspan="1">0.220</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.568</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.243</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.272</td><td colspan="2" rowspan="1">0.534</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.588</td><td colspan="2" rowspan="1">0.238</td><td colspan="2" rowspan="1">0.263</td><td colspan="2" rowspan="1">0.524</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">0.593</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.244</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.301</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.365</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.573</td><td colspan="2" rowspan="1">0.229</td><td colspan="2" rowspan="1">0.261</td><td colspan="2" rowspan="1">0.364</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.607</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.243</td><td colspan="2" rowspan="1">0.269</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.544</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.590</td><td colspan="2" rowspan="1">0.240</td><td colspan="2" rowspan="1">0.277</td><td colspan="2" rowspan="1">0.433</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.630</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.263</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.324</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.457</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.594</td><td colspan="2" rowspan="1">0.235</td><td colspan="2" rowspan="1">0.255</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.537</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.572</td><td colspan="2" rowspan="1">0.225</td><td colspan="2" rowspan="1">0.276</td><td colspan="2" rowspan="1">0.209</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.611</td><td colspan="2" rowspan="1">0.248</td><td colspan="2" rowspan="1">0.289</td><td colspan="2" rowspan="1">0.475</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.625</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.252</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.294</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.498</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.587</td><td colspan="2" rowspan="1">0.232</td><td colspan="2" rowspan="1">0.253</td><td colspan="2" rowspan="1">0.493</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.571</td><td colspan="2" rowspan="1">0.233</td><td colspan="2" rowspan="1">0.272</td><td colspan="2" rowspan="1">0.364</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.605</td><td colspan="2" rowspan="1">0.243</td><td colspan="2" rowspan="1">0.277</td><td colspan="2" rowspan="1">0.487</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>365-day hospital readmission</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.611</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.439</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.500</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.445</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.557</td><td colspan="2" rowspan="1">0.418</td><td colspan="2" rowspan="1">0.444</td><td colspan="2" rowspan="1">0.519</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.607</td><td colspan="2" rowspan="1">0.434</td><td colspan="2" rowspan="1">0.471</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.542</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.591</td><td colspan="2" rowspan="1">0.421</td><td colspan="2" rowspan="1">0.457</td><td colspan="2" rowspan="1">0.475</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.616</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.380</td><td colspan="2" rowspan="1">0.434</td><td colspan="2" rowspan="1">0.488</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.590</td><td colspan="2" rowspan="1">0.426</td><td colspan="2" rowspan="1">0.470</td><td colspan="2" rowspan="1">0.457</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.605</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.429</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.503</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.352</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.589</td><td colspan="2" rowspan="1">0.414</td><td colspan="2" rowspan="1">0.419</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.813</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.617</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.436</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.519</td><td colspan="2" rowspan="1">0.357</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.588</td><td colspan="2" rowspan="1">0.416</td><td colspan="2" rowspan="1">0.507</td><td colspan="2" rowspan="1">0.225</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.597</td><td colspan="2" rowspan="1">0.430</td><td colspan="2" rowspan="1">0.474</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.481</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">0.430</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.572</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.224</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.649</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.395</td><td colspan="2" rowspan="1">0.448</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.561</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.615</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.435</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.480</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.504</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.600</td><td colspan="2" rowspan="1">0.432</td><td colspan="2" rowspan="1">0.473</td><td colspan="2" rowspan="1">0.514</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.608</td><td colspan="2" rowspan="1">0.432</td><td colspan="2" rowspan="1">0.475</td><td colspan="2" rowspan="1">0.498</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>WHFE</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.625</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.484</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.549</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.462</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.509</td><td colspan="2" rowspan="1">0.439</td><td colspan="2" rowspan="1">0.444</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.661</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">0.472</td><td colspan="2" rowspan="1">0.506</td><td colspan="2" rowspan="1">0.560</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.595</td><td colspan="2" rowspan="1">0.472</td><td colspan="2" rowspan="1">0.517</td><td colspan="2" rowspan="1">0.490</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.606</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.478</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.540</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.449</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.605</td><td colspan="2" rowspan="1">0.476</td><td colspan="2" rowspan="1">0.521</td><td colspan="2" rowspan="1">0.512</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.596</td><td colspan="2" rowspan="1">0.460</td><td colspan="2" rowspan="1">0.479</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.625</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.596</td><td colspan="2" rowspan="1">0.470</td><td colspan="2" rowspan="1">0.520</td><td colspan="2" rowspan="1">0.459</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.633</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.486</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.565</td><td colspan="2" rowspan="1">0.419</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.619</td><td colspan="2" rowspan="1">0.471</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.592</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.264</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.573</td><td colspan="2" rowspan="1">0.455</td><td colspan="2" rowspan="1">0.508</td><td colspan="2" rowspan="1">0.338</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.608</td><td colspan="2" rowspan="1">0.475</td><td colspan="2" rowspan="1">0.514</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.542</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.640</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.489</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.542</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.536</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.615</td><td colspan="2" rowspan="1">0.473</td><td colspan="2" rowspan="1">0.508</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.563</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.596</td><td colspan="2" rowspan="1">0.465</td><td colspan="2" rowspan="1">0.497</td><td colspan="2" rowspan="1">0.538</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.609</td><td colspan="2" rowspan="1">0.473</td><td colspan="2" rowspan="1">0.514</td><td colspan="2" rowspan="1">0.520</td></tr></tbody></table><table-wrap-foot><fn id="table2fn1"><p><sup>a</sup>AUC: area under the receiver operating characteristic curve.</p></fn><fn id="table2fn2"><p><sup>b</sup>AUPR: area under the precision-recall curve.</p></fn><fn id="table2fn3"><p><sup>c</sup>CCS: clinical classification software.</p></fn><fn id="table2fn4"><p><sup>d</sup>The highest score among the 4 medical code processing methods for the specific model and outcome.</p></fn><fn id="table2fn5"><p><sup>e</sup>BERT: Bidirectional Encoder Representations From Transformers.</p></fn><fn id="table2fn6"><p><sup>f</sup>raw: original clinical codes in the data source.</p></fn><fn id="table2fn7"><p><sup>g</sup>MLP NN: multilayer perceptron neural network.</p></fn><fn id="table2fn8"><p><sup>h</sup>The highest score among all models and medical code processing methods for a specific outcome.</p></fn><fn id="table2fn9"><p><sup>i</sup>XGBoost: extreme gradient boosting.</p></fn></table-wrap-foot></table-wrap><p>Except when predicting 90-day readmission, the XGBoost prediction models generally performed better than the other models. Within a given prediction model, the tree-based ensemble and boosting algorithms and logistic regression all achieved a higher AUC with CCS frequency features than other medical code processing methods. Features extracted by data-driven medical code processing approaches (CCS frequency, BERT + CCS, and BERT + raw) may be comparable to features prespecified by clinical domain knowledge.</p><p>Similar findings were observed in the sensitivity analyses of unplanned readmissions or outcomes including death (<xref rid="table3" ref-type="table">Table 3</xref>).</p><table-wrap position="float" id="table3" orientation="portrait"><label>Table 3</label><caption><p>Sensitivity analysis results of machine learning prediction models patients with heart failure with reduced ejection fraction.</p></caption><table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1"><col width="30" span="1"/><col width="30" span="1"/><col width="490" span="1"/><col width="0" span="1"/><col width="130" span="1"/><col width="0" span="1"/><col width="100" span="1"/><col width="0" span="1"/><col width="110" span="1"/><col width="0" span="1"/><col width="110" span="1"/><thead><tr valign="bottom"><td colspan="4" rowspan="1">Prediction model and medical code processing method</td><td colspan="2" rowspan="1">AUC<sup>a</sup></td><td colspan="2" rowspan="1">AUPR<sup>b</sup></td><td colspan="2" rowspan="1">Precision</td><td rowspan="1" colspan="1">Recall</td></tr></thead><tbody><tr valign="top"><td colspan="11" rowspan="1">
+<bold>30-day unplanned readmission</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS<sup>c</sup> frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.579</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.125</td><td colspan="2" rowspan="1">0.149</td><td colspan="2" rowspan="1">0.376</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT<sup>e</sup> + CCS</td><td colspan="2" rowspan="1">0.490</td><td colspan="2" rowspan="1">0.110</td><td colspan="2" rowspan="1">0.109</td><td colspan="2" rowspan="1">0.441</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw<sup>f</sup></td><td colspan="2" rowspan="1">0.555</td><td colspan="2" rowspan="1">0.120</td><td colspan="2" rowspan="1">0.130</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.490</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.568</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.129</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.150</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.468</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN<sup>g</sup></bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">0.564</td><td colspan="2" rowspan="1">0.124</td><td colspan="2" rowspan="1">0.137</td><td colspan="2" rowspan="1">0.497</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.549</td><td colspan="2" rowspan="1">0.118</td><td colspan="2" rowspan="1">0.125</td><td colspan="2" rowspan="1">0.508</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.554</td><td colspan="2" rowspan="1">0.119</td><td colspan="2" rowspan="1">0.124</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.596</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.574</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.130</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.158</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.403</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.576</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.121</td><td colspan="2" rowspan="1">0.137</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.396</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.558</td><td colspan="2" rowspan="1">0.118</td><td colspan="2" rowspan="1">0.130</td><td colspan="2" rowspan="1">0.376</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.571</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.124</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.145</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.383</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.563</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.124</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.145</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.388</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost<sup>i</sup></bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.591</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.126</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.140</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.510</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.575</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.126</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.140</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.501</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.563</td><td colspan="2" rowspan="1">0.123</td><td colspan="2" rowspan="1">0.138</td><td colspan="2" rowspan="1">0.452</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.568</td><td colspan="2" rowspan="1">0.122</td><td colspan="2" rowspan="1">0.136</td><td colspan="2" rowspan="1">0.455</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>90-day unplanned readmission</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.615</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.251</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.300</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.462</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.498</td><td colspan="2" rowspan="1">0.213</td><td colspan="2" rowspan="1">0.216</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.562</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.603</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.237</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.264</td><td colspan="2" rowspan="1">0.523</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.592</td><td colspan="2" rowspan="1">0.232</td><td colspan="2" rowspan="1">0.264</td><td colspan="2" rowspan="1">0.432</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">0.600</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.242</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.276</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.498</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.579</td><td colspan="2" rowspan="1">0.237</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.277</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.413</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.603</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.239</td><td colspan="2" rowspan="1">0.275</td><td colspan="2" rowspan="1">0.466</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.586</td><td colspan="2" rowspan="1">0.231</td><td colspan="2" rowspan="1">0.267</td><td colspan="2" rowspan="1">0.379</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.629</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.256</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.316</td><td colspan="2" rowspan="1">0.444</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.577</td><td colspan="2" rowspan="1">0.209</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.333</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.001</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.597</td><td colspan="2" rowspan="1">0.231</td><td colspan="2" rowspan="1">0.314</td><td colspan="2" rowspan="1">0.213</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.611</td><td colspan="2" rowspan="1">0.246</td><td colspan="2" rowspan="1">0.288</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.472</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.620</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.252</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.295</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.502</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.588</td><td colspan="2" rowspan="1">0.233</td><td colspan="2" rowspan="1">0.257</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.510</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.605</td><td colspan="2" rowspan="1">0.240</td><td colspan="2" rowspan="1">0.279</td><td colspan="2" rowspan="1">0.440</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.605</td><td colspan="2" rowspan="1">0.245</td><td colspan="2" rowspan="1">0.281</td><td colspan="2" rowspan="1">0.499</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>365-day unplanned readmission</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.614</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.436</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.498</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.450</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.560</td><td colspan="2" rowspan="1">0.415</td><td colspan="2" rowspan="1">0.442</td><td colspan="2" rowspan="1">0.531</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">0.428</td><td colspan="2" rowspan="1">0.465</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.541</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.593</td><td colspan="2" rowspan="1">0.420</td><td colspan="2" rowspan="1">0.461</td><td colspan="2" rowspan="1">0.466</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">0.589</td><td colspan="2" rowspan="1">0.419</td><td colspan="2" rowspan="1">0.480</td><td colspan="2" rowspan="1">0.363</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.589</td><td colspan="2" rowspan="1">0.419</td><td colspan="2" rowspan="1">0.458</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.472</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.601</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.421</td><td colspan="2" rowspan="1">0.536</td><td colspan="2" rowspan="1">0.238</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.587</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.425</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.498</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.351</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.614</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.427</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.612</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.185</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.587</td><td colspan="2" rowspan="1">0.411</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">0.117</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.595</td><td colspan="2" rowspan="1">0.409</td><td colspan="2" rowspan="1">0.535</td><td colspan="2" rowspan="1">0.159</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.608</td><td colspan="2" rowspan="1">0.425</td><td colspan="2" rowspan="1">0.474</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.450</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.620</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.436</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.482</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.530</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.599</td><td colspan="2" rowspan="1">0.419</td><td colspan="2" rowspan="1">0.450</td><td colspan="2" rowspan="1">0.529</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.607</td><td colspan="2" rowspan="1">0.426</td><td colspan="2" rowspan="1">0.463</td><td colspan="2" rowspan="1">0.525</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.607</td><td colspan="2" rowspan="1">0.428</td><td colspan="2" rowspan="1">0.472</td><td colspan="2" rowspan="1">0.494</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>365-day readmission or death</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.611</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.469</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.526</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.447</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.549</td><td colspan="2" rowspan="1">0.445</td><td colspan="2" rowspan="1">0.477</td><td colspan="2" rowspan="1">0.398</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.607</td><td colspan="2" rowspan="1">0.467</td><td colspan="2" rowspan="1">0.503</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.551</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.586</td><td colspan="2" rowspan="1">0.454</td><td colspan="2" rowspan="1">0.487</td><td colspan="2" rowspan="1">0.493</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">0.590</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.465</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.513</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.462</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.594</td><td colspan="2" rowspan="1">0.458</td><td colspan="2" rowspan="1">0.504</td><td colspan="2" rowspan="1">0.435</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.607</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.462</td><td colspan="2" rowspan="1">0.484</td><td colspan="2" rowspan="1">0.647</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.589</td><td colspan="2" rowspan="1">0.452</td><td colspan="2" rowspan="1">0.467</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.651</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.613</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.468</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.570</td><td colspan="2" rowspan="1">0.303</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.593</td><td colspan="2" rowspan="1">0.450</td><td colspan="2" rowspan="1">0.556</td><td colspan="2" rowspan="1">0.206</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.603</td><td colspan="2" rowspan="1">0.454</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.576</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.203</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.607</td><td colspan="2" rowspan="1">0.462</td><td colspan="2" rowspan="1">0.507</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.467</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.623</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.474</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.520</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.530</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.599</td><td colspan="2" rowspan="1">0.464</td><td colspan="2" rowspan="1">0.499</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.540</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.599</td><td colspan="2" rowspan="1">0.459</td><td colspan="2" rowspan="1">0.495</td><td colspan="2" rowspan="1">0.507</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">0.465</td><td colspan="2" rowspan="1">0.506</td><td colspan="2" rowspan="1">0.504</td></tr><tr valign="top"><td colspan="11" rowspan="1">
+<bold>WHFE<sup>j</sup> or death</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Logistic regression</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.625</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.484</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.549</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.462</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.509</td><td colspan="2" rowspan="1">0.439</td><td colspan="2" rowspan="1">0.444</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.661</italic>
+<sup>h</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.606</td><td colspan="2" rowspan="1">0.472</td><td colspan="2" rowspan="1">0.506</td><td colspan="2" rowspan="1">0.560</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.595</td><td colspan="2" rowspan="1">0.472</td><td colspan="2" rowspan="1">0.517</td><td colspan="2" rowspan="1">0.490</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>MLP NN</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.606</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.478</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.540</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.449</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.605</td><td colspan="2" rowspan="1">0.476</td><td colspan="2" rowspan="1">0.521</td><td colspan="2" rowspan="1">0.512</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.596</td><td colspan="2" rowspan="1">0.460</td><td colspan="2" rowspan="1">0.479</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.625</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.596</td><td colspan="2" rowspan="1">0.470</td><td colspan="2" rowspan="1">0.520</td><td colspan="2" rowspan="1">0.459</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>Random forest</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.633</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.486</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.565</td><td colspan="2" rowspan="1">0.419</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.619</td><td colspan="2" rowspan="1">0.471</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.592</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">0.264</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.573</td><td colspan="2" rowspan="1">0.455</td><td colspan="2" rowspan="1">0.508</td><td colspan="2" rowspan="1">0.338</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.608</td><td colspan="2" rowspan="1">0.475</td><td colspan="2" rowspan="1">0.514</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.542</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td colspan="10" rowspan="1">
+<bold>XGBoost</bold>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">CCS frequency</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.640</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.489</italic>
+<sup>h</sup>
+</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.542</italic>
+<sup>d</sup>
+</td><td colspan="2" rowspan="1">0.536</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + CCS</td><td colspan="2" rowspan="1">0.615</td><td colspan="2" rowspan="1">0.473</td><td colspan="2" rowspan="1">0.508</td><td colspan="2" rowspan="1">
+<italic toggle="yes">0.563</italic>
+<sup>d</sup>
+</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">BERT + raw</td><td colspan="2" rowspan="1">0.596</td><td colspan="2" rowspan="1">0.465</td><td colspan="2" rowspan="1">0.497</td><td colspan="2" rowspan="1">0.538</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">
+<break/>
+</td><td rowspan="1" colspan="1">Prespecified</td><td colspan="2" rowspan="1">0.609</td><td colspan="2" rowspan="1">0.473</td><td colspan="2" rowspan="1">0.514</td><td colspan="2" rowspan="1">0.520</td></tr></tbody></table><table-wrap-foot><fn id="table3fn1"><p><sup>a</sup>AUC: area under the receiver operating characteristic curve.</p></fn><fn id="table3fn2"><p><sup>b</sup>AUPR: area under the precision-recall curve.</p></fn><fn id="table3fn3"><p><sup>c</sup>CCS: clinical classification software.</p></fn><fn id="table3fn4"><p><sup>d</sup>The highest score among the 4 medical code processing methods for the specific model and outcome.</p></fn><fn id="table3fn5"><p><sup>e</sup>BERT: Bidirectional Encoder Representations From Transformers.</p></fn><fn id="table3fn6"><p><sup>f</sup>raw: the original clinical codes from data source were used.</p></fn><fn id="table3fn7"><p><sup>g</sup>MLP NN: multilayer perceptron neural network.</p></fn><fn id="table3fn8"><p><sup>h</sup>The highest score among all models and medical code processing methods for a specific outcome.</p></fn><fn id="table3fn9"><p><sup>i</sup>XGBoost: Extreme Gradient Boosting.</p></fn><fn id="table3fn10"><p><sup>j</sup>WHFE: worsening heart failure events.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Principal Findings</title><p>This study used one of the most commonly used outpatient registries for HF, the Veradigm PINNACLE outpatient registry linked to the Symphony IDV medical claims data set, to predict readmissions and WHFEs after HF hospitalizations in patients with HFrEF. This study is among the first to use DL/ML approaches to help identify a population at high risk for HFrEF by predicting an array of subsequent adverse events among patients with HFrEF after HF hospitalization. Most importantly, this study provided a comprehensive overview and comparison of different feature engineering approaches for predicting these HF outcomes, including their respective combinations: BERT, CCS, and the use of raw codes (raw). In particular, it was innovative to experiment with different combinations of feature engineering approaches and ML prediction models. We found that ML features constructed by data-driven approaches, including CCS frequency, BERT+CCS, and BERT+raw, performed on par with and, for some prediction algorithms and outcomes, better than feature engineering plans specified by clinical domain knowledge. Tree-based ensemble and boosting prediction algorithms with raw diagnosis and procedure codes converted to frequencies of CCS categories achieved higher AUCs than other combinations of algorithms and features for all tasks.</p><p>BERT is among the most contemporary NLP models for embedding medical codes and representing patient temporal clinical records in a matrix form for downstream analyses [<xref rid="ref36" ref-type="bibr">36</xref>,<xref rid="ref37" ref-type="bibr">37</xref>]. Interest in its application in the medical field is surging [<xref rid="ref17" ref-type="bibr">17</xref>,<xref rid="ref46" ref-type="bibr">46</xref>,<xref rid="ref47" ref-type="bibr">47</xref>]. To feed this data-hungry model for this particular study, we reduced the layers and dimensions of BERT and pretrained the model on a large administrative claims data set of the Merative MarketScan 2011 to 2020 Commercial and Medicare Databases. We found that the prediction models using BERT features were not superior to those using CCS frequency features. This may be attributed to the differences between medical codes and natural languages. BERT often outperforms term-frequency methods in NLP tasks, where the sequence and context of tokens carry important signals [<xref rid="ref35" ref-type="bibr">35</xref>]. However, it may not have been advantageous in this study because the order and context of standardized code data (eg, diagnosis, procedure, and drug code records) collected over a relatively short predictor look-up period may not be relevant to readmission and WHFE risks.</p><p>Despite the use of various prediction algorithms and feature engineering combinations, the model performance in this study was moderate across the primary analysis outcomes. The AUC and AUPR differences in our various algorithms and feature engineering combinations may be too close to draw deterministic conclusions. In our previous study using administrative claims data [<xref rid="ref39" ref-type="bibr">39</xref>], we found that a bidirectional long short-term memory model with medical embedding features from the NLP model Word2Vec outperformed traditional ML models with prespecified features in predicting 30 days (AUC 0.597 vs 0.510) and 90-day readmission (AUC 0.614 vs 0.509) in patients with HFrEF. Although in this study we attempted to use an HF registry database with more detailed clinical information to further improve the prediction model performance, the results did not meet this expectation. Besides the data type and sources, this study also differed from the previous study in terms of the length of the predictor look-up period and the chosen prediction models. The PINNACLE+IDV data provide more detailed clinical information for patients with HFrEF; however, there are some limitations regarding the data source that may have prevented the models from achieving higher performance. The PINNACLE registry data were voluntarily reported by participating physicians in the outpatient setting, which may not capture all current and historical clinical information and health care events. In particular, the high missingness of laboratory variables during the predictor look-up window prevented our models from fully using these clinically known risk factors. IDV data may not capture all payers and all encounters for each patient either. For example, the readmission rates shown in this study seem to be lower than previously reported national averages [<xref rid="ref13" ref-type="bibr">13</xref>], which may reflect a failure to capture all readmissions and potentially lower-risk patients or better care for those followed up at PINNACLE sites.</p></sec><sec><title>Challenges and Future Work</title><p>Similar to previous studies [<xref rid="ref18" ref-type="bibr">18</xref>,<xref rid="ref39" ref-type="bibr">39</xref>,<xref rid="ref48" ref-type="bibr">48</xref>,<xref rid="ref49" ref-type="bibr">49</xref>], we still found it challenging to predict 30-day readmission following HF hospitalization in patients with HFrEF, even using more advanced DL models and a database with detailed clinical information. Apart from the data limitations discussed above, there are several plausible reasons for this. The first is the imbalance between positive and negative cases, which causes ML models to be insufficiently trained to learn generalizable patterns related to the outcome of interest. We attempted to resolve this by training the BERT models without using the outcomes and using cost-sensitive learning by configuring the class weight parameters of the models. We also failed to further improve the model performance using ADASYN [<xref rid="ref44" ref-type="bibr">44</xref>]. Another issue is the definition of 30-day readmission, which currently categorizes any patient readmitted on or after the 31st day after discharge into the negative class. The 30-day readmission measure may not be an ideal indicator of clinical risk for an individual patient, as it may also be linked to factors that are not well captured in this study, such as the social determinants of health, hospital administration, provider practice, and other unknown factors [<xref rid="ref50" ref-type="bibr">50</xref>]. In addition, it seems that prediction models performed better using single-center data because this avoids the issue of interoperability challenges across different health care systems and can also facilitate the collection of more detailed patient-, provider-, and facility-level information [<xref rid="ref51" ref-type="bibr">51</xref>]. Therefore, future research is warranted to validate and further improve the model using longitudinal electronic health records, which are more complete, comprehensive, and have longer follow-up times. From a modeling perspective, graph and network structure-based patient representation learning algorithms have been reported in recent research [<xref rid="ref52" ref-type="bibr">52</xref>,<xref rid="ref53" ref-type="bibr">53</xref>], which have the potential to surpass data insufficiency and injecting medical knowledge into them can be another direction for further investigation.</p></sec><sec><title>Conclusions</title><p>These results demonstrate that ML models provide modest discrimination of HF events in patients with HFrEF. This study also suggests that features constructed by data-driven approaches may be comparable to those specified by clinical domain knowledge. Despite our modeling and feature construction efforts, predicting readmission and WHFEs after HF hospitalization remains a challenging task. Future work may benefit from using more complete and comprehensive data as well as adopting additional patient representation learning methods.</p></sec></sec></body><back><ack><p>The authors thank Melissa Stauffer, PhD, in collaboration with ScribCo, for editorial assistance.</p><p>This study was funded by Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co, Inc, Rahway, New Jersey, United States. Merative is a trademark, and MarketScan is a registered trademark.</p></ack><fn-group><fn fn-type="COI-statement"><p>Conflicts of Interest: BR, YL, and DL are employees of Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co, Inc, Rahway, New Jersey, United States, and stockholders in Merck &amp; Co, Inc. XT was an employee of Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co, Inc, and a stockholder of Merck &amp; Co, Inc, when she worked on this study. KK, DR, and GK are employees of Amazon Web Services Inc, which received support from Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co, Inc, to conduct the study. GF reports personal fees from Merck Sharp &amp; Dohme LLC, a subsidiary of Merck &amp; Co, Inc; Amgen; Astra Zeneca; Bayer; Jannsen; Medtronic; Novartis; Cytokinetics; Abbott; and Urovant and grants from the US National Institutes of Health (NIH) outside the submitted work.</p></fn></fn-group><app-group><supplementary-material id="app1" position="float" content-type="local-data" orientation="portrait"><label>Multimedia Appendix 1</label><p>Patient flow diagram.</p><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="formative_v7i1e41775_app1.docx" xlink:title="DOCX File , 263 KB" id="d95e4875" position="anchor" orientation="portrait"/></supplementary-material><supplementary-material id="app2" position="float" content-type="local-data" orientation="portrait"><label>Multimedia Appendix 2</label><p>Descriptive results of outcome measures.</p><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="formative_v7i1e41775_app2.docx" xlink:title="DOCX File , 23 KB" id="d95e4879" position="anchor" orientation="portrait"/></supplementary-material></app-group><glossary><title>Abbreviations</title><def-list><def-item><term id="abb1">ADASYN</term><def><p>adaptive synthetic sampling approach for imbalanced learning</p></def></def-item><def-item><term id="abb2">ATC</term><def><p>Anatomical Therapeutic Chemical</p></def></def-item><def-item><term id="abb3">AUC</term><def><p>area under the receiver operating characteristic curve</p></def></def-item><def-item><term id="abb4">AUPR</term><def><p>area under the precision-recall curve</p></def></def-item><def-item><term id="abb5">BERT</term><def><p>bidirectional encoder representations from transformers</p></def></def-item><def-item><term id="abb6">CCS</term><def><p>clinical classification software</p></def></def-item><def-item><term id="abb7">DL</term><def><p>deep learning</p></def></def-item><def-item><term id="abb8">HF</term><def><p>heart failure</p></def></def-item><def-item><term id="abb9">HFrEF</term><def><p>heart failure with reduced ejection fraction</p></def></def-item><def-item><term id="abb10">ICC-10</term><def><p>International Classification of Diseases, Tenth Revision</p></def></def-item><def-item><term id="abb11">IDV</term><def><p>Integrated Dataverse</p></def></def-item><def-item><term id="abb12">IV</term><def><p>intravenous</p></def></def-item><def-item><term id="abb13">ML</term><def><p>machine learning</p></def></def-item><def-item><term id="abb14">NDC</term><def><p>national drug code</p></def></def-item><def-item><term id="abb15">NLP</term><def><p>natural language processing</p></def></def-item><def-item><term id="abb16">TP</term><def><p>true positive</p></def></def-item><def-item><term id="abb17">WCG</term><def><p>WIRB-Copernicus Group, Inc</p></def></def-item><def-item><term id="abb18">WHFE</term><def><p>worsening heart failure event</p></def></def-item><def-item><term id="abb19">XGBoost</term><def><p>extreme gradient boosting</p></def></def-item></def-list></glossary><notes><sec sec-type="data-availability"><title>Data Availability</title><p>The Veradigm PINNACLE outpatient registry data, Symphony Health&#8217;s Integrated Dataverse (IDV) claims data, and the Merative MarketScan 2011 to 2020 Commercial and Medicare Databases that support the findings of this study were commercially licensed from corresponding data vendors and are not available.</p></sec></notes><ref-list><ref id="ref1"><label>1</label><element-citation publication-type="webpage"><article-title>Heart failure</article-title><source>Centers for Disease Control and Prevention</source><year>2022</year><date-in-citation content-type="access-date">2023-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/heartdisease/heart_failure.htm" ext-link-type="uri">https://www.cdc.gov/heartdisease/heart_failure.htm</ext-link></comment></element-citation></ref><ref id="ref2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tsao</surname><given-names>CW</given-names></name><name name-style="western"><surname>Aday</surname><given-names>AW</given-names></name><name name-style="western"><surname>Almarzooq</surname><given-names>ZI</given-names></name><name name-style="western"><surname>Alonso</surname><given-names>A</given-names></name><name name-style="western"><surname>Beaton</surname><given-names>AZ</given-names></name><name name-style="western"><surname>Bittencourt</surname><given-names>MS</given-names></name><name name-style="western"><surname>Boehme</surname><given-names>AK</given-names></name><name name-style="western"><surname>Buxton</surname><given-names>AE</given-names></name><name name-style="western"><surname>Carson</surname><given-names>AP</given-names></name><name name-style="western"><surname>Commodore-Mensah</surname><given-names>Y</given-names></name><name name-style="western"><surname>Elkind</surname><given-names>MS</given-names></name><name name-style="western"><surname>Evenson</surname><given-names>KR</given-names></name><name name-style="western"><surname>Eze-Nliam</surname><given-names>C</given-names></name><name name-style="western"><surname>Ferguson</surname><given-names>JF</given-names></name><name name-style="western"><surname>Generoso</surname><given-names>G</given-names></name><name name-style="western"><surname>Ho</surname><given-names>JE</given-names></name><name name-style="western"><surname>Kalani</surname><given-names>R</given-names></name><name name-style="western"><surname>Khan</surname><given-names>SS</given-names></name><name name-style="western"><surname>Kissela</surname><given-names>BM</given-names></name><name name-style="western"><surname>Knutson</surname><given-names>KL</given-names></name><name name-style="western"><surname>Levine</surname><given-names>DA</given-names></name><name name-style="western"><surname>Lewis</surname><given-names>TT</given-names></name><name name-style="western"><surname>Liu</surname><given-names>J</given-names></name><name name-style="western"><surname>Loop</surname><given-names>MS</given-names></name><name name-style="western"><surname>Ma</surname><given-names>J</given-names></name><name name-style="western"><surname>Mussolino</surname><given-names>ME</given-names></name><name name-style="western"><surname>Navaneethan</surname><given-names>SD</given-names></name><name name-style="western"><surname>Perak</surname><given-names>AM</given-names></name><name name-style="western"><surname>Poudel</surname><given-names>R</given-names></name><name name-style="western"><surname>Rezk-Hanna</surname><given-names>M</given-names></name><name name-style="western"><surname>Roth</surname><given-names>GA</given-names></name><name name-style="western"><surname>Schroeder</surname><given-names>EB</given-names></name><name name-style="western"><surname>Shah</surname><given-names>SH</given-names></name><name name-style="western"><surname>Thacker</surname><given-names>EL</given-names></name><name name-style="western"><surname>VanWagner</surname><given-names>LB</given-names></name><name name-style="western"><surname>Virani</surname><given-names>SS</given-names></name><name name-style="western"><surname>Voecks</surname><given-names>JH</given-names></name><name name-style="western"><surname>Wang</surname><given-names>N</given-names></name><name name-style="western"><surname>Yaffe</surname><given-names>K</given-names></name><name name-style="western"><surname>Martin</surname><given-names>SS</given-names></name></person-group><article-title>Heart disease and stroke statistics-2022 update: a report from the American Heart Association</article-title><source>Circulation</source><year>2022</year><month>02</month><day>22</day><volume>145</volume><issue>8</issue><fpage>e153</fpage><lpage>639</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000001052?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub0pubmed" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1161/CIR.0000000000001052</pub-id><pub-id pub-id-type="medline">35078371</pub-id><pub-id pub-id-type="pmid">35078371</pub-id></element-citation></ref><ref id="ref3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Clark</surname><given-names>KA</given-names></name><name name-style="western"><surname>Reinhardt</surname><given-names>SW</given-names></name><name name-style="western"><surname>Chouairi</surname><given-names>F</given-names></name><name name-style="western"><surname>Miller</surname><given-names>PE</given-names></name><name name-style="western"><surname>Kay</surname><given-names>B</given-names></name><name name-style="western"><surname>Fuery</surname><given-names>M</given-names></name><name name-style="western"><surname>Guha</surname><given-names>A</given-names></name><name name-style="western"><surname>Ahmad</surname><given-names>T</given-names></name><name name-style="western"><surname>Desai</surname><given-names>NR</given-names></name></person-group><article-title>Trends in heart failure hospitalizations in the US from 2008 to 2018</article-title><source>J Card Fail</source><year>2022</year><month>02</month><volume>28</volume><issue>2</issue><fpage>171</fpage><lpage>80</lpage><pub-id pub-id-type="doi">10.1016/j.cardfail.2021.08.020</pub-id><pub-id pub-id-type="medline">34534665</pub-id><pub-id pub-id-type="pii">S1071-9164(21)00364-X</pub-id><pub-id pub-id-type="pmid">34534665</pub-id></element-citation></ref><ref id="ref4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Urbich</surname><given-names>M</given-names></name><name name-style="western"><surname>Globe</surname><given-names>G</given-names></name><name name-style="western"><surname>Pantiri</surname><given-names>K</given-names></name><name name-style="western"><surname>Heisen</surname><given-names>M</given-names></name><name name-style="western"><surname>Bennison</surname><given-names>C</given-names></name><name name-style="western"><surname>Wirtz</surname><given-names>HS</given-names></name><name name-style="western"><surname>Di Tanna</surname><given-names>GL</given-names></name></person-group><article-title>A systematic review of medical costs associated with heart failure in the USA (2014-2020)</article-title><source>Pharmacoeconomics</source><year>2020</year><month>11</month><volume>38</volume><issue>11</issue><fpage>1219</fpage><lpage>36</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/32812149" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1007/s40273-020-00952-0</pub-id><pub-id pub-id-type="medline">32812149</pub-id><pub-id pub-id-type="pii">10.1007/s40273-020-00952-0</pub-id><pub-id pub-id-type="pmid">32812149</pub-id><pub-id pub-id-type="pmcid">PMC7546989</pub-id></element-citation></ref><ref id="ref5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Heidenreich</surname><given-names>PA</given-names></name><name name-style="western"><surname>Albert</surname><given-names>NM</given-names></name><name name-style="western"><surname>Allen</surname><given-names>LA</given-names></name><name name-style="western"><surname>Bluemke</surname><given-names>DA</given-names></name><name name-style="western"><surname>Butler</surname><given-names>J</given-names></name><name name-style="western"><surname>Fonarow</surname><given-names>GC</given-names></name><name name-style="western"><surname>Ikonomidis</surname><given-names>JS</given-names></name><name name-style="western"><surname>Khavjou</surname><given-names>O</given-names></name><name name-style="western"><surname>Konstam</surname><given-names>MA</given-names></name><name name-style="western"><surname>Maddox</surname><given-names>TM</given-names></name><name name-style="western"><surname>Nichol</surname><given-names>G</given-names></name><name name-style="western"><surname>Pham</surname><given-names>M</given-names></name><name name-style="western"><surname>Pi&#241;a</surname><given-names>IL</given-names></name><name name-style="western"><surname>Trogdon</surname><given-names>JG</given-names></name><collab>American Heart Association Advocacy Coordinating Committee</collab><collab>Council on Arteriosclerosis&#8218; Thrombosis and Vascular Biology</collab><collab>Council on Cardiovascular Radiology and Intervention</collab><collab>Council on Clinical Cardiology</collab><collab>Council on Epidemiology and Prevention</collab><collab>Stroke Council</collab></person-group><article-title>Forecasting the impact of heart failure in the United States: a policy statement from the American Heart Association</article-title><source>Circ Heart Fail</source><year>2013</year><month>05</month><volume>6</volume><issue>3</issue><fpage>606</fpage><lpage>19</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/23616602" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1161/HHF.0b013e318291329a</pub-id><pub-id pub-id-type="medline">23616602</pub-id><pub-id pub-id-type="pii">HHF.0b013e318291329a</pub-id><pub-id pub-id-type="pmid">23616602</pub-id><pub-id pub-id-type="pmcid">PMC3908895</pub-id></element-citation></ref><ref id="ref6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ibrahim</surname><given-names>NE</given-names></name><name name-style="western"><surname>Song</surname><given-names>Y</given-names></name><name name-style="western"><surname>Cannon</surname><given-names>CP</given-names></name><name name-style="western"><surname>Doros</surname><given-names>G</given-names></name><name name-style="western"><surname>Russo</surname><given-names>P</given-names></name><name name-style="western"><surname>Ponirakis</surname><given-names>A</given-names></name><name name-style="western"><surname>Alexanian</surname><given-names>C</given-names></name><name name-style="western"><surname>Januzzi</surname><given-names>JL</given-names></name></person-group><article-title>Heart failure with mid-range ejection fraction: characterization of patients from the PINNACLE Registry&#174;</article-title><source>ESC Heart Fail</source><year>2019</year><month>08</month><volume>6</volume><issue>4</issue><fpage>784</fpage><lpage>92</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/31268631" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1002/ehf2.12455</pub-id><pub-id pub-id-type="medline">31268631</pub-id><pub-id pub-id-type="pmid">31268631</pub-id><pub-id pub-id-type="pmcid">PMC6676450</pub-id></element-citation></ref><ref id="ref7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tsao</surname><given-names>CW</given-names></name><name name-style="western"><surname>Lyass</surname><given-names>A</given-names></name><name name-style="western"><surname>Enserro</surname><given-names>D</given-names></name><name name-style="western"><surname>Larson</surname><given-names>MG</given-names></name><name name-style="western"><surname>Ho</surname><given-names>JE</given-names></name><name name-style="western"><surname>Kizer</surname><given-names>JR</given-names></name><name name-style="western"><surname>Gottdiener</surname><given-names>JS</given-names></name><name name-style="western"><surname>Psaty</surname><given-names>BM</given-names></name><name name-style="western"><surname>Vasan</surname><given-names>RS</given-names></name></person-group><article-title>Temporal trends in the incidence of&#160;and&#160;mortality associated with heart&#160;failure with preserved and reduced ejection fraction</article-title><source>JACC Heart Fail</source><year>2018</year><month>08</month><volume>6</volume><issue>8</issue><fpage>678</fpage><lpage>85</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S2213-1779(18)30219-1" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1016/j.jchf.2018.03.006</pub-id><pub-id pub-id-type="medline">30007560</pub-id><pub-id pub-id-type="pii">S2213-1779(18)30219-1</pub-id><pub-id pub-id-type="pmid">30007560</pub-id><pub-id pub-id-type="pmcid">PMC6076350</pub-id></element-citation></ref><ref id="ref8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Vasan</surname><given-names>RS</given-names></name><name name-style="western"><surname>Xanthakis</surname><given-names>V</given-names></name><name name-style="western"><surname>Lyass</surname><given-names>A</given-names></name><name name-style="western"><surname>Andersson</surname><given-names>C</given-names></name><name name-style="western"><surname>Tsao</surname><given-names>C</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>S</given-names></name><name name-style="western"><surname>Aragam</surname><given-names>J</given-names></name><name name-style="western"><surname>Benjamin</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Larson</surname><given-names>MG</given-names></name></person-group><article-title>Epidemiology of left ventricular systolic&#160;dysfunction and heart failure in&#160;the&#160;framingham study: an echocardiographic study over 3 decades</article-title><source>JACC Cardiovasc Imaging</source><year>2018</year><month>01</month><volume>11</volume><issue>1</issue><fpage>1</fpage><lpage>11</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S1936-878X(17)30779-9" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1016/j.jcmg.2017.08.007</pub-id><pub-id pub-id-type="medline">28917679</pub-id><pub-id pub-id-type="pii">S1936-878X(17)30779-9</pub-id><pub-id pub-id-type="pmid">28917679</pub-id><pub-id pub-id-type="pmcid">PMC5756128</pub-id></element-citation></ref><ref id="ref9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Murphy</surname><given-names>SP</given-names></name><name name-style="western"><surname>Ibrahim</surname><given-names>NE</given-names></name><name name-style="western"><surname>Januzzi</surname><given-names>JL</given-names></name></person-group><article-title>Heart failure with reduced ejection fraction: a review</article-title><source>JAMA</source><year>2020</year><month>08</month><day>04</day><volume>324</volume><issue>5</issue><fpage>488</fpage><lpage>504</lpage><pub-id pub-id-type="doi">10.1001/jama.2020.10262</pub-id><pub-id pub-id-type="medline">32749493</pub-id><pub-id pub-id-type="pii">2768982</pub-id><pub-id pub-id-type="pmid">32749493</pub-id></element-citation></ref><ref id="ref10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Butler</surname><given-names>J</given-names></name><name name-style="western"><surname>Djatche</surname><given-names>LM</given-names></name><name name-style="western"><surname>Sawhney</surname><given-names>B</given-names></name><name name-style="western"><surname>Chakladar</surname><given-names>S</given-names></name><name name-style="western"><surname>Yang</surname><given-names>L</given-names></name><name name-style="western"><surname>Brady</surname><given-names>JE</given-names></name><name name-style="western"><surname>Yang</surname><given-names>M</given-names></name></person-group><article-title>Clinical and economic burden of chronic heart failure and reduced ejection fraction following a worsening heart failure event</article-title><source>Adv Ther</source><year>2020</year><month>09</month><volume>37</volume><issue>9</issue><fpage>4015</fpage><lpage>32</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/32761552" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1007/s12325-020-01456-1</pub-id><pub-id pub-id-type="medline">32761552</pub-id><pub-id pub-id-type="pii">10.1007/s12325-020-01456-1</pub-id><pub-id pub-id-type="pmid">32761552</pub-id><pub-id pub-id-type="pmcid">PMC7444407</pub-id></element-citation></ref><ref id="ref11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Butler</surname><given-names>J</given-names></name><name name-style="western"><surname>Yang</surname><given-names>M</given-names></name><name name-style="western"><surname>Manzi</surname><given-names>MA</given-names></name><name name-style="western"><surname>Hess</surname><given-names>GP</given-names></name><name name-style="western"><surname>Patel</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Rhodes</surname><given-names>T</given-names></name><name name-style="western"><surname>Givertz</surname><given-names>MM</given-names></name></person-group><article-title>Clinical course of patients with worsening heart failure with reduced&#160;ejection fraction</article-title><source>J Am Coll Cardiol</source><year>2019</year><month>03</month><day>05</day><volume>73</volume><issue>8</issue><fpage>935</fpage><lpage>44</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S0735-1097(19)30013-0" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1016/j.jacc.2018.11.049</pub-id><pub-id pub-id-type="medline">30819362</pub-id><pub-id pub-id-type="pii">S0735-1097(19)30013-0</pub-id><pub-id pub-id-type="pmid">30819362</pub-id></element-citation></ref><ref id="ref12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wadhera</surname><given-names>RK</given-names></name><name name-style="western"><surname>Joynt Maddox</surname><given-names>KE</given-names></name><name name-style="western"><surname>Desai</surname><given-names>NR</given-names></name><name name-style="western"><surname>Landon</surname><given-names>BE</given-names></name><name name-style="western"><surname>Md</surname><given-names>MV</given-names></name><name name-style="western"><surname>Gilstrap</surname><given-names>LG</given-names></name><name name-style="western"><surname>Shen</surname><given-names>C</given-names></name><name name-style="western"><surname>Yeh</surname><given-names>RW</given-names></name></person-group><article-title>Evaluation of hospital performance using the excess days in acute care measure in the hospital readmissions reduction program</article-title><source>Ann Intern Med</source><year>2021</year><month>01</month><volume>174</volume><issue>1</issue><fpage>86</fpage><lpage>92</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/33045180" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.7326/M20-3486</pub-id><pub-id pub-id-type="medline">33045180</pub-id><pub-id pub-id-type="pmid">33045180</pub-id><pub-id pub-id-type="pmcid">PMC8165741</pub-id></element-citation></ref><ref id="ref13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Khan</surname><given-names>MS</given-names></name><name name-style="western"><surname>Sreenivasan</surname><given-names>J</given-names></name><name name-style="western"><surname>Lateef</surname><given-names>N</given-names></name><name name-style="western"><surname>Abougergi</surname><given-names>MS</given-names></name><name name-style="western"><surname>Greene</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Ahmad</surname><given-names>T</given-names></name><name name-style="western"><surname>Anker</surname><given-names>SD</given-names></name><name name-style="western"><surname>Fonarow</surname><given-names>GC</given-names></name><name name-style="western"><surname>Butler</surname><given-names>J</given-names></name></person-group><article-title>Trends in 30- and 90-day readmission rates for heart failure</article-title><source>Circ Heart Fail</source><year>2021</year><month>04</month><volume>14</volume><issue>4</issue><fpage>e008335</fpage><pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.121.008335</pub-id><pub-id pub-id-type="medline">33866827</pub-id><pub-id pub-id-type="pmid">33866827</pub-id></element-citation></ref><ref id="ref14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ouwerkerk</surname><given-names>W</given-names></name><name name-style="western"><surname>Voors</surname><given-names>AA</given-names></name><name name-style="western"><surname>Zwinderman</surname><given-names>AH</given-names></name></person-group><article-title>Factors influencing the predictive power of models for predicting mortality and/or heart failure hospitalization in patients with heart failure</article-title><source>JACC Heart Fail</source><year>2014</year><month>10</month><volume>2</volume><issue>5</issue><fpage>429</fpage><lpage>36</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S2213-1779(14)00255-8" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1016/j.jchf.2014.04.006</pub-id><pub-id pub-id-type="medline">25194294</pub-id><pub-id pub-id-type="pii">S2213-1779(14)00255-8</pub-id><pub-id pub-id-type="pmid">25194294</pub-id></element-citation></ref><ref id="ref15"><label>15</label><element-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Goodfellow</surname><given-names>I</given-names></name><name name-style="western"><surname>Bengio</surname><given-names>Y</given-names></name><name name-style="western"><surname>Courville</surname><given-names>A</given-names></name></person-group><person-group person-group-type="editor"><name name-style="western"><surname>Goodfellow</surname><given-names>I</given-names></name><name name-style="western"><surname>Bengio</surname><given-names>Y</given-names></name><name name-style="western"><surname>Courville</surname><given-names>A</given-names></name></person-group><article-title>Machine learning basics</article-title><source>Deep Learning</source><year>2016</year><publisher-loc>Cambridge, MA, USA</publisher-loc><publisher-name>MIT Press</publisher-name><fpage>96</fpage><lpage>161</lpage></element-citation></ref><ref id="ref16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shin</surname><given-names>S</given-names></name><name name-style="western"><surname>Austin</surname><given-names>PC</given-names></name><name name-style="western"><surname>Ross</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Abdel-Qadir</surname><given-names>H</given-names></name><name name-style="western"><surname>Freitas</surname><given-names>C</given-names></name><name name-style="western"><surname>Tomlinson</surname><given-names>G</given-names></name><name name-style="western"><surname>Chicco</surname><given-names>D</given-names></name><name name-style="western"><surname>Mahendiran</surname><given-names>M</given-names></name><name name-style="western"><surname>Lawler</surname><given-names>PR</given-names></name><name name-style="western"><surname>Billia</surname><given-names>F</given-names></name><name name-style="western"><surname>Gramolini</surname><given-names>A</given-names></name><name name-style="western"><surname>Epelman</surname><given-names>S</given-names></name><name name-style="western"><surname>Wang</surname><given-names>B</given-names></name><name name-style="western"><surname>Lee</surname><given-names>DS</given-names></name></person-group><article-title>Machine learning vs. conventional statistical models for predicting heart failure readmission and mortality</article-title><source>ESC Heart Fail</source><year>2021</year><month>02</month><volume>8</volume><issue>1</issue><fpage>106</fpage><lpage>15</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/33205591" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1002/ehf2.13073</pub-id><pub-id pub-id-type="medline">33205591</pub-id><pub-id pub-id-type="pmid">33205591</pub-id><pub-id pub-id-type="pmcid">PMC7835549</pub-id></element-citation></ref><ref id="ref17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Si</surname><given-names>Y</given-names></name><name name-style="western"><surname>Du</surname><given-names>J</given-names></name><name name-style="western"><surname>Li</surname><given-names>Z</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>X</given-names></name><name name-style="western"><surname>Miller</surname><given-names>T</given-names></name><name name-style="western"><surname>Wang</surname><given-names>F</given-names></name><name name-style="western"><surname>Jim Zheng</surname><given-names>W</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>K</given-names></name></person-group><article-title>Deep representation learning of patient data from Electronic Health Records (EHR): a systematic review</article-title><source>J Biomed Inform</source><year>2021</year><month>03</month><volume>115</volume><fpage>103671</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S1532-0464(20)30299-9" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1016/j.jbi.2020.103671</pub-id><pub-id pub-id-type="medline">33387683</pub-id><pub-id pub-id-type="pii">S1532-0464(20)30299-9</pub-id><pub-id pub-id-type="pmid">33387683</pub-id><pub-id pub-id-type="pmcid">PMC11290708</pub-id></element-citation></ref><ref id="ref18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Min</surname><given-names>X</given-names></name><name name-style="western"><surname>Yu</surname><given-names>B</given-names></name><name name-style="western"><surname>Wang</surname><given-names>F</given-names></name></person-group><article-title>Predictive modeling of the hospital readmission risk from patients' claims data using machine learning: a case study on COPD</article-title><source>Sci Rep</source><year>2019</year><month>02</month><day>20</day><volume>9</volume><issue>1</issue><fpage>2362</fpage><pub-id pub-id-type="doi">10.1038/s41598-019-39071-y</pub-id><pub-id pub-id-type="doi">10.1038/s41598-019-39071-y</pub-id><pub-id pub-id-type="medline">30787351</pub-id><pub-id pub-id-type="pii">10.1038/s41598-019-39071-y</pub-id><pub-id pub-id-type="pmid">30787351</pub-id><pub-id pub-id-type="pmcid">PMC6382784</pub-id></element-citation></ref><ref id="ref19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Masum</surname><given-names>S</given-names></name><name name-style="western"><surname>Hopgood</surname><given-names>A</given-names></name><name name-style="western"><surname>Stefan</surname><given-names>S</given-names></name><name name-style="western"><surname>Flashman</surname><given-names>K</given-names></name><name name-style="western"><surname>Khan</surname><given-names>J</given-names></name></person-group><article-title>Data analytics and artificial intelligence in predicting length of stay, readmission, and mortality: a population-based study of surgical management of colorectal cancer</article-title><source>Discov Oncol</source><year>2022</year><month>02</month><day>28</day><volume>13</volume><issue>1</issue><fpage>11</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/35226196" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1007/s12672-022-00472-7</pub-id><pub-id pub-id-type="medline">35226196</pub-id><pub-id pub-id-type="pii">10.1007/s12672-022-00472-7</pub-id><pub-id pub-id-type="pmid">35226196</pub-id><pub-id pub-id-type="pmcid">PMC8885960</pub-id></element-citation></ref><ref id="ref20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sarijaloo</surname><given-names>F</given-names></name><name name-style="western"><surname>Park</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhong</surname><given-names>X</given-names></name><name name-style="western"><surname>Wokhlu</surname><given-names>A</given-names></name></person-group><article-title>Predicting 90&#8201;day acute heart failure readmission and death using machine learning-supported decision analysis</article-title><source>Clin Cardiol</source><year>2021</year><month>02</month><volume>44</volume><issue>2</issue><fpage>230</fpage><lpage>7</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/33355945" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1002/clc.23532</pub-id><pub-id pub-id-type="medline">33355945</pub-id><pub-id pub-id-type="pmid">33355945</pub-id><pub-id pub-id-type="pmcid">PMC7852168</pub-id></element-citation></ref><ref id="ref21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>P</given-names></name><name name-style="western"><surname>Yoo</surname><given-names>I</given-names></name><name name-style="western"><surname>Naqvi</surname><given-names>SH</given-names></name></person-group><article-title>Early prediction of unplanned 30-day hospital readmission: model development and retrospective data analysis</article-title><source>JMIR Med Inform</source><year>2021</year><month>03</month><day>23</day><volume>9</volume><issue>3</issue><fpage>e16306</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medinform.jmir.org/2021/3/e16306/" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.2196/16306</pub-id><pub-id pub-id-type="medline">33755027</pub-id><pub-id pub-id-type="pii">v9i3e16306</pub-id><pub-id pub-id-type="pmid">33755027</pub-id><pub-id pub-id-type="pmcid">PMC8077543</pub-id></element-citation></ref><ref id="ref22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gopukumar</surname><given-names>D</given-names></name><name name-style="western"><surname>Ghoshal</surname><given-names>A</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name></person-group><article-title>Predicting readmission charges billed by hospitals: machine learning approach</article-title><source>JMIR Med Inform</source><year>2022</year><month>08</month><day>30</day><volume>10</volume><issue>8</issue><fpage>e37578</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medinform.jmir.org/2022/8/e37578/" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.2196/37578</pub-id><pub-id pub-id-type="medline">35896038</pub-id><pub-id pub-id-type="pii">v10i8e37578</pub-id><pub-id pub-id-type="pmid">35896038</pub-id><pub-id pub-id-type="pmcid">PMC9472041</pub-id></element-citation></ref><ref id="ref23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lv</surname><given-names>H</given-names></name><name name-style="western"><surname>Yang</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>B</given-names></name><name name-style="western"><surname>Wang</surname><given-names>S</given-names></name><name name-style="western"><surname>Du</surname><given-names>X</given-names></name><name name-style="western"><surname>Tan</surname><given-names>Q</given-names></name><name name-style="western"><surname>Hao</surname><given-names>Z</given-names></name><name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Yan</surname><given-names>J</given-names></name><name name-style="western"><surname>Xia</surname><given-names>Y</given-names></name></person-group><article-title>Machine learning-driven models to predict prognostic outcomes in patients hospitalized with heart failure using electronic health records: retrospective study</article-title><source>J Med Internet Res</source><year>2021</year><month>04</month><day>19</day><volume>23</volume><issue>4</issue><fpage>e24996</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.jmir.org/2021/4/e24996/" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.2196/24996</pub-id><pub-id pub-id-type="medline">33871375</pub-id><pub-id pub-id-type="pii">v23i4e24996</pub-id><pub-id pub-id-type="pmid">33871375</pub-id><pub-id pub-id-type="pmcid">PMC8094022</pub-id></element-citation></ref><ref id="ref24"><label>24</label><element-citation publication-type="webpage"><article-title>Partner registries</article-title><source>The National Cardiovascular Data Registry (NCDR), American College of Cardiology</source><date-in-citation content-type="access-date">2023-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://cvquality.acc.org/NCDR-Home/registries/outpatient-registries" ext-link-type="uri">https://cvquality.acc.org/NCDR-Home/registries/outpatient-registries</ext-link></comment></element-citation></ref><ref id="ref25"><label>25</label><element-citation publication-type="webpage"><article-title>A study of vericiguat in participants with heart failure with reduced ejection fraction (HFrEF) (MK-1242-001) (VICTORIA)</article-title><source>ClinicalTrials.gov</source><date-in-citation content-type="access-date">2023-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02861534" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT02861534</ext-link></comment></element-citation></ref><ref id="ref26"><label>26</label><element-citation publication-type="webpage"><article-title>Registrational study with omecamtiv mecarbil (AMG 423) to treat chronic heart failure with reduced ejection fraction (GALACTIC-HF)</article-title><source>ClinicalTrials.gov</source><date-in-citation content-type="access-date">2023-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02929329" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT02929329</ext-link></comment></element-citation></ref><ref id="ref27"><label>27</label><element-citation publication-type="webpage"><article-title>Effect of sotagliflozin on cardiovascular events in participants with type 2 diabetes post worsening heart failure (SOLOIST-WHF Trial)</article-title><source>ClinicalTrials.gov</source><date-in-citation content-type="access-date">2023-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03521934" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT03521934</ext-link></comment></element-citation></ref><ref id="ref28"><label>28</label><element-citation publication-type="webpage"><article-title>Software tools</article-title><source>Agency for Healthcare Research and Quality</source><date-in-citation content-type="access-date">2022-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.hcup-us.ahrq.gov/tools_software.jsp" ext-link-type="uri">https://www.hcup-us.ahrq.gov/tools_software.jsp</ext-link></comment></element-citation></ref><ref id="ref29"><label>29</label><element-citation publication-type="webpage"><person-group person-group-type="author"><collab>WHO Collaborating Centre for Drug Statistics Methodology</collab></person-group><article-title>Structure and principles</article-title><source>ATC</source><date-in-citation content-type="access-date">2022-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.whocc.no/atc/structure_and_principles/" ext-link-type="uri">https://www.whocc.no/atc/structure_and_principles/</ext-link></comment></element-citation></ref><ref id="ref30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>R</given-names></name><name name-style="western"><surname>Stewart</surname><given-names>WF</given-names></name><name name-style="western"><surname>Sun</surname><given-names>J</given-names></name><name name-style="western"><surname>Ng</surname><given-names>K</given-names></name><name name-style="western"><surname>Yan</surname><given-names>X</given-names></name></person-group><article-title>Recurrent neural networks for early detection of heart failure from longitudinal electronic health record data: implications for temporal modeling with respect to time before diagnosis, data density, data quantity, and data type</article-title><source>Circ Cardiovasc Qual Outcome</source><year>2019</year><month>10</month><volume>12</volume><issue>10</issue><fpage>e005114</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/31610714" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1161/CIRCOUTCOMES.118.005114</pub-id><pub-id pub-id-type="medline">31610714</pub-id><pub-id pub-id-type="pmcid">PMC6814386</pub-id><pub-id pub-id-type="pmid">31610714</pub-id></element-citation></ref><ref id="ref31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>P</given-names></name><name name-style="western"><surname>Gifford</surname><given-names>A</given-names></name><name name-style="western"><surname>Meng</surname><given-names>X</given-names></name><name name-style="western"><surname>Li</surname><given-names>X</given-names></name><name name-style="western"><surname>Campbell</surname><given-names>H</given-names></name><name name-style="western"><surname>Varley</surname><given-names>T</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name><name name-style="western"><surname>Carroll</surname><given-names>R</given-names></name><name name-style="western"><surname>Bastarache</surname><given-names>L</given-names></name><name name-style="western"><surname>Denny</surname><given-names>J</given-names></name><name name-style="western"><surname>Theodoratou</surname><given-names>E</given-names></name><name name-style="western"><surname>Wei</surname><given-names>WQ</given-names></name></person-group><article-title>Mapping ICD-10 and ICD-10-CM codes to phecodes: workflow development and initial evaluation</article-title><source>JMIR Med Inform</source><year>2019</year><month>11</month><day>29</day><volume>7</volume><issue>4</issue><fpage>e14325</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medinform.jmir.org/2019/4/e14325/" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.2196/14325</pub-id><pub-id pub-id-type="medline">31553307</pub-id><pub-id pub-id-type="pii">v7i4e14325</pub-id><pub-id pub-id-type="pmid">31553307</pub-id><pub-id pub-id-type="pmcid">PMC6911227</pub-id></element-citation></ref><ref id="ref32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wei</surname><given-names>W</given-names></name><name name-style="western"><surname>Bastarache</surname><given-names>LA</given-names></name><name name-style="western"><surname>Carroll</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Marlo</surname><given-names>JE</given-names></name><name name-style="western"><surname>Osterman</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Gamazon</surname><given-names>ER</given-names></name><name name-style="western"><surname>Cox</surname><given-names>NJ</given-names></name><name name-style="western"><surname>Roden</surname><given-names>DM</given-names></name><name name-style="western"><surname>Denny</surname><given-names>JC</given-names></name></person-group><article-title>Evaluating phecodes, clinical classification software, and ICD-9-CM codes for phenome-wide association studies in the electronic health record</article-title><source>PLoS One</source><year>2017</year><month>7</month><day>7</day><volume>12</volume><issue>7</issue><fpage>e0175508</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://dx.plos.org/10.1371/journal.pone.0175508" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1371/journal.pone.0175508</pub-id><pub-id pub-id-type="medline">28686612</pub-id><pub-id pub-id-type="pii">PONE-D-16-36822</pub-id><pub-id pub-id-type="pmid">28686612</pub-id><pub-id pub-id-type="pmcid">PMC5501393</pub-id></element-citation></ref><ref id="ref33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Denny</surname><given-names>JC</given-names></name><name name-style="western"><surname>Ritchie</surname><given-names>MD</given-names></name><name name-style="western"><surname>Basford</surname><given-names>MA</given-names></name><name name-style="western"><surname>Pulley</surname><given-names>JM</given-names></name><name name-style="western"><surname>Bastarache</surname><given-names>L</given-names></name><name name-style="western"><surname>Brown-Gentry</surname><given-names>K</given-names></name><name name-style="western"><surname>Wang</surname><given-names>D</given-names></name><name name-style="western"><surname>Masys</surname><given-names>DR</given-names></name><name name-style="western"><surname>Roden</surname><given-names>DM</given-names></name><name name-style="western"><surname>Crawford</surname><given-names>DC</given-names></name></person-group><article-title>PheWAS: demonstrating the feasibility of a phenome-wide scan to discover gene-disease associations</article-title><source>Bioinformatics</source><year>2010</year><month>05</month><day>01</day><volume>26</volume><issue>9</issue><fpage>1205</fpage><lpage>10</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/20335276" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1093/bioinformatics/btq126</pub-id><pub-id pub-id-type="medline">20335276</pub-id><pub-id pub-id-type="pii">btq126</pub-id><pub-id pub-id-type="pmid">20335276</pub-id><pub-id pub-id-type="pmcid">PMC2859132</pub-id></element-citation></ref><ref id="ref34"><label>34</label><element-citation publication-type="webpage"><person-group person-group-type="author"><name name-style="western"><surname>Kury</surname><given-names>F</given-names></name><name name-style="western"><surname>Bodenreider</surname><given-names>O</given-names></name></person-group><article-title>Mapping U.S. FDA national drug codes to anatomical-therapeutic-chemical classes using RxNorm</article-title><source>AMIA Annu Symp Proc</source><year>2017</year><date-in-citation content-type="access-date">2023-02-06</date-in-citation><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2017-amia-fk-poster.pdf" ext-link-type="uri">https://data.lhncbc.nlm.nih.gov/public/mor/pubs/pdf/2017-amia-fk-poster.pdf</ext-link></comment></element-citation></ref><ref id="ref35"><label>35</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name name-style="western"><surname>Devlin</surname><given-names>J</given-names></name><name name-style="western"><surname>Chang</surname><given-names>M</given-names></name><name name-style="western"><surname>Lee</surname><given-names>K</given-names></name><name name-style="western"><surname>Toutanova</surname><given-names>K</given-names></name></person-group><article-title>BERT: pre-training of deep bidirectional transformers for language understanding</article-title><source>Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</source><year>2019</year><conf-name>NAACL-HLT '19</conf-name><conf-date>June 2-7, 2019</conf-date><conf-loc>Minneapolis, MN, USA</conf-loc></element-citation></ref><ref id="ref36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Rao</surname><given-names>S</given-names></name><name name-style="western"><surname>Solares</surname><given-names>JR</given-names></name><name name-style="western"><surname>Hassaine</surname><given-names>A</given-names></name><name name-style="western"><surname>Ramakrishnan</surname><given-names>R</given-names></name><name name-style="western"><surname>Canoy</surname><given-names>D</given-names></name><name name-style="western"><surname>Zhu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Rahimi</surname><given-names>K</given-names></name><name name-style="western"><surname>Salimi-Khorshidi</surname><given-names>G</given-names></name></person-group><article-title>BEHRT: transformer for electronic health records</article-title><source>Sci Rep</source><year>2020</year><month>04</month><day>28</day><volume>10</volume><issue>1</issue><fpage>7155</fpage><pub-id pub-id-type="doi">10.1038/s41598-020-62922-y</pub-id><pub-id pub-id-type="doi">10.1038/s41598-020-62922-y</pub-id><pub-id pub-id-type="medline">32346050</pub-id><pub-id pub-id-type="pii">10.1038/s41598-020-62922-y</pub-id><pub-id pub-id-type="pmid">32346050</pub-id><pub-id pub-id-type="pmcid">PMC7189231</pub-id></element-citation></ref><ref id="ref37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rasmy</surname><given-names>L</given-names></name><name name-style="western"><surname>Xiang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Xie</surname><given-names>Z</given-names></name><name name-style="western"><surname>Tao</surname><given-names>C</given-names></name><name name-style="western"><surname>Zhi</surname><given-names>D</given-names></name></person-group><article-title>Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction</article-title><source>NPJ Digit Med</source><year>2021</year><month>05</month><day>20</day><volume>4</volume><issue>1</issue><fpage>86</fpage><pub-id pub-id-type="doi">10.1038/s41746-021-00455-y</pub-id><pub-id pub-id-type="doi">10.1038/s41746-021-00455-y</pub-id><pub-id pub-id-type="medline">34017034</pub-id><pub-id pub-id-type="pii">10.1038/s41746-021-00455-y</pub-id><pub-id pub-id-type="pmid">34017034</pub-id><pub-id pub-id-type="pmcid">PMC8137882</pub-id></element-citation></ref><ref id="ref38"><label>38</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name name-style="western"><surname>Wolf</surname><given-names>T</given-names></name><name name-style="western"><surname>Chaumond</surname><given-names>J</given-names></name><name name-style="western"><surname>Debut</surname><given-names>L</given-names></name><name name-style="western"><surname>Sanh</surname><given-names>V</given-names></name><name name-style="western"><surname>Delangue</surname><given-names>C</given-names></name><name name-style="western"><surname>Moi</surname><given-names>A</given-names></name><name name-style="western"><surname>Cistac</surname><given-names>P</given-names></name><name name-style="western"><surname>Rault</surname><given-names>T</given-names></name><name name-style="western"><surname>Louf</surname><given-names>R</given-names></name><name name-style="western"><surname>Funtowicz</surname><given-names>M</given-names></name><name name-style="western"><surname>Davison</surname><given-names>J</given-names></name><name name-style="western"><surname>Shleifer</surname><given-names>S</given-names></name><name name-style="western"><surname>von Platen</surname><given-names>P</given-names></name><name name-style="western"><surname>Ma</surname><given-names>C</given-names></name><name name-style="western"><surname>Jernite</surname><given-names>Y</given-names></name><name name-style="western"><surname>Plu</surname><given-names>J</given-names></name><name name-style="western"><surname>Xu</surname><given-names>C</given-names></name><name name-style="western"><surname>Scao</surname><given-names>TL</given-names></name><name name-style="western"><surname>Gugger</surname><given-names>S</given-names></name><name name-style="western"><surname>Drame</surname><given-names>M</given-names></name><name name-style="western"><surname>Lhoest</surname><given-names>Q</given-names></name><name name-style="western"><surname>Rush</surname><given-names>A</given-names></name></person-group><article-title>Transformers: state-of-the-art natural language processing</article-title><source>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</source><year>2020</year><conf-name>EMNLP '20</conf-name><conf-date>November 16-20, 2020</conf-date><conf-loc>Virtual</conf-loc><pub-id pub-id-type="doi">10.18653/v1/2020.emnlp-demos.6</pub-id></element-citation></ref><ref id="ref39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Chen</surname><given-names>X</given-names></name><name name-style="western"><surname>Tan</surname><given-names>X</given-names></name><name name-style="western"><surname>Yang</surname><given-names>L</given-names></name><name name-style="western"><surname>Kannapur</surname><given-names>K</given-names></name><name name-style="western"><surname>Vincent</surname><given-names>JL</given-names></name><name name-style="western"><surname>Kessler</surname><given-names>GN</given-names></name><name name-style="western"><surname>Ru</surname><given-names>B</given-names></name><name name-style="western"><surname>Yang</surname><given-names>M</given-names></name></person-group><article-title>Using deep learning to identify high-risk patients with heart failure with reduced ejection fraction</article-title><source>J Health Econ Outcomes Res</source><year>2021</year><volume>8</volume><issue>2</issue><fpage>6</fpage><lpage>13</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/34414250" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.36469/jheor.2021.25753</pub-id><pub-id pub-id-type="medline">34414250</pub-id><pub-id pub-id-type="pii">25753</pub-id><pub-id pub-id-type="pmid">34414250</pub-id><pub-id pub-id-type="pmcid">PMC8322198</pub-id></element-citation></ref><ref id="ref40"><label>40</label><element-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Hastie</surname><given-names>T</given-names></name><name name-style="western"><surname>Tibshirani</surname><given-names>R</given-names></name><name name-style="western"><surname>Friedman</surname><given-names>J</given-names></name></person-group><source>The Elements of Statistical Learning Data Mining, Inference, and Prediction</source><year>2009</year><publisher-loc>New York, NY, USA</publisher-loc><publisher-name>Springer</publisher-name></element-citation></ref><ref id="ref41"><label>41</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>T</given-names></name><name name-style="western"><surname>Guestrin</surname><given-names>C</given-names></name></person-group><article-title>XGBoost: a scalable tree boosting system</article-title><source>Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</source><year>2016</year><conf-name>KDD '16</conf-name><conf-date>August 13-17, 2016</conf-date><conf-loc>San Francisco, CA, USA</conf-loc><pub-id pub-id-type="doi">10.1145/2939672.2939785</pub-id></element-citation></ref><ref id="ref42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Breiman</surname><given-names>L</given-names></name></person-group><article-title>Random forests</article-title><source>Mach Learn</source><year>2001</year><volume>45</volume><fpage>5</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1007/978-1-4899-7687-1_695</pub-id></element-citation></ref><ref id="ref43"><label>43</label><element-citation publication-type="book"><person-group person-group-type="author"><name name-style="western"><surname>Hosmer</surname><given-names>JD</given-names></name><name name-style="western"><surname>Lemeshow</surname><given-names>S</given-names></name><name name-style="western"><surname>Sturdivant</surname><given-names>R</given-names></name></person-group><source>Applied Logistic Regression. 3rd edition</source><year>2013</year><publisher-loc>Hoboken, NJ, USA</publisher-loc><publisher-name>John Wiley &amp; Sons</publisher-name></element-citation></ref><ref id="ref44"><label>44</label><element-citation publication-type="confproc"><person-group person-group-type="author"><name name-style="western"><surname>He</surname><given-names>H</given-names></name><name name-style="western"><surname>Bai</surname><given-names>Y</given-names></name><name name-style="western"><surname>Garcia</surname><given-names>E</given-names></name><name name-style="western"><surname>Li</surname><given-names>S</given-names></name></person-group><article-title>ADASYN: adaptive synthetic sampling approach for imbalanced learning</article-title><source>Proceedings of the IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence)</source><year>2008</year><conf-name>IJCNN '08</conf-name><conf-date>June 01-08, 2008</conf-date><conf-loc>Hong Kong, China</conf-loc><pub-id pub-id-type="doi">10.1109/ijcnn.2008.4633969</pub-id></element-citation></ref><ref id="ref45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Saito</surname><given-names>T</given-names></name><name name-style="western"><surname>Rehmsmeier</surname><given-names>M</given-names></name></person-group><article-title>The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><issue>3</issue><fpage>e0118432</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://dx.plos.org/10.1371/journal.pone.0118432" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1371/journal.pone.0118432</pub-id><pub-id pub-id-type="medline">25738806</pub-id><pub-id pub-id-type="pii">PONE-D-14-26790</pub-id><pub-id pub-id-type="pmid">25738806</pub-id><pub-id pub-id-type="pmcid">PMC4349800</pub-id></element-citation></ref><ref id="ref46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ormerod</surname><given-names>M</given-names></name><name name-style="western"><surname>Mart&#237;nez Del Rinc&#243;n</surname><given-names>J</given-names></name><name name-style="western"><surname>Devereux</surname><given-names>B</given-names></name></person-group><article-title>Predicting semantic similarity between clinical sentence pairs using transformer models: evaluation and representational analysis</article-title><source>JMIR Med Inform</source><year>2021</year><month>05</month><day>26</day><volume>9</volume><issue>5</issue><fpage>e23099</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medinform.jmir.org/2021/5/e23099/" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.2196/23099</pub-id><pub-id pub-id-type="medline">34037527</pub-id><pub-id pub-id-type="pii">v9i5e23099</pub-id><pub-id pub-id-type="pmid">34037527</pub-id><pub-id pub-id-type="pmcid">PMC8190645</pub-id></element-citation></ref><ref id="ref47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mohammadi</surname><given-names>R</given-names></name><name name-style="western"><surname>Jain</surname><given-names>S</given-names></name><name name-style="western"><surname>Namin</surname><given-names>AT</given-names></name><name name-style="western"><surname>Scholem Heller</surname><given-names>M</given-names></name><name name-style="western"><surname>Palacholla</surname><given-names>R</given-names></name><name name-style="western"><surname>Kamarthi</surname><given-names>S</given-names></name><name name-style="western"><surname>Wallace</surname><given-names>B</given-names></name></person-group><article-title>Predicting unplanned readmissions following a hip or knee arthroplasty: retrospective observational study</article-title><source>JMIR Med Inform</source><year>2020</year><month>11</month><day>27</day><volume>8</volume><issue>11</issue><fpage>e19761</fpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medinform.jmir.org/2020/11/e19761/" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.2196/19761</pub-id><pub-id pub-id-type="medline">33245283</pub-id><pub-id pub-id-type="pii">v8i11e19761</pub-id><pub-id pub-id-type="pmid">33245283</pub-id><pub-id pub-id-type="pmcid">PMC7732713</pub-id></element-citation></ref><ref id="ref48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Frizzell</surname><given-names>JD</given-names></name><name name-style="western"><surname>Liang</surname><given-names>L</given-names></name><name name-style="western"><surname>Schulte</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Yancy</surname><given-names>CW</given-names></name><name name-style="western"><surname>Heidenreich</surname><given-names>PA</given-names></name><name name-style="western"><surname>Hernandez</surname><given-names>AF</given-names></name><name name-style="western"><surname>Bhatt</surname><given-names>DL</given-names></name><name name-style="western"><surname>Fonarow</surname><given-names>GC</given-names></name><name name-style="western"><surname>Laskey</surname><given-names>WK</given-names></name></person-group><article-title>Prediction of 30-day all-cause readmissions in patients hospitalized for heart failure: comparison of machine learning and other statistical approaches</article-title><source>JAMA Cardiol</source><year>2017</year><month>02</month><day>01</day><volume>2</volume><issue>2</issue><fpage>204</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1001/jamacardio.2016.3956</pub-id><pub-id pub-id-type="medline">27784047</pub-id><pub-id pub-id-type="pii">2572174</pub-id><pub-id pub-id-type="pmid">27784047</pub-id></element-citation></ref><ref id="ref49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Awan</surname><given-names>SE</given-names></name><name name-style="western"><surname>Bennamoun</surname><given-names>M</given-names></name><name name-style="western"><surname>Sohel</surname><given-names>F</given-names></name><name name-style="western"><surname>Sanfilippo</surname><given-names>FM</given-names></name><name name-style="western"><surname>Dwivedi</surname><given-names>G</given-names></name></person-group><article-title>Machine learning-based prediction of heart failure readmission or death: implications of choosing the right model and the right metrics</article-title><source>ESC Heart Fail</source><year>2019</year><month>04</month><day>27</day><volume>6</volume><issue>2</issue><fpage>428</fpage><lpage>35</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/30810291" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1002/ehf2.12419</pub-id><pub-id pub-id-type="medline">30810291</pub-id><pub-id pub-id-type="pmid">30810291</pub-id><pub-id pub-id-type="pmcid">PMC6437443</pub-id></element-citation></ref><ref id="ref50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Olsen</surname><given-names>CR</given-names></name><name name-style="western"><surname>Mentz</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Anstrom</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Page</surname><given-names>D</given-names></name><name name-style="western"><surname>Patel</surname><given-names>PA</given-names></name></person-group><article-title>Clinical applications of machine learning in the diagnosis, classification, and prediction of heart failure</article-title><source>Am Heart J</source><year>2020</year><month>11</month><volume>229</volume><fpage>1</fpage><lpage>17</lpage><pub-id pub-id-type="doi">10.1016/j.ahj.2020.07.009</pub-id><pub-id pub-id-type="medline">32905873</pub-id><pub-id pub-id-type="pii">S0002-8703(20)30215-5</pub-id><pub-id pub-id-type="pmid">32905873</pub-id></element-citation></ref><ref id="ref51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mahajan</surname><given-names>SM</given-names></name><name name-style="western"><surname>Heidenreich</surname><given-names>P</given-names></name><name name-style="western"><surname>Abbott</surname><given-names>B</given-names></name><name name-style="western"><surname>Newton</surname><given-names>A</given-names></name><name name-style="western"><surname>Ward</surname><given-names>D</given-names></name></person-group><article-title>Predictive models for identifying risk of readmission after index hospitalization for heart failure: a systematic review</article-title><source>Eur J Cardiovasc Nurs</source><year>2018</year><month>12</month><volume>17</volume><issue>8</issue><fpage>675</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1177/1474515118799059</pub-id><pub-id pub-id-type="medline">30189748</pub-id><pub-id pub-id-type="pmid">30189748</pub-id></element-citation></ref><ref id="ref52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Choi</surname><given-names>E</given-names></name><name name-style="western"><surname>Bahadori</surname><given-names>MT</given-names></name><name name-style="western"><surname>Song</surname><given-names>L</given-names></name><name name-style="western"><surname>Stewart</surname><given-names>WF</given-names></name><name name-style="western"><surname>Sun</surname><given-names>J</given-names></name></person-group><article-title>GRAM: graph-based attention model for healthcare representation learning</article-title><source>KDD</source><year>2017</year><month>08</month><volume>2017</volume><fpage>787</fpage><lpage>95</lpage><comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://europepmc.org/abstract/MED/33717639" ext-link-type="uri"/></comment><pub-id pub-id-type="doi">10.1145/3097983.3098126</pub-id><pub-id pub-id-type="medline">33717639</pub-id><pub-id pub-id-type="pmid">33717639</pub-id><pub-id pub-id-type="pmcid">PMC7954122</pub-id></element-citation></ref><ref id="ref53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>MM</given-names></name><name name-style="western"><surname>Huang</surname><given-names>K</given-names></name><name name-style="western"><surname>Zitnik</surname><given-names>M</given-names></name></person-group><article-title>Graph representation learning in biomedicine and healthcare</article-title><source>Nat Biomed Eng</source><year>2022</year><month>12</month><volume>6</volume><issue>12</issue><fpage>1353</fpage><lpage>69</lpage><pub-id pub-id-type="doi">10.1038/s41551-022-00942-x</pub-id><pub-id pub-id-type="medline">36316368</pub-id><pub-id pub-id-type="pii">10.1038/s41551-022-00942-x</pub-id><pub-id pub-id-type="pmid">36316368</pub-id><pub-id pub-id-type="pmcid">PMC10699434</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

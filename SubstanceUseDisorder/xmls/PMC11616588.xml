@@ -1,0 +1,1593 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Prison Health (2024)</journal-id><journal-id journal-id-type="iso-abbrev">Int J Prison Health (2024)</journal-id><journal-id journal-id-type="pmc-domain-id">3377</journal-id><journal-id journal-id-type="pmc-domain">emeraldsd</journal-id><journal-id journal-id-type="publisher-id">IJOPH</journal-id><journal-title-group><journal-title>International Journal of Prison Health</journal-title></journal-title-group><issn pub-type="ppub">2977-0254</issn><issn pub-type="epub">2977-0262</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Emerald Publishing Open Access</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11616588</article-id><article-id pub-id-type="pmcid-ver">PMC11616588.1</article-id><article-id pub-id-type="pmcaid">11616588</article-id><article-id pub-id-type="pmcaiid">11616588</article-id><article-id pub-id-type="pmid">39410826</article-id><article-id pub-id-type="doi">10.1108/IJOPH-10-2023-0064</article-id><article-id pub-id-type="publisher-id">731316</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-HSC</compound-subject-part><compound-subject-part content-type="label">Health &amp; social
+care</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-CFPY</compound-subject-part><compound-subject-part content-type="label">Criminology &amp; forensic
+psychology</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-PHT</compound-subject-part><compound-subject-part content-type="label">Prisoner
+health</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-SOCY</compound-subject-part><compound-subject-part content-type="label">Sociology</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-SCLW</compound-subject-part><compound-subject-part content-type="label">Sociology of
+crime &amp; law</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-PPEM</compound-subject-part><compound-subject-part content-type="label">Public
+policy &amp; environmental
+management</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-PLC</compound-subject-part><compound-subject-part content-type="label">Policing</compound-subject-part></compound-subject><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">cat-CJ</compound-subject-part><compound-subject-part content-type="label">Criminal justice</compound-subject-part></compound-subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Recent evidence on rates and factors influencing
+smoking behaviours after release from smoke-free prisons: <break/>a scoping
+review</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Brown</surname><given-names initials="A">Ashley</given-names></name><email>a.l.brown@stir.ac.uk</email><xref rid="aff1" ref-type="aff"/><xref ref-type="bio" rid="bio1">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Woods-Brown</surname><given-names initials="C">Clair</given-names></name><email>clair.woods-brown@stir.ac.uk</email><xref rid="aff1" ref-type="aff"/><xref ref-type="bio" rid="bio2">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Angus</surname><given-names initials="K">Kathryn</given-names></name><email>kathryn.angus@stir.ac.uk</email><xref rid="aff1" ref-type="aff"/><xref ref-type="bio" rid="bio3">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>McMeekin</surname><given-names initials="N">Nicola</given-names></name><email>Nicola.Mcmeekin@glasgow.ac.uk</email><xref rid="aff2" ref-type="aff"/><xref ref-type="bio" rid="bio4">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hunt</surname><given-names initials="K">Kate</given-names></name><email>kate.hunt@stir.ac.uk</email><xref rid="aff3" ref-type="aff"/><xref ref-type="bio" rid="bio5">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Demou</surname><given-names initials="E">Evangelia</given-names></name><email>evangelia.demou@glasgow.ac.uk</email><xref rid="aff4" ref-type="aff"/><xref ref-type="bio" rid="bio6">*</xref></contrib><aff id="aff1">Institute for Social Marketing and Health, Faculty of Health Sciences
+and Sport, <institution>University of Stirling</institution>, Stirling, <country country="GB">UK</country></aff><aff id="aff2">Health Economics and Health Technology Assessment (HEHTA), School of
+Health and Wellbeing, <institution>University of Glasgow</institution>, Glasgow,
+<country country="GB">UK</country></aff><aff id="aff3">Institute for Social Marketing and Health, Faculty of Health Sciences
+and Sport, <institution>University of Stirling</institution>, Stirling, <country country="GB">UK</country></aff><aff id="aff4">MRC/CSO Social and Public Health Sciences Unit, School of Health and
+Wellbeing, <institution>University of Glasgow</institution>, Glasgow, <country country="GB">UK</country></aff></contrib-group><author-notes><corresp id="cor1">Corresponding author: Ashley Brown can be contacted at: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:a.l.brown@stir.ac.uk">a.l.brown@stir.ac.uk</email></corresp></author-notes><pub-date pub-type="epub" iso-8601-date="2024-10-17"><day>17</day><month>10</month><year>2024</year></pub-date><pub-date date-type="pub" publication-format="print" iso-8601-date="2024-12-05"><year>2024</year></pub-date><volume>20</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">476338</issue-id><fpage>450</fpage><lpage>465</lpage><history><date date-type="received" iso-8601-date="2023-10-03"><day>03</day><month>10</month><year>2023</year></date><date date-type="rev-recd" iso-8601-date="2024-04-17"><day>17</day><month>4</month><year>2024</year></date><date date-type="accepted" iso-8601-date="2024-07-07"><day>07</day><month>7</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>12</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>05</day><month>12</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-12-05 11:25:34.210"><day>05</day><month>12</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>&#169; Ashley Brown, Clair Woods-Brown, Kathryn Angus, Nicola
+McMeekin, Kate Hunt and Evangelia Demou.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Ashley Brown, Clair Woods-Brown, Kathryn Angus, Nicola McMeekin,
+Kate Hunt and Evangelia Demou.</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Published by Emerald Publishing Limited. This article is published
+under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may
+reproduce, distribute, translate and create derivative works of this article
+(for both commercial &amp; non-commercial purposes), subject to full
+attribution to the original publication and authors. The full terms of this
+licence may be seen at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="intjprisonhealth-20-0450.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="IJOPH-10-2023-0064.pdf"/><abstract abstract-type="structured" id="abstr1"><sec><title content-type="abstract-subheading">Purpose</title><p>Smoke-free prison policies have been introduced in some countries, in part to
+address very high levels of tobacco use in people in prison. However,
+relapse rates post-release remain high. This papers aims to improve
+understanding of post-release smoking and/or vaping behaviour is necessary
+to inform support for a priority population.</p></sec><sec><title content-type="abstract-subheading">Design/methodology/approach</title><p>The authors searched health, social science and criminal justice databases
+for studies about smoking/vaping behaviours among people released from
+smoke-free prisons. Studies were included if they reported primary data and
+were published between January 2017 and March 2024 in English; the
+population was adults/young people (16 yr+) imprisoned or formerly
+imprisoned, in prisons with comprehensive smoke-free policies; and at least
+one of the following was reported: pre-release intention to smoke, vape or
+remain abstinent post-release; smoking/vaping behaviour post-release and
+factors influencing smoking/vaping behaviour; attempts to quit again
+following post-release smoking/vaping relapse.</p></sec><sec><title content-type="abstract-subheading">Findings</title><p>Nine studies met our criteria. The evidence base is small and mainly from the
+USA or Australia. Evidence continues to suggest that most people resume
+smoking after leaving a smoke-free prison. No new interventions have been
+successful in reducing relapse rates. No studies report on vaping
+post-release, although two studies report on perceived factors affecting
+smoking relapse post-release from prisons allowing vaping.</p></sec><sec><title content-type="abstract-subheading">Research
+limitations/implications</title><p>Given very high rates of relapse, there remains a significant need to better
+understand what approaches are feasible and acceptable for reducing return
+to smoking post-release.</p></sec><sec><title content-type="abstract-subheading">Originality/value</title><p>This review updates the limited evidence on smoking behaviours after leaving
+a smoke-free prison.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd>Prison</kwd><kwd>Smoking</kwd><kwd>Inequalities</kwd><kwd>Vaping</kwd><kwd>Cessation interventions</kwd><kwd>Marginalised populations</kwd><kwd>Smoke-free policy</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><equation-count count="0"/><ref-count count="54"/><page-count count="16"/><word-count count="8641"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>copyright-code</meta-name><meta-value>Z</meta-value></custom-meta><custom-meta><meta-name>deliverables</meta-name><meta-value>Web-ready article package</meta-value></custom-meta><custom-meta><meta-name>peer-reviewed</meta-name><meta-value>Yes</meta-value></custom-meta><custom-meta><meta-name>academic-content</meta-name><meta-value>Yes</meta-value></custom-meta><custom-meta><meta-name>EContentType</meta-name><meta-value>JOURNAL</meta-value></custom-meta><custom-meta><meta-name>rightslink</meta-name><meta-value>included</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec001"><title>Introduction</title><p>Tobacco use continues to be one of the most serious public health threats
+internationally, accounting for more than 7.69 million (7.16&#8211;8.20) deaths and
+200 million (185&#8211;241) disability-adjusted life-years in 2019, and is still
+the leading risk factor for death in men (<xref rid="ref019" ref-type="bibr">GBD
+2019 Tobacco Collaborators, 2021</xref>). Although smoking rates have fallen in
+many resource-rich countries, smoking prevalence remains high among
+&#8220;marginalised&#8221; groups (<xref rid="ref038" ref-type="bibr">Potter
+<italic toggle="yes">et al.</italic>, 2021</xref>). A systematic review of smoking
+prevalence in prisons across 36 countries where smoking was/is still permitted
+reported that the rates of smoking were up to five times higher than in the general
+population in Europe, up to 6.4 times higher in the Americas and up to 16 times
+higher in Asia (<xref rid="ref048" ref-type="bibr">Spaulding <italic toggle="yes">et
+al.</italic>, 2018</xref>). For example, in Scotland, in 2017, prior to the 2018
+smoke-free prison policy, 68% of people in prison used tobacco compared with
+18% of adults outside prison (<xref rid="ref010" ref-type="bibr">Carnie
+<italic toggle="yes">et al.</italic>, 2017</xref>; <xref rid="ref045" ref-type="bibr">SHeS, 2017</xref>) and levels of second-hand smoke (SHS) in prisons were
+comparable to those within a typical smoking home (<xref rid="ref044" ref-type="bibr">Semple <italic toggle="yes">et al.</italic>, 2017</xref>). Thus, people who are
+or have been in prison are at greater risk of smoking-related health conditions than
+the general population (<xref rid="ref003" ref-type="bibr">Binswanger <italic toggle="yes">et
+al.</italic>, 2014</xref>).</p><p>Several countries have introduced total smoke-free prison policies to tackle the high
+levels of smoking among people in prison, exposure to SHS and tobacco-related
+mortality and morbidity for tobacco users and non-users (<xref rid="ref049" ref-type="bibr">Sweeting and Hunt, 2015</xref>). New Zealand was the first country
+to implement a comprehensive country-level smoke-free prison policy (<xref rid="ref014" ref-type="bibr">Collinson <italic toggle="yes">et al.</italic>, 2012</xref>).
+Smoke-free prison policies have also been implemented in most jurisdictions in
+Australia (<xref rid="ref035" ref-type="bibr">Office of The Inspector of Custodial
+Services, 2021</xref>) and in the USA (<xref rid="ref003" ref-type="bibr">Binswanger <italic toggle="yes">et al.</italic>, 2014</xref>) and Canada (<xref rid="ref013" ref-type="bibr">Collier, 2013</xref>). All prisons in England and
+Wales had become smoke-free by July 2018 (<xref rid="ref002" ref-type="bibr">ASH,
+2018</xref>). Scotland implemented its smoke-free prison policy in November 2018
+(<xref rid="ref023" ref-type="bibr">Hunt <italic toggle="yes">et al.</italic>, 2022</xref>).
+UK jurisdictions elected to allow vaping in smoke-free prisons, as have some USA
+prisons (<xref rid="ref054" ref-type="bibr">Young-Wolff <italic toggle="yes">et al.</italic>,
+2015</xref>).</p><p>Evidence shows environmental improvements following smoke-free prison policy. For
+example, measurements in Scottish prisons, during the week of smoke-free prison
+policy implementation, demonstrated an immediate impact (81% reduction in
+SHS) (<xref rid="ref043" ref-type="bibr">Semple <italic toggle="yes">et al.</italic>,
+2020</xref>); levels were further reduced six months later (<xref rid="ref016" ref-type="bibr">Demou <italic toggle="yes">et al.</italic>, 2020</xref>). Other studies have
+reported reductions in SHS markers of 77% in North Carolina (<xref rid="ref039" ref-type="bibr">Proescholdbell <italic toggle="yes">et al.</italic>,
+2008</xref>), 50% in New Zealand (<xref rid="ref014" ref-type="bibr">Collinson <italic toggle="yes">et al.</italic>, 2012</xref>) and 66% in four pilot
+prisons in England (<xref rid="ref027" ref-type="bibr">Jayes <italic toggle="yes">et
+al.</italic>, 2019</xref>).</p><p>Some studies have reported evidence of health benefits of smoke-free prison policies.
+For example, a USA study reported a 9% reduction in smoking-related deaths,
+particularly from heart and lung disease, in prisons where a smoke-free policy had
+been in place for nine or more years. There was also a reduction in cancer-related
+deaths (<xref rid="ref003" ref-type="bibr">Binswanger <italic toggle="yes">et al.</italic>,
+2014</xref>). In England, a reduction in risk of a cardiovascular event across
+all ages groups has been evidenced (<xref rid="ref036" ref-type="bibr">Perrett
+<italic toggle="yes">et al.</italic>, 2022</xref>). In Scotland, a time-series analysis
+of prison pharmacy data suggested health benefits evidenced by a 9% reduction
+in the rate of dispensing medication for smoking-related illnesses (<xref rid="ref052" ref-type="bibr">Tweed <italic toggle="yes">et al.</italic>, 2021</xref>). Health
+economic analyses demonstrated cost-effectiveness of the Scottish smoke-free prison
+policy over the short- and long-term, but uncertainty remained in the long-term
+modelling due to the paucity of evidence internationally about smoking following
+release from smoke-free prisons (<xref rid="ref031" ref-type="bibr">McMeekin
+<italic toggle="yes">et al.</italic>, 2022</xref>).</p><p>A systematic review of prison-based smoking cessation interventions concluded that
+&#8220;prisoners who experience a complete smoking ban typically resume smoking
+shortly after release&#8221; suggesting that, on their own, smoke-free policies are
+insufficient to maintain smoking abstinence after release (<xref rid="ref015" ref-type="bibr">de Andrade and Kinner, 2017</xref>). Another systematic review
+identified 15 studies published to July 2017 with data on pre-release intentions
+around smoking, smoking relapse or abstinence post-release or quit attempts
+following post-release smoking relapse and noted that the evidence base was
+&#8220;small, almost exclusively US-based&#8221; and &#8220;methodologically
+weak&#8221; (<xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan,
+2019</xref>). Their review highlighted &#8220;that more than 60% of
+participants relapsed to smoking following release from smokefree prisons&#8221;
+(p. 1015). Both of these reviews were conducted before e-cigarette use was permitted
+in smoke-free prisons in the UK, and neither considered whether the use of
+e-cigarettes in a smoke-free prison affects intention to or return to smoking rates
+post-release.</p><p><xref rid="ref048" ref-type="bibr">Spaulding <italic toggle="yes">et al.</italic> (2018)</xref>
+have estimated that in-prison policy programmes could potentially result in 2
+million fewer &#8220;smokers&#8221; resettling in communities globally. However,
+high rates of relapse to smoking suggest that opportunities to improve the health of
+people who have been incarcerated in smoke-free prisons are being missed,
+particularly where the use of e-cigarettes is not permitted and the period of
+imprisonment extends beyond two to three months. Symptoms of nicotine withdrawal
+peak in the first week of abstinence, with some studies suggesting they return to
+baseline levels by two to four weeks, and others that they persist for several
+months (<xref rid="ref021" ref-type="bibr">Hatsukami <italic toggle="yes">et al.</italic>,
+2008</xref>). The health of people released from prison is complex due to
+co-occurring physical (<xref rid="ref024" ref-type="bibr">Ismail <italic toggle="yes">et
+al.</italic>, 2021</xref>) and mental health conditions (<xref rid="ref018" ref-type="bibr">Fazel and Seewald, 2018</xref>), entrenched and
+intergenerational social disadvantage (<xref rid="ref017" ref-type="bibr">Enggist
+<italic toggle="yes">et al.</italic>, 2014</xref>) and persistent inequalities in the use
+and effects of tobacco smoking (<xref rid="ref022" ref-type="bibr">Hiscock
+<italic toggle="yes">et al.</italic>, 2011</xref>). For example, recent Australian
+research reports that despite very high levels of mental illness and complex
+multimorbidity, continuity of care post-release is inadequate (<xref rid="ref009" ref-type="bibr">Calais-Ferreira <italic toggle="yes">et al.</italic>, 2022</xref>) and people
+released from prison with mental health and substance use issues have a high risk of
+morbidity, mortality and reincarceration (<xref rid="ref050" ref-type="bibr">Thomas
+<italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref004" ref-type="bibr">Borschmann <italic toggle="yes">et al.</italic>, 2024</xref>).</p><p>With recent evidence of high rates of relapse to smoking post-release, up to date
+understanding of post-release smoking/vaping behaviour is necessary to increase
+understanding of appropriate support strategies. This scoping review builds on and
+expands earlier reviews (<xref rid="ref040" ref-type="bibr">Puljevi&#263; and
+Segan, 2019</xref>; <xref rid="ref015" ref-type="bibr">de Andrade and Kinner,
+2017</xref>) by updating evidence on relapse rates and factors influencing
+smoking behaviours post-release and explicitly searching for relevant research on
+e-cigarettes.</p></sec><sec id="sec002"><title>Methods</title><p>The paper was informed by the Preferred Reporting Items for Systematic reviews and
+Meta-Analyses extension for Scoping Reviews (<xref rid="ref051" ref-type="bibr">Tricco <italic toggle="yes">et al.</italic>, 2018</xref>) (Supplementary File 1).</p><sec id="sec003"><title>Search strategy</title><p>Relevant search terms were identified, informed by the previous systematic review
+and the research team&#8217;s expertise in tobacco use in prisons and used to
+construct a detailed search strategy for five databases according to the PICO
+model (Population, Intervention, Context, Outcome) (Supplementary File 2) to
+update and broaden earlier reviews (<xref rid="ref015" ref-type="bibr">de
+Andrade and Kinner, 2017</xref>; <xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan, 2019</xref>). We tested the search terms to
+ensure they identified papers in the previous review. We searched Web of Science
+Citation Indices, PsycInfo (EBSCOHost), Criminal Justice Abstracts (EBSCOHost)
+and Medline (Ovid) databases, and the Bielefeld Academic Search Engine (BASE),
+on 6 April 2022; the search was updated on 5 March 2024. The database search was
+limited to English language records, and included journal articles,
+dissertations and grey literature, such as third-sector reports and government
+documents. To identify further relevant studies, we used backward snowballing
+and forward plus emailed autoalerts of new records from the academic
+databases.</p></sec><sec id="sec004"><title>Inclusion and exclusion criteria</title><p>Our examination of studies included vaping because some jurisdictions (e.g.
+Scotland and England and Wales, some prisons in the USA) opted to allow use of
+e-cigarettes in smoke-free prisons. Our earlier work suggests that uptake has
+been high in Scotland (<xref rid="ref007" ref-type="bibr">Brown <italic toggle="yes">et
+al.</italic>, 2021</xref>; <xref rid="ref006" ref-type="bibr">Brown
+<italic toggle="yes">et al.</italic>, 2020</xref>; <xref rid="ref008" ref-type="bibr">Brown <italic toggle="yes">et al.</italic>, 2019</xref>; <xref rid="ref023" ref-type="bibr">Hunt <italic toggle="yes">et al.</italic>, 2022</xref>). In England, it has
+also been reported that the majority of &#8220;smokers&#8221; living in closed
+prison environments vape to manage without tobacco (<xref rid="ref026" ref-type="bibr">Jayes <italic toggle="yes">et al.</italic>, 2023</xref>).</p><p>Studies were included if they reported primary data and were published between
+January 2017 and March 2024; they were published in English; the population was
+adults/young people (16 yr+) imprisoned or formerly imprisoned, in
+prisons with comprehensive smoke-free policies; and the study reported at least
+one of the following: <list list-type="bullet" id="list1"><list-item><p>pre-release intention to smoke or vape or remain abstinent
+post-release;</p></list-item><list-item><p>smoking/vaping behaviour post-release and factors influencing
+smoking/vaping behaviour; and</p></list-item><list-item><p>attempts to quit again following post-release smoking/vaping
+relapse.</p></list-item></list></p><p>Studies were excluded if they reported on smoking or vaping behaviours during
+imprisonment only.</p></sec><sec id="sec005"><title>Data charting</title><p>A data extraction table to record characteristics of the studies and the outcomes
+of interest for our synthesis was co-created by two reviewers, tested using
+pilot studies by three reviewers and the final data extraction was sense-checked
+by a fourth with reference to all included studies.</p></sec></sec><sec id="sec006"><title>Results</title><sec id="sec007"><title>Search results</title><p>The database search identified 702 records that were imported into a reference
+manager (EndNoteX9). After eliminating duplicates, 439 records remained and were
+imported into an online systematic review tool (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.rayyan.ai" ext-link-type="uri">www.rayyan.ai</ext-link>). Titles and abstracts were independently screened
+for eligibility by two reviewers, with any disagreements resolved by a third. A
+total 369 were excluded and 68 were retrieved for full text screening. Studies
+pre-2017 included in either of the previous reviews (<xref rid="ref015" ref-type="bibr">de Andrade and Kinner, 2017</xref>; <xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan, 2019</xref>) and the reviews
+themselves were then excluded (<italic toggle="yes">n</italic> = 29). Further studies
+were excluded on the basis of intervention (<italic toggle="yes">n</italic> = 13),
+publication type (<italic toggle="yes">n</italic> = 2), population (<italic toggle="yes">n</italic>
+= 6) or outcome (<italic toggle="yes">n</italic> = 7). A protocol paper and a
+review paper were also excluded. Thus, nine studies (all peer-reviewed journal
+articles reporting primary data) met the inclusion criteria after full-text
+review. <xref rid="F_IJOPH-10-2023-0064001" ref-type="fig">Figure 1</xref>
+details the search and retrieval process (<xref rid="ref03900" ref-type="bibr">Page <italic toggle="yes">et al.</italic>, 2021</xref>).</p></sec><sec id="sec008"><title>Overview of included studies</title><p><xref rid="tbl1" ref-type="table">Table 1</xref> describes the characteristics of
+nine included studies. Four of the studies reported studies in Australia (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>, 2021</xref>; <xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>, 2020</xref>;
+<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2018</xref>; <xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et
+al.</italic>, 2019</xref>) (in states where smoke-free policies were in
+place in prisons), three were based on studies conducted in the USA (<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>,
+2022</xref>; <xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et
+al.</italic>, 2021</xref>) (in states with smoke-free prisons) and two
+were from the UK. The two qualitative studies based in the UK made explicit
+reference to the permitted use of vaping in smoke-free prisons. One reports on
+interviews with people working in three all male prisons or people tasked with
+implementing smoke-free prison policies within Public Health England or the
+headquarters for the prison services, which included questions on the management
+of nicotine addiction in prison and after release (<xref rid="ref026" ref-type="bibr">Jayes <italic toggle="yes">et al.</italic>, 2023</xref>). The other also
+mainly focused on the implementation of smoke-free policy in prisons but
+included some data on which factors were perceived to hinder or facilitate
+remaining smoke-free on release from interviews with prison staff and 18 men and
+five women in custody (<xref rid="ref005" ref-type="bibr">Brown <italic toggle="yes">et
+al.</italic>, 2022</xref>).</p><p>All nine studies reported on adults, seven measured outcomes for mixed sex,
+although predominantly male samples (<xref rid="ref001" ref-type="bibr">Albany
+<italic toggle="yes">et al.</italic>, 2020</xref>; <xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>, 2021</xref>; <xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2018</xref>; <xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et
+al.</italic>, 2021</xref>; <xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2019</xref>; <xref rid="ref005" ref-type="bibr">Brown <italic toggle="yes">et al.</italic>, 2022</xref>); one study only
+included men (<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>,
+2022</xref>). Three studies used qualitative methods only, reporting on data
+from semi-structured interviews (<xref rid="ref005" ref-type="bibr">Brown
+<italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref026" ref-type="bibr">Jayes <italic toggle="yes">et al.</italic>, 2023</xref>; <xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2019</xref>) and three
+reported on cross-sectional surveys (<xref rid="ref001" ref-type="bibr">Albany
+<italic toggle="yes">et al.</italic>, 2020</xref>; <xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>).</p><p>Three studies reported data from evaluations of interventions aimed at reducing
+return to smoking post-release. All three studies involved provision of (relapse
+prevention) behavioural support for smoking cessation (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>, 2021</xref>; <xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>,
+2021</xref>). In one study, the intervention group received behavioural support
+(motivational interviewing) pre-release (<xref rid="ref028" ref-type="bibr">Jin
+<italic toggle="yes">et al.</italic>, 2021</xref>). In another study, the
+intervention involved provision of smoking cessation counselling in-person for
+one hour pre-release, and up to four telephone sessions in the three weeks
+post-release (<xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et
+al.</italic>, 2021</xref>). Participants were also provided with
+nicotine lozenges in addition to behavioural support (<xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>, 2021</xref>). The third
+intervention (known as the Working Inside for Smoking Elimination [WISE]
+intervention) involved receipt of six motivational interviewing or cognitive
+behaviour therapy sessions in the &#8764;6 weeks pre-release, and brief
+telephone sessions around one-day and one-week post-release (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>).
+More details about the broader WISE study from which Martin <italic toggle="yes">et
+al.</italic>&#8217;s subsample derives are reported elsewhere (<xref rid="ref012" ref-type="bibr">Clarke <italic toggle="yes">et al.</italic>,
+2013</xref>).</p><p>This scoping review considered four smoking outcomes: <list list-type="order" id="list2"><list-item><p>pre-release intentions to smoke or vape or remain abstinent
+following release;</p></list-item><list-item><p>the prevalence of smoking or vaping after
+release;</p></list-item><list-item><p>quit attempts following post-release relapse;
+and</p></list-item><list-item><p>factors facilitating or hindering staying smoke-free or
+reducing levels of tobacco consumption post-release including the
+use of e-cigarettes.</p></list-item></list></p><p>Given the heterogeneity in the focus and methodologies used in the included
+studies, it is only possible provide a narrative summary of outcomes.</p></sec></sec><sec id="sec009"><title>Reported outcomes of included studies</title><p>Only two of the nine studies included in our review reported on any aspect of vaping.
+We found no studies reporting on intention to vape post-release (as a way to remain
+smoke-free) or on prevalence of vaping post-release. Hence, there is currently no
+evidence internationally on whether, or how, vaping while in a smoke-free prison or
+following release affects intentions to remain smoke-free, or rates of relapse to
+smoking, after release from smoke-free prisons.</p><p>Similarly, none of the studies reported on quit attempts following return to smoking
+after leaving a smoke-free prison.</p><sec id="sec010"><title>Pre-release intentions to smoke or remain abstinent following release from a
+smoke-free prison</title><p>Six studies included information on participants&#8217; pre-release
+intentions/expectations to smoke/remain abstinent on release (<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>, 2021</xref>;
+<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>,
+2022</xref>; <xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et
+al.</italic>, 2019</xref>; <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>; <xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>, 2021</xref>). The percentage
+who expressed pre-release intentions/expectations to smoke/remain abstinent
+varied across studies, with four studies reporting that at least one in three
+participants expected, intended or hoped to remain smoke-free. Only two studies,
+with different designs, recorded pre-release intentions to remain abstinent
+after release prospectively, while participants were still in prison. The first,
+a survey conducted across a release preparation program in the USA within 20
+weeks of release, reported 33% of respondents, in the 2020 survey wave,
+selected &#8220;definitely not&#8221; when asked whether they expected to
+resume smoking on release (<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et
+al.</italic>, 2022</xref>). The second, an RCT of a motivational
+interview intervention conducted with 557 participants within four to six weeks
+of release from an Australian prison reported that at baseline 51% of
+participants who were allocated to the intervention group &#8220;hoped to
+remain smokefree after release&#8221; compared to 43% of the control
+group (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>,
+2021</xref>). However, one inclusion criterion assessed for participation in
+the trial was that potential participants &#8220;express an interest in
+remaining abstinent after release &#8230;&#8221; (p. 464).</p><p>Four studies measured pre-release intentions to smoke/remain abstinent
+retrospectively. One, a cross-sectional survey of 114 participants released from
+smoke-free prisons in Queensland, Australia (<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>), reported that
+66% of participants expressed an intention to remain smoke-free. In a
+qualitative study, which subsampled from participants in this survey who had
+relapsed to smoking, 12 of the 21 participants were reported to have expressed a
+&#8220;pre-release intention to remain abstinent after release&#8221; (<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2019</xref>). A secondary analysis of a subsample (<italic toggle="yes">n</italic>
+= 190) from the WISE project reported that 52% planned to return
+to smoking on release (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et
+al.</italic>, 2022</xref>).</p></sec><sec id="sec011"><title>Smoking after release</title><p>Five studies included information on the prevalence of smoking after release from
+a smoke-free prison (<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et
+al.</italic>, 2020</xref>; <xref rid="ref028" ref-type="bibr">Jin
+<italic toggle="yes">et al.</italic>, 2021</xref>; <xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>; <xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>,
+2021</xref>). Timepoints at which smoking prevalence data were collected, and
+outcome measures varied across the studies, preventing detailed comparisons
+being made across studies. All studies found that at least &#8764;65%
+returned to smoking. Among 424 participants followed up (for an average of
+&#8764;145 days) in an Australian RCT of a motivational interviewing
+intervention, most participants had returned to smoking according to several
+measures (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>,
+2021</xref>). Continuous smoking absence was self-reported by 16%
+(<italic toggle="yes">n</italic> = 31) in the intervention group and 12%
+(<italic toggle="yes">n</italic> = 27) of the control group and seven-day point
+prevalence for self-reported abstinence was 31% in both groups. Rates of
+abstinence were lower for the primary outcome (continuous absence [not having
+smoked more than five cigarettes during follow-up period] confirmed by exhaled
+carbon monoxide); after multiple imputations to account for missing data,
+continuous abstinence was estimated to be 9% in the intervention group
+and 7% in the control group. Cumulative self-reported relapse at three
+months was 87% for the intervention group and 92% for the control
+group; whereas 62% and 74%, respectively, reported relapse on the
+day of release. The median number of cigarettes smoked daily was five and six,
+respectively (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>,
+2021</xref>). Another Australian study reported that 72% of
+self-identifying &#8220;smokers&#8221; (<italic toggle="yes">n</italic> = 114)
+released from prison in Queensland relapsed to smoking within 24 hours and
+94% within two months of release (<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>) (although 62%
+of those who relapsed to smoking post release reported smoking fewer cigarettes
+post-release than pre-incarceration), whereas a third Australian study reported
+that 86% of people re-entering prison after being in a smoke-free prison
+in the past 12 months were daily &#8220;smokers&#8221; (<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>, 2020</xref>).</p><p>Of the 190 participants from the WISE study in the USA, 50% relapsed to
+smoking within 24 hours and 65% within seven days (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>). The adjusted
+biologically verified seven-day point prevalence abstinence (primary outcome) in
+a pilot RCT in the USA was 12% in a group who received 1 h of smoking
+cessation counselling in jail plus a supply of NRT on release, compared to
+11% for the group who received 30 min of general health education only;
+equivalent figures at 12 weeks were 11% and 14%, respectively
+(<xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>,
+2021</xref>).</p><p>One study suggested that there may be a reduction in numbers of cigarettes smoked
+(<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2018</xref>), comparing the number of cigarettes smoked before and after
+time spent in a smoke-free prison. Two studies (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>, 2021</xref>; <xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>, 2021</xref>) found a
+potential reduction in the number of cigarettes smoked post-release following
+participation in a relapse prevention intervention.</p></sec><sec id="sec012"><title>Factors facilitating or hindering staying smoke-free or reducing levels of
+tobacco consumption post-release</title><p>Four studies using quantitative methods (<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>, 2020</xref>; <xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2018</xref>; <xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et
+al.</italic>, 2022</xref>) and three studies using qualitative methods
+(<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2019</xref>; <xref rid="ref005" ref-type="bibr">Brown <italic toggle="yes">et
+al.</italic>, 2022</xref>; <xref rid="ref026" ref-type="bibr">Jayes
+<italic toggle="yes">et al.</italic>, 2023</xref>) described factors that hindered
+remaining abstinent from smoking. Factors identified in studies using
+quantitative methods included indigenous status (<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>, 2020</xref>) and use of drugs
+(&#8220;any drug use&#8221; in the past four weeks (<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>, 2020</xref>),
+&#8220;injectable drug use since release&#8221; (<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>) as
+predictors for daily smoking; sex (women at higher risk of smoking in first
+hour, day and week of release) (<xref rid="ref033" ref-type="bibr">Martin
+<italic toggle="yes">et al.</italic>, 2022</xref>) and planning to smoke following
+release (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>,
+2022</xref>). A nine-year survey of people in prison identified factors
+related to individual beliefs and expectations about smoking that may hinder
+abstinence; these included no longer viewing themselves as addicted to nicotine
+and believing it would be &#8220;fairly easy&#8221; not to return to smoking
+post-release (<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>,
+2022</xref>). Another study (<xref rid="ref033" ref-type="bibr">Martin
+<italic toggle="yes">et al.</italic>, 2022</xref>) that examined the antecedents of
+return to smoking post-release identified several circumstances commonly
+associated with smoking after someone leaves prison: being with other people who
+smoke or with friends and family; being given tobacco by someone else; feeling
+positive emotions (e.g., being happy or excited); and using drugs or
+alcohol.</p><p>A qualitative study conducted in Australia identified pre-release intention,
+normalisation of smoking in home or social environments, perception of smoking
+as a symbolic act of freedom or resistance or as providing a means to relieve
+stress associated with resettlement or coping with craving for illicit
+substances, as barriers to continued abstinence after leaving a smoke-free
+prison (<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et
+al.</italic>, 2019</xref>). Some similar factors were also cited in two
+qualitative studies that explored <italic toggle="yes">anticipated</italic> barriers to
+remaining smoke-free post-release (<xref rid="ref005" ref-type="bibr">Brown
+<italic toggle="yes">et al.</italic>, 2022</xref>; <xref rid="ref026" ref-type="bibr">Jayes <italic toggle="yes">et al.</italic>, 2023</xref>). In addition, staff associated
+with the implementation of smoke-free prisons in England felt that an additional
+potential reason for smoking relapse post-release was high levels of nicotine
+use in the prison population due to vaping (<xref rid="ref026" ref-type="bibr">Jayes <italic toggle="yes">et al.</italic>, 2023</xref>). Staff described the high
+prevalence of return to smoking when people moved from smoke-free closed prisons
+to the open estate (that were not smoke-free) (<xref rid="ref026" ref-type="bibr">Jayes <italic toggle="yes">et al.</italic>, 2023</xref>). They suggested
+that the stress of moving between closed and open prison conditions, the
+provision of a &#8220;smoking pack&#8221; and the fact that people were once
+again surrounded by people smoking, made it more difficult for people to remain
+smoke-free. Jayes <italic toggle="yes">et al.</italic> noted that around 30% of people
+in the open prison context were using e-cigarettes, but &#8220;most of
+these&#8221; were dual users of cigarettes and e-cigarettes.</p><p>The most cited facilitators mentioned by 72 survey participants (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>)
+who managed to remain smoking abstinent post-release were: not having cravings
+to smoke, being with family, lack of finances, engaging in alternative
+activities, having willpower and thinking about the health benefits of not
+returning to smoking. Living with a partner, expressing support for smoke-free
+prison policy, pre-release intention to remain abstinent and future intention to
+quit smoking were associated with reduced daily smoking in another survey (<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2018</xref>). Participants in the Australian qualitative study of 21 people
+who had managed to remain abstinent for a time post-release (<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2019</xref>) mentioned awareness of health and financial benefits of not
+smoking, diversionary activities, social support from family and peers and
+intrinsic motivation. People in prison in Scotland thought the experience of
+health and financial benefits of not smoking while in prison may increase
+motivations to give up in the longer term, and that use of smoking alternatives
+during the transition period may help some people to avoid relapse (<xref rid="ref005" ref-type="bibr">Brown <italic toggle="yes">et al.</italic>,
+2022</xref>).</p><p>One study (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>,
+2021</xref>) suggested that a single session of a motivational interviewing
+intervention delivered prior to release may potentially delay relapse to smoking
+post-release.</p></sec></sec><sec id="sec013"><title>Discussion</title><p>This scoping review builds on the systematic review by <xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan (2019)</xref> of studies reporting on
+factors influencing smoking following release from smoke-free prisons. Their review
+identified 15 eligible studies and concluded that &#8220;the evidence base in this
+area is small [&#8230;] [and] mostly methodologically weak&#8221; (p. 1011) and
+dominated by studies from the USA. Our review (of studies published from 2017 to
+March 2024) demonstrates that the evidence base remains &#8220;sparse&#8221; and
+identified only an additional nine studies, of varying methodological design and
+quality. Most were conducted in the USA or Australia. A systematic review (of
+studies published from January 2000 to February 2022), which examined the impact of
+smoking &#8220;bans&#8221; and other smoking cessation interventions in smoke-free
+prisons, mental health and substance use treatment settings, similarly reported a
+dearth of evidence on post-release/post-discharge smoking behaviours (<xref rid="ref047" ref-type="bibr">Sourry <italic toggle="yes">et al.</italic>, 2022</xref>).</p><p>Consistent with existing evidence, our review found that most people return to
+smoking after leaving a smoke-free prison, despite many people hoping or intending
+to remain smoke-free. This is a missed opportunity to improve the health of a
+priority group and to reduce health inequalities.</p><p>None of the new interventions (first published after 2017) reported in the studies
+included in this review have been successful in preventing high rates of relapse to
+smoking, often within 24 h, following release from a smoke-free prison. To our
+knowledge, the WISE intervention remains the only intervention, which has shown
+effectiveness in increasing smoking abstinence post-release (<xref rid="ref012" ref-type="bibr">Clarke <italic toggle="yes">et al.</italic>, 2013</xref>). Nonetheless, one
+study in our review reports that a single session of motivational interviewing
+delivered pre-release (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et
+al.</italic>, 2021</xref>) may have the potential to delay return to
+smoking. This finding could be exploited in the future through the inclusion of
+greater support, including in the post-release period, which may help to maintain
+smoking abstinence for a longer period of time and/or facilitate further quit
+attempts in the event of a smoking lapse. Our review also found evidence that
+smoking levels may reduce following time spent in a smoke-free prison (<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2018</xref>), and following participation in a pre-release motivational
+interviewing intervention (<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et
+al.</italic>, 2021</xref>) or a pre&#8211;post intervention combining
+behavioural support and NRT (<xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et
+al.</italic>, 2021</xref>). As noted elsewhere (<xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>, 2021</xref>), the significance
+of results suggesting that some interventions may potentially reduce the amount
+smoked post-release is less clear given uncertainties about the implications for
+health and long-term smoking abstinence (<xref rid="ref011" ref-type="bibr">Chang
+<italic toggle="yes">et al.</italic>, 2020</xref>; <xref rid="ref029" ref-type="bibr">Lindson <italic toggle="yes">et al.</italic>, 2019</xref>). Taken together, evidence from
+this review and from previous reviews by <xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan (2019)</xref> and <xref rid="ref047" ref-type="bibr">Sourry <italic toggle="yes">et al.</italic> (2022)</xref> highlight the potential of
+multi-component interventions that are delivered both before and after release to
+change smoking behaviour.</p><p><xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan (2019)</xref> noted the
+need for evidence on the potential for NRT to help reduce return to smoking
+post-release. We identified one intervention study in which participants received a
+supply of nicotine lozenges upon release from prison in combination with behaviour
+support. Although the intervention did not increase smoking abstinence, participants
+were positive about the behavioural support provided and suggested that the
+provision of NRT could be expanded to in prison use, particularly in the lead up to
+release. Given that a systematic review of effective behaviour change techniques for
+preventing relapse following a stay in a smoke-free setting identified
+pharmacological support as effective in reducing return to smoking (<xref rid="ref046" ref-type="bibr">Shoesmith <italic toggle="yes">et al.</italic>, 2021</xref>),
+further research on the use of NRT during and following time spent in a smoke-free
+prison would be beneficial. Specifically, it would be helpful to understand more
+about the optimum timing of providing NRT, the most feasible and acceptable
+mechanisms for giving people access to NRT and how to maximise uptake and
+adherence.</p><p>Crucially, our review demonstrated a complete lack of evidence worldwide on rates of
+relapse to tobacco use following release from smoke-free prisons where the sale and
+use of e-cigarettes has been allowed (as has been the case in England and Wales and
+in Scotland over the past five years, and in some prisons in the USA). Although
+evidence shows that e-cigarettes can help people to cope with smoke-free rules while
+living in prison (<xref rid="ref006" ref-type="bibr">Brown <italic toggle="yes">et al.</italic>,
+2020</xref>; <xref rid="ref034" ref-type="bibr">O'Donnell <italic toggle="yes">et
+al.</italic>, 2022</xref>), research is required to understand whether and
+for whom vaping is a risk or protective factor for smoking relapse after leaving a
+smoke-free setting. To date, evidence from the general population is mixed. For
+example, a representative sample of USA recent former &#8220;smokers&#8221; did
+not find an association between daily vaping and remaining abstinent. However, it
+was found that those using e-cigarettes appeared more likely to quit again following
+a relapse and to be abstinent for three months at follow-up (<xref rid="ref037" ref-type="bibr">Pierce <italic toggle="yes">et al.</italic>, 2021</xref>).</p><p>Given that vaping is not risk-free (<xref rid="ref020" ref-type="bibr">Glantz
+<italic toggle="yes">et al.</italic>, 2024</xref>; <xref rid="ref032" ref-type="bibr">McNeill <italic toggle="yes">et al.</italic>, 2022</xref>), it will be important to also
+assess levels and patterns of dual use of tobacco and e-cigarettes among prison
+leavers and to tailor support to try to encourage complete tobacco cessation in this
+group.</p><p>This review demonstrates that more research is needed on the most feasible and
+effective means to support people leaving smoke-free prisons to remain smoke-free.
+It strengthens understanding of factors potentially facilitating or hindering
+smoking abstinence post-release and which may help optimise support with smoking
+behaviour among people leaving smoke-free prisons. Firstly, strengthening intentions
+and plans to remain smoke-free post-release should continue to be an important goal
+for interventions (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et
+al.</italic>, 2022</xref>; <xref rid="ref041" ref-type="bibr">Puljevi&#263;
+<italic toggle="yes">et al.</italic>, 2019</xref>; <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>, 2018</xref>). Secondly, interventions
+could target incomplete understandings that people in prison may have about the
+nature of smoking addiction and about the (very high) risks of returning to smoking
+post-release (<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>,
+2022</xref>). Thirdly, interventions could support people to prepare coping
+strategies for when they are likely to be faced with smoking triggers almost
+immediately after leaving prison (e.g. feeling buoyant about release, returning to
+the company of people who smoke and being offered tobacco) (<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>). Developing coping
+strategies for ongoing social and environmental smoking triggers associated with
+resettlement from prison (<xref rid="ref041" ref-type="bibr">Puljevi&#263;
+<italic toggle="yes">et al.</italic>, 2019</xref>) is also likely to be beneficial and
+could be addressed as part of providing wraparound services for people exiting
+prison. Co-use of tobacco and alcohol/illicit drugs among people leaving prison
+(<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>, 2020</xref>;
+<xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic>,
+2019</xref>) continues to be an important risk factor for smoking behaviour
+interventions. Interventions need to be cognisant of polysubstance use to improve
+outcomes (<xref rid="ref030" ref-type="bibr">McKelvey <italic toggle="yes">et al.</italic>,
+2017</xref>). Finally, family-based interventions could be developed given
+continued evidence of the positive/negative influence which social networks have on
+smoking behaviours (<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et
+al.</italic>, 2019</xref>; <xref rid="ref033" ref-type="bibr">Martin
+<italic toggle="yes">et al.</italic>, 2022</xref>).</p><p>This review suggests several areas to potentially target to try to address very high
+rates of smoking relapse following release from smoke-free prison. However, despite
+there being clear public health benefits to people remaining smoke-free
+post-release, there remains uncertainty about how best to intervene in this
+population due to the limited evidence-base. Further research to better understand
+what approaches are both feasible and effective for maintaining smoking abstinence
+following release from prison is needed. This could include studies to support
+tailoring of existing interventions for smoking cessation/abstinence to reflect the
+complex needs of people in prison, the challenges they face as they return to the
+community and to overcome constraints for delivering health promotion activities in
+specific prison settings. Studies to help maximise the potential of novel
+interventions that look promising would also be beneficial. Difficulties in
+implementing and researching new health initiatives in prisons may help to explain
+the current limited evidence available to help those seeking to maximise the health
+gains of smoke-free prison and other similar settings (<xref rid="ref047" ref-type="bibr">Sourry <italic toggle="yes">et al.</italic>, 2022</xref>). Such difficulties
+include competing priorities, considerable constraints on access and resources and
+features of the setting or the population which can make randomisation and follow-up
+post-release challenging and costly (<xref rid="ref047" ref-type="bibr">Sourry
+<italic toggle="yes">et al.</italic>, 2022</xref>).</p><p>A strength of our review is that we searched databases that cover health, justice and
+criminology. We have updated previous reviews at a time when further jurisdictions
+(England, Wales and Scotland) have introduced smoke-free prison policies; it is
+noteworthy that these UK jurisdictions elected to allow vaping in smoke-free
+prisons. However, our review is limited by the sparse evidence base, which limits
+our ability to draw firm conclusions. As in the earlier systematic review (<xref rid="ref040" ref-type="bibr">Puljevi&#263; and Segan, 2019</xref>), our
+searches were restricted to studies published in English and the evidence base
+remains dominated by studies from Australia and the USA. A notable finding is that
+there is currently no evidence internationally on whether, or how, vaping whilst in
+a smoke-free prison or following release affects intentions to remain smoke-free, or
+rates of relapse to smoking, after release from smoke-free prisons.</p></sec><sec id="sec014"><title>Conclusion</title><p>All evidence to date shows that relapse rates post-release remain high, thus
+diminishing the public health potential of smoke-free prison policy and limiting the
+extent to which such policies may help to reduce health inequalities attributable to
+smoking. This highlights a significant need to continue to try to develop the
+evidence base to support stakeholders to better equip those leaving prison with the
+skills, motivation and support to remain smoke-free post-release.</p></sec><sec><title>Acknowledgment</title><p>This study is funded by the NIHR [PHR Project: NIHR 131613]. ED further acknowledges
+funding from the Medical Research Council (MC_UU_00022/2) and the Chief Scientist
+Office (SPHSU17). For the purpose of open access, the author(s) has applied a
+Creative Commons Attribution (CC BY) licence to any author-accepted manuscript
+version arising from this submission. The views expressed are those of the author(s)
+and not necessarily those of the NIHR or the Department of Health and Social
+Care.</p><p>The authors would like to thank Ms Valerie Wells (SPHSU Information Scientist) for
+her assistance in running the database searches.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="intjprisonhealth-20-0450-s001.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="intjprisonhealth-20-0450-s002.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><bio id="bio1"><p>Ashley Brown is based at Institute for Social Marketing and Health,
+Faculty of Health Sciences and Sport, University of Stirling, Stirling,
+UK.</p></bio><bio id="bio2"><p>Clair Woods-Brown is based at Institute for Social Marketing and Health,
+Faculty of Health Sciences and Sport, University of Stirling, Stirling,
+UK.</p></bio><bio id="bio3"><p>Kathryn Angus is based at Institute for Social Marketing and Health,
+Faculty of Health Sciences and Sport, University of Stirling, Stirling,
+UK.</p></bio><bio id="bio4"><p>Nicola McMeekin is based at Health Economics and Health Technology
+Assessment (HEHTA), School of Health and Wellbeing, University of
+Glasgow, Glasgow, UK.</p></bio><bio id="bio5"><p>Kate Hunt is based at Institute for Social Marketing and Health, Faculty
+of Health Sciences and Sport, University of Stirling, Stirling, UK.</p></bio><bio id="bio6"><p>Evangelia Demou is based at MRC/CSO Social and Public Health Sciences
+Unit, School of Health and Wellbeing, University of Glasgow, Glasgow,
+UK.</p></bio><ref-list id="refs1"><title>References</title><ref id="ref001"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Albany</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Richmond</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Simpson</surname>,
+<given-names>M.</given-names></string-name>,
+<string-name name-style="western"><surname>Kariminia</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Hwang</surname>,
+<given-names>Y.I.J.</given-names></string-name> and
+<string-name name-style="western"><surname>Butler</surname>,
+<given-names>T.</given-names></string-name></person-group>
+(<year>2020</year>), &#8220;<article-title>Smoking beyond prison bans: the
+impact of prison tobacco bans on smoking among prison
+entrants</article-title>&#8221;, <source>Journal of Correctional Health
+Care</source>, Vol. <volume>27</volume> No. <issue>4</issue>, pp.
+<fpage>280</fpage>-<lpage>288</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/jchc.19.08.0066</pub-id><pub-id pub-id-type="pmid">34735264</pub-id></mixed-citation></ref><ref id="ref002"><mixed-citation publication-type="book"><person-group person-group-type="author"><collab>ASH</collab></person-group> (<year>2018</year>),
+&#8220;<article-title>Briefing: the implementation of smokefree prisons in
+England and Wales information and resource
+briefings</article-title>&#8221;, <publisher-name>ASH (Action of Smoking and
+Health)</publisher-name>.</mixed-citation></ref><ref id="ref003"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Binswanger</surname>,
+<given-names>I.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Carson</surname>,
+<given-names>E.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Krueger</surname>,
+<given-names>P.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Mueller</surname>,
+<given-names>S.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Steiner</surname>,
+<given-names>J.F.</given-names></string-name> and
+<string-name name-style="western"><surname>Sabol</surname>,
+<given-names>W.J.</given-names></string-name></person-group>
+(<year>2014</year>), &#8220;<article-title>Prison tobacco control policies
+and deaths from smoking in United States prisons: population based
+retrospective analysis</article-title>&#8221;, <source>BMJ</source>, Vol.
+<volume>349</volume>, p. <fpage>g4542</fpage>.<pub-id pub-id-type="pmid">25097186</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.g4542</pub-id><pub-id pub-id-type="pmcid">PMC4122735</pub-id></mixed-citation></ref><ref id="ref004"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Borschmann</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Borschmann</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Keen</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Spittal</surname>,
+<given-names>M.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Preen</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Pirkis</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Larney</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Rosen</surname>,
+<given-names>D.L.</given-names></string-name>,
+<string-name name-style="western"><surname>M&#248;ller</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>O'moore</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Young</surname>,
+<given-names>J.T.</given-names></string-name>,
+<string-name name-style="western"><surname>Altice</surname>,
+<given-names>F.L.</given-names></string-name>,
+<string-name name-style="western"><surname>Andrews</surname>,
+<given-names>J.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Binswanger</surname>,
+<given-names>I.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Bukten</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Butler</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Chang</surname>,
+<given-names>Z.</given-names></string-name>,
+<string-name name-style="western"><surname>Chen</surname>,
+<given-names>C.-Y.</given-names></string-name>,
+<string-name name-style="western"><surname>Clausen</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Christensen</surname>,
+<given-names>P.B.</given-names></string-name>,
+<string-name name-style="western"><surname>Culbert</surname>,
+<given-names>G.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Cunningham</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Degenhardt</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Dolan</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Fazel</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Fischbacher</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Giles</surname>,
+<given-names>M.</given-names></string-name>,
+<string-name name-style="western"><surname>Graham</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Huang</surname>,
+<given-names>Y.-F.</given-names></string-name>,
+<string-name name-style="western"><surname>Huber</surname>,
+<given-names>F.</given-names></string-name>,
+<string-name name-style="western"><surname>Karaminia</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>King</surname>,
+<given-names>P.</given-names></string-name>,
+<string-name name-style="western"><surname>Kouyoumdjian</surname>,
+<given-names>F.G.</given-names></string-name>,
+<string-name name-style="western"><surname>Lim</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Liu</surname>,
+<given-names>Y.E.</given-names></string-name>,
+<string-name name-style="western"><surname>Lopez</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Moniruzzaman</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Morenoff</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Pizzicato</surname>,
+<given-names>L.N.</given-names></string-name>,
+<string-name name-style="western"><surname>Proescholdbell</surname>,
+<given-names>S.K.</given-names></string-name>,
+<string-name name-style="western"><surname>Ranapurwala</surname>,
+<given-names>S.I.</given-names></string-name>,
+<string-name name-style="western"><surname>Shaw</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Slaunwhite</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Somers</surname>,
+<given-names>J.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Spaulding</surname>,
+<given-names>A.C.</given-names></string-name>,
+<string-name name-style="western"><surname>Stavseth</surname>,
+<given-names>M.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Stern</surname>,
+<given-names>M.F.</given-names></string-name>,
+<string-name name-style="western"><surname>Telfer</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Viner</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Wang</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Zhao</surname>,
+<given-names>B.</given-names></string-name>,
+<string-name name-style="western"><surname>Zhu</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name> and
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name></person-group>
+(<year>2024</year>), &#8220;<article-title>Rates and causes of death after
+release from incarceration among 1&#8201;471&#8201;526 people in eight
+high-income and Middle-income countries: an individual participant data
+meta-analysis</article-title>&#8221;, <source>Lancet (London,
+England)</source>, Vol. <volume>403</volume> No.
+<issue>10438</issue>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(24)00344-1</pub-id><pub-id pub-id-type="pmid">38614112</pub-id></mixed-citation></ref><ref id="ref005"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Mitchell</surname>,
+<given-names>D.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Post-implementation perspectives
+on smokefree prison policy: a qualitative study with staff and people in
+custody</article-title>&#8221;, <source>European Journal of Public
+Health</source>, Vol. <volume>32</volume> No. <issue>1</issue>, pp.
+<fpage>112</fpage>-<lpage>118</lpage>.<pub-id pub-id-type="pmid">34448834</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurpub/ckab075</pub-id><pub-id pub-id-type="pmcid">PMC8807073</pub-id></mixed-citation></ref><ref id="ref008"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Semple</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Bauld</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Logan</surname>,
+<given-names>G.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2019</year>), &#8220;<article-title>Views of prison staff in
+Scotland on the potential benefits and risks of e-cigarettes in smoke-free
+prisons: a qualitative focus group study</article-title>&#8221;,
+<source>BMJ Open</source>, Vol. <volume>9</volume> No. <issue>6</issue>, p.
+<fpage>e027799</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2018-027799</pub-id><pub-id pub-id-type="pmcid">PMC6597633</pub-id><pub-id pub-id-type="pmid">31243033</pub-id></mixed-citation></ref><ref id="ref006"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>O&#8217;donnell</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Eadie</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Purves</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Ford</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Bauld</surname>,
+<given-names>L.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2020</year>), &#8220;<article-title>Initial views and experiences of
+vaping in prisons: a qualitative study with people in custody preparing for
+the imminent implementation of Scotland&#8217;s prison smokefree
+policy</article-title>&#8221;, <source>Nicotine &amp; Tobacco
+Research</source>, Vol. <volume>23</volume> No.
+<issue>3</issue>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ntr/ntaa088</pub-id><pub-id pub-id-type="pmcid">PMC7885768</pub-id><pub-id pub-id-type="pmid">32447381</pub-id></mixed-citation></ref><ref id="ref007"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>O'donnell</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Eadie</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Ford</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Mitchell</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Hackett</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Bauld</surname>,
+<given-names>L.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>E-cigarette use in prisons with
+recently established smokefree policies: a qualitative interview study with
+people in custody in Scotland</article-title>&#8221;, <source>Nicotine
+&amp; Tobacco Research</source>, Vol. <volume>23</volume> No.
+<issue>6</issue>, pp.
+<fpage>939</fpage>-<lpage>946</lpage>.<pub-id pub-id-type="pmid">33367804</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ntr/ntaa271</pub-id><pub-id pub-id-type="pmcid">PMC7610854</pub-id></mixed-citation></ref><ref id="ref009"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Calais-Ferreira</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Butler</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Dent</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Preen</surname>,
+<given-names>D.B.</given-names></string-name>,
+<string-name name-style="western"><surname>Young</surname>,
+<given-names>J.T.</given-names></string-name> and
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Multimorbidity and quality of
+primary care after release from prison: a prospective data-linkage cohort
+study</article-title>&#8221;, <source>BMC Health Services
+Research</source>, Vol. <volume>22</volume> No. <issue>1</issue>, p.
+<fpage>876</fpage>.<pub-id pub-id-type="pmid">35799190</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-022-08209-6</pub-id><pub-id pub-id-type="pmcid">PMC9264593</pub-id></mixed-citation></ref><ref id="ref010"><mixed-citation publication-type="book"><person-group person-group-type="author"><string-name name-style="western"><surname>Carnie</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Broderick</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Cameron</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Downie</surname>,
+<given-names>D.</given-names></string-name> and
+<string-name name-style="western"><surname>Williams</surname>,
+<given-names>G.</given-names></string-name></person-group>
+(<year>2017</year>), <source>16th Prisoner Survey</source>,
+<publisher-name>Scottish Prison Service</publisher-name>,
+<publisher-loc>Edinburgh</publisher-loc>.</mixed-citation></ref><ref id="ref011"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Chang</surname>,
+<given-names>J.T.</given-names></string-name>,
+<string-name name-style="western"><surname>Anic</surname>,
+<given-names>G.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Rostron</surname>,
+<given-names>B.L.</given-names></string-name>,
+<string-name name-style="western"><surname>Tanwar</surname>,
+<given-names>M.</given-names></string-name> and
+<string-name name-style="western"><surname>Chang</surname>,
+<given-names>C.M.</given-names></string-name></person-group>
+(<year>2020</year>), &#8220;<article-title>Cigarette smoking reduction and
+health risks: a systematic review and meta-analysis</article-title>&#8221;,
+<source>Nicotine &amp; Tobacco Research</source>, Vol.
+<volume>23</volume> No. <issue>4</issue>, pp.
+<fpage>635</fpage>-<lpage>642</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ntr/ntaa156</pub-id><pub-id pub-id-type="pmid">32803250</pub-id></mixed-citation></ref><ref id="ref012"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Clarke</surname>,
+<given-names>J.G.</given-names></string-name>,
+<string-name name-style="western"><surname>Stein</surname>,
+<given-names>L.A.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Martin</surname>,
+<given-names>R.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Martin</surname>,
+<given-names>S.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Parker</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Lopes</surname>,
+<given-names>C.E.</given-names></string-name>,
+<string-name name-style="western"><surname>Mcgovern</surname>,
+<given-names>A.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Simon</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Roberts</surname>,
+<given-names>M.</given-names></string-name>,
+<string-name name-style="western"><surname>Friedman</surname>,
+<given-names>P.</given-names></string-name> and
+<string-name name-style="western"><surname>Bock</surname>,
+<given-names>B.</given-names></string-name></person-group>
+(<year>2013</year>), &#8220;<article-title>Forced smoking abstinence not
+enough for smoking cessation</article-title>&#8221;, <source>JAMA Internal
+Medicine</source>, Vol. <volume>173</volume> No. <issue>9</issue>, pp.
+<fpage>789</fpage>-<lpage>794</lpage>.<pub-id pub-id-type="pmid">23567902</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2013.197</pub-id><pub-id pub-id-type="pmcid">PMC4438989</pub-id></mixed-citation></ref><ref id="ref013"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Collier</surname>,
+<given-names>R.</given-names></string-name></person-group>
+(<year>2013</year>), &#8220;<article-title>Prison smoking bans: clearing
+the air</article-title>&#8221;, <source>Canadian Medical Association
+Journal</source>, Vol. <volume>185</volume> No. <issue>10</issue>, pp.
+<fpage>E474</fpage>-<lpage>E474</lpage>.<pub-id pub-id-type="pmid">23670153</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1503/cmaj.109-4486</pub-id><pub-id pub-id-type="pmcid">PMC3708026</pub-id></mixed-citation></ref><ref id="ref014"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Collinson</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Wilson</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Edwards</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Thomson</surname>,
+<given-names>G.</given-names></string-name> and
+<string-name name-style="western"><surname>Thornley</surname>,
+<given-names>S.</given-names></string-name></person-group>
+(<year>2012</year>), &#8220;<article-title>New Zealand's smokefree
+prison policy appears to be working well: one year
+on</article-title>&#8221;, <source>N Z Med J</source>, Vol.
+<volume>125</volume>, pp.
+<fpage>164</fpage>-<lpage>168</lpage>.<pub-id pub-id-type="pmid">22854371</pub-id></mixed-citation></ref><ref id="ref015"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>DE Andrade</surname>,
+<given-names>D.</given-names></string-name> and
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name></person-group>
+(<year>2017</year>), &#8220;<article-title>Systematic review of health and
+behavioural outcomes of smoking cessation interventions in
+prisons</article-title>&#8221;, <source>Tobacco Control</source>, Vol.
+<volume>26</volume> No. <issue>5</issue>, pp.
+<fpage>495</fpage>-<lpage>501</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/tobaccocontrol-2016-053297</pub-id><pub-id pub-id-type="pmcid">PMC5574402</pub-id><pub-id pub-id-type="pmid">27798322</pub-id></mixed-citation></ref><ref id="ref016"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Dobson</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Sidwell</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>O'donnell</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name> and
+<string-name name-style="western"><surname>Semple</surname>,
+<given-names>S.</given-names></string-name></person-group>
+(<year>2020</year>), &#8220;<article-title>From smoking-permitted to
+smokefree prisons: a 3-year evaluation of the changes in occupational
+exposure to second-hand smoke across a national prison
+system</article-title>&#8221;, <source>Annals of Work Exposures and
+Health</source>, Vol. <volume>64</volume> No. <issue>9</issue>, pp.
+<fpage>959</fpage>-<lpage>969</lpage>.<pub-id pub-id-type="pmid">32756912</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annweh/wxaa073</pub-id><pub-id pub-id-type="pmcid">PMC7668237</pub-id></mixed-citation></ref><ref id="ref017"><mixed-citation publication-type="book"><person-group person-group-type="author"><string-name name-style="western"><surname>Enggist</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>M&#248;ller</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Galea</surname>,
+<given-names>G.</given-names></string-name> and
+<string-name name-style="western"><surname>Udesen</surname>,
+<given-names>C.</given-names></string-name></person-group>
+(<year>2014</year>), <source>Prisons and Health. Prisons and
+Health</source>, <publisher-name>WHO Regional Office for
+Europe</publisher-name>,
+<publisher-loc>Copenhagen</publisher-loc>.</mixed-citation></ref><ref id="ref018"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Fazel</surname>,
+<given-names>S.</given-names></string-name> and
+<string-name name-style="western"><surname>Seewald</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2018</year>), &#8220;<article-title>Severe mental illness in 33 588
+prisoners worldwide: systematic review and meta-regression
+analysis</article-title>&#8221;, <source>British Journal of
+Psychiatry</source>, Vol. <volume>200</volume> No. <issue>5</issue>, pp.
+<fpage>364</fpage>-<lpage>373</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1192/bjp.bp.111.096370</pub-id><pub-id pub-id-type="pmid">22550330</pub-id></mixed-citation></ref><ref id="ref019"><mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>GBD 2019 TOBACCO COLLABORATORS</collab></person-group>
+(<year>2021</year>), &#8220;<article-title>Spatial, temporal, and
+demographic patterns in prevalence of smoking tobacco use and attributable
+disease burden in 204 countries and territories, 1990-2019: a systematic
+analysis from the global burden of disease study
+2019</article-title>&#8221;, <source>Lancet (London, England)</source>, Vol.
+<volume>397</volume> No. <issue>10292</issue>, pp.
+<fpage>2337</fpage>-<lpage>2360</lpage>.<pub-id pub-id-type="pmid">34051883</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(21)01169-7</pub-id><pub-id pub-id-type="pmcid">PMC8223261</pub-id></mixed-citation></ref><ref id="ref020"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Glantz</surname>,
+<given-names>S.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Nguyen</surname>,
+<given-names>N.</given-names></string-name> and
+<string-name name-style="western"><surname>Silva</surname>,
+<given-names>A.L.O.D.</given-names></string-name></person-group>
+(<year>2024</year>), &#8220;<article-title>Population-based disease odds
+for e-cigarettes and dual use versus cigarettes</article-title>&#8221;,
+<source>NEJM Evidence</source>, Vol. <volume>3</volume> No.
+<issue>3</issue>, p. <fpage>EVIDoa2300229</fpage>.<pub-id pub-id-type="pmid">38411454</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/EVIDoa2300229</pub-id><pub-id pub-id-type="pmcid">PMC11562742</pub-id></mixed-citation></ref><ref id="ref021"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Hatsukami</surname>,
+<given-names>D.K.</given-names></string-name>,
+<string-name name-style="western"><surname>Stead</surname>,
+<given-names>L.F.</given-names></string-name> and
+<string-name name-style="western"><surname>Gupta</surname>,
+<given-names>P.C.</given-names></string-name></person-group>
+(<year>2008</year>), &#8220;<article-title>Tobacco
+addiction</article-title>&#8221;, <source>The Lancet</source>, Vol.
+<volume>371</volume> No. <issue>9629</issue>, pp.
+<fpage>2027</fpage>-<lpage>2038</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(08)60871-5</pub-id><pub-id pub-id-type="pmcid">PMC4732578</pub-id><pub-id pub-id-type="pmid">18555914</pub-id></mixed-citation></ref><ref id="ref022"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Hiscock</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Judge</surname>,
+<given-names>K.</given-names></string-name> and
+<string-name name-style="western"><surname>Bauld</surname>,
+<given-names>L.</given-names></string-name></person-group>
+(<year>2011</year>), &#8220;<article-title>Social inequalities in quitting
+smoking: what factors mediate the relationship between socioeconomic
+position and smoking cessation?</article-title>&#8221; <source>J Public
+Health (Oxf)</source>, Vol. <volume>33</volume> No. <issue>1</issue>, pp.
+<fpage>39</fpage>-<lpage>47</lpage>.<pub-id pub-id-type="pmid">21178184</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/pubmed/fdq097</pub-id></mixed-citation></ref><ref id="ref023"><mixed-citation publication-type="book"><person-group person-group-type="author"><string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Eadie</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Mcmeekin</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Boyd</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Bauld</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Conaglen</surname>,
+<given-names>P.</given-names></string-name>,
+<string-name name-style="western"><surname>Craig</surname>,
+<given-names>P.</given-names></string-name>,
+<string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Leyland</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Pell</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Purves</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Tweed</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Byrne</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Dobson</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Graham</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Mitchell</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>O&#8217;donnell</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name> and
+<string-name name-style="western"><surname>Semple</surname>,
+<given-names>S.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Public health
+research</article-title>&#8221;, <source>Process and Impact of Implementing
+a Smoke-Free Policy in Prisons in Scotland: TIPs Mixed-Methods
+Study</source>, <publisher-name>NIHR Journals Library</publisher-name>,
+<publisher-loc>Southampton</publisher-loc>.<pub-id pub-id-type="pmid">35129938</pub-id></mixed-citation></ref><ref id="ref024"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Ismail</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Lazaris</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>O'moore</surname>,
+<given-names>&#201;.</given-names></string-name>,
+<string-name name-style="western"><surname>Plugge</surname>,
+<given-names>E.</given-names></string-name> and
+<string-name name-style="western"><surname>St&#252;rup-Toft</surname>,
+<given-names>S.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>Leaving no one behind in prison:
+improving the health of people in prison as a key contributor to meeting the
+sustainable development goals 2030</article-title>&#8221;, <source>BMJ
+Global Health</source>, Vol. <volume>6</volume> No. <issue>3</issue>, p.
+<fpage>e004252</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjgh-2020-004252</pub-id><pub-id pub-id-type="pmcid">PMC8006840</pub-id><pub-id pub-id-type="pmid">33771820</pub-id></mixed-citation></ref><ref id="ref025"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Ives</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Christiansen</surname>,
+<given-names>B.</given-names></string-name>,
+<string-name name-style="western"><surname>Nolan</surname>,
+<given-names>M.</given-names></string-name>,
+<string-name name-style="western"><surname>Kaye</surname>,
+<given-names>J.T.</given-names></string-name> and
+<string-name name-style="western"><surname>Fiore</surname>,
+<given-names>M.C.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Nine years of smoking data from
+incarcerated men: a call to action for tobacco dependence
+interventions</article-title>&#8221;, <source>Preventive Medicine
+Reports</source>, Vol. <volume>29</volume>, pp.
+<fpage>101921</fpage>-<lpage>101921</lpage>.<pub-id pub-id-type="pmid">35911575</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pmedr.2022.101921</pub-id><pub-id pub-id-type="pmcid">PMC9326308</pub-id></mixed-citation></ref><ref id="ref026"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Jayes</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Waddingham</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Britton</surname>,
+<given-names>J.</given-names></string-name> and
+<string-name name-style="western"><surname>Murray</surname>,
+<given-names>R.</given-names></string-name></person-group>
+(<year>2023</year>), &#8220;<article-title>A qualitative study of the
+implementation and continued delivery of complete and partial Smoke-Free
+policies across England&#8217;s prison estate</article-title>&#8221;,
+<source>Nicotine &amp; Tobacco Research.</source><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ntr/ntac296</pub-id><pub-id pub-id-type="pmcid">PMC10202636</pub-id><pub-id pub-id-type="pmid">36629042</pub-id></mixed-citation></ref><ref id="ref027"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Jayes</surname>,
+<given-names>L.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Murray</surname>,
+<given-names>R.L.</given-names></string-name>,
+<string-name name-style="western"><surname>Opazo Breton</surname>,
+<given-names>M.</given-names></string-name>,
+<string-name name-style="western"><surname>Hill</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Ratschen</surname>,
+<given-names>E.</given-names></string-name> and
+<string-name name-style="western"><surname>Britton</surname>,
+<given-names>J.</given-names></string-name></person-group>
+(<year>2019</year>), &#8220;<article-title>Smoke-free prisons in England:
+indoor air quality before and after implementation of a comprehensive
+smoke-free policy</article-title>&#8221;, <source>BMJ Open</source>, Vol.
+<volume>9</volume> No. <issue>6</issue>, p.
+<fpage>e025782</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2018-025782</pub-id><pub-id pub-id-type="pmcid">PMC6575713</pub-id><pub-id pub-id-type="pmid">31201185</pub-id></mixed-citation></ref><ref id="ref028"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Jin</surname>,
+<given-names>X.</given-names></string-name>,
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Hopkins</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Stockings</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Courtney</surname>,
+<given-names>R.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Shakeshaft</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Petrie</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Dobbins</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Puljevic</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Chang</surname>,
+<given-names>S.</given-names></string-name> and
+<string-name name-style="western"><surname>Dolan</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>A randomised controlled trial of
+motivational interview for relapse prevention after release from smoke-free
+prisons in Australia</article-title>&#8221;, <source>International Journal
+of Prisoner Health</source>, Vol. <volume>17</volume> No. <issue>4</issue>,
+pp. <fpage>462</fpage>-<lpage>476</lpage>.<pub-id pub-id-type="pmid">38902896</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1108/IJPH-01-2020-0003</pub-id></mixed-citation></ref><ref id="ref029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Lindson</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Klemperer</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Hong</surname>,
+<given-names>B.</given-names></string-name>,
+<string-name name-style="western"><surname>Ord&#243;&#241;ez&#8208;mena</surname>,
+<given-names>J.M.</given-names></string-name> and
+<string-name name-style="western"><surname>Aveyard</surname>,
+<given-names>P.</given-names></string-name></person-group>
+(<year>2019</year>), &#8220;<article-title>Smoking reduction interventions
+for smoking cessation</article-title>&#8221;, <source>Cochrane Database of
+Systematic Reviews</source>, Vol. <volume>2019</volume> No.
+<issue>9</issue>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD013183.pub2</pub-id><pub-id pub-id-type="pmcid">PMC6953262</pub-id><pub-id pub-id-type="pmid">31565800</pub-id></mixed-citation></ref><ref id="ref030"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Mckelvey</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Thrul</surname>,
+<given-names>J.</given-names></string-name> and
+<string-name name-style="western"><surname>Ramo</surname>,
+<given-names>D.</given-names></string-name></person-group>
+(<year>2017</year>), &#8220;<article-title>Impact of quitting smoking and
+smoking cessation treatment on substance use outcomes: an updated and
+narrative review</article-title>&#8221;, <source>Addictive
+Behaviors</source>, Vol. <volume>65</volume>, pp.
+<fpage>161</fpage>-<lpage>170</lpage>.<pub-id pub-id-type="pmid">27816663</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.addbeh.2016.10.012</pub-id><pub-id pub-id-type="pmcid">PMC5140700</pub-id></mixed-citation></ref><ref id="ref031"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Mcmeekin</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Wu</surname>,
+<given-names>O.</given-names></string-name>,
+<string-name name-style="western"><surname>Boyd</surname>,
+<given-names>K.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Tweed</surname>,
+<given-names>E.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Best</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Craig</surname>,
+<given-names>P.</given-names></string-name>,
+<string-name name-style="western"><surname>Leyland</surname>,
+<given-names>A.H.</given-names></string-name>,
+<string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Byrne</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Pell</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Semple</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Graham</surname>,
+<given-names>L.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Implementation of a national
+smoke-free prison policy: an economic evaluation within the tobacco in
+prisons (TIPs) study</article-title>&#8221;, <source>Tobacco
+Control</source>, Vol. <volume>32</volume> No. <issue>6</issue>, p.
+<fpage>56991</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/tobaccocontrol-2021-056991</pub-id><pub-id pub-id-type="pmcid">PMC7615232</pub-id><pub-id pub-id-type="pmid">35256533</pub-id></mixed-citation></ref><ref id="ref032"><mixed-citation publication-type="book"><person-group person-group-type="author"><string-name name-style="western"><surname>Mcneill</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Simonavi&#269;ius</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Brose</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Taylor</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>East</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Zuikova</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Calder</surname>,
+<given-names>R.A.</given-names></string-name> and
+<string-name name-style="western"><surname>Robson</surname>,
+<given-names>D.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Nicotine vaping in England: an
+evidence update including health risks and
+perceptions</article-title>&#8221;, <publisher-loc>London</publisher-loc>,
+<publisher-name>Office for Health Improvement and
+Disparities</publisher-name>, <comment>(accessed</comment><date-in-citation content-type="access-date">15 March
+2024</date-in-citation>).</mixed-citation></ref><ref id="ref033"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Martin</surname>,
+<given-names>R.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Stein</surname>,
+<given-names>L.A.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Kang</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Rohsenow</surname>,
+<given-names>D.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Bock</surname>,
+<given-names>B.</given-names></string-name>,
+<string-name name-style="western"><surname>Martin</surname>,
+<given-names>S.A.</given-names></string-name> and
+<string-name name-style="western"><surname>Clarke</surname>,
+<given-names>J.G.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Circumstances around cigarette
+use after enforced abstinence from smoking in an American
+prison</article-title>&#8221;, <source>Journal of Addiction
+Medicine</source>, Vol. <volume>16</volume> No.
+<issue>6</issue>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/ADM.0000000000001005</pub-id><pub-id pub-id-type="pmcid">PMC9675643</pub-id><pub-id pub-id-type="pmid">35916410</pub-id></mixed-citation></ref><ref id="ref034"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>O'donnell</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Eadie</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Mitchell</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Bauld</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Purves</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Challenges associated with
+e-cigarette use by people in custody in Scottish prisons: a qualitative
+interview study with prison staff</article-title>&#8221;, <source>BMJ
+Open</source>, Vol. <volume>12</volume> No. <issue>2</issue>, p.
+<fpage>e051009</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2021-051009</pub-id><pub-id pub-id-type="pmcid">PMC8860047</pub-id><pub-id pub-id-type="pmid">35190418</pub-id></mixed-citation></ref><ref id="ref035"><mixed-citation publication-type="book"><person-group person-group-type="author"><collab>Office of The Inspector of Custodial
+Services</collab></person-group> (<year>2021</year>), <source>Smoking in
+Western Australian Prisons</source>, <publisher-name>Oiffice of the
+Inspector of Custodial Services</publisher-name>, <publisher-loc>Perth,
+Australia</publisher-loc>.</mixed-citation></ref><ref id="ref03900"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Page</surname>,
+<given-names>M.J.</given-names></string-name>,
+<string-name name-style="western"><surname>McKenzie</surname>,
+<given-names>J.E.</given-names></string-name>,
+<string-name name-style="western"><surname>Bossuyt</surname>,
+<given-names>P.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Hoffmann</surname>,
+<given-names>T.C.</given-names></string-name>,
+<string-name name-style="western"><surname>Bossuyt</surname>,
+<given-names>P.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Mulrow</surname>,
+<given-names>C.D.</given-names></string-name></person-group><italic toggle="yes">et al.</italic> (<year>2021</year>), &#8220;<article-title>The PRISMA
+2020 statement: an updated guideline for reporting systematic reviews
+BMJ</article-title>&#8221;, Vol. <volume>372</volume> No.
+<issue>71</issue>, doi: <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>.<pub-id pub-id-type="pmcid">PMC8005924</pub-id><pub-id pub-id-type="pmid">33782057</pub-id></mixed-citation></ref><ref id="ref036"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Perrett</surname>,
+<given-names>S.E.</given-names></string-name>,
+<string-name name-style="western"><surname>Craddock</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Dunseath</surname>,
+<given-names>G.</given-names></string-name>,
+<string-name name-style="western"><surname>Shankar</surname>,
+<given-names>G.</given-names></string-name>,
+<string-name name-style="western"><surname>Luzio</surname>,
+<given-names>S.</given-names></string-name> and
+<string-name name-style="western"><surname>Gray</surname>,
+<given-names>B.J.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Evaluating the impact of a
+prison smoking ban on the cardiovascular health of men in a UK
+prison</article-title>&#8221;, <source>Int J Prison
+Health.</source><pub-id pub-id-type="doi" assigning-authority="pmc">10.1108/IJPH-02-2022-0012</pub-id><pub-id pub-id-type="pmid">35687323</pub-id></mixed-citation></ref><ref id="ref037"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Pierce</surname>,
+<given-names>J.P.</given-names></string-name>,
+<string-name name-style="western"><surname>Chen</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Kealey</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Leas</surname>,
+<given-names>E.C.</given-names></string-name>,
+<string-name name-style="western"><surname>White</surname>,
+<given-names>M.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Stone</surname>,
+<given-names>M.D.</given-names></string-name>,
+<string-name name-style="western"><surname>Mcmenamin</surname>,
+<given-names>S.B.</given-names></string-name>,
+<string-name name-style="western"><surname>Trinidad</surname>,
+<given-names>D.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Strong</surname>,
+<given-names>D.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Benmarhnia</surname>,
+<given-names>T.</given-names></string-name> and
+<string-name name-style="western"><surname>Messer</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>Incidence of cigarette smoking
+relapse among individuals who switched to e-cigarettes or other tobacco
+products</article-title>&#8221;, <source>JAMA Network Open</source>, Vol.
+<volume>4</volume> No. <issue>10</issue>, p.
+<fpage>e2128810</fpage>.<pub-id pub-id-type="pmid">34665239</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.28810</pub-id><pub-id pub-id-type="pmcid">PMC8527352</pub-id></mixed-citation></ref><ref id="ref038"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Potter</surname>,
+<given-names>L.N.</given-names></string-name>,
+<string-name name-style="western"><surname>Lam</surname>,
+<given-names>C.Y.</given-names></string-name>,
+<string-name name-style="western"><surname>Cinciripini</surname>,
+<given-names>P.M.</given-names></string-name> and
+<string-name name-style="western"><surname>Wetter</surname>,
+<given-names>D.W.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>Intersectionality and smoking
+cessation: exploring various approaches for understanding health
+inequities</article-title>&#8221;, <source>Nicotine &amp; Tobacco
+Research</source>, Vol. <volume>23</volume> No. <issue>1</issue>, pp.
+<fpage>115</fpage>-<lpage>123</lpage>.<pub-id pub-id-type="pmid">32208484</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ntr/ntaa052</pub-id><pub-id pub-id-type="pmcid">PMC7789945</pub-id></mixed-citation></ref><ref id="ref039"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Proescholdbell</surname>,
+<given-names>S.K.</given-names></string-name>,
+<string-name name-style="western"><surname>Foley</surname>,
+<given-names>K.L.</given-names></string-name>,
+<string-name name-style="western"><surname>Johnson</surname>,
+<given-names>J.</given-names></string-name> and
+<string-name name-style="western"><surname>Malek</surname>,
+<given-names>S.H.</given-names></string-name></person-group>
+(<year>2008</year>), &#8220;<article-title>Indoor air quality in prisons
+before and after implementation of a smoking ban
+law</article-title>&#8221;, <source>Tobacco Control</source>, Vol.
+<volume>17</volume> No. <issue>2</issue>, pp.
+<fpage>123</fpage>-<lpage>127</lpage>.<pub-id pub-id-type="pmid">18285386</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/tc.2007.022038</pub-id></mixed-citation></ref><ref id="ref040"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Puljevi&#263;</surname>,
+<given-names>C.</given-names></string-name> and
+<string-name name-style="western"><surname>Segan</surname>,
+<given-names>C.J.</given-names></string-name></person-group>
+(<year>2019</year>), &#8220;<article-title>Systematic review of factors
+influencing smoking following release from smoke-free
+prisons</article-title>&#8221;, <source>Nicotine &amp; Tobacco
+Research</source>, Vol. <volume>21</volume> No. <issue>8</issue>, pp.
+<fpage>1011</fpage>-<lpage>1020</lpage>.<pub-id pub-id-type="pmid">29733380</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ntr/nty088</pub-id></mixed-citation></ref><ref id="ref041"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Puljevi&#263;</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Coomber</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>DE Andrade</surname>,
+<given-names>D.</given-names></string-name> and
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name></person-group>
+(<year>2019</year>), &#8220;<article-title>Barriers and facilitators of
+maintained smoking abstinence following release from smoke-free prisons: a
+qualitative enquiry</article-title>&#8221;, <source>International Journal
+of Drug Policy</source>, Vol. <volume>68</volume>, pp.
+<fpage>9</fpage>-<lpage>17</lpage>.<pub-id pub-id-type="pmid">30974331</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugpo.2019.03.018</pub-id></mixed-citation></ref><ref id="ref042"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Puljevi&#263;</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>DE Andrade</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Coomber</surname>,
+<given-names>R.</given-names></string-name> and
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name></person-group>
+(<year>2018</year>), &#8220;<article-title>Relapse to smoking following
+release from smoke-free correctional facilities in Queensland,
+Australia</article-title>&#8221;, <source>Drug and Alcohol
+Dependence</source>, Vol. <volume>187</volume>, pp.
+<fpage>127</fpage>-<lpage>133</lpage>.<pub-id pub-id-type="pmid">29660697</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2018.02.028</pub-id></mixed-citation></ref><ref id="ref043"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Semple</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Dobson</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2020</year>), &#8220;<article-title>The impact of implementation of
+a national smoke-free prisons policy on indoor air quality: results from the
+tobacco in prisons study</article-title>&#8221;, <source>Tobacco
+Control</source>, Vol. <volume>29</volume>, pp.
+<fpage>234</fpage>-<lpage>236</lpage>.<pub-id pub-id-type="pmid">31064866</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/tobaccocontrol-2018-054895</pub-id><pub-id pub-id-type="pmcid">PMC7036294</pub-id></mixed-citation></ref><ref id="ref044"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Semple</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Logan</surname>,
+<given-names>G.</given-names></string-name>,
+<string-name name-style="western"><surname>O&#8217;donnell</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name> and
+<string-name name-style="western"><surname>Team</surname>,
+<given-names>O.B.O.T.T.I.P.R.</given-names></string-name></person-group>
+(<year>2017</year>), &#8220;<article-title>Characterising the exposure of
+prison staff to second-hand tobacco smoke</article-title>&#8221;,
+<source>Annals of Work Exposures and Health</source>, Vol.
+<volume>61</volume> No. <issue>7</issue>, pp.
+<fpage>809</fpage>-<lpage>821</lpage>.<pub-id pub-id-type="pmid">28810685</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annweh/wxx058</pub-id><pub-id pub-id-type="pmcid">PMC6684365</pub-id></mixed-citation></ref><ref id="ref045"><mixed-citation publication-type="book"><person-group person-group-type="author"><collab>SHES</collab></person-group> (<year>2017</year>),
+<source>Scottish Health Survey</source>, in <person-group person-group-type="editor"><string-name name-style="western"><surname>CARE</surname>,
+<given-names>D.O.H.A.S.</given-names></string-name></person-group>
+(Ed.), <publisher-name>Scottish Government</publisher-name>,
+<publisher-loc>Edinburgh</publisher-loc>.</mixed-citation></ref><ref id="ref046"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Shoesmith</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Huddlestone</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Lorencatto</surname>,
+<given-names>F.</given-names></string-name>,
+<string-name name-style="western"><surname>Shahab</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Gilbody</surname>,
+<given-names>S.</given-names></string-name> and
+<string-name name-style="western"><surname>Ratschen</surname>,
+<given-names>E.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>Supporting smoking cessation and
+preventing relapse following a stay in a smoke-free setting: a meta-analysis
+and investigation of effective behaviour change
+techniques</article-title>&#8221;, <source>Addiction</source>, Vol.
+<volume>116</volume> No. <issue>11</issue>, pp.
+<fpage>2978</fpage>-<lpage>2994</lpage>.<pub-id pub-id-type="pmid">33620737</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/add.15452</pub-id></mixed-citation></ref><ref id="ref047"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Sourry</surname>,
+<given-names>R.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Hyslop</surname>,
+<given-names>F.</given-names></string-name>,
+<string-name name-style="western"><surname>Butler</surname>,
+<given-names>T.G.</given-names></string-name> and
+<string-name name-style="western"><surname>Richmond</surname>,
+<given-names>R.L.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Impact of smoking bans and other
+smoking cessation interventions in prisons, mental health and substance use
+treatment settings: a systematic review of the
+evidence</article-title>&#8221;, <source>Drug and Alcohol Review</source>, Vol.
+<volume>41</volume> No. <issue>7</issue>, pp.
+<fpage>1528</fpage>-<lpage>1542</lpage>.<pub-id pub-id-type="pmid">36097413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/dar.13524</pub-id></mixed-citation></ref><ref id="ref048"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Spaulding</surname>,
+<given-names>A.C.</given-names></string-name>,
+<string-name name-style="western"><surname>Eldridge</surname>,
+<given-names>G.D.</given-names></string-name>,
+<string-name name-style="western"><surname>Chico</surname>,
+<given-names>C.E.</given-names></string-name>,
+<string-name name-style="western"><surname>Morisseau</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Drobeniuc</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Fils-Aime</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Day</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Hopkins</surname>,
+<given-names>R.</given-names></string-name>,
+<string-name name-style="western"><surname>Jin</surname>,
+<given-names>X.</given-names></string-name>,
+<string-name name-style="western"><surname>Chen</surname>,
+<given-names>J.</given-names></string-name> and
+<string-name name-style="western"><surname>Dolan</surname>,
+<given-names>K.A.</given-names></string-name></person-group>
+(<year>2018</year>), &#8220;<article-title>Smoking in correctional settings
+worldwide: prevalence, bans, and interventions</article-title>&#8221;,
+<source>Epidemiologic Reviews</source>, Vol. <volume>40</volume> No.
+<issue>1</issue>, pp. <fpage>82</fpage>-<lpage>95</lpage>.<pub-id pub-id-type="pmid">29746635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/epirev/mxy005</pub-id><pub-id pub-id-type="pmcid">PMC5982806</pub-id></mixed-citation></ref><ref id="ref049"><mixed-citation publication-type="other"><person-group person-group-type="author"><string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2015</year>), &#8220;<article-title>Evidence on smoking and smoking
+restrictions in prisons: a scoping review for the Scottish prison
+service's tobacco strategy
+group</article-title>&#8221;.</mixed-citation></ref><ref id="ref050"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Thomas</surname>,
+<given-names>E.G.</given-names></string-name>,
+<string-name name-style="western"><surname>Spittal</surname>,
+<given-names>M.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Taxman</surname>,
+<given-names>F.S.</given-names></string-name>,
+<string-name name-style="western"><surname>Puljevi&#263;</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Heffernan</surname>,
+<given-names>E.B.</given-names></string-name> and
+<string-name name-style="western"><surname>Kinner</surname>,
+<given-names>S.A.</given-names></string-name></person-group>
+(<year>2022</year>), &#8220;<article-title>Association between contact with
+mental health and substance use services and reincarceration after release
+from prison</article-title>&#8221;, <source>Plos One</source>, Vol.
+<volume>17</volume> No. <issue>9</issue>, p.
+<fpage>e0272870</fpage>.<pub-id pub-id-type="pmid">36070251</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0272870</pub-id><pub-id pub-id-type="pmcid">PMC9451082</pub-id></mixed-citation></ref><ref id="ref051"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Tricco</surname>,
+<given-names>A.C.</given-names></string-name>,
+<string-name name-style="western"><surname>Lillie</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Zarin</surname>,
+<given-names>W.</given-names></string-name>,
+<string-name name-style="western"><surname>O'brien</surname>,
+<given-names>K.K.</given-names></string-name>,
+<string-name name-style="western"><surname>Colquhoun</surname>,
+<given-names>H.</given-names></string-name>,
+<string-name name-style="western"><surname>Levac</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Moher</surname>,
+<given-names>D.</given-names></string-name>,
+<string-name name-style="western"><surname>Peters</surname>,
+<given-names>M.D.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Horsley</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Weeks</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Hempel</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Akl</surname>,
+<given-names>E.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Chang</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Mcgowan</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Stewart</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Hartling</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Aldcroft</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Wilson</surname>,
+<given-names>M.G.</given-names></string-name>,
+<string-name name-style="western"><surname>Garritty</surname>,
+<given-names>C.</given-names></string-name>,
+<string-name name-style="western"><surname>Lewin</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Godfrey</surname>,
+<given-names>C.M.</given-names></string-name>,
+<string-name name-style="western"><surname>Macdonald</surname>,
+<given-names>M.T.</given-names></string-name>,
+<string-name name-style="western"><surname>Langlois</surname>,
+<given-names>E.V.</given-names></string-name>,
+<string-name name-style="western"><surname>Soares-Weiser</surname>,
+<given-names>K.</given-names></string-name>,
+<string-name name-style="western"><surname>Moriarty</surname>,
+<given-names>J.</given-names></string-name>,
+<string-name name-style="western"><surname>Clifford</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Tun&#231;alp</surname>,
+<given-names>&#214;.</given-names></string-name> and
+<string-name name-style="western"><surname>Straus</surname>,
+<given-names>S.E.</given-names></string-name></person-group>
+(<year>2018</year>), &#8220;<article-title>PRISMA extension for scoping
+reviews (PRISMA-ScR): checklist and explanation</article-title>&#8221;,
+<source>Annals of Internal Medicine</source>, Vol. <volume>169</volume> No.
+<issue>7</issue>, pp.
+<fpage>467</fpage>-<lpage>473</lpage>.<pub-id pub-id-type="pmid">30178033</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M18-0850</pub-id></mixed-citation></ref><ref id="ref052"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Tweed</surname>,
+<given-names>E.J.</given-names></string-name>,
+<string-name name-style="western"><surname>Mackay</surname>,
+<given-names>D.F.</given-names></string-name>,
+<string-name name-style="western"><surname>Boyd</surname>,
+<given-names>K.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Brown</surname>,
+<given-names>A.</given-names></string-name>,
+<string-name name-style="western"><surname>Byrne</surname>,
+<given-names>T.</given-names></string-name>,
+<string-name name-style="western"><surname>Conaglen</surname>,
+<given-names>P.</given-names></string-name>,
+<string-name name-style="western"><surname>Craig</surname>,
+<given-names>P.</given-names></string-name>,
+<string-name name-style="western"><surname>Demou</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Graham</surname>,
+<given-names>L.</given-names></string-name>,
+<string-name name-style="western"><surname>Leyland</surname>,
+<given-names>A.H.</given-names></string-name>,
+<string-name name-style="western"><surname>Mcmeekin</surname>,
+<given-names>N.</given-names></string-name>,
+<string-name name-style="western"><surname>Pell</surname>,
+<given-names>J.P.</given-names></string-name>,
+<string-name name-style="western"><surname>Sweeting</surname>,
+<given-names>H.</given-names></string-name> and
+<string-name name-style="western"><surname>Hunt</surname>,
+<given-names>K.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>Evaluation of a national
+smoke-free prisons policy using medication dispensing: an interrupted
+time-series analysis</article-title>&#8221;, <source>The Lancet Public
+Health</source>, Vol. <volume>6</volume> No. <issue>11</issue>, pp.
+<fpage>e795</fpage>-<lpage>e804</lpage>.<pub-id pub-id-type="pmid">34537108</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2468-2667(21)00163-8</pub-id><pub-id pub-id-type="pmcid">PMC8554387</pub-id></mixed-citation></ref><ref id="ref053"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Winkelman</surname>,
+<given-names>T.N.A.</given-names></string-name>,
+<string-name name-style="western"><surname>Ford</surname>,
+<given-names>B.R.</given-names></string-name>,
+<string-name name-style="western"><surname>Dunsiger</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Chrastek</surname>,
+<given-names>M.</given-names></string-name>,
+<string-name name-style="western"><surname>Cameron</surname>,
+<given-names>S.</given-names></string-name>,
+<string-name name-style="western"><surname>Strother</surname>,
+<given-names>E.</given-names></string-name>,
+<string-name name-style="western"><surname>Bock</surname>,
+<given-names>B.C.</given-names></string-name> and
+<string-name name-style="western"><surname>Busch</surname>,
+<given-names>A.M.</given-names></string-name></person-group>
+(<year>2021</year>), &#8220;<article-title>Feasibility and acceptability of
+a smoking cessation program for individuals released from an urban, pretrial
+jail: a pilot randomized clinical trial</article-title>&#8221;,
+<source>JAMA Network Open</source>, Vol. <volume>4</volume> No.
+<issue>7</issue>, p. <fpage>e2115687</fpage>.<pub-id pub-id-type="pmid">34228127</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.15687</pub-id><pub-id pub-id-type="pmcid">PMC8261607</pub-id></mixed-citation></ref><ref id="ref054"><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name name-style="western"><surname>Young-Wolff</surname>,
+<given-names>K.C.</given-names></string-name>,
+<string-name name-style="western"><surname>Karan</surname>,
+<given-names>L.D.</given-names></string-name> and
+<string-name name-style="western"><surname>Prochaska</surname>,
+<given-names>J.J.</given-names></string-name></person-group>
+(<year>2015</year>), &#8220;<article-title>Electronic cigarettes in jails:
+a panacea or public health problem?</article-title>&#8221; <source>JAMA
+Psychiatry</source>, Vol. <volume>72</volume> No. <issue>2</issue>, pp.
+<fpage>103</fpage>-<lpage>104</lpage>.<pub-id pub-id-type="pmid">25471086</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamapsychiatry.2014.2224</pub-id><pub-id pub-id-type="pmcid">PMC4318757</pub-id></mixed-citation></ref></ref-list><app-group><app><title>Supplementary material</title><p>The supplementary material for this article can be found online.</p></app></app-group></back><floats-group><fig position="float" fig-type="diagram" id="F_IJOPH-10-2023-0064001" orientation="portrait"><label>Figure 1</label><caption><p>PRISMA flow diagram of identification of studies</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="intjprisonhealth-20-0450-g001.jpg"/></fig><table-wrap position="float" id="tbl1" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of the included [studies/publications] and smoking outcomes
+measured</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="intjprisonhealth-20-0450-g002.jpg"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Authors</th><th align="left" rowspan="1" colspan="1">Country</th><th align="left" rowspan="1" colspan="1">Sample (size and gender)</th><th align="left" rowspan="1" colspan="1">Study design</th><th align="left" rowspan="1" colspan="1">Outcomes included</th><th align="left" rowspan="1" colspan="1">Timepoints of measures</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+<xref rid="ref001" ref-type="bibr">Albany <italic toggle="yes">et al.</italic>
+(2020)</xref>
+</td><td rowspan="1" colspan="1">Australia</td><td rowspan="1" colspan="1">389 prison entrants (18+) participated (85% male).
+152/389 were imprisoned in previous 12 months in jurisdictions with
+total smoking ban [&#8220;exposed&#8221;];
+&#8220;nonexposed&#8221; were in jurisdictions without total
+smoking bans/not in prison in previous 12 months; missing data on
+exposure for <italic toggle="yes">n</italic> = 23</td><td rowspan="1" colspan="1">Sample derived from 2016 wave of National Prisoner Entrants&#8217;
+Blood Bourne Virus Survey of prison entrants at 19 sites across six
+Australian jurisdictions. Cross-sectional survey included four
+questions on tobacco use</td><td rowspan="1" colspan="1">Self-reported daily tobacco smoking immediately prior to
+reimprisonment</td><td rowspan="1" colspan="1">Survey conducted immediately after routine health and welfare
+assessments as individuals enter prison</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref005" ref-type="bibr">Brown <italic toggle="yes">et al.</italic>
+(2022)</xref>
+</td><td rowspan="1" colspan="1">Scotland</td><td rowspan="1" colspan="1">99 prison staff; 23 people in custody (18 men, 5 women)</td><td rowspan="1" colspan="1">Focus group discussions (FGDs) with staff (one group in each of 14
+closed prisons, 95 staff in total), one-to-one interviews (23 people
+in custody)</td><td rowspan="1" colspan="1">Topics covered included: opinions of smoke-free prison policy;
+perspectives on living/working in a smoke-free prison; compliance
+and enforcement of smoke-free prison policy; lessons learned</td><td rowspan="1" colspan="1">FGDs and interviews conducted 6&#8211;9&#8201;months after
+implementation of smoke-free prison policy in all Scottish prisons
+in November 2018</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref025" ref-type="bibr">Ives <italic toggle="yes">et al.</italic>
+(2022)</xref>
+</td><td rowspan="1" colspan="1">USA</td><td rowspan="1" colspan="1">5,289 men admitted to a release preparation programme in prisons
+admitting people with substance use disorders</td><td rowspan="1" colspan="1">5- to 10-min survey completed by admissions between 2012 and 2020.
+Questions were modified periodically so answers for some questions
+only available for subset</td><td rowspan="1" colspan="1">Pre-release intention to remain abstinent</td><td rowspan="1" colspan="1">&#8764;20 weeks pre-release</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref026" ref-type="bibr">JAYES <italic toggle="yes">et al.</italic>
+(2023)</xref>
+</td><td rowspan="1" colspan="1">England</td><td rowspan="1" colspan="1">28 stakeholders with key strategic and/or operational roles in
+delivering smoke-free prison policy. Purposive sampling to identify
+those involved in smoke-free prison policy within HMPPS Headquarters
+and regionally and with HMPPS and health-care staff at three male
+prisons</td><td rowspan="1" colspan="1">Semi-structured in-person/ telephone one-to-one interviews</td><td rowspan="1" colspan="1">Stakeholder views on the implementation and delivery of complete and
+partial smoke-free policies, specifically in relation to the
+management of nicotine addiction whilst in prisons and after
+release</td><td rowspan="1" colspan="1">Conducted August-November 2019, i.e. four years after open estate
+introduced partial smoke-free policy and &#8764;4 years after last
+closed prison implemented a complete smoke-free policy</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref028" ref-type="bibr">Jin <italic toggle="yes">et al.</italic>
+(2021)</xref>
+</td><td rowspan="1" colspan="1">Australia</td><td rowspan="1" colspan="1">557 individuals expected to be within four to six weeks of release
+randomised to either motivational interview intervention
+(<italic toggle="yes">n</italic> = 226; 93% male) or control
+(<italic toggle="yes">n</italic> = 291, 91% male) group. 424
+were followed up post-release</td><td rowspan="1" colspan="1">RCT of smoking, nutrition, alcohol and physical (SNAP) inactivity
+intervention<break/>Self-report survey<break/>Smoking abstinence
+verified by exhaled carbon monoxide test</td><td rowspan="1" colspan="1">Pre-release intention to remain abstinent; self-reported continuous
+smoking abstinence and seven-day point prevalence abstinence,
+verified by exhaled carbon monoxide test for a subsample, (also
+self-reported number of cigarettes after release)</td><td rowspan="1" colspan="1">Four to six weeks pre-release<break/>Three months post-release</td></tr><tr><td rowspan="1" colspan="1"><xref rid="ref033" ref-type="bibr">Martin <italic toggle="yes">et al.</italic>
+(2022)</xref> (WISE)</td><td rowspan="1" colspan="1">USA</td><td rowspan="1" colspan="1">190 participants (67% male) eligible for participation if
+within eight weeks of release</td><td rowspan="1" colspan="1">RCT of working inside for Smoking Elimination (WISE) intervention;
+computer-assisted survey and telephone follow-up</td><td rowspan="1" colspan="1">Pre-release intention to remain smoke-free post release.
+Self-reported smoking status post-release, time to relapse
+post-release. Antecedents of relapse</td><td rowspan="1" colspan="1">Eight weeks pre-release, 24-h and seven-days post-release</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et
+al.</italic> (2018)</xref>
+</td><td rowspan="1" colspan="1">Australia</td><td rowspan="1" colspan="1">114 (former) smokers released from smoke-free prison in the previous
+two months (86% male)</td><td rowspan="1" colspan="1">Cross-sectional survey</td><td rowspan="1" colspan="1">Pre-release intention to remain abstinent; time to relapse
+post-release; rate of self-reported smoking post release</td><td rowspan="1" colspan="1">Within two-months post-release</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref041" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et
+al.</italic> (2019)</xref>
+</td><td rowspan="1" colspan="1">Australia</td><td rowspan="1" colspan="1">21 people who had relapsed to smoking following release (76%
+male); subsample from <xref rid="ref042" ref-type="bibr">Puljevi&#263; <italic toggle="yes">et al.</italic> (2018)</xref></td><td rowspan="1" colspan="1">Semi-structured interviews</td><td rowspan="1" colspan="1">Barriers and facilitators to maintaining smoke-free after
+release</td><td rowspan="1" colspan="1">Within two months of release</td></tr><tr><td rowspan="1" colspan="1">
+<xref rid="ref053" ref-type="bibr">Winkelman <italic toggle="yes">et al.</italic>
+(2021)</xref>
+</td><td rowspan="1" colspan="1">USA</td><td rowspan="1" colspan="1">46 [former] smokers expected to be within 90 days of release and to
+have regular telephone access post-release (91% male)</td><td rowspan="1" colspan="1">Pilot RCT &#8211; counselling and NRT vs brief health education.
+Self-report baseline and follow-up survey</td><td rowspan="1" colspan="1">Self-reported smoking status post-release verified by exhaled carbon
+monoxide test</td><td rowspan="1" colspan="1">Baseline measures (pre-release), and 1, 3 and 12 weeks
+post-release</td></tr></tbody></table></alternatives><table-wrap-foot><p><bold>Source:</bold> Table by authors</p></table-wrap-foot></table-wrap></floats-group></article></pmc-articleset>

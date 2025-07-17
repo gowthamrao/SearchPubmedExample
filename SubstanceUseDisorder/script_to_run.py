@@ -45,13 +45,13 @@ tz               = pytz.timezone("Asia/Kolkata")
 today_suffix     = datetime.now(tz).strftime("%Y%m%d")
 
 TABLE_NAME = f"{BASE_NAME}_{today_suffix}"
-PM_KEY      = os.getenv("NCBI_API_KEY", "7ace9dd51ab7d522ad634bee5a1f4c46d409")
-RETURN_MAX  = int(os.getenv("RETURN_MAX", "150"))
+PM_KEY      = os.getenv("NCBI_API_KEY", "8f41408a4896f63464a938751629998ce007") #7ace9dd51ab7d522ad634bee5a1f4c46d409
+RETURN_MAX  = int(os.getenv("RETURN_MAX", "9999"))
 CATALOG      = "odysseus"        # catalog
 SCHEMA       = "ods_pd_0160"     # schema / database
 
 ##Entrez.email   = os.getenv("ENTREZ_EMAIL", "you@example.com")
-Entrez.email   = 'sudeep1129@gmail.com'
+Entrez.email   = 'xxx@gmail.com'
 Entrez.api_key = PM_KEY
 
 # -------------------------------------------------------------------
@@ -211,8 +211,9 @@ date_block = (
     f'("{2016}"[PDAT] : "{2025}"[PDAT])'
 )
 pubmed_query = f"({q} AND ({date_block}))"
+
                          
-                                 
+                              
 # ─────────────────────────────────────────────────────────────────────────────
 # 0 Query PubMed & report unique PMIDs - save them (array - sorted)
 # ─────────────────────────────────────────────────────────────────────────────

@@ -1,0 +1,78 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" id="hesr14117" xml:lang="en" article-type="research-article" dtd-version="1.4"><!--The publisher of this article does not allow downloading of the full text in XML form.--><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Serv Res</journal-id><journal-id journal-id-type="iso-abbrev">Health Serv Res</journal-id><journal-id journal-id-type="pmc-domain-id">235</journal-id><journal-id journal-id-type="pmc-domain">hsresearch</journal-id><journal-id journal-id-type="publisher-id">HESR</journal-id><journal-title-group><journal-title>Health Services Research</journal-title></journal-title-group><issn pub-type="ppub">0017-9124</issn><issn pub-type="epub">1475-6773</issn><publisher><publisher-name>Health Research &amp; Educational Trust</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10315385</article-id><article-id pub-id-type="pmcid-ver">PMC10315385.1</article-id><article-id pub-id-type="pmcaid">10315385</article-id><article-id pub-id-type="pmcaiid">10315385</article-id><article-id pub-id-type="pmid">36519709</article-id><article-id pub-id-type="doi">10.1111/1475-6773.14117</article-id><article-id pub-id-type="publisher-id">HESR14117</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Medication Policy</subject></subj-group></article-categories><title-group><article-title>Concordance of opioid exposure in all&#8208;payer claims databases with prescription drug monitoring program database using Arkansas as a case example</article-title><alt-title alt-title-type="left-running-head">Mahashabde et al.</alt-title></title-group><contrib-group><contrib id="hesr14117-cr-0001" contrib-type="author"><name name-style="western"><surname>Mahashabde</surname><given-names initials="RV">Ruchira V.</given-names></name><degrees>BPharm, MS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2448-1489</contrib-id><xref rid="hesr14117-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr14117-cr-0002" contrib-type="author"><name name-style="western"><surname>Shrikhande</surname><given-names initials="MA">Mriga A.</given-names></name><degrees>BPharm, MS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4442-5820</contrib-id><xref rid="hesr14117-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr14117-cr-0003" contrib-type="author"><name name-style="western"><surname>Han</surname><given-names initials="X">Xiaotong</given-names></name><degrees>MS</degrees><xref rid="hesr14117-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hesr14117-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hesr14117-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hesr14117-cr-0004" contrib-type="author"><name name-style="western"><surname>Martin</surname><given-names initials="BC">Bradley C.</given-names></name><degrees>PharmD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8402-3098</contrib-id><xref rid="hesr14117-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr14117-cr-0005" contrib-type="author"><name name-style="western"><surname>ElHassan</surname><given-names initials="NO">Nahed O.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0868-8420</contrib-id><xref rid="hesr14117-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hesr14117-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Hayes</surname><given-names initials="CJ">Corey J.</given-names></name><degrees>PharmD, PhD, MPH</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7776-6157</contrib-id><xref rid="hesr14117-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="hesr14117-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>cjhayes@uams.edu</email></address></contrib></contrib-group><aff id="hesr14117-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of Pharmaceutical Evaluation and Policy, College of Pharmacy</named-content>
+<institution>University of Arkansas for Medical Sciences</institution>
+<city>Little Rock</city>
+<named-content content-type="country-part">Arkansas</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14117-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Center for Health Services Research, Department of Psychiatry, College of Medicine</named-content>
+<institution>University of Arkansas for Medical Sciences</institution>
+<city>Little Rock</city>
+<named-content content-type="country-part">Arkansas</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14117-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">VA South Central Mental Illness Research, Education and Clinical Center</named-content>
+<institution>Central Arkansas Veterans Healthcare System</institution>
+<city>North Little Rock</city>
+<named-content content-type="country-part">Arkansas</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14117-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Center for Mental Healthcare and Outcomes Research</named-content>
+<institution>Central Arkansas Veterans Healthcare System</institution>
+<city>North Little Rock</city>
+<named-content content-type="country-part">Arkansas</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14117-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatrics, Division of Neonatology, College of Medicine</named-content>
+<institution>University of Arkansas for Medical Sciences</institution>
+<city>Little Rock</city>
+<named-content content-type="country-part">Arkansas</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14117-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical Informatics, College of Medicine</named-content>
+<institution>University of Arkansas for Medical Sciences</institution>
+<city>Little Rock</city>
+<named-content content-type="country-part">Arkansas</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Corey J. Hayes, Department of Biomedical Informatics, College of Medicine, University of Arkansas for Medical Sciences, 4301 West Markham Street, Slot 782, Little Rock, AR 72205, USA.<break/>
+Email: <email>cjhayes@uams.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>12</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2023</year></pub-date><volume>58</volume><issue seq="190">4</issue><issue-id pub-id-type="pmc-issue-id">439692</issue-id><issue-id pub-id-type="doi">10.1111/hesr.v58.4</issue-id><fpage>938</fpage><lpage>947</lpage><pub-history><event event-type="pmc-release"><date><day>01</day><month>08</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>01</day><month>08</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-09-20 16:25:15.187"><day>20</day><month>09</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">&#169; 2022 Health Research and Educational Trust.</copyright-statement></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HESR-58-938.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HESR-58-938.pdf"/><abstract><title>Abstract</title><sec id="hesr14117-sec-0001"><title>Objective</title><p>To assess the concordance between and benefit of adding prescription drug monitoring program (PDMP) data to all&#8208;payer claims database (APCD) data for identifying and classifying opioid exposure among insured individuals.</p></sec><sec id="hesr14117-sec-0002"><title>Data Sources and Study Setting</title><p>Arkansas APCD and PDMP.</p></sec><sec id="hesr14117-sec-0003"><title>Study Design</title><p>Enrollees in APCD were classified as (1) true positives: if they received opioids in both databases, (2) false positives: if they only received opioids in APCD, (3) true negatives: if they had no opioid exposure in both databases, (4) false negatives: if they only received opioids in the PDMP database. Specificity, sensitivity, negative, and positive predictive values were calculated using PDMP as the &#8220;gold standard&#8221; database source. Subjects were also categorized as those who received any opioid, chronic opioid, high&#8208;dose opioid, or high&#8208;risk opioid therapies.</p></sec><sec id="hesr14117-sec-0004"><title>Data Collection/Extraction Methods</title><p>Arkansas residents continuously enrolled with pharmacy coverage in 2016 were included. APCD and PDMP were linked using an encrypted enrollee identifier, gender, and year of birth.</p></sec><sec id="hesr14117-sec-0005"><title>Principal Findings</title><p>The degree of concordance in opioid exposure between the two databases among 1,411,565 enrollees was high (sensitivity&#160;=&#160;92.67%, specificity&#160;=&#160;96.13%, positive predictive value&#160;=&#160;91.60%, negative predictive value&#160;=&#160;96.65%). Enrollees classified as having any opioid (APCD: 31.64% vs. PDMP: 31.26% vs. APCD+PDMP: 33.93%), chronic opioid (APCD: 7.81% vs. PDMP: 7.54% vs. APCD+PDMP: 8.24%), high&#8208;dose opioid (APCD: 10.60% vs. PDMP: 9.62% vs. APCD+PDMP: 11.33%), or high&#8208;risk opioid (APCD: 5.28% vs. PDMP: 5.33% vs. APCD+PDMP: 6.20%) therapies, were similar using only APCD versus PDMP versus the combined APCD and PDMP data sources.</p></sec><sec id="hesr14117-sec-0006"><title>Conclusions</title><p>Claims data sources, such as APCDs, are fairly accurate in identifying opioid exposure and the level of opioid exposure among persons with continuous pharmacy coverage.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="hesr14117-kwd-0001">administrative claims data</kwd><kwd id="hesr14117-kwd-0002">all&#8208;payer claims database</kwd><kwd id="hesr14117-kwd-0003">opioid therapy</kwd><kwd id="hesr14117-kwd-0004">pharmacoepidemiology</kwd><kwd id="hesr14117-kwd-0005">prescription drug monitoring program</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Center for Advancing Translational Sciences
+</institution><institution-id institution-id-type="doi">10.13039/100006108</institution-id></institution-wrap></funding-source><award-id>UL1TR003107</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="4"/><page-count count="10"/><word-count count="6319"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.0 mode:remove_FC converted:02.07.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hesr14117-cit-9001"><string-name name-style="western"><surname>Mahashabde</surname><given-names>RV</given-names></string-name>, <string-name name-style="western"><surname>Shrikhande</surname><given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Han</surname><given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname><given-names>BC</given-names></string-name>, <string-name name-style="western"><surname>ElHassan</surname><given-names>NO</given-names></string-name>, <string-name name-style="western"><surname>Hayes</surname><given-names>CJ</given-names></string-name>. <article-title>Concordance of opioid exposure in all&#8208;payer claims databases with prescription drug monitoring program database using Arkansas as a case example</article-title>. <source>Health Serv Res</source>. <year>2023</year>;<volume>58</volume>(<issue>4</issue>):<fpage>938</fpage>&#8208;<lpage>947</lpage>. doi:<pub-id pub-id-type="doi">10.1111/1475-6773.14117</pub-id><pub-id pub-id-type="pmid">36519709</pub-id><pub-id pub-id-type="pmcid">PMC10315385</pub-id></mixed-citation>
+</p></notes></front></article></pmc-articleset>

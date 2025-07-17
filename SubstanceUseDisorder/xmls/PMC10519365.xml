@@ -1,0 +1,550 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cureus</journal-id><journal-id journal-id-type="iso-abbrev">Cureus</journal-id><journal-id journal-id-type="pmc-domain-id">2757</journal-id><journal-id journal-id-type="pmc-domain">cureus</journal-id><journal-title-group><journal-title>Cureus</journal-title></journal-title-group><issn pub-type="epub">2168-8184</issn><publisher><publisher-name>Cureus Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10519365</article-id><article-id pub-id-type="pmcid-ver">PMC10519365.1</article-id><article-id pub-id-type="pmcaid">10519365</article-id><article-id pub-id-type="pmcaiid">10519365</article-id><article-id pub-id-type="pmid">37753052</article-id><article-id pub-id-type="doi">10.7759/cureus.44167</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Internal Medicine</subject></subj-group><subj-group><subject>Public Health</subject></subj-group></article-categories><title-group><article-title>Association of Medication-Assisted Therapy and Risk of Drug Overdose-Related Hospitalization or Emergency Room Visits in Patients With Opioid Use Disorder</article-title></title-group><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Muacevic</surname><given-names initials="A">Alexander</given-names></name></contrib><contrib contrib-type="editor"><name name-style="western"><surname>Adler</surname><given-names initials="JR">John R</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Bahrami</surname><given-names initials="K">Korosh</given-names></name><xref rid="aff-1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kuo</surname><given-names initials="YF">Yong-Fang</given-names></name><xref rid="aff-2" ref-type="aff">2</xref><xref rid="aff-3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Digbeu</surname><given-names initials="B">Biai</given-names></name><xref rid="aff-4" ref-type="aff">4</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Raji</surname><given-names initials="MA">Mukaila A</given-names></name><xref rid="aff-2" ref-type="aff">2</xref><xref rid="aff-3" ref-type="aff">3</xref></contrib></contrib-group><aff id="aff-1">
+<label>1</label>
+Department of Internal Medicine, University of Texas Medical Branch at Galveston, Galveston, USA </aff><aff id="aff-2">
+<label>2</label>
+Division of Geriatrics &amp; Palliative Medicine, Department of Internal Medicine, University of Texas Medical Branch at Galveston, Galveston, USA </aff><aff id="aff-3">
+<label>3</label>
+Department of Preventive Medicine and Population Health, University of Texas Medical Branch at Galveston, Galveston, USA </aff><aff id="aff-4">
+<label>4</label>
+Department of Biostatistics &amp; Data Science, University of Texas Medical Branch at Galveston, Galveston, USA </aff><author-notes><corresp id="cor1">
+Mukaila A. Raji <email>muraji@utmb.edu</email></corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>26</day><month>8</month><year>2023</year></pub-date><pub-date date-type="collection" publication-format="electronic"><month>8</month><year>2023</year></pub-date><volume>15</volume><issue>8</issue><issue-id pub-id-type="pmc-issue-id">442128</issue-id><elocation-id>e44167</elocation-id><history><date date-type="accepted"><day>26</day><month>8</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>26</day><month>08</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>26</day><month>09</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-24 12:25:24.787"><day>24</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>Copyright &#169; 2023, Bahrami et al.</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Bahrami et al.</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/3.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="cureus-0015-00000044167.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cureus.com/articles/167312-association-of-medication-assisted-therapy-and-risk-of-drug-overdose-related-hospitalization-or-emergency-room-visits-in-patients-with-opioid-use-disorder">This article is available from https://www.cureus.com/articles/167312-association-of-medication-assisted-therapy-and-risk-of-drug-overdose-related-hospitalization-or-emergency-room-visits-in-patients-with-opioid-use-disorder</self-uri><abstract><p>Objective</p><p>To examine the differential impacts of medication-assisted therapy (MAT) medications (naltrexone, methadone, and buprenorphine) on drug overdose-related hospitalizations or emergency room (ER) visits in patients with opioid use disorder (OUD).</p><p>Patients and methods</p><p>A retrospective cohort study was performed on patients 18 years or older diagnosed with OUD, using Optum&#8217;s de-identified Clinformatics&#174; Data Mart database. To ensure a new diagnosis of OUD from 2018 to 2019, each patient required one year of continuous enrollment before OUD diagnosis. The primary outcome was the incidence of drug overdose-related hospitalization or ER visits in the follow-up period. Patients were censored at loss of coverage or end of the study (9/30/2020). A multivariable Cox proportional hazard model was built to compare the outcomes across three MAT medications (buprenorphine, methadone, and naltrexone).</p><p>Results</p><p>Only 10.38% of the 145,317 OUD patients received MAT prescriptions in the 12 months after diagnosis. The majority of MAT users (77.8%) received buprenorphine. At one year of follow-up, the incidence of drug overdose-related hospitalization or ER visits varied by MAT drug type: naltrexone (14.26%), methadone (12.26%), and buprenorphine (10.23%). Compared to methadone drug users, buprenorphine users had a lower risk of negative outcomes (adjusted hazard ratio: 0.84; 95% confidence interval: 0.73-0.97).</p><p>Conclusion</p><p>Buprenorphine was associated with the lowest risk of drug overdose-related hospitalization or ER visits among the MAT drugs. However, only 10.38% of OUD patients received MAT. Increasing MAT availability to patients with OUD is a key step toward&#160;preventing relapse and reducing adverse health outcomes.</p></abstract><kwd-group kwd-group-type="author"><kwd>overdose</kwd><kwd>opioid use disorder</kwd><kwd>naltrexone</kwd><kwd>methadone</kwd><kwd>medication-assisted therapy</kwd><kwd>buprenorphine</kwd></kwd-group><funding-group><funding-statement>This work was supported by grant R01-DA039192 from the National Institute on Drug Abuse. The sponsors did not play any role in the design, methods, data collection, analysis, or preparation of this paper.</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Opioid use disorder (OUD) is a growing public health problem affecting over 2.1 million people in the United States alone. The total overdose deaths attributed to opioid involvement rose from 46,802 in 2018 to 68,630 in 2020, while those attributed specifically to prescription opioids increased from 14,139 in 2019 to 16,416 in 2020 [<xref rid="REF1" ref-type="bibr">1</xref>]. Synthetic opioids other than methadone, mainly fentanyl, have primarily driven drug-involved overdose deaths from 2015 to 2020, which increased six-fold over this period [<xref rid="REF1" ref-type="bibr">1</xref>]. Deaths from opioid overdose have been particularly exacerbated by the COVID-19 pandemic and the associated public health mitigation measures [<xref rid="REF1" ref-type="bibr">1</xref>-<xref rid="REF5" ref-type="bibr">5</xref>].</p><p>Three medication-assisted therapy (MAT) medications (methadone, naltrexone, and buprenorphine) have proven effective in treating OUD, reducing mortality in those with OUD, and preventing relapse after recovery [<xref rid="REF6" ref-type="bibr">6</xref>]. Methadone is a full &#181;-opioid receptor agonist; naltrexone is a &#181;-opioid receptor antagonist; and buprenorphine is a partial &#181;-opioid receptor agonist. The longer overall duration of MAT use is associated with a decreased risk of overdose [<xref rid="REF7" ref-type="bibr">7</xref>]. In a study of 17,568 opioid overdose survivors, Larochelle et al. found that the use of methadone and buprenorphine reduced opioid-related deaths by 59% and 38%, respectively, compared to non-use; no such association was found with naltrexone, a MAT medication with the shortest use duration [<xref rid="REF8" ref-type="bibr">8</xref>].</p><p>However, general access to MAT for OUD patients is limited, particularly in rural areas of the country. Fully 29.8% of rural Americans live in a county without a buprenorphine provider [<xref rid="REF9" ref-type="bibr">9</xref>]. Only 11% of patients with diagnosed OUD receive a prescription for MAT [<xref rid="REF10" ref-type="bibr">10</xref>]. Compounding this issue are ethnic and racial disparities in MAT access. White patients were four times more likely than Blacks to receive a prescription for buprenorphine during an outpatient visit [<xref rid="REF11" ref-type="bibr">11</xref>]. In addition, Blacks and Hispanics were less likely than Whites to complete treatment [<xref rid="REF12" ref-type="bibr">12</xref>].</p><p>Buprenorphine, methadone, and naltrexone are currently the only FDA-approved medications to treat opioid dependence [<xref rid="REF13" ref-type="bibr">13</xref>]. While much is known about MAT use and overdose deaths, there is a gap in knowledge about the relationship between&#160;the three FDA-approved MAT medications and the risk of drug overdose-related hospitalization or emergency room (ER) visits in patients with&#160;OUD. To date, no studies have examined the differential effects of the three MAT medications in reducing drug overdose-related hospitalizations or ER visits in OUD patients. To address this deficiency, we used administrative health claims data from commercial insurance and Medicare Advantage plans to investigate the rates of drug overdose-related hospitalizations and ER visits in OUD patients, according to the type of MAT medication used.</p><p>This article was previously presented as an abstract at the University of Texas Medical Branch Forum on Aging on October 25, 2022.</p></sec><sec sec-type="materials|methods"><title>Materials and methods</title><p>Data source</p><p>A retrospective cohort study was conducted on patients 18 years or older diagnosed with OUD from 2018 to 2019. The data for this study were obtained from administrative health claims in Optum&#8217;s de-identified Clinformatics&#174; Data Mart database, which is one of the largest commercial insurance databases in the United States and which contains patient demographic and clinical information, including information on prescription drugs dispensed and outpatient and inpatient claims. This study was reviewed and approved by the University of Texas Medical Branch Institutional Review Board (approval number: 16-0247).</p><p>Study cohort</p><p>This analysis included patients aged 18 years and older who were diagnosed with OUD from 2018 to 2019. These individuals were identified using the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) based on data from the Centers for Medicare and Medicaid Services Chronic Condition Data Warehouse (Table <xref rid="TAB1" ref-type="table">1</xref>). The index date was defined by the first OUD diagnosis from 2018 to 2019. We determined whether each patient received MAT in the 12 months after the index date by looking for national drug codes in pharmacy claims and common procedural terminology codes in medical claims for methadone, naltrexone, and buprenorphine (Table <xref rid="TAB2" ref-type="table">2</xref>). Patients were excluded if they (1) were not continuously enrolled in the 12 months prior to the index date, (2) had an OUD diagnosis in the 12 months prior to the index date, (3) had no MAT prescription after the index date, (4) had lost coverage prior to the MAT prescription, or (5) were prescribed multiple MAT drugs. The final sample size for the analysis was 15,080. Figure <xref rid="FIG1" ref-type="fig">1</xref> shows the process for selecting the cohort for the study.</p><table-wrap position="float" id="TAB1" orientation="portrait"><label>Table 1</label><caption><title>International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) codes based on the CMS Chronic Condition Data Warehouse for OUD and overdose</title><p>CMS, Centers for Medicare and Medicaid Services; OUD, opioid use disorder.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="2" colspan="1">Disease</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">ICD-10-CM diagnosis</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">OUD</td><td rowspan="1" colspan="1">F1110, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11120">F11120</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11121">F11121</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11122">F11122</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11129">F11129</ext-link>, F1114, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11150">F11150</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11151">F11151</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11159">F11159</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11181">F11181</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11182">F11182</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11188">F11188</ext-link>, F1119, F1120, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11220">F11220</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11221">F11221</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11222">F11222</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11229">F11229</ext-link>, F1123, F1124, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11250">F11250</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11251">F11251</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11259">F11259</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11281">F11281</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11282">F11282</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11288">F11288</ext-link>, F1129, F1190, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11920">F11920</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11921">F11921</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11922">F11922</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11929">F11929</ext-link>, F1193, F1194, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11950">F11950</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11951">F11951</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11959">F11959</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11981">F11981</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11982">F11982</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="F11988">F11988</ext-link>, F1199, T400X1A, T400X2A, T400X3A, T400X4A, T401X1A, T401X2A, T401X3A, T401X4A, T402X1A, T402X2A, T402X3A, T402X4A, T403X1A, T403X2A, T403X3A, T403X4A, T403X5A, T404X1A, T404X2A, T404X3A, T404X4A, T40411A, T40412A, T40413A, T40414A, T40415A, T40421A, T40422A, T40423A, T40424A, T40425A, T40491A, T40492A, T40493A, T40494A, T40495A, T40601A, T40602A, T40603A, T40604A, T40691A, T40692A, T40693A, T40694A</td></tr><tr><td rowspan="1" colspan="1">Drug overdose</td><td rowspan="1" colspan="1">T36, T37, T38, T39, T40, T41, T42, T43, T44, T45, T46, T47, T48, T49, T50</td></tr></tbody></table></table-wrap><table-wrap position="float" id="TAB2" orientation="portrait"><label>Table 2</label><caption><title>CPT/HCPCS codes for MAT use prescription (methadone, buprenorphine, or naltrexone) and psychotherapy</title><p>CPT, common procedural terminology; HCPS, Healthcare Common Procedure Coding System; NDC, national drug codes;&#160;MAT, medication-assisted therapy.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">&#160;</td><td rowspan="2" colspan="1">CPT/HCPCS codes</td><td rowspan="2" colspan="1">NDC codes</td></tr><tr><td rowspan="1" colspan="1">Procedure</td></tr><tr style="background-color:#ccc"><td rowspan="3" colspan="1">MAT</td><td rowspan="1" colspan="1">G2067, G2068, G2069, G2070, G2071, G2072, G2073&#160;</td><td rowspan="1" colspan="1">2810010070</td></tr><tr><td rowspan="1" colspan="1">G2078, G2079, H0020, J0571, J0572, J0573, J0574, J0575&#160;</td><td rowspan="1" colspan="1">2808120005</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">J0592, S0109, J1230, J2315</td><td rowspan="1" colspan="1">2808080040</td></tr><tr><td rowspan="1" colspan="1">Psychotherapy</td><td rowspan="1" colspan="1">90832, 90834, 90837, 90845, 90846, 90847, 90849, 90853, 90785, 90863, 90839, 90840</td><td rowspan="1" colspan="1">&#160;</td></tr></tbody></table></table-wrap><fig position="anchor" fig-type="figure" id="FIG1" orientation="portrait"><label>Figure 1</label><caption><title>Flowchart for the selection of OUD patients receiving MAT</title><p>OUD, opioid use disorder; MAT, medication-assisted therapy.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="cureus-0015-00000044167-i01.jpg"/></fig><p>Study outcome and covariates</p><p>We assessed whether MAT users were diagnosed with a drug overdose-related hospitalization or ER visit at any time after the MAT initiation date until the end of study follow-up (EOF) in September 2020 or until&#160;they lost coverage. Table <xref rid="TAB1" ref-type="table">1</xref> shows the ICD-10-CM codes for the study outcome. Age at the index date was obtained from the Clinformatics&#174; Data Mart database. We examined and adjusted for all conditions 12 months prior to the index date, which was included in the Elixhauser Comorbidity Index. Each condition was examined as a separate covariate. We also adjusted for the sex, race (White, Black, Hispanic, Asian, unknown, or other), and geographic region (Midwest, Northeast, South, and West) of each patient. Finally, we adjusted for psychotherapy counseling at any time after the MAT initiation date until EOF or loss of coverage using common procedural terminology codes in the medical claims (Table <xref rid="TAB2" ref-type="table">2</xref>).</p><p>Statistics analysis</p><p>Mean (standard deviation) and frequency of patient characteristics and comorbidity were calculated across the three MAT drugs, compared by the ANOVA test for continuous variables and the chi-square test for categorical variables. A Cox proportional hazard (PH) regression model was built to compare the rate of drug overdose-related hospitalizations or ER visits across the three MAT medications. We also adjusted the multivariable model for patient demographics, comorbidity, and a time-dependent variable for psychotherapy. Patients were censored at a loss of coverage or at the end of the study (9/30/2020). The PH assumption for the Cox PH model, visually assessed by a graph of the transformation of the martingale residuals against follow-up time and by the Kolmogorov supremum test, was not violated [<xref rid="REF14" ref-type="bibr">14</xref>]. All tests of statistical significance were two-sided, with p &lt; 0.05 considered significant, and analyses were performed with SAS 9.4 (SAS Institute Inc., Cary, NC).</p></sec><sec sec-type="results"><title>Results</title><p>Of the 145,317 patients with OUD who met the selection criteria for the study, 10.38% received MAT in the 12 months following their diagnosis (Table <xref rid="TAB3" ref-type="table">3</xref>). The rate of drug overdose-related hospitalizations or ER visits at one-year follow-up was 10.23%, 12.26%, and 14.26% for buprenorphine, methadone, and naltrexone, respectively (Figure <xref rid="FIG2" ref-type="fig">2</xref>). At 2.5 years of follow-up, the rate of drug overdose-related hospitalizations or ER visits was 17.09%, 20.49%, and 24.34% for buprenorphine, methadone, and naltrexone, respectively (Figure <xref rid="FIG2" ref-type="fig">2</xref>). The different MAT groups varied significantly in total days&#8217; supply and age of patients. Patients in the naltrexone group were given a shorter supply than those in the buprenorphine or methadone group. Patients in the methadone group were older (mean age: 53.50 years) compared to those in the buprenorphine group (mean age: 49.05 years) or the naltrexone group (mean age: 37.93 years). After adjusting for demographic variables and other comorbidities significantly associated with the MAT drug type, the risk of drug overdose-related hospitalization or ER visit among buprenorphine users was 16% lower than for methadone users (adjusted hazard ratio (aHR): 0.84, 95% confidence ratio (CI):&#160;0.73-0.97) (Table <xref rid="TAB4" ref-type="table">4</xref>). Although the risk of drug overdose-related hospitalization or ER visits among naltrexone users was 9% higher than for methadone users (aHR: 1.09; 95% CI: 0.89-1.32), this difference was not statistically significant. Other comorbidities associated with drug overdose-related hospitalization or ER visits included time-dependent psychotherapy (aHR: 1.22; 95% CI: 1.09-1.36), alcohol abuse (aHR: 1.15; 95% CI: 1.02-1.30), cardiac arrhythmia (aHR: 1.45; 95% CI: 1.30-1.63), chronic obstructive pulmonary disease (aHR: 1.33; 95% CI: 1.20-1.47), coagulopathy (aHR: 1.23; 95% CI: 1.03-1.47), depression (aHR: 1.31; 95% CI: 1.18-1.1.45), diabetes (aHR: 1.13; 95% CI: 1.00-1.27), fluid and electrolyte disorders (aHR: 1.41; 95% CI: 1.26-1.59), hypertension (aHR: 1.27; 95% CI: 1.13-1.43), cancer (aHR: 1.75; 95% CI: 1.49-2.07), other neurological disorders (aHR: 1.29; 95% CI: 1.13-1.46), psychoses (aHR: 1.55; 95% CI: 1.32-1.82), valvular disease (aHR: 1.21; 95% CI: 0.03-1.41), and weight loss (aHR: 1.21; 95% CI: 1.03-1.42).</p><table-wrap position="float" id="TAB3" orientation="portrait"><label>Table 3</label><caption><title>Descriptive statistics of patient demographics and comorbidities of patients who received buprenorphine, methadone, or naltrexone (n = 15,080)</title><p>* Total days&#8217; drug supply regardless of continuous enrollment post-OUD diagnosis.</p><p>ER, emergency room; SD, standard deviation; OUD, opioid use disorder; AIDS, acquired immunodeficiency syndrome; HIV, human immunodeficiency virus.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Characteristics
+</td><td rowspan="1" colspan="1">
+Buprenorphine, N = 11,726
+</td><td rowspan="1" colspan="1">
+Methadone, N = 1,633
+</td><td rowspan="1" colspan="1">
+Naltrexone, N = 1,721
+</td><td rowspan="1" colspan="1">
+Overall, N = 15,080
+</td><td rowspan="1" colspan="1">
+p-value
+</td></tr><tr><td rowspan="1" colspan="1">
+Outcome
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Censored because of end-of-study follow-up
+</td><td rowspan="1" colspan="1">
+5,645 (48.14)
+</td><td rowspan="1" colspan="1">
+768 (47.03)
+</td><td rowspan="1" colspan="1">
+573 (33.29)
+</td><td rowspan="1" colspan="1">
+6,986
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Overdose-related hospitalization/ER (event)
+</td><td rowspan="1" colspan="1">
+1,395 (11.9)
+</td><td rowspan="1" colspan="1">
+237 (14.51)
+</td><td rowspan="1" colspan="1">
+259 (15.05)
+</td><td rowspan="1" colspan="1">
+1,891
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Censored because of loss of coverage
+</td><td rowspan="1" colspan="1">
+4,686 (39.96)
+</td><td rowspan="1" colspan="1">
+628 (38.46)
+</td><td rowspan="1" colspan="1">
+889 (51.66)
+</td><td rowspan="1" colspan="1">
+6,203
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Age at diagnosis, mean (SD)
+</td><td rowspan="1" colspan="1">
+49.05 (15.50)
+</td><td rowspan="1" colspan="1">
+53.50 (15.34)
+</td><td rowspan="1" colspan="1">
+37.93 (14.69)
+</td><td rowspan="1" colspan="1">
+48.26 (15.89)
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Sex
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Female
+</td><td rowspan="1" colspan="1">
+5,195 (44.3)
+</td><td rowspan="1" colspan="1">
+703 (43.05)
+</td><td rowspan="1" colspan="1">
+689 (40.03)
+</td><td rowspan="1" colspan="1">
+6,587
+</td><td rowspan="1" colspan="1">
+0.0033
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Male
+</td><td rowspan="1" colspan="1">
+6,531 (55.7)
+</td><td rowspan="1" colspan="1">
+930 (56.95)
+</td><td rowspan="1" colspan="1">
+1,032 (59.97)
+</td><td rowspan="1" colspan="1">
+8,493
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Race
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+White
+</td><td rowspan="1" colspan="1">
+8,525 (72.7)
+</td><td rowspan="1" colspan="1">
+1,133 (69.38)
+</td><td rowspan="1" colspan="1">
+1,324 (76.93)
+</td><td rowspan="1" colspan="1">
+10,982
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Black
+</td><td rowspan="1" colspan="1">
+1,128 (9.62)
+</td><td rowspan="1" colspan="1">
+158 (9.68)
+</td><td rowspan="1" colspan="1">
+130 (7.55)
+</td><td rowspan="1" colspan="1">
+1,416
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Hispanic
+</td><td rowspan="1" colspan="1">
+864 (7.37)
+</td><td rowspan="1" colspan="1">
+158 (9.68)
+</td><td rowspan="1" colspan="1">
+133 (7.73)
+</td><td rowspan="1" colspan="1">
+1,155
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Asian
+</td><td rowspan="1" colspan="1">
+153 (1.3)
+</td><td rowspan="1" colspan="1">
+15 (0.92)
+</td><td rowspan="1" colspan="1">
+27 (1.57)
+</td><td rowspan="1" colspan="1">
+195
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Unknown or other
+</td><td rowspan="1" colspan="1">
+1,056 (9.01)
+</td><td rowspan="1" colspan="1">
+169 (10.35)
+</td><td rowspan="1" colspan="1">
+107 (6.22)
+</td><td rowspan="1" colspan="1">
+1,332
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Region
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Midwest
+</td><td rowspan="1" colspan="1">
+2,233 (19.04)
+</td><td rowspan="1" colspan="1">
+313 (19.17)
+</td><td rowspan="1" colspan="1">
+393 (22.84)
+</td><td rowspan="1" colspan="1">
+2,939
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+North
+</td><td rowspan="1" colspan="1">
+1,359 (11.59)
+</td><td rowspan="1" colspan="1">
+217 (13.29)
+</td><td rowspan="1" colspan="1">
+261 (15.17)
+</td><td rowspan="1" colspan="1">
+1,837
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+South
+</td><td rowspan="1" colspan="1">
+5,580 (47.59)
+</td><td rowspan="1" colspan="1">
+694 (42.5)
+</td><td rowspan="1" colspan="1">
+681 (39.57)
+</td><td rowspan="1" colspan="1">
+6,955
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+West
+</td><td rowspan="1" colspan="1">
+2,554 (21.78)
+</td><td rowspan="1" colspan="1">
+409 (25.05)
+</td><td rowspan="1" colspan="1">
+386 (22.43)
+</td><td rowspan="1" colspan="1">
+3,349
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Total days&#8217; drug supply*
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+1&#8211;3 months
+</td><td rowspan="1" colspan="1">
+4,275 (36.7)
+</td><td rowspan="1" colspan="1">
+350 (35.86)
+</td><td rowspan="1" colspan="1">
+1,044 (71.41)
+</td><td rowspan="1" colspan="1">
+5,669
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+3&#8211;6 months
+</td><td rowspan="1" colspan="1">
+1,859 (15.96)
+</td><td rowspan="1" colspan="1">
+135 (13.83)
+</td><td rowspan="1" colspan="1">
+243 (16.62)
+</td><td rowspan="1" colspan="1">
+2,237
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+6+ months
+</td><td rowspan="1" colspan="1">
+5,513 (47.33)
+</td><td rowspan="1" colspan="1">
+491 (50.31)
+</td><td rowspan="1" colspan="1">
+175 (11.97)
+</td><td rowspan="1" colspan="1">
+6,179
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Post-OUD psychotherapy
+</td><td rowspan="1" colspan="1">
+3,172 (27.05)
+</td><td rowspan="1" colspan="1">
+271 (16.6)
+</td><td rowspan="1" colspan="1">
+912 (52.99)
+</td><td rowspan="1" colspan="1">
+4,355
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Elixhauser comorbidity
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Alcohol abuse
+</td><td rowspan="1" colspan="1">
+1,514 (12.91)
+</td><td rowspan="1" colspan="1">
+105 (6.43)
+</td><td rowspan="1" colspan="1">
+914 (53.11)
+</td><td rowspan="1" colspan="1">
+2,533
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Cardiac arrhythmia
+</td><td rowspan="1" colspan="1">
+1,861 (15.87)
+</td><td rowspan="1" colspan="1">
+308 (18.86)
+</td><td rowspan="1" colspan="1">
+298 (17.32)
+</td><td rowspan="1" colspan="1">
+2,467
+</td><td rowspan="1" colspan="1">
+0.0048
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Blood loss anemia
+</td><td rowspan="1" colspan="1">
+146 (1.25)
+</td><td rowspan="1" colspan="1">
+40 (2.45)
+</td><td rowspan="1" colspan="1">
+18 (1.05)
+</td><td rowspan="1" colspan="1">
+204
+</td><td rowspan="1" colspan="1">
+0.0002
+</td></tr><tr><td rowspan="1" colspan="1">
+Congestive heart failure
+</td><td rowspan="1" colspan="1">
+845 (7.21)
+</td><td rowspan="1" colspan="1">
+181 (11.08)
+</td><td rowspan="1" colspan="1">
+57 (3.31)
+</td><td rowspan="1" colspan="1">
+1,083
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Chronic obstructive pulmonary disease
+</td><td rowspan="1" colspan="1">
+3,119 (26.6)
+</td><td rowspan="1" colspan="1">
+472 (28.9)
+</td><td rowspan="1" colspan="1">
+312 (18.13)
+</td><td rowspan="1" colspan="1">
+3,903
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Coagulopathy
+</td><td rowspan="1" colspan="1">
+424 (3.62)
+</td><td rowspan="1" colspan="1">
+118 (7.23)
+</td><td rowspan="1" colspan="1">
+62 (3.6)
+</td><td rowspan="1" colspan="1">
+604
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Deficiency anemia
+</td><td rowspan="1" colspan="1">
+814 (6.94)
+</td><td rowspan="1" colspan="1">
+145 (8.88)
+</td><td rowspan="1" colspan="1">
+86 (5)
+</td><td rowspan="1" colspan="1">
+1,045
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Depression
+</td><td rowspan="1" colspan="1">
+5,477 (46.71)
+</td><td rowspan="1" colspan="1">
+638 (39.07)
+</td><td rowspan="1" colspan="1">
+1,068 (62.06)
+</td><td rowspan="1" colspan="1">
+7,183
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Diabetes
+</td><td rowspan="1" colspan="1">
+2,057 (17.54)
+</td><td rowspan="1" colspan="1">
+374 (22.9)
+</td><td rowspan="1" colspan="1">
+153 (8.89)
+</td><td rowspan="1" colspan="1">
+2,584
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Fluid and electrolyte disorders
+</td><td rowspan="1" colspan="1">
+1,863 (15.89)
+</td><td rowspan="1" colspan="1">
+339 (20.76)
+</td><td rowspan="1" colspan="1">
+300 (17.43)
+</td><td rowspan="1" colspan="1">
+2,502
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+AIDS or HIV
+</td><td rowspan="1" colspan="1">
+68 (0.58)
+</td><td rowspan="1" colspan="1">
+11 (0.67)
+</td><td rowspan="1" colspan="1">
+11 (0.64)
+</td><td rowspan="1" colspan="1">
+90
+</td><td rowspan="1" colspan="1">
+0.8733
+</td></tr><tr><td rowspan="1" colspan="1">
+Hypertension
+</td><td rowspan="1" colspan="1">
+5,354 (45.66)
+</td><td rowspan="1" colspan="1">
+825 (50.52)
+</td><td rowspan="1" colspan="1">
+505 (29.34)
+</td><td rowspan="1" colspan="1">
+6,684
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Hypothyroidism
+</td><td rowspan="1" colspan="1">
+1,641 (13.99)
+</td><td rowspan="1" colspan="1">
+264 (16.17)
+</td><td rowspan="1" colspan="1">
+148 (8.6)
+</td><td rowspan="1" colspan="1">
+2,053
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Liver disease
+</td><td rowspan="1" colspan="1">
+1,227 (10.46)
+</td><td rowspan="1" colspan="1">
+222 (13.59)
+</td><td rowspan="1" colspan="1">
+203 (11.8)
+</td><td rowspan="1" colspan="1">
+1,652
+</td><td rowspan="1" colspan="1">
+0.0004
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Cancer
+</td><td rowspan="1" colspan="1">
+472 (4.03)
+</td><td rowspan="1" colspan="1">
+157 (9.61)
+</td><td rowspan="1" colspan="1">
+34 (1.98)
+</td><td rowspan="1" colspan="1">
+663
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Obesity
+</td><td rowspan="1" colspan="1">
+2,152 (18.35)
+</td><td rowspan="1" colspan="1">
+324 (19.84)
+</td><td rowspan="1" colspan="1">
+231 (13.42)
+</td><td rowspan="1" colspan="1">
+2,707
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Other neurological disorders
+</td><td rowspan="1" colspan="1">
+1,208 (10.3)
+</td><td rowspan="1" colspan="1">
+200 (12.25)
+</td><td rowspan="1" colspan="1">
+192 (11.16)
+</td><td rowspan="1" colspan="1">
+1,600
+</td><td rowspan="1" colspan="1">
+0.0422
+</td></tr><tr><td rowspan="1" colspan="1">
+Pulmonary circulation disorders
+</td><td rowspan="1" colspan="1">
+344 (2.93)
+</td><td rowspan="1" colspan="1">
+77 (4.72)
+</td><td rowspan="1" colspan="1">
+27 (1.57)
+</td><td rowspan="1" colspan="1">
+448
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Peptic ulcer disease, excluding bleeding
+</td><td rowspan="1" colspan="1">
+263 (2.24)
+</td><td rowspan="1" colspan="1">
+41 (2.51)
+</td><td rowspan="1" colspan="1">
+15 (0.87)
+</td><td rowspan="1" colspan="1">
+319
+</td><td rowspan="1" colspan="1">
+0.0006
+</td></tr><tr><td rowspan="1" colspan="1">
+Peripheral vascular disorders
+</td><td rowspan="1" colspan="1">
+1,124 (9.59)
+</td><td rowspan="1" colspan="1">
+262 (16.04)
+</td><td rowspan="1" colspan="1">
+68 (3.95)
+</td><td rowspan="1" colspan="1">
+1,454
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Paralysis
+</td><td rowspan="1" colspan="1">
+142 (1.21)
+</td><td rowspan="1" colspan="1">
+38 (2.33)
+</td><td rowspan="1" colspan="1">
+11 (0.64)
+</td><td rowspan="1" colspan="1">
+191
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Psychoses
+</td><td rowspan="1" colspan="1">
+522 (4.45)
+</td><td rowspan="1" colspan="1">
+36 (2.2)
+</td><td rowspan="1" colspan="1">
+142 (8.25)
+</td><td rowspan="1" colspan="1">
+700
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Renal failure
+</td><td rowspan="1" colspan="1">
+840 (7.16)
+</td><td rowspan="1" colspan="1">
+186 (11.39)
+</td><td rowspan="1" colspan="1">
+45 (2.61)
+</td><td rowspan="1" colspan="1">
+1,071
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Rheumatoid arthritis or collagen
+</td><td rowspan="1" colspan="1">
+1,500 (12.79)
+</td><td rowspan="1" colspan="1">
+234 (14.33)
+</td><td rowspan="1" colspan="1">
+99 (5.75)
+</td><td rowspan="1" colspan="1">
+1,833
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Valvular disease
+</td><td rowspan="1" colspan="1">
+685 (5.84)
+</td><td rowspan="1" colspan="1">
+143 (8.76)
+</td><td rowspan="1" colspan="1">
+52 (3.02)
+</td><td rowspan="1" colspan="1">
+880
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr><tr><td rowspan="1" colspan="1">
+Weight loss
+</td><td rowspan="1" colspan="1">
+647 (5.52)
+</td><td rowspan="1" colspan="1">
+139 (8.51)
+</td><td rowspan="1" colspan="1">
+74 (4.3)
+</td><td rowspan="1" colspan="1">
+860
+</td><td rowspan="1" colspan="1">
+0.0001
+</td></tr></tbody></table></table-wrap><fig position="anchor" fig-type="figure" id="FIG2" orientation="portrait"><label>Figure 2</label><caption><title>Time to drug overdose-related hospitalization or emergency room (ER) visits by medication-assisted therapy drug used (buprenorphine, methadone, and naltrexone)</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="cureus-0015-00000044167-i02.jpg"/></fig><table-wrap position="float" id="TAB4" orientation="portrait"><label>Table 4</label><caption><title>Results from the unadjusted and adjusted Cox proportional hazard regression models assessing the effects of MAT drug type on drug overdose-related hospitalization or ER visits</title><p>MAT, medication-assisted therapy; ER, emergency room; HR, hazard ratio; CI, confidence interval.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Variables</td><td rowspan="1" colspan="1">HR</td><td colspan="2" rowspan="1">95% CI</td><td rowspan="1" colspan="1">p-value</td></tr><tr><td colspan="5" rowspan="1">Unadjusted</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Drug (ref = methadone)</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">Buprenorphine</td><td rowspan="1" colspan="1">0.83</td><td rowspan="1" colspan="1">0.72</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">0.0071</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Naltrexone</td><td rowspan="1" colspan="1">1.25</td><td rowspan="1" colspan="1">1.04</td><td rowspan="1" colspan="1">1.49</td><td rowspan="1" colspan="1">0.0146</td></tr><tr><td colspan="5" rowspan="1">Adjusted with demographics variables and other covariates significantly associated with the MAT drug category</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Drug (ref = methadone)</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">Buprenorphine</td><td rowspan="1" colspan="1">0.84</td><td rowspan="1" colspan="1">0.73</td><td rowspan="1" colspan="1">0.97</td><td rowspan="1" colspan="1">0.0161</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Naltrexone</td><td rowspan="1" colspan="1">1.09</td><td rowspan="1" colspan="1">0.89</td><td rowspan="1" colspan="1">1.32</td><td rowspan="1" colspan="1">0.4169</td></tr><tr><td rowspan="1" colspan="1">Age at diagnosis</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Sex (ref = male)</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">1.12</td><td rowspan="1" colspan="1">1.02</td><td rowspan="1" colspan="1">1.24</td><td rowspan="1" colspan="1">0.0219</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Race (ref = White)</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">Black</td><td rowspan="1" colspan="1">1.15</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">1.34</td><td rowspan="1" colspan="1">0.0734</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Hispanic</td><td rowspan="1" colspan="1">1.10</td><td rowspan="1" colspan="1">0.93</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">0.2931</td></tr><tr><td rowspan="1" colspan="1">Asian</td><td rowspan="1" colspan="1">1.29</td><td rowspan="1" colspan="1">0.90</td><td rowspan="1" colspan="1">1.86</td><td rowspan="1" colspan="1">0.1680</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Unknown</td><td rowspan="1" colspan="1">1.12</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">1.31</td><td rowspan="1" colspan="1">0.1549</td></tr><tr><td rowspan="1" colspan="1">Region (ref = South)</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Midwest</td><td rowspan="1" colspan="1">1.08</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">1.22</td><td rowspan="1" colspan="1">0.2455</td></tr><tr><td rowspan="1" colspan="1">North</td><td rowspan="1" colspan="1">0.88</td><td rowspan="1" colspan="1">0.75</td><td rowspan="1" colspan="1">1.03</td><td rowspan="1" colspan="1">0.1114</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">West</td><td rowspan="1" colspan="1">1.06</td><td rowspan="1" colspan="1">0.94</td><td rowspan="1" colspan="1">1.19</td><td rowspan="1" colspan="1">0.3315</td></tr><tr><td rowspan="1" colspan="1">Time-dependent psychotherapy</td><td rowspan="1" colspan="1">1.22</td><td rowspan="1" colspan="1">1.09</td><td rowspan="1" colspan="1">1.36</td><td rowspan="1" colspan="1">0.0004</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Alcohol abuse</td><td rowspan="1" colspan="1">1.15</td><td rowspan="1" colspan="1">1.02</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">0.0246</td></tr><tr><td rowspan="1" colspan="1">Cardiac arrhythmia</td><td rowspan="1" colspan="1">1.45</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">1.63</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Blood loss anemia</td><td rowspan="1" colspan="1">0.90</td><td rowspan="1" colspan="1">0.66</td><td rowspan="1" colspan="1">1.22</td><td rowspan="1" colspan="1">0.4798</td></tr><tr><td rowspan="1" colspan="1">Congestive heart failure</td><td rowspan="1" colspan="1">1.12</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">1.31</td><td rowspan="1" colspan="1">0.1638</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Chronic obstructive pulmonary disease</td><td rowspan="1" colspan="1">1.33</td><td rowspan="1" colspan="1">1.20</td><td rowspan="1" colspan="1">1.47</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">Coagulopathy</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">1.03</td><td rowspan="1" colspan="1">1.47</td><td rowspan="1" colspan="1">0.0200</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Deficiency anemia</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">0.85</td><td rowspan="1" colspan="1">1.16</td><td rowspan="1" colspan="1">0.9077</td></tr><tr><td rowspan="1" colspan="1">Depression</td><td rowspan="1" colspan="1">1.31</td><td rowspan="1" colspan="1">1.18</td><td rowspan="1" colspan="1">1.45</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Diabetes</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">1.27</td><td rowspan="1" colspan="1">0.0464</td></tr><tr><td rowspan="1" colspan="1">Fluid and electrolyte disorders</td><td rowspan="1" colspan="1">1.41</td><td rowspan="1" colspan="1">1.26</td><td rowspan="1" colspan="1">1.59</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Hypertension</td><td rowspan="1" colspan="1">1.27</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">1.43</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">Hypothyroidism</td><td rowspan="1" colspan="1">1.06</td><td rowspan="1" colspan="1">0.94</td><td rowspan="1" colspan="1">1.20</td><td rowspan="1" colspan="1">0.3530</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Liver disease</td><td rowspan="1" colspan="1">1.10</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">1.25</td><td rowspan="1" colspan="1">0.1660</td></tr><tr><td rowspan="1" colspan="1">Cancer</td><td rowspan="1" colspan="1">1.75</td><td rowspan="1" colspan="1">1.49</td><td rowspan="1" colspan="1">2.07</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Obesity</td><td rowspan="1" colspan="1">0.97</td><td rowspan="1" colspan="1">0.86</td><td rowspan="1" colspan="1">1.08</td><td rowspan="1" colspan="1">0.5505</td></tr><tr><td rowspan="1" colspan="1">Other neurological disorders</td><td rowspan="1" colspan="1">1.29</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">1.46</td><td rowspan="1" colspan="1">0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Pulmonary circulation disorders</td><td rowspan="1" colspan="1">0.97</td><td rowspan="1" colspan="1">0.78</td><td rowspan="1" colspan="1">1.20</td><td rowspan="1" colspan="1">0.7731</td></tr><tr><td rowspan="1" colspan="1">Peptic ulcer disease, excluding bleeding</td><td rowspan="1" colspan="1">1.07</td><td rowspan="1" colspan="1">0.83</td><td rowspan="1" colspan="1">1.38</td><td rowspan="1" colspan="1">0.5965</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Peripheral vascular disorders</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">0.98</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">0.0835</td></tr><tr><td rowspan="1" colspan="1">Paralysis</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">0.73</td><td rowspan="1" colspan="1">1.37</td><td rowspan="1" colspan="1">0.9953</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Psychoses</td><td rowspan="1" colspan="1">1.55</td><td rowspan="1" colspan="1">1.32</td><td rowspan="1" colspan="1">1.82</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">Renal failure</td><td rowspan="1" colspan="1">1.07</td><td rowspan="1" colspan="1">0.92</td><td rowspan="1" colspan="1">1.25</td><td rowspan="1" colspan="1">0.3770</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Rheumatoid arthritis or collagen</td><td rowspan="1" colspan="1">1.11</td><td rowspan="1" colspan="1">0.98</td><td rowspan="1" colspan="1">1.26</td><td rowspan="1" colspan="1">0.1114</td></tr><tr><td rowspan="1" colspan="1">Valvular disease</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">1.03</td><td rowspan="1" colspan="1">1.41</td><td rowspan="1" colspan="1">0.0223</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Weight loss</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">1.03</td><td rowspan="1" colspan="1">1.42</td><td rowspan="1" colspan="1">0.0183</td></tr></tbody></table></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>The low MAT prescription rate for patients with OUD found here is consistent with findings from previous research. Data from a nationwide study showed that approximately 86.6% of patients with OUD received no prescriptions for any MAT medication [<xref rid="REF15" ref-type="bibr">15</xref>]. While the rate of MAT prescriptions has steadily increased from 2010 to 2019, in part due to an increase in pharmacy-dispensed buprenorphine, the rate of OUD prescribing remains well below 20% of patients in need [<xref rid="REF15" ref-type="bibr">15</xref>]. The limited availability of prescribers is a contributing factor to MAT underuse, with 46% of counties having no MAT provider [<xref rid="REF16" ref-type="bibr">16</xref>]. Improved overall accessibility to MAT for the growing population of patients with OUD requires multilevel approaches. One way to improve access to patient populations in rural areas and underserved inner city sites would be&#160;the use of mobile treatment clinics that can be quickly deployed to areas of need, as exemplified by the successful Project Connections at Re-Entry MAT program implemented outside Baltimore City Jail [<xref rid="REF17" ref-type="bibr">17</xref>]. From a policy level, achieving parity in payments for physical and mental health conditions via the federal Mental Health Parity and Addiction Equity Act is an important step in improving access to overall mental health care and expanding coverage for MAT [<xref rid="REF18" ref-type="bibr">18</xref>]. Lastly, as in Illinois and other states, expanding Medicaid coverage and eliminating prior authorization for MAT in both Medicaid and private insurance has huge potential to remove barriers to health insurance coverage and expand access to MAT for patients with OUD.</p><p>It is not clear why patients who received naltrexone had a significantly shorter days&#8217; supply than those who received either buprenorphine or methadone. One potential explanation is that naltrexone, a &#181;-opioid receptor antagonist, has the potential to interfere with the treatment of co-occurring chronic pain in patients with OUD, unlike buprenorphine and methadone, which treat both OUD and comorbid pain. Of patients with OUD,&#160;64.4% also have chronic pain conditions [<xref rid="REF19" ref-type="bibr">19</xref>], making it more challenging to use naltrexone as a long-term maintenance OUD drug compared to the other MAT drugs, which treat both pain and MAT. Our data are consistent with this: 12.79%, 14.33%, and 5.75% of OUD patients with co-occurring rheumatoid arthritis or collagen disease or chronic painful conditions received buprenorphine, methadone, or naltrexone, respectively. Also, OUD patients might be less likely to adhere, at least on a long-term basis, to naltrexone because of its higher cost and the need for full detoxification at drug initiation and titration. Of note, for OUD treatment, the FDA approved only the extended-release long-acting injectable formulation of naltrexone, making it the most expensive of the MAT drugs [<xref rid="REF20" ref-type="bibr">20</xref>,<xref rid="REF21" ref-type="bibr">21</xref>]. Thus, buprenorphine and methadone may have longer treatment durations and consequently a greater total days&#8217; supply than naltrexone because they are used as long-term maintenance medications to manage both OUD and the highly prevalent co-occurring pain.</p><p>It is unclear why the rate of drug overdose-related hospitalizations or ER visits was lowest in the group receiving buprenorphine. Prior research showed that treatment with buprenorphine improved treatment retention for OUD, so it is possible that better consistency in use among this group could be a contributor [<xref rid="REF22" ref-type="bibr">22</xref>]. In addition, other studies have reported higher adherence among buprenorphine users, in part due to the lesser severity of opioid withdrawal symptoms when starting buprenorphine [<xref rid="REF23" ref-type="bibr">23</xref>,<xref rid="REF24" ref-type="bibr">24</xref>]. Buprenorphine has been shown to be equivalent to methadone in alleviating the severity of opioid withdrawal, but symptoms may resolve more quickly [<xref rid="REF25" ref-type="bibr">25</xref>]. Moreover, buprenorphine may offer greater flexibility of treatment as well as a lowered risk of adverse effects, such as respiratory depression, because of the ceiling effect [<xref rid="REF26" ref-type="bibr">26</xref>]. A therapeutic dose of buprenorphine can be achieved in just a few days [<xref rid="REF27" ref-type="bibr">27</xref>].</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>Buprenorphine is associated with the lowest risk of drug overdose-related hospitalization or ER visits among MAT drugs, suggesting a preferential use of buprenorphine (vs. other MAT drugs) as a first-line MAT drug in a shared decision-making process involving patients and clinicians. Regardless, MAT is underused, with only 10.38% of patients with OUD receiving any MAT prescription. Increasing the availability of MAT to patients with OUD is a key step toward preventing relapse and reducing overdose-related ER visits and hospitalizations.</p></sec></body><back><fn-group content-type="other"><title>Human Ethics</title><fn fn-type="other"><p>Consent was obtained or waived by all participants in this study. The University of Texas Medical Branch Institutional Review Board issued approval 16-0247</p></fn></fn-group><fn-group content-type="other"><title>Animal Ethics</title><fn fn-type="other"><p><bold>Animal subjects:</bold> All authors have confirmed that this study did not involve animal subjects or tissue.</p></fn></fn-group><notes><fn-group content-type="competing-interests"><fn fn-type="COI-statement"><p>The authors have declared that no competing interests exist.</p></fn></fn-group></notes><ref-list><title>References</title><ref id="REF1"><label>1</label><element-citation publication-type="webpage"><article-title>National Institute on Drug Abuse. Drug overdose death rates</article-title><date-in-citation content-type="access-date"><month>6</month><year>2023</year></date-in-citation><year>2023</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates">https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates</uri></element-citation></ref><ref id="REF2"><label>2</label><element-citation publication-type="journal"><article-title>When epidemics collide: coronavirus disease 2019 (COVID-19) and the opioid crisis</article-title><source>Ann Intern Med</source><person-group><name name-style="western"><surname>Becker</surname><given-names>WC</given-names></name><name name-style="western"><surname>Fiellin</surname><given-names>DA</given-names></name></person-group><fpage>59</fpage><lpage>60</lpage><volume>173</volume><year>2020</year><pub-id pub-id-type="pmid">32240291</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M20-1210</pub-id><pub-id pub-id-type="pmcid">PMC7138333</pub-id></element-citation></ref><ref id="REF3"><label>3</label><element-citation publication-type="journal"><article-title>Healthcare costs and utilization associated with high-risk prescription opioid use: a retrospective cohort study</article-title><source>BMC Med</source><person-group><name name-style="western"><surname>Chang</surname><given-names>HY</given-names></name><name name-style="western"><surname>Kharrazi</surname><given-names>H</given-names></name><name name-style="western"><surname>Bodycombe</surname><given-names>D</given-names></name><name name-style="western"><surname>Weiner</surname><given-names>JP</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>GC</given-names></name></person-group><fpage>69</fpage><volume>16</volume><year>2018</year><pub-id pub-id-type="pmid">29764482</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-018-1058-y</pub-id><pub-id pub-id-type="pmcid">PMC5954462</pub-id></element-citation></ref><ref id="REF4"><label>4</label><element-citation publication-type="journal"><article-title>COVID-19 and persons with substance use disorders: inequities and mitigation strategies</article-title><source>Subst Abus</source><person-group><name name-style="western"><surname>Melamed</surname><given-names>OC</given-names></name><name name-style="western"><surname>Hauck</surname><given-names>TS</given-names></name><name name-style="western"><surname>Buckley</surname><given-names>L</given-names></name><name name-style="western"><surname>Selby</surname><given-names>P</given-names></name><name name-style="western"><surname>Mulsant</surname><given-names>BH</given-names></name></person-group><fpage>286</fpage><lpage>291</lpage><volume>41</volume><year>2020</year><pub-id pub-id-type="pmid">32697172</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08897077.2020.1784363</pub-id></element-citation></ref><ref id="REF5"><label>5</label><element-citation publication-type="journal"><article-title>Mixed methods prospective findings of the initial effects of the U.S. COVID-19 pandemic on individuals in recovery from substance use disorder</article-title><source>PLoS One</source><person-group><name name-style="western"><surname>Shircliff</surname><given-names>K</given-names></name><name name-style="western"><surname>Liu</surname><given-names>M</given-names></name><name name-style="western"><surname>Prestigiacomo</surname><given-names>C</given-names></name><etal/></person-group><fpage>0</fpage><volume>17</volume><year>2022</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0270582</pub-id><pub-id pub-id-type="pmcid">PMC9249176</pub-id><pub-id pub-id-type="pmid">35776699</pub-id></element-citation></ref><ref id="REF6"><label>6</label><element-citation publication-type="journal"><article-title>Opioid agonist treatment for patients with dependence on prescription opioids</article-title><source>JAMA</source><person-group><name name-style="western"><surname>Nielsen</surname><given-names>S</given-names></name><name name-style="western"><surname>Larance</surname><given-names>B</given-names></name><name name-style="western"><surname>Lintzeris</surname><given-names>N</given-names></name></person-group><fpage>967</fpage><lpage>968</lpage><volume>317</volume><year>2017</year><pub-id pub-id-type="pmid">28267837</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2017.0001</pub-id></element-citation></ref><ref id="REF7"><label>7</label><element-citation publication-type="journal"><article-title>Mortality risk during and after opioid substitution treatment: systematic review and meta-analysis of cohort studies</article-title><source>BMJ</source><person-group><name name-style="western"><surname>Sordo</surname><given-names>L</given-names></name><name name-style="western"><surname>Barrio</surname><given-names>G</given-names></name><name name-style="western"><surname>Bravo</surname><given-names>MJ</given-names></name><etal/></person-group><fpage>0</fpage><volume>357</volume><year>2017</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.j1550</pub-id><pub-id pub-id-type="pmcid">PMC5421454</pub-id><pub-id pub-id-type="pmid">28446428</pub-id></element-citation></ref><ref id="REF8"><label>8</label><element-citation publication-type="journal"><article-title>Medication for opioid use disorder after nonfatal opioid overdose and association with mortality: a cohort study</article-title><source>Ann Intern Med</source><person-group><name name-style="western"><surname>Larochelle</surname><given-names>MR</given-names></name><name name-style="western"><surname>Bernson</surname><given-names>D</given-names></name><name name-style="western"><surname>Land</surname><given-names>T</given-names></name><etal/></person-group><fpage>137</fpage><lpage>145</lpage><volume>169</volume><year>2018</year><pub-id pub-id-type="pmid">29913516</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M17-3107</pub-id><pub-id pub-id-type="pmcid">PMC6387681</pub-id></element-citation></ref><ref id="REF9"><label>9</label><element-citation publication-type="journal"><article-title>Geographic distribution of providers with a DEA waiver to prescribe buprenorphine for the treatment of opioid use disorder: a 5-year update</article-title><source>J Rural Health</source><person-group><name name-style="western"><surname>Andrilla</surname><given-names>CH</given-names></name><name name-style="western"><surname>Moore</surname><given-names>TE</given-names></name><name name-style="western"><surname>Patterson</surname><given-names>DG</given-names></name><name name-style="western"><surname>Larson</surname><given-names>EH</given-names></name></person-group><fpage>108</fpage><lpage>112</lpage><volume>35</volume><year>2019</year><pub-id pub-id-type="pmid">29923637</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jrh.12307</pub-id></element-citation></ref><ref id="REF10"><label>10</label><element-citation publication-type="journal"><article-title>Medication-assisted treatment for opioid-use disorder</article-title><source>Mayo Clin Proc</source><person-group><name name-style="western"><surname>Oesterle</surname><given-names>TS</given-names></name><name name-style="western"><surname>Thusius</surname><given-names>NJ</given-names></name><name name-style="western"><surname>Rummans</surname><given-names>TA</given-names></name><name name-style="western"><surname>Gold</surname><given-names>MS</given-names></name></person-group><fpage>2072</fpage><lpage>2086</lpage><volume>94</volume><year>2019</year><pub-id pub-id-type="pmid">31543255</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mayocp.2019.03.029</pub-id></element-citation></ref><ref id="REF11"><label>11</label><element-citation publication-type="journal"><article-title>Racial and ethnic disparities in buprenorphine treatment duration in the US</article-title><source>JAMA Psychiatry</source><person-group><name name-style="western"><surname>Dong</surname><given-names>H</given-names></name><name name-style="western"><surname>Stringfellow</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Russell</surname><given-names>WA</given-names></name><name name-style="western"><surname>Jalali</surname><given-names>MS</given-names></name></person-group><fpage>93</fpage><lpage>95</lpage><volume>80</volume><year>2023</year><pub-id pub-id-type="pmid">36350592</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamapsychiatry.2022.3673</pub-id><pub-id pub-id-type="pmcid">PMC9647560</pub-id></element-citation></ref><ref id="REF12"><label>12</label><element-citation publication-type="journal"><article-title>Treatment outcome disparities for opioid users: are there racial and ethnic differences in treatment completion across large US metropolitan areas?</article-title><source>Drug Alcohol Depend</source><person-group><name name-style="western"><surname>Stahler</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Mennis</surname><given-names>J</given-names></name></person-group><fpage>170</fpage><lpage>178</lpage><volume>190</volume><year>2018</year><pub-id pub-id-type="pmid">30041092</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2018.06.006</pub-id></element-citation></ref><ref id="REF13"><label>13</label><element-citation publication-type="webpage"><article-title>Information about medication-assisted treatment</article-title><date-in-citation content-type="access-date"><month>6</month><year>2023</year></date-in-citation><year>2023</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/drugs/information-drug-class/information-about-medication-assisted-treatment-mat">https://www.fda.gov/drugs/information-drug-class/information-about-medication-assisted-treatment-mat</uri></element-citation></ref><ref id="REF14"><label>14</label><element-citation publication-type="webpage"><article-title>SAS Institute Inc. Assessment of the proportional hazards model</article-title><date-in-citation content-type="access-date"><month>1</month><year>2023</year></date-in-citation><year>2019</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.4/statug/statug_phreg_details75.htm">https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.4/statug/statug_phreg_details75.htm</uri></element-citation></ref><ref id="REF15"><label>15</label><element-citation publication-type="journal"><article-title>Has the treatment gap for opioid use disorder narrowed in the U.S.?: A yearly assessment from 2010 to 2019</article-title><source>Int J Drug Policy</source><person-group><name name-style="western"><surname>Krawczyk</surname><given-names>N</given-names></name><name name-style="western"><surname>Rivera</surname><given-names>BD</given-names></name><name name-style="western"><surname>Jent</surname><given-names>V</given-names></name><name name-style="western"><surname>Keyes</surname><given-names>KM</given-names></name><name name-style="western"><surname>Jones</surname><given-names>CM</given-names></name><name name-style="western"><surname>Cerd&#225;</surname><given-names>M</given-names></name></person-group><fpage>103786</fpage><volume>110</volume><year>2022</year><pub-id pub-id-type="pmid">35934583</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugpo.2022.103786</pub-id><pub-id pub-id-type="pmcid">PMC10976290</pub-id></element-citation></ref><ref id="REF16"><label>16</label><element-citation publication-type="journal"><article-title>Characteristics of US counties with high opioid overdose mortality and low capacity to deliver medications for opioid use disorder</article-title><source>JAMA Netw Open</source><person-group><name name-style="western"><surname>Haffajee</surname><given-names>RL</given-names></name><name name-style="western"><surname>Lin</surname><given-names>LA</given-names></name><name name-style="western"><surname>Bohnert</surname><given-names>AS</given-names></name><name name-style="western"><surname>Goldstick</surname><given-names>JE</given-names></name></person-group><fpage>0</fpage><volume>2</volume><year>2019</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2019.6373</pub-id><pub-id pub-id-type="pmcid">PMC6604101</pub-id><pub-id pub-id-type="pmid">31251376</pub-id></element-citation></ref><ref id="REF17"><label>17</label><element-citation publication-type="journal"><article-title>Expanding low-threshold buprenorphine to justice-involved individuals through mobile treatment: addressing a critical care gap</article-title><source>J Subst Abuse Treat</source><person-group><name name-style="western"><surname>Krawczyk</surname><given-names>N</given-names></name><name name-style="western"><surname>Buresh</surname><given-names>M</given-names></name><name name-style="western"><surname>Gordon</surname><given-names>MS</given-names></name><name name-style="western"><surname>Blue</surname><given-names>TR</given-names></name><name name-style="western"><surname>Fingerhood</surname><given-names>MI</given-names></name><name name-style="western"><surname>Agus</surname><given-names>D</given-names></name></person-group><fpage>1</fpage><lpage>8</lpage><volume>103</volume><year>2019</year><pub-id pub-id-type="pmid">31229187</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2019.05.002</pub-id><pub-id pub-id-type="pmcid">PMC6612429</pub-id></element-citation></ref><ref id="REF18"><label>18</label><element-citation publication-type="journal"><article-title>The Mental Health Parity and Addiction Equity Act (MHPAEA) evaluation study: impact on quantitative treatment limits</article-title><source>Psychiatr Serv</source><person-group><name name-style="western"><surname>Thalmayer</surname><given-names>AG</given-names></name><name name-style="western"><surname>Friedman</surname><given-names>SA</given-names></name><name name-style="western"><surname>Azocar</surname><given-names>F</given-names></name><name name-style="western"><surname>Harwood</surname><given-names>JM</given-names></name><name name-style="western"><surname>Ettner</surname><given-names>SL</given-names></name></person-group><fpage>435</fpage><lpage>442</lpage><volume>68</volume><year>2017</year><pub-id pub-id-type="pmid">27974003</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1176/appi.ps.201600110</pub-id><pub-id pub-id-type="pmcid">PMC5411313</pub-id></element-citation></ref><ref id="REF19"><label>19</label><element-citation publication-type="journal"><article-title>Chronic pain among patients with opioid use disorder: results from electronic health records data</article-title><source>J Subst Abuse Treat</source><person-group><name name-style="western"><surname>Hser</surname><given-names>YI</given-names></name><name name-style="western"><surname>Mooney</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Saxon</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Miotto</surname><given-names>K</given-names></name><name name-style="western"><surname>Bell</surname><given-names>DS</given-names></name><name name-style="western"><surname>Huang</surname><given-names>D</given-names></name></person-group><fpage>26</fpage><lpage>30</lpage><volume>77</volume><year>2017</year><pub-id pub-id-type="pmid">28476267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jsat.2017.03.006</pub-id><pub-id pub-id-type="pmcid">PMC5424616</pub-id></element-citation></ref><ref id="REF20"><label>20</label><element-citation publication-type="journal"><article-title>Cost and utilization outcomes of opioid-dependence treatments</article-title><source>Am J Manag Care</source><person-group><name name-style="western"><surname>Baser</surname><given-names>O</given-names></name><name name-style="western"><surname>Chalk</surname><given-names>M</given-names></name><name name-style="western"><surname>Fiellin</surname><given-names>DA</given-names></name><name name-style="western"><surname>Gastfriend</surname><given-names>DR</given-names></name></person-group><fpage>0</fpage><lpage>48</lpage><volume>17</volume><year>2011</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ajmc.com/view/a369_11jun_alcohol_s235to48">https://www.ajmc.com/view/a369_11jun_alcohol_s235to48</uri><pub-id pub-id-type="pmid">21761950</pub-id></element-citation></ref><ref id="REF21"><label>21</label><element-citation publication-type="webpage"><article-title>National Institute on Drug Abuse. How effective are medications to treat opioid use disorder?</article-title><date-in-citation content-type="access-date"><month>6</month><year>2023</year></date-in-citation><year>2021</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://nida.nih.gov/publications/research-reports/medications-to-treat-opioid-addiction/efficacy-medications-opioid-use-disorder">https://nida.nih.gov/publications/research-reports/medications-to-treat-opioid-addiction/efficacy-medications-opioid-use-disorder</uri></element-citation></ref><ref id="REF22"><label>22</label><element-citation publication-type="journal"><article-title>Comparison of treatment retention of adults with opioid addiction managed with extended-release buprenorphine vs daily sublingual buprenorphine-naloxone at time of release from jail</article-title><source>JAMA Netw Open</source><person-group><name name-style="western"><surname>Lee</surname><given-names>JD</given-names></name><name name-style="western"><surname>Malone</surname><given-names>M</given-names></name><name name-style="western"><surname>McDonald</surname><given-names>R</given-names></name><etal/></person-group><fpage>0</fpage><volume>4</volume><year>2021</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.23032</pub-id><pub-id pub-id-type="pmcid">PMC8427378</pub-id><pub-id pub-id-type="pmid">34495340</pub-id></element-citation></ref><ref id="REF23"><label>23</label><element-citation publication-type="journal"><article-title>Perceptions and experiences toward extended-release buprenorphine among persons leaving jail with opioid use disorders before and during COVID-19: an in-depth qualitative study</article-title><source>Addict Sci Clin Pract</source><person-group><name name-style="western"><surname>Cheng</surname><given-names>A</given-names></name><name name-style="western"><surname>Badolato</surname><given-names>R</given-names></name><name name-style="western"><surname>Segoshi</surname><given-names>A</given-names></name><etal/></person-group><fpage>4</fpage><volume>17</volume><year>2022</year><pub-id pub-id-type="pmid">35093164</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13722-022-00288-4</pub-id><pub-id pub-id-type="pmcid">PMC8800291</pub-id></element-citation></ref><ref id="REF24"><label>24</label><element-citation publication-type="journal"><article-title>Buprenorphine therapy for opioid use disorder</article-title><source>Am Fam Physician</source><person-group><name name-style="western"><surname>Zoorob</surname><given-names>R</given-names></name><name name-style="western"><surname>Kowalchuk</surname><given-names>A</given-names></name><name name-style="western"><surname>Mejia de Grubb</surname><given-names>M</given-names></name></person-group><fpage>313</fpage><lpage>320</lpage><volume>97</volume><year>2018</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.aafp.org/pubs/afp/issues/2018/0301/p313.html">https://www.aafp.org/pubs/afp/issues/2018/0301/p313.html</uri><pub-id pub-id-type="pmid">29671504</pub-id></element-citation></ref><ref id="REF25"><label>25</label><element-citation publication-type="journal"><article-title>Buprenorphine vs methadone treatment: a review of evidence in both developed and developing worlds</article-title><source>J Neurosci Rural Pract</source><person-group><name name-style="western"><surname>Whelan</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Remski</surname><given-names>K</given-names></name></person-group><fpage>45</fpage><lpage>50</lpage><volume>3</volume><year>2012</year><pub-id pub-id-type="pmid">22346191</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0976-3147.91934</pub-id><pub-id pub-id-type="pmcid">PMC3271614</pub-id></element-citation></ref><ref id="REF26"><label>26</label><element-citation publication-type="journal"><article-title>Medications for management of opioid use disorder</article-title><source>Am J Health Syst Pharm</source><person-group><name name-style="western"><surname>Koehl</surname><given-names>JL</given-names></name><name name-style="western"><surname>Zimmerman</surname><given-names>DE</given-names></name><name name-style="western"><surname>Bridgeman</surname><given-names>PJ</given-names></name></person-group><fpage>1097</fpage><lpage>1103</lpage><volume>76</volume><year>2019</year><pub-id pub-id-type="pmid">31361869</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajhp/zxz105</pub-id></element-citation></ref><ref id="REF27"><label>27</label><element-citation publication-type="journal"><article-title>Medication-assisted treatment of opioid use disorder: review of the evidence and future directions</article-title><source>Harv Rev Psychiatry</source><person-group><name name-style="western"><surname>Connery</surname><given-names>HS</given-names></name></person-group><fpage>63</fpage><lpage>75</lpage><volume>23</volume><year>2015</year><pub-id pub-id-type="pmid">25747920</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HRP.0000000000000075</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

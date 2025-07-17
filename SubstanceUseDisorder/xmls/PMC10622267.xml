@@ -1,0 +1,108 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" id="hesr14227" xml:lang="en" article-type="research-article" dtd-version="1.4"><!--The publisher of this article does not allow downloading of the full text in XML form.--><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Serv Res</journal-id><journal-id journal-id-type="iso-abbrev">Health Serv Res</journal-id><journal-id journal-id-type="pmc-domain-id">235</journal-id><journal-id journal-id-type="pmc-domain">hsresearch</journal-id><journal-id journal-id-type="publisher-id">HESR</journal-id><journal-title-group><journal-title>Health Services Research</journal-title></journal-title-group><issn pub-type="ppub">0017-9124</issn><issn pub-type="epub">1475-6773</issn><publisher><publisher-name>Health Research &amp; Educational Trust</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10622267</article-id><article-id pub-id-type="pmcid-ver">PMC10622267.1</article-id><article-id pub-id-type="pmcaid">10622267</article-id><article-id pub-id-type="pmcaiid">10622267</article-id><article-id pub-id-type="pmid">37700549</article-id><article-id pub-id-type="doi">10.1111/1475-6773.14227</article-id><article-id pub-id-type="publisher-id">HESR14227</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Impacts of Interventions and Policies</subject></subj-group></article-categories><title-group><article-title>Evaluating a health system&#8208;wide opioid disposal intervention distributing home&#8208;disposal bags</article-title><alt-title alt-title-type="left-running-head">Huang et al.</alt-title></title-group><contrib-group><contrib id="hesr14227-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Huang</surname><given-names initials="LC">Lyen C.</given-names></name><degrees>MD, MPH, FACS, FASCRS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8605-2631</contrib-id><xref rid="hesr14227-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hesr14227-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>lyen.huang@hsc.utah.edu</email></address></contrib><contrib id="hesr14227-cr-0002" contrib-type="author"><name name-style="western"><surname>Bleicher</surname><given-names initials="J">Josh</given-names></name><degrees>MD</degrees><xref rid="hesr14227-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr14227-cr-0003" contrib-type="author"><name name-style="western"><surname>Torre</surname><given-names initials="M">Michael</given-names></name><degrees>PhD, MS</degrees><xref rid="hesr14227-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hesr14227-cr-0004" contrib-type="author"><name name-style="western"><surname>Johnson</surname><given-names initials="JE">Jordan E.</given-names></name><degrees>MPH, CHES, CPH</degrees><xref rid="hesr14227-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr14227-cr-0005" contrib-type="author"><name name-style="western"><surname>Presson</surname><given-names initials="A">Angela</given-names></name><degrees>PhD</degrees><xref rid="hesr14227-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hesr14227-cr-0006" contrib-type="author"><name name-style="western"><surname>Millar</surname><given-names initials="MM">Morgan M.</given-names></name><degrees>PhD</degrees><xref rid="hesr14227-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hesr14227-cr-0007" contrib-type="author"><name name-style="western"><surname>Gordon</surname><given-names initials="AJ">Adam J.</given-names></name><degrees>MD, MPH, FACP, DFASAM</degrees><xref rid="hesr14227-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="hesr14227-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hesr14227-cr-0008" contrib-type="author"><name name-style="western"><surname>Brooke</surname><given-names initials="BS">Benjamin S.</given-names></name><degrees>MD, PHD, FACS, DFSVS</degrees><xref rid="hesr14227-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr14227-cr-0009" contrib-type="author"><name name-style="western"><surname>Kaphingst</surname><given-names initials="KA">Kimberly A.</given-names></name><degrees>ScD</degrees><xref rid="hesr14227-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hesr14227-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hesr14227-cr-0010" contrib-type="author"><name name-style="western"><surname>Harris</surname><given-names initials="AHS">Alex H. S.</given-names></name><degrees>PhD, MS</degrees><xref rid="hesr14227-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="hesr14227-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib></contrib-group><aff id="hesr14227-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>University of Utah</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Huntsman Cancer Institute</named-content>
+<institution>University of Utah</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>University of Utah</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Program for Addiction Research, Clinical Care, Knowledge and Advocacy (PARCKA), Division of Epidemiology, Department of Internal Medicine</named-content>
+<institution>University of Utah School of Medicine</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Informatics, Decision&#8208;Enhancement, and Analytic Sciences (IDEAS) Center</named-content>
+<institution>VA Salt Lake City Health Care System</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Communication</named-content>
+<institution>University of Utah</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Stanford University</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="hesr14227-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">VA HSR&amp;D Center for Innovation to Implementation</named-content>
+<institution>Palo Alto VA Health Care System</institution>
+<city>Palo Alto</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Lyen C. Huang, Division of General Surgery, Department of Surgery, 1950 Circle of Hope Drive, K7532, University of Utah and Huntsman Cancer Institute, Salt Lake City, UT 84112, USA.<break/>
+Email: <email>lyen.huang@hsc.utah.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>9</month><year>2023</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2023</year></pub-date><volume>58</volume><issue seq="130">6</issue><issue-id pub-id-type="pmc-issue-id">448434</issue-id><issue-id pub-id-type="doi">10.1111/hesr.v58.6</issue-id><fpage>1256</fpage><lpage>1265</lpage><pub-history><event event-type="pmc-release"><date><day>01</day><month>12</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>01</day><month>12</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-12-01 00:25:14.133"><day>01</day><month>12</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">&#169; 2023 Health Research and Educational Trust.</copyright-statement></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HESR-58-1256.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HESR-58-1256.pdf"/><abstract><title>Abstract</title><sec id="hesr14227-sec-0001"><title>Objective</title><p>To evaluate a health system&#8208;wide intervention distributing free home&#8208;disposal bags to surgery patients prescribed opioids.</p></sec><sec id="hesr14227-sec-0002"><title>Data Sources and Study Setting</title><p>We collected patient surveys and electronic medical record data at an academic health system.</p></sec><sec id="hesr14227-sec-0003"><title>Study Design</title><p>We conducted a prospective observational study. The bags were primarily distributed at pharmacies, though pharmacists delivered bags to some patients. The primary outcome was disposal of leftover opioids (effectiveness). Secondary outcomes were patient willingness to dispose and factors associated with disposal (effectiveness), recalling receipt of the bag (reach), and recalling receipt of bags and disposal over time (maintenance). We used a modified Poisson regression to evaluate the relative risk of disposal. Inverse probability of treatment weighting, based on propensity scores, was used to account for differences between survey responders and non&#8208;responders and reduce nonresponse bias.</p></sec><sec id="hesr14227-sec-0004"><title>Data Collection/Extraction Methods</title><p>From August 2020 to May 2021, we surveyed patients 2&#8201;weeks after discharge (allowing for home opioid use). Eligibility criteria were age &#8805;18, English being primary language, valid email address, hospitalization &#8804;30&#8201;days, discharge home, and an opioid prescription sent to a system pharmacy.</p></sec><sec id="hesr14227-sec-0005"><title>Principal Findings</title><p>We identified 5134 patients with 2174 completing the survey (response rate 42.3%). Among respondents, 1375 (63.8%) recalled receiving the disposal bag. Among 1075 respondents with leftover opioids, 284 (26.4%) disposed, 552 (51.3%) planned to dispose, 79 (7.4%) did not plan to dispose, 69 (6.4%) had undecided, and 91 (8.5%) had not considered disposal. Recalling receipt of the bag (incidence rate ratio [IRR] 1.25, 95% confidence interval [CI] 1.13&#8211;1.37) was positively associated with disposal. Patients who used opioids in the last year were less likely to dispose (IRR 0.82, 95% CI 0.73&#8211;0.93). Disposal rates remained stable over the study period while recalling receipt of bags trended up.</p></sec><sec id="hesr14227-sec-0006"><title>Conclusions</title><p>A pragmatic implementation of a disposal intervention resulted in lower disposal rates than prior trials.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="hesr14227-kwd-0001">health system intervention</kwd><kwd id="hesr14227-kwd-0002">implementation</kwd><kwd id="hesr14227-kwd-0003">opioids</kwd><kwd id="hesr14227-kwd-0004">prevention of opioid&#8208;related harms</kwd><kwd id="hesr14227-kwd-0005">surgery</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Health Services Research and Development
+</institution><institution-id institution-id-type="doi">10.13039/100007217</institution-id></institution-wrap></funding-source><award-id>CIN 13&#8208;414</award-id><award-id>RCS 14&#8208;232</award-id></award-group></funding-group><funding-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Center for Advancing Translational Sciences
+</institution><institution-id institution-id-type="doi">10.13039/100006108</institution-id></institution-wrap></funding-source><award-id>KL2TR002539</award-id><award-id>UL1TR002538</award-id></award-group></funding-group><funding-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Institute on Drug Abuse
+</institution><institution-id institution-id-type="doi">10.13039/100000026</institution-id></institution-wrap></funding-source><award-id>1UG1DA049444</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="10"/><word-count count="7340"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.4 mode:remove_FC converted:02.11.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hesr14227-cit-9001"><string-name name-style="western"><surname>Huang</surname><given-names>LC</given-names></string-name>, <string-name name-style="western"><surname>Bleicher</surname><given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Torre</surname><given-names>M</given-names></string-name>, et al. <article-title>Evaluating a health system&#8208;wide opioid disposal intervention distributing home&#8208;disposal bags</article-title>. <source>Health Serv Res</source>. <year>2023</year>;<volume>58</volume>(<issue>6</issue>):<fpage>1256</fpage>&#8208;<lpage>1265</lpage>. doi:<pub-id pub-id-type="doi">10.1111/1475-6773.14227</pub-id><pub-id pub-id-type="pmid">37700549</pub-id><pub-id pub-id-type="pmcid">PMC10622267</pub-id></mixed-citation>
+</p></notes></front></article></pmc-articleset>

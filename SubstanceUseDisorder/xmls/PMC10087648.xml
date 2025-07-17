@@ -1,0 +1,382 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Orthop J Sports Med</journal-id><journal-id journal-id-type="iso-abbrev">Orthop J Sports Med</journal-id><journal-id journal-id-type="pmc-domain-id">2603</journal-id><journal-id journal-id-type="pmc-domain">ojs</journal-id><journal-id journal-id-type="publisher-id">OJS</journal-id><journal-title-group><journal-title>Orthopaedic Journal of Sports Medicine</journal-title></journal-title-group><issn pub-type="epub">2325-9671</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10087648</article-id><article-id pub-id-type="pmcid-ver">PMC10087648.1</article-id><article-id pub-id-type="pmcaid">10087648</article-id><article-id pub-id-type="pmcaiid">10087648</article-id><article-id pub-id-type="pmid">37056452</article-id><article-id pub-id-type="doi">10.1177/23259671231159063</article-id><article-id pub-id-type="publisher-id">10.1177_23259671231159063</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Opioid Prescription Patterns 90 Days After Arthroscopic Rotator Cuff
+Repair: A 10-Year National Database Analysis</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Day</surname><given-names initials="W">Wesley</given-names></name><degrees>BS</degrees><xref rid="aff1-23259671231159063" ref-type="aff">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Tang</surname><given-names initials="K">Kevin</given-names></name><degrees>BS</degrees><xref rid="aff1-23259671231159063" ref-type="aff">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Joo</surname><given-names initials="PY">Peter Y.</given-names></name><degrees>MD, MPH</degrees><xref rid="aff2-23259671231159063" ref-type="aff">&#8224;</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Grauer</surname><given-names initials="JN">Jonathan N.</given-names></name><degrees>MD</degrees><xref rid="aff2-23259671231159063" ref-type="aff">&#8224;</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yalcin</surname><given-names initials="S">Sercan</given-names></name><degrees>MD</degrees><xref rid="aff2-23259671231159063" ref-type="aff">&#8224;</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wilhelm</surname><given-names initials="CV">Christopher V.</given-names></name><degrees>MD, MHS</degrees><xref rid="aff2-23259671231159063" ref-type="aff">&#8224;</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Medvecky</surname><given-names initials="MJ">Michael J.</given-names></name><degrees>MD</degrees><xref rid="aff2-23259671231159063" ref-type="aff">&#8224;</xref><xref rid="corresp1-23259671231159063" ref-type="corresp">&#8225;</xref></contrib></contrib-group><aff id="aff1-23259671231159063"><label>*</label>Albert Einstein College of Medicine,
+Bronx, New York, USA.</aff><aff id="aff2-23259671231159063"><label>&#8224;</label>Department of Orthopaedics and
+Rehabilitation, Yale School of Medicine, New Haven, Connecticut, USA.</aff><aff id="aff3-23259671231159063">
+<italic toggle="yes">Investigation performed at Yale School of Medicine, New Haven, Connecticut,
+USA</italic>
+</aff><author-notes><corresp id="corresp1-23259671231159063"><label>&#8225;</label>Michael J. Medvecky, MD,
+Department of Orthopaedics and Rehabilitation, Yale School of Medicine, 47
+College St, New Haven, CT 06510, USA (email:
+<email>michael.medvecky@yale.edu</email>) (Twitter: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://twitter.com/MichaelMedveck1" ext-link-type="uri">@MichaelMedveck1</ext-link>).</corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>4</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2023</year></pub-date><volume>11</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">433150</issue-id><elocation-id>23259671231159063</elocation-id><history><date date-type="received"><day>20</day><month>11</month><year>2022</year></date><date date-type="accepted"><day>1</day><month>1</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>04</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>12</day><month>04</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-09-15 15:25:54.483"><day>15</day><month>09</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s) 2023</copyright-statement><copyright-year>2023</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial-NoDerivs 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work as
+published without adaptation or alteration, without further permission
+provided the original work is attributed as specified on the SAGE and Open
+Access pages (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_23259671231159063.pdf"/><abstract><sec><title>Background:</title><p>Arthroscopic rotator cuff repair (ARCR) is a common procedure that typically
+requires opioid prescription for postoperative pain management.</p></sec><sec><title>Purpose:</title><p>To investigate the current prescription patterns and factors influencing
+90-day postoperative opioid prescription trends for opioid-na&#239;ve patients
+who underwent ARCR.</p></sec><sec><title>Study Design:</title><p>Case series; Level of evidence, 4.</p></sec><sec><title>Methods:</title><p>Opioid-na&#239;ve adult patients who underwent ARCR between January 2010 and
+September 2020 and had a record of opioid prescriptions during the 90-day
+postoperative period were identified in the PearlDiver Mariner91 national
+administrative database. Exclusions included patients with prior shoulder
+procedures, a history of chronic pain, and opioid prescription records dated
+earlier than 4 weeks before surgery. Covariates included age group, sex,
+Elixhauser Comorbidity Index, and prescriber specialty (orthopaedic or
+nonorthopaedic). The primary outcome&#8212;90-day postoperative morphine milligram
+equivalents (MMEs) prescribed per patient&#8212;was compared using univariate and
+multivariate regression analyses, and 90-day postoperative opioid
+prescription trends over the 10-year study period were analyzed with linear
+regression.</p></sec><sec><title>Results:</title><p>In total, 55,345 ARCR cases were identified. The mean &#177; SD amount prescribed
+within the first 90 days was 742.4 &#177; 256.5 MMEs, and the median was 487.5
+MMEs. Multivariate linear regression analysis predicted higher 90-day
+postoperative MMEs for female patients and younger patients
+(<italic toggle="yes">P</italic> &lt; .01 for both). From 2010 to 2020, there was a
+66% decrease in mean MME prescribed per patient (&#9653; = 660.4 MME;
+<italic toggle="yes">P</italic> &lt; .01), with a mean reduction of 55.1 MME per
+patient per year. In 2020, the mean 90-day postoperative amount prescribed
+was 341.1 MME, which is equivalent to 51 tablets of 5-mg oxycodone
+(Percocet).</p></sec><sec><title>Conclusion:</title><p>Female sex and younger age were predictors of more MME being prescribed after
+ARCR. While opioid prescriptions following ARCR have substantially decreased
+over the past decade, the amount prescribed warrants further attention.</p></sec></abstract><kwd-group><kwd>rotator cuff</kwd><kwd>opioid epidemic</kwd><kwd>shoulder</kwd><kwd>health care utilization</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts3</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>The opioid epidemic has highlighted the demand to address the impact of narcotic
+prescriptions on society and bring greater attention to this topic.<sup><xref rid="bibr4-23259671231159063" ref-type="bibr">4</xref>,<xref rid="bibr5-23259671231159063" ref-type="bibr">5</xref>,<xref rid="bibr18-23259671231159063" ref-type="bibr">18</xref></sup> Orthopaedic surgeons as a
+specialty are the third-largest issuer of opioid prescriptions,<sup>
+<xref rid="bibr9-23259671231159063" ref-type="bibr">9</xref>
+</sup> exceeded only by pain medicine and physical medicine and rehabilitation. Thus,
+combined physician and patient education around safe opioid use and prescribing
+practices in orthopaedics is crucial.</p><p>In the field of sports medicine, arthroscopic rotator cuff repair (ARCR) is an
+increasingly common<sup>
+<xref rid="bibr27-23259671231159063" ref-type="bibr">27</xref>
+</sup> procedure that may be associated with significant postoperative pain and narcotic
+usage. A meta-analysis analyzing postoperative opioid use after all surgical procedures
+revealed that female patients and those with a high school education level (vs college
+degree or higher) used more postoperative opioids.<sup>
+<xref rid="bibr12-23259671231159063" ref-type="bibr">12</xref>
+</sup> However, risk factors for increased prescriptions of opioids after ARCR have not
+yet been defined.</p><p>While early postoperative pain control is important for addressing temporary pain and
+reducing risk of developing chronic pain after surgery,<sup>
+<xref rid="bibr22-23259671231159063" ref-type="bibr">22</xref>
+</sup> the extensive side effect profile and potential for abuse<sup>
+<xref rid="bibr17-23259671231159063" ref-type="bibr">17</xref>
+</sup> speaks to the continued need to minimize opioid use after surgery.</p><p>Over the past decade, health care professionals have given much attention to minimizing
+narcotic use among patients after surgery.<sup><xref rid="bibr3-23259671231159063" ref-type="bibr">3</xref>,<xref rid="bibr7-23259671231159063" ref-type="bibr">7</xref>,<xref rid="bibr15-23259671231159063" ref-type="bibr">15</xref>,<xref rid="bibr19-23259671231159063" ref-type="bibr">19</xref></sup> These physician-led efforts have
+been complemented by legislative action, such as new state regulations on duration
+limits and dosage for opioid prescriptions.<sup>
+<xref rid="bibr14-23259671231159063" ref-type="bibr">14</xref>
+</sup> Maximum prescribed daily opioid dose has been directly associated with the risk
+of opioid-related overdose death.<sup>
+<xref rid="bibr1-23259671231159063" ref-type="bibr">1</xref>
+</sup> However, national trends of postoperative opioid prescriptions or utilization for
+many orthopaedic surgical procedures have yet to be tracked.</p><p>The purpose of the current study was to analyze 90-day postoperative opioid prescription
+patterns after ARCR in a large opioid-na&#239;ve population to better understand opioid
+prescription patterns, risk factors for greater opioid prescriptions, and trends over a
+decade. It is hoped that the study findings will help orthopaedic surgeons better
+understand current practices, assess for areas of continued improvement, and further
+optimize this aspect of patient care and counseling.</p><sec sec-type="methods" id="section1-23259671231159063"><title>Methods</title><sec id="section2-23259671231159063"><title>Study Cohort</title><p>Data for the current study were sourced from the PearlDiver Mariner91 (PearlDiver
+Technologies) national administrative claims database, which contains the
+longitudinal medical and prescription records of &gt;91 million covered
+patients. This study was exempt from institutional review board approval.</p><p>Patients who underwent primary ARCR between January 2010 and September 2020 were
+identified by Current Procedural Terminology code 29827. Patients were excluded
+if they were &lt;18 years of age at the time of surgery or did not have opioid
+prescription records within 90 days after surgery. The 7 Uniform System of
+Classification codes for opioids (02211, 02212, 02214, 02221, 02222, 02231, and
+02232) were used to identify patients with records of opioid prescriptions. The
+Uniform System of Classification is a North American&#8211;specific, hierarchical,
+drug classification system developed as a standard for pharmaceutical product
+classification for use by pharmaceutical companies.</p><p>Several additional exclusion criteria were applied. For the purpose of this
+study, we defined opioid-na&#239;ve patients as those without a history of chronic
+opioid use. To create an opioid-na&#239;ve study cohort, we excluded patients with
+opioid prescription records dated earlier than 4 weeks before ARCR. We did not
+exclude patients who filled opioid prescriptions within 4 weeks of surgery,
+because patients may fill opioid prescriptions in this time frame for their
+preoperative pain. Next, patients were excluded if they had chronic pain
+diagnoses according to the codes of the International Classification of
+Diseases, Ninth or Tenth Revision. Last, we excluded any patients with Current
+Procedural Terminology codes involving any other upper extremity procedures
+performed on the same day as the primary ARCR surgery.</p></sec><sec id="section3-23259671231159063"><title>Study Variables</title><p>Information recorded from the PearlDiver database included patient age, sex,
+Elixhauser Comorbidity Index (ECI; a measure of patient comorbidity burden), and
+90-day postoperative opioid prescription trend data, including the total number
+of prescription records and total morphine milligram equivalents (MMEs)
+prescribed. We chose the 90-day postoperative interval because the majority of
+postoperative opioid prescriptions in an opioid-na&#239;ve population is within this
+interval. In addition, prescriber specialty (orthopaedic vs nonorthopaedic) was
+identified from the opioid prescription records.</p><p>For comparison purposes, the study population was categorized by age group
+(40-49, 50-59, 60-69, and 70-79 years), sex, ECI (&#8804;2 or &gt;2), and prescriber
+specialty. Patients aged &lt;40 years and &gt;80 years were excluded from the
+age group analysis owing to the comparatively minimal patient volume. We also
+evaluated the year-by-year trend in mean 90-day postoperative MME prescribed per
+patient between 2010 and 2020.</p></sec><sec id="section4-23259671231159063"><title>Data Analysis</title><p>The mean, standard deviation, and median 90-day total postoperative MME for
+patients were abstracted in each age group, sex, ECI, and prescriber specialty
+category. Comparing means and standard deviations with median values for the
+study cohort allowed for greater insight into the skewing of the distribution of
+prescribed MME. Univariate analysis of variance (ANOVA) was performed to test
+for differences in MME prescribed per patient within each covariate of interest
+(age group, sex, ECI, and prescriber specialty).</p><p>Multivariate linear regression was performed to evaluate the &#8220;excess&#8221; MMEs
+prescribed to patients within each age group, sex, ECI, and prescriber specialty
+cohort. Excess MME was defined as the mean amount of MME that a cohort was
+prescribed beyond the amount prescribed to the referent cohort of the same
+variable. Using the Bonferroni correction, the alpha value for our analyses was
+established at .010, with the threshold for significance set at
+<italic toggle="yes">P</italic> &lt; .010. Finally, the 10-year trend of mean MMEs
+prescribed per patient was fitted with a trendline, and regression analysis was
+performed to assess the goodness of fit. All statistical analyses were performed
+in the PearlDiver Bellwether software.</p></sec></sec><sec sec-type="results" id="section5-23259671231159063"><title>Results</title><sec id="section6-23259671231159063"><title>Study Cohort and MME Prescribed</title><p>The study query yielded 55,345 patients who had records of opioid prescriptions
+within 90 days after the index ARCR and met all inclusion criteria. The mean &#177;
+SD age of the patients was 58.8 &#177; 10.5, and female patients made up 43% of the
+study cohort. Demographic and prescription-related information is shown in <xref rid="table1-23259671231159063" ref-type="table">Table 1</xref>. Common
+postoperative opioid prescription regimens are converted to MMEs in <xref rid="table2-23259671231159063" ref-type="table">Table 2</xref>.</p><table-wrap position="float" id="table1-23259671231159063" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of the Study Population (N = 55,345)<italic toggle="yes">
+<sup>a</sup>
+</italic></p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_23259671231159063-table1.jpg"/><table frame="hsides" rules="groups"><tbody><tr><td rowspan="1" colspan="1">Age, y, mean &#177; SD</td><td rowspan="1" colspan="1">58.77 &#177; 10.5</td></tr><tr><td rowspan="1" colspan="1">Sex, No.</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;Female</td><td rowspan="1" colspan="1">23,528</td></tr><tr><td rowspan="1" colspan="1">&#8195;Male</td><td rowspan="1" colspan="1">31,817</td></tr><tr><td rowspan="1" colspan="1">ECI, mean &#177; SD</td><td rowspan="1" colspan="1">1.87 &#177; 2.0</td></tr><tr><td rowspan="1" colspan="1">Opioid prescriptions written per patient</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;Mean</td><td rowspan="1" colspan="1">1.92</td></tr><tr><td rowspan="1" colspan="1">&#8195;Median</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">MME prescribed per patient</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;Mean &#177; SD</td><td rowspan="1" colspan="1">742.4 &#177; 256.5</td></tr><tr><td rowspan="1" colspan="1">&#8195;Median</td><td rowspan="1" colspan="1">487.5</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-23259671231159063"><p><italic toggle="yes">
+<sup>a</sup>
+</italic>ECI, Elixhauser Comorbidity Index; MME, morphine milligram
+equivalent.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="table2-23259671231159063" orientation="portrait"><label>Table 2</label><caption><p>MME of Commonly Prescribed Oral Opioids for Postoperative Pain<italic toggle="yes">
+<sup>a</sup>
+</italic></p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_23259671231159063-table2.jpg"/><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Opioid Prescription</th><th rowspan="1" colspan="1">MME</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">30 tablets</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;15-mg codeine</td><td rowspan="1" colspan="1">67.5</td></tr><tr><td rowspan="1" colspan="1">&#8195;5-mg hydrocodone (Vicodin)</td><td rowspan="1" colspan="1">150</td></tr><tr><td rowspan="1" colspan="1">&#8195;5-mg oxycodone (Percocet)</td><td rowspan="1" colspan="1">225</td></tr><tr><td rowspan="1" colspan="1">&#8195;2-mg hydromorphone (Dilaudid)</td><td rowspan="1" colspan="1">240</td></tr><tr><td rowspan="1" colspan="1">&#8195;10-mg morphine (Kadian, Avinza)</td><td rowspan="1" colspan="1">300</td></tr><tr><td rowspan="1" colspan="1">&#8195;5-mg oxymorphone (Opana)</td><td rowspan="1" colspan="1">450</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-23259671231159063"><p><italic toggle="yes">
+<sup>a</sup>
+</italic>MME, morphine milligram equivalent.</p></fn></table-wrap-foot></table-wrap><p>The distribution of MMEs prescribed per patient is shown in <xref rid="fig1-23259671231159063" ref-type="fig">Figure 1</xref>. Prescriptions &#8804;400 MMEs were
+administered to 42.6% of patients, whereas 15.4% were prescribed &gt;1000 MMEs
+within 90 days after ARCR from all prescriber sources.</p><fig position="float" id="fig1-23259671231159063" orientation="portrait"><label>Figure 1.</label><caption><p>Percentage of patients who underwent arthroscopic rotator cuff repair was
+categorized by total 90-day postoperative morphine milligram equivalents
+(MMEs) prescribed.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_23259671231159063-fig1.jpg"/></fig></sec><sec id="section7-23259671231159063"><title>Predictors of Greater Opioid Prescription</title><p>According to univariate analysis (ANOVA), significantly greater amounts of
+opioids were prescribed within 90 days of surgery for patients who were younger
+(incremental by age group; <italic toggle="yes">P</italic> &lt; .010) and female (765.1 vs
+725.6 MME for male; <italic toggle="yes">P</italic> &lt; .010) and had less morbidity burden
+(754.1 MME for ECI &#8804;2 vs 713.6 MME for ECI &gt;2; <italic toggle="yes">P</italic> &lt; .010)
+(<xref rid="table3-23259671231159063" ref-type="table">Table 3</xref>).</p><table-wrap position="float" id="table3-23259671231159063" orientation="portrait"><label>Table 3</label><caption><p>Univariate and Multivariate Analyses of Opioid Prescriptions Within 90
+Days After ARCR<italic toggle="yes">
+<sup>a</sup>
+</italic></p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_23259671231159063-table3.jpg"/><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"/><th colspan="2" rowspan="1">Univariate Analysis</th><th colspan="2" rowspan="1">Multivariate Analysis</th></tr><tr><th rowspan="1" colspan="1">Predictor</th><th rowspan="1" colspan="1">No.</th><th rowspan="1" colspan="1">MME, Mean &#177; SD</th><th rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th rowspan="1" colspan="1">Excess MME,<italic toggle="yes">
+<sup>b</sup>
+</italic> Mean &#177; SD</th><th rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Age group, y</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&lt;.010</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&lt;.010</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;40-49</td><td rowspan="1" colspan="1">7897</td><td rowspan="1" colspan="1">825.9 &#177; 1103.6</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">201.5 &#177; 16.3</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;50-59</td><td rowspan="1" colspan="1">17,527</td><td rowspan="1" colspan="1">791.4 &#177; 1304.9</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">165.2 &#177; 14.3</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;60-69</td><td rowspan="1" colspan="1">18,521</td><td rowspan="1" colspan="1">706.2 &#177; 889.5</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">80.4 &#177; 14.2</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;70-79</td><td rowspan="1" colspan="1">9307</td><td rowspan="1" colspan="1">629.4 &#177; 703.2</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Reference</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Sex</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&lt;.010</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&lt;.010</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#8195;Male</td><td rowspan="1" colspan="1">31,817</td><td rowspan="1" colspan="1">725.6 &#177; 1074.0</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Reference</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;Female</td><td rowspan="1" colspan="1">23,528</td><td rowspan="1" colspan="1">765.1 &#177; 1026.9</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">45.6 &#177; 9.1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">ECI</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&lt;.010</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">.085</td></tr><tr><td rowspan="1" colspan="1">&#8195;&#8804;2</td><td rowspan="1" colspan="1">39,294</td><td rowspan="1" colspan="1">754.1 &#177; 1073.1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">17.2 &#177; 10.0</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;&gt;2</td><td rowspan="1" colspan="1">16,051</td><td rowspan="1" colspan="1">713.6 &#177; 1006.3</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Reference</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Prescriber specialty</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">.021</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">.032</td></tr><tr><td rowspan="1" colspan="1">&#8195;Orthopaedic</td><td rowspan="1" colspan="1">44,658</td><td rowspan="1" colspan="1">659.2 &#177; 597.7</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">42.4 &#177; 19.7</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#8195;Nonorthopaedic</td><td rowspan="1" colspan="1">3045</td><td rowspan="1" colspan="1">726.5 &#177; 1604.7</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Reference</td><td rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-23259671231159063"><p><italic toggle="yes">
+<sup>a</sup>
+</italic>Bold <italic toggle="yes">P</italic> values indicate statistical
+significance (<italic toggle="yes">P</italic> &lt; .010). ARCR, arthroscopic
+rotator cuff repair; ECI, Elixhauser Comorbidity Index; MME,
+morphine milligram equivalent.</p></fn><fn id="table-fn4-23259671231159063"><p><italic toggle="yes">
+<sup>b</sup>
+</italic>Estimated excess MMEs prescribed over 90-day postoperative
+period as compared with the reference group of the same
+variable.</p></fn></table-wrap-foot></table-wrap><p>Results of the multivariate analysis indicated that younger age and female sex
+were predictive of more excess MMEs being prescribed. When compared with
+patients 70 to 79 years of age, those aged 60 to 69 years had an excess
+prescription of 80.4 MMEs; those aged 50 to 59 years, 165.2 MMEs; and those aged
+40 to 49 years, 201.5 MMEs (<italic toggle="yes">P</italic> &lt; .010). Female sex was
+associated with an excess opioid prescription of 45.6 MMEs (<italic toggle="yes">P</italic>
+&lt; .010) (<xref rid="table3-23259671231159063" ref-type="table">Table
+3</xref>).</p></sec><sec id="section8-23259671231159063"><title>Prescription Trends for MMEs During the Study Period</title><p>Yearly trend analysis for 90-day postoperative prescriptions for MME over the
+decade of the analysis showed a downtrend of 55.1 MMEs per patient per year
+(<xref rid="fig2-23259671231159063" ref-type="fig">Figure 2</xref>). In
+fact, the mean MMEs prescribed per patient decreased by 66% from 2010 (1001.5
+MMEs) to 2020 (341.1 MMEs).</p><fig position="float" id="fig2-23259671231159063" orientation="portrait"><label>Figure 2.</label><caption><p>Yearly trends in 90-day postoperative prescriptions for morphine
+milligram equivalents (MMEs) after arthroscopic rotator cuff repair,
+January 2010 to September 2020. Equation of line: <italic toggle="yes">y</italic> =
+&#8211;55.1<italic toggle="yes">x</italic> + 911.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_23259671231159063-fig2.jpg"/></fig></sec></sec><sec sec-type="discussion" id="section9-23259671231159063"><title>Discussion</title><p>The current study included 55,345 opioid-na&#239;ve patients who underwent ARCR and had
+postoperative prescription records. To our knowledge, this is the largest study to
+track opioid prescription trends after isolated ARCR in patients over the 90-day
+postoperative window and the first to identify demographic risk factors for
+increased opioid prescription amounts in this population. The median total 90-day
+postoperative opioid amount prescribed was 487.5 MMEs, the equivalent of 72 tablets
+of 5-mg Percocet (oxycodone). For reference, another database study of opioid-na&#239;ve,
+privately insured patients undergoing common orthopaedic procedures between 2015 and
+2016 found that the median total 90-day postoperative opioid amount prescribed was
+450 MME, the equivalent of 67 tablets of 5-mg Percocet.<sup>
+<xref rid="bibr25-23259671231159063" ref-type="bibr">25</xref>
+</sup> These findings are similar to the results of the current study.</p><p>Notably, we found that the mean total 90-day postoperative prescription was 742.4
+MME, the equivalent of 110 tablets of 5-mg Percocet. The considerable discrepancy
+between the mean value and the median (487.5 MME) may be attributed to outlier
+patients with particularly large prescriptions.</p><p>We found that female patients were at greater risk for being prescribed more opioids
+(45.6 MMEs more vs male patients; <italic toggle="yes">P</italic> &lt; .010). This finding
+supplements the literature, which reports that women suffer more opioid-related
+overdoses yearly as compared with men<sup>
+<xref rid="bibr26-23259671231159063" ref-type="bibr">26</xref>
+</sup> and are more likely to use prescription opioids.<sup>
+<xref rid="bibr20-23259671231159063" ref-type="bibr">20</xref>
+</sup> This finding may support the findings of Leroux et al,<sup>
+<xref rid="bibr13-23259671231159063" ref-type="bibr">13</xref>
+</sup> who reported that female sex carried an increased risk of long-term opioid
+use after elective shoulder surgery, given that longer and higher-dosage opioid
+prescriptions may be associated with a decreased likelihood of discontinuation in
+opioid-na&#239;ve patients.<sup>
+<xref rid="bibr21-23259671231159063" ref-type="bibr">21</xref>
+</sup> Younger patients were also found to be at greater risk for being prescribed
+more opioids. This trend was consistent among the decade-based age groups that we
+studied; on average, patients in each subsequently younger age group are prescribed
+increasingly more total MMEs in their 90-day postoperative course.</p><p>Over the 10-year study period, the mean 90-day postoperative opioid prescription
+amount per patient declined, from the equivalent of 148 tablets of 5-mg Percocet in
+2010 to 51 tablets in 2020. This may represent the effects of increased attention to
+this topic over the past decade.<sup><xref rid="bibr3-23259671231159063" ref-type="bibr">3</xref>,<xref rid="bibr6-23259671231159063" ref-type="bibr">6</xref>,<xref rid="bibr7-23259671231159063" ref-type="bibr">7</xref>,<xref rid="bibr11-23259671231159063" ref-type="bibr">11</xref>,<xref rid="bibr15-23259671231159063" ref-type="bibr">15</xref>,<xref rid="bibr16-23259671231159063" ref-type="bibr">16</xref>,<xref rid="bibr23-23259671231159063" ref-type="bibr">23</xref></sup> There has been discussion
+around reducing postoperative opioid use by implementing multimodal analgesic therapy,<sup>
+<xref rid="bibr16-23259671231159063" ref-type="bibr">16</xref>
+</sup> local-regional blocks,<sup>
+<xref rid="bibr11-23259671231159063" ref-type="bibr">11</xref>
+</sup> physical therapy,<sup>
+<xref rid="bibr7-23259671231159063" ref-type="bibr">7</xref>
+</sup> and preoperative counseling,<sup><xref rid="bibr6-23259671231159063" ref-type="bibr">6</xref>,<xref rid="bibr23-23259671231159063" ref-type="bibr">23</xref></sup> among other strategies. The
+PROSPECT study (Procedure-Specific Pain Management),<sup>
+<xref rid="bibr24-23259671231159063" ref-type="bibr">24</xref>
+</sup> the first to establish evidence-based procedure-specific postoperative pain
+management guidelines for rotator cuff repair surgery, recommended that opioids
+should be used only as rescue analgesia in the postoperative course. While Williams
+et al<sup>
+<xref rid="bibr29-23259671231159063" ref-type="bibr">29</xref>
+</sup> found that patients who used preoperative opioids for pain control tended to
+use more postoperative opioid prescriptions after ARCR, their study did not stratify
+for the dosage or duration of the preoperative opioids taken.</p><p>It has been reported that 9.8% of opioid-na&#239;ve patients fill an unusually elevated
+number of prescriptions after ARCR (described as &#8805;6 prescriptions filled within 2
+years of surgery), and this figure soars to 18.6% when prior opioid users are
+included.<sup><xref rid="bibr6-23259671231159063" ref-type="bibr">6</xref>,<xref rid="bibr8-23259671231159063" ref-type="bibr">8</xref></sup>
+Noting the rampant issues with narcotic use,<sup>
+<xref rid="bibr18-23259671231159063" ref-type="bibr">18</xref>
+</sup> it is important for physicians to understand the risk factors for the
+overprescription and misuse of opioids after procedures such as ARCR so that they
+become better stewards of opioids. The past decade has seen legislative and judicial
+enforcements in efforts to minimize physician opioid-prescribing practices. By the
+end of 2019, 39 states in the United States had imposed regulations on the duration
+limit for an opioid prescription, with the most common limit being 7 days.<sup>
+<xref rid="bibr14-23259671231159063" ref-type="bibr">14</xref>
+</sup> In addition, 14 states had imposed regulations on prescription opioid dosage,
+ranging from 30 to 120 daily maximum MMEs. In 2018, the United States developed a
+first-of-its-kind initiative to stop opioid abuse, which included utilizing a
+Department of Justice litigation unit to advance the prosecution of &#8220;corrupt or
+criminally negligent doctors, pharmacies, and distributors.&#8221;<sup>
+<xref rid="bibr28-23259671231159063" ref-type="bibr">28</xref>
+</sup> A combination of legal restrictions as well as fear of legal repercussions
+among physicians may be contributing to the declining opioid prescription trend.</p><p>Broadly, there is still much room for improvement in reducing opioid prescriptions
+among orthopaedic surgeons: Kim et al<sup>
+<xref rid="bibr10-23259671231159063" ref-type="bibr">10</xref>
+</sup> reported that orthopaedic surgeons still prescribe 3 times the amount of
+narcotics that end up being consumed by patients undergoing various upper extremity
+surgical procedures. Awareness of the likely overprescription patterns of providers
+and recognition of the underutilization of the opioids prescribed may assist in
+reducing the risks and cost of postoperative pain control.</p><sec id="section10-23259671231159063"><title>Limitations</title><p>The limitations of the current study are consistent with other administrative
+database studies in that the data are subject to potential administrative error
+in coding and extraction.<sup>
+<xref rid="bibr30-23259671231159063" ref-type="bibr">30</xref>
+</sup> Furthermore, patient-specific data (particularly of outliers) cannot be
+assessed. Finally, while the current study tracked opioid prescriptions through
+claims, it did not track patient consumption of opioids. However, postoperative
+opioid prescriptions, especially the duration of prescription, have been shown
+to directly correlate with opioid misuse (defined as dependence, abuse, or overdose).<sup>
+<xref rid="bibr2-23259671231159063" ref-type="bibr">2</xref>
+</sup></p></sec></sec><sec sec-type="conclusions" id="section11-23259671231159063"><title>Conclusion</title><p>There has been tremendous progress in reducing opioid prescriptions after ARCR from
+2010 to 2020. While the large amount of MMEs being prescribed to opioid-na&#239;ve
+patients after ARCR has gone down significantly over the 10 years studied, opioid
+overdose deaths continue to increase rapidly in the United States. Orthopaedic
+surgeons should be aware that younger age and female sex may be risk factors for
+overprescription of narcotics after ARCR. While adequate postoperative pain control
+is necessary, orthopaedic surgeons should be enacting strategies to minimize the
+need to prescribe opioids after surgery. Further studies into demographic,
+socioeconomic, and medical professional factors for overprescription and misuse of
+opioids are warranted to guide physician stewardship of narcotics.</p></sec></body><back><fn-group><fn fn-type="other" id="fn1-23259671231159063"><p>Final revision submitted November 20, 2022; accepted January 1, 2023.</p></fn><fn fn-type="COI-statement" id="fn2-23259671231159063"><p>One or more of the authors has declared the following potential conflict of
+interest or source of funding: M.J.M. has received consulting and nonconsulting
+fees from Smith &amp; Nephew. AOSSM checks author disclosures against the Open
+Payments Database (OPD). AOSSM has not conducted an independent investigation on
+the OPD and disclaims any liability or responsibility relating thereto.</p></fn><fn fn-type="other" id="fn3-23259671231159063"><p>Ethical approval for this study was waived by Yale University (protocol No.
+2000028988).</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-23259671231159063"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bohnert</surname><given-names>ASB</given-names></name><name name-style="western"><surname>Valenstein</surname><given-names>M</given-names></name><name name-style="western"><surname>Bair</surname><given-names>MJ</given-names></name></person-group>, <etal>et al.</etal><article-title>Association between opioid
+prescribing patterns and opioid overdose-related deaths</article-title>.
+<source>JAMA</source>.
+<year>2011</year>;<volume>305</volume>(<issue>13</issue>):<fpage>1315</fpage>&#8211;<lpage>1321</lpage>.<pub-id pub-id-type="pmid">21467284</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2011.370</pub-id></mixed-citation></ref><ref id="bibr2-23259671231159063"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Brat</surname><given-names>GA</given-names></name><name name-style="western"><surname>Agniel</surname><given-names>D</given-names></name><name name-style="western"><surname>Beam</surname><given-names>A</given-names></name></person-group>, <etal>et al.</etal><article-title>Postsurgical prescriptions
+for opioid naive patients and association with overdose and misuse:
+retrospective cohort study</article-title>. <source>BMJ</source>.
+<year>2018</year>;<volume>360</volume>:<fpage>J5790</fpage>.<pub-id pub-id-type="pmid">29343479</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.j5790</pub-id><pub-id pub-id-type="pmcid">PMC5769574</pub-id></mixed-citation></ref><ref id="bibr3-23259671231159063"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Burns</surname><given-names>S</given-names></name><name name-style="western"><surname>Urman</surname><given-names>R</given-names></name><name name-style="western"><surname>Pian</surname><given-names>R</given-names></name></person-group>, <etal>et al.</etal><article-title>Reducing new persistent
+opioid use after surgery: a review of interventions</article-title>.
+<source>Curr Pain Headache Rep</source>.
+<year>2021</year>;<volume>25</volume>(<issue>5</issue>):<fpage>27</fpage>.<pub-id pub-id-type="pmid">33760983</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11916-021-00943-6</pub-id><pub-id pub-id-type="pmcid">PMC7990836</pub-id></mixed-citation></ref><ref id="bibr4-23259671231159063"><label>4</label><mixed-citation publication-type="webpage"><collab collab-type="author">Centers for
+Disease Control and Prevention</collab>. <article-title>Opioid data analysis
+and resources</article-title>. <comment>June 1, 2022</comment>.
+<comment>Accessed July 24, 2022</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/opioids/data/analysis-resources.html" ext-link-type="uri">https://www.cdc.gov/opioids/data/analysis-resources.html</ext-link></mixed-citation></ref><ref id="bibr5-23259671231159063"><label>5</label><mixed-citation publication-type="webpage"><collab collab-type="author">Centers for
+Disease Control and Prevention, National Center for Health
+Statistics</collab>. <article-title>US overdose deaths in 2021 increased
+half as much as in 2020&#8212;but are still up 15%</article-title>. <comment>May
+11, 2022</comment>. <comment>Accessed July 24, 2022</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/202205.htm" ext-link-type="uri">https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/202205.htm</ext-link></mixed-citation></ref><ref id="bibr6-23259671231159063"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cheesman</surname><given-names>Q</given-names></name><name name-style="western"><surname>DeFrance</surname><given-names>M</given-names></name><name name-style="western"><surname>Stenson</surname><given-names>J</given-names></name></person-group>, <etal>et al.</etal><article-title>The effect of preoperative
+education on opioid consumption in patients undergoing arthroscopic rotator
+cuff repair: a prospective, randomized clinical trial-2-year
+follow-up</article-title>. <source>J Shoulder Elbow Surg</source>.
+<year>2020</year>;<volume>29</volume>(<issue>9</issue>):<fpage>1743</fpage>&#8211;<lpage>1750</lpage>.<pub-id pub-id-type="pmid">32815803</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2020.04.036</pub-id></mixed-citation></ref><ref id="bibr7-23259671231159063"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Disantis</surname><given-names>A</given-names></name><name name-style="western"><surname>Martin</surname><given-names>R</given-names></name></person-group>. <article-title>Editorial commentary: hip arthroscopists can
+reduce postoperative opioid use</article-title>.
+<source>Arthroscopy</source>.
+<year>2021</year>;<volume>37</volume>(<issue>2</issue>):<fpage>537</fpage>&#8211;<lpage>540</lpage>.<pub-id pub-id-type="pmid">33546792</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.arthro.2020.11.035</pub-id></mixed-citation></ref><ref id="bibr8-23259671231159063"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gil</surname><given-names>JA</given-names></name><name name-style="western"><surname>Gunaseelan</surname><given-names>V</given-names></name><name name-style="western"><surname>DeFroda</surname><given-names>SF</given-names></name></person-group>, <etal>et al.</etal><article-title>Risk of prolonged opioid use
+among opioid-na&#239;ve patients after common shoulder arthroscopy
+procedures</article-title>. <source>Am J Sports Med</source>.
+<year>2019</year>;<volume>47</volume>(<issue>5</issue>):<fpage>1043</fpage>&#8211;<lpage>1050</lpage>.<pub-id pub-id-type="pmid">30735622</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546518819780</pub-id><pub-id pub-id-type="pmcid">PMC7303922</pub-id></mixed-citation></ref><ref id="bibr9-23259671231159063"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Guy</surname><given-names>GP</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>K</given-names></name></person-group>. <article-title>Opioid prescribing by specialty and volume in
+the US</article-title>. <source>Am J Prev Med</source>.
+<year>2018</year>;<volume>55</volume>(<issue>5</issue>):<fpage>e153</fpage>&#8211;<lpage>e155</lpage>.<pub-id pub-id-type="pmid">30219212</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amepre.2018.06.008</pub-id><pub-id pub-id-type="pmcid">PMC6327317</pub-id></mixed-citation></ref><ref id="bibr10-23259671231159063"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>N</given-names></name><name name-style="western"><surname>Matzon</surname><given-names>JL</given-names></name><name name-style="western"><surname>Abboudi</surname><given-names>J</given-names></name></person-group>, <etal>et al.</etal><article-title>A prospective evaluation of
+opioid utilization after upper-extremity surgical procedures: identifying
+consumption patterns and determining prescribing guidelines</article-title>.
+<source>J Bone Joint Surg Am</source>.
+<year>2016</year>;<volume>98</volume>(<issue>20</issue>):<fpage>e89</fpage>.<pub-id pub-id-type="pmid">27869630</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2106/JBJS.15.00614</pub-id></mixed-citation></ref><ref id="bibr11-23259671231159063"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Choi</surname><given-names>YS</given-names></name><name name-style="western"><surname>Chun</surname><given-names>YM</given-names></name></person-group>, <etal>et al.</etal><article-title>Perioperative intravenous
+lidocaine infusion on postoperative recovery in patients undergoing
+arthroscopic rotator cuff repair under general anesthesia: a randomized
+controlled trial</article-title>. <source>Clin J Pain</source>.
+<year>2021</year>;<volume>38</volume>(<issue>1</issue>):<fpage>1</fpage>&#8211;<lpage>7</lpage>.<pub-id pub-id-type="pmid">34636752</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AJP.0000000000000995</pub-id></mixed-citation></ref><ref id="bibr12-23259671231159063"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lawal</surname><given-names>OD</given-names></name><name name-style="western"><surname>Gold</surname><given-names>J</given-names></name><name name-style="western"><surname>Murthy</surname><given-names>A</given-names></name></person-group>, <etal>et al.</etal><article-title>Rate and risk factors
+associated with prolonged opioid use after surgery: a systematic review and
+meta-analysis</article-title>. <source>JAMA Netw Open</source>.
+<year>2020</year>;<volume>3</volume>(<issue>6</issue>):<fpage>e207367</fpage>.<pub-id pub-id-type="pmid">32584407</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2020.7367</pub-id><pub-id pub-id-type="pmcid">PMC7317603</pub-id></mixed-citation></ref><ref id="bibr13-23259671231159063"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Leroux</surname><given-names>TS</given-names></name><name name-style="western"><surname>Saltzman</surname><given-names>BM</given-names></name><name name-style="western"><surname>Sumner</surname><given-names>SA</given-names></name></person-group>, <etal>et al.</etal><article-title>Elective shoulder surgery in
+the opioid na&#239;ve: rates of and risk factors for long-term postoperative
+opioid use</article-title>. <source>Am J Sports Med</source>.
+<year>2019</year>;<volume>47</volume>(<issue>5</issue>):<fpage>1051</fpage>&#8211;<lpage>1056</lpage>.<pub-id pub-id-type="pmid">30943077</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546519837516</pub-id></mixed-citation></ref><ref id="bibr14-23259671231159063"><label>14</label><mixed-citation publication-type="webpage"><person-group person-group-type="author"><name name-style="western"><surname>Lieberman</surname><given-names>A</given-names></name><name name-style="western"><surname>Davis</surname><given-names>C</given-names></name></person-group>. <article-title>Laws limiting the prescribing or dispensing of
+opioids. Network for Public Health Law</article-title>. <comment>Accessed
+November 8, 2022</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.networkforphl.org/resources/laws-limiting-the-prescribing-or-dispensing-of-opioids/" ext-link-type="uri">https://www.networkforphl.org/resources/laws-limiting-the-prescribing-or-dispensing-of-opioids/</ext-link><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2018.09.022</pub-id><pub-id pub-id-type="pmid">30445274</pub-id></mixed-citation></ref><ref id="bibr15-23259671231159063"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>McCarthy</surname><given-names>E</given-names></name><name name-style="western"><surname>Felte</surname><given-names>R</given-names></name><name name-style="western"><surname>Urban</surname><given-names>D</given-names></name></person-group>, <etal>et al.</etal><article-title>Community hospital decreases
+narcotic usage in postoperative bariatric patients</article-title>.
+<source>Surg Obes Relat Dis</source>.
+<year>2020</year>;<volume>16</volume>(<issue>11</issue>):<fpage>1810</fpage>&#8211;<lpage>1815</lpage>.<pub-id pub-id-type="pmid">32741726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.soard.2020.06.021</pub-id></mixed-citation></ref><ref id="bibr16-23259671231159063"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Moutzouros</surname><given-names>V</given-names></name><name name-style="western"><surname>Jildeh</surname><given-names>TR</given-names></name><name name-style="western"><surname>Khalil</surname><given-names>LS</given-names></name></person-group>, <etal>et al.</etal><article-title>A multimodal protocol to
+diminish pain following common orthopedic sports procedures: can we
+eliminate postoperative
+opioids?</article-title><source>Arthroscopy</source>.
+<year>2020</year>;<volume>36</volume>(<issue>8</issue>):<fpage>2249</fpage>&#8211;<lpage>2257</lpage>.<pub-id pub-id-type="pmid">32353620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.arthro.2020.04.018</pub-id></mixed-citation></ref><ref id="bibr17-23259671231159063"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nafziger</surname><given-names>AN</given-names></name><name name-style="western"><surname>Barkin</surname><given-names>RL</given-names></name></person-group>. <article-title>Opioid therapy in acute and chronic
+pain</article-title>. <source>J Clin Pharmacol</source>.
+<year>2018</year>;<volume>58</volume>(<issue>9</issue>):<fpage>1111</fpage>&#8211;<lpage>1122</lpage>.<pub-id pub-id-type="pmid">29985526</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.1276</pub-id></mixed-citation></ref><ref id="bibr18-23259671231159063"><label>18</label><mixed-citation publication-type="webpage"><collab collab-type="author">National
+Institutes of Health. Overdose death rates. National Institute on Drug
+Abuse</collab>. <comment>January 20, 2022</comment>. <comment>Accessed July
+17, 2022</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates" ext-link-type="uri">https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates</ext-link></mixed-citation></ref><ref id="bibr19-23259671231159063"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Neuman</surname><given-names>MD</given-names></name><name name-style="western"><surname>Bateman</surname><given-names>BT</given-names></name><name name-style="western"><surname>Wunsch</surname><given-names>H</given-names></name></person-group>. <article-title>Inappropriate opioid prescription after
+surgery</article-title>. <source>Lancet Lond Engl</source>.
+<year>2019</year>;<volume>393</volume>(<issue>10180</issue>):<fpage>1547</fpage>&#8211;<lpage>1557</lpage>.
+<comment>doi:10.1016/S0140-6736(19)30428-3</comment><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(19)30428-3</pub-id><pub-id pub-id-type="pmcid">PMC6556783</pub-id><pub-id pub-id-type="pmid">30983590</pub-id></mixed-citation></ref><ref id="bibr20-23259671231159063"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Serdarevic</surname><given-names>M</given-names></name><name name-style="western"><surname>Striley</surname><given-names>CW</given-names></name><name name-style="western"><surname>Cottler</surname><given-names>LB</given-names></name></person-group>. <article-title>Gender differences in prescription opioid
+use</article-title>. <source>Curr Opin Psychiatry</source>.
+<year>2017</year>;<volume>30</volume>(<issue>4</issue>):<fpage>238</fpage>&#8211;<lpage>246</lpage>.<pub-id pub-id-type="pmid">28426545</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/YCO.0000000000000337</pub-id><pub-id pub-id-type="pmcid">PMC5675036</pub-id></mixed-citation></ref><ref id="bibr21-23259671231159063"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shah</surname><given-names>A</given-names></name><name name-style="western"><surname>Hayes</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Martin</surname><given-names>BC</given-names></name></person-group>. <article-title>Factors influencing long-term opioid use among
+opioid naive patients: an examination of initial prescription
+characteristics and pain etiologies</article-title>. <source>J
+Pain</source>.
+<year>2017</year>;<volume>18</volume>(<issue>11</issue>):<fpage>1374</fpage>&#8211;<lpage>1383</lpage>.<pub-id pub-id-type="pmid">28711636</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpain.2017.06.010</pub-id><pub-id pub-id-type="pmcid">PMC5660650</pub-id></mixed-citation></ref><ref id="bibr22-23259671231159063"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sun</surname><given-names>EC</given-names></name><name name-style="western"><surname>Darnall</surname><given-names>BD</given-names></name><name name-style="western"><surname>Baker</surname><given-names>LC</given-names></name></person-group>, <etal>et al.</etal><article-title>Incidence of and risk factors
+for chronic opioid use among opioid-naive patients in the postoperative
+period</article-title>. <source>JAMA Intern Med</source>.
+<year>2016</year>;<volume>176</volume>(<issue>9</issue>):<fpage>1286</fpage>&#8211;<lpage>1293</lpage>.<pub-id pub-id-type="pmid">27400458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2016.3298</pub-id><pub-id pub-id-type="pmcid">PMC6684468</pub-id></mixed-citation></ref><ref id="bibr23-23259671231159063"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Syed</surname><given-names>UAM</given-names></name><name name-style="western"><surname>Aleem</surname><given-names>AW</given-names></name><name name-style="western"><surname>Wowkanech</surname><given-names>C</given-names></name></person-group>, <etal>et al.</etal><article-title>The effect of preoperative
+education on opioid consumption in patients undergoing arthroscopic rotator
+cuff repair: a prospective, randomized clinical trial</article-title>.
+<source>J Shoulder Elbow Surg</source>.
+<year>2018</year>;<volume>27</volume>(<issue>6</issue>):<fpage>962</fpage>&#8211;<lpage>967</lpage>.<pub-id pub-id-type="pmid">29599038</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2018.02.039</pub-id></mixed-citation></ref><ref id="bibr24-23259671231159063"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Toma</surname><given-names>O</given-names></name><name name-style="western"><surname>Persoons</surname><given-names>B</given-names></name><name name-style="western"><surname>Pogatzki-Zahn</surname><given-names>E</given-names></name></person-group>, <etal>et al.</etal><article-title>PROSPECT guideline for
+rotator cuff repair surgery: systematic review and procedure-specific
+postoperative pain management recommendations</article-title>.
+<source>Anaesthesia</source>.
+<year>2019</year>;<volume>74</volume>(<issue>10</issue>):<fpage>1320</fpage>&#8211;<lpage>1331</lpage>.<pub-id pub-id-type="pmid">31392721</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/anae.14796</pub-id><pub-id pub-id-type="pmcid">PMC6771830</pub-id></mixed-citation></ref><ref id="bibr25-23259671231159063"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Traven</surname><given-names>SA</given-names></name><name name-style="western"><surname>Brinton</surname><given-names>DL</given-names></name><name name-style="western"><surname>Woolf</surname><given-names>SK</given-names></name></person-group>, <etal>et al.</etal><article-title>Notable variability in
+opioid-prescribing practices after common orthopaedic
+procedures</article-title>. <source>J Am Acad Orthop Surg</source>.
+<year>2021</year>;<volume>29</volume>(<issue>5</issue>):<fpage>219</fpage>&#8211;<lpage>226</lpage>.<pub-id pub-id-type="pmid">32568996</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5435/JAAOS-D-19-00798</pub-id></mixed-citation></ref><ref id="bibr26-23259671231159063"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Unick</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Rosenblum</surname><given-names>D</given-names></name><name name-style="western"><surname>Mars</surname><given-names>S</given-names></name></person-group>, <etal>et al.</etal><article-title>Intertwined epidemics:
+national demographic trends in hospitalizations for heroin- and
+opioid-related overdoses, 1993-2009</article-title>. <source>PloS
+One</source>.
+<year>2013</year>;<volume>8</volume>(<issue>2</issue>):<fpage>e54496</fpage>.<pub-id pub-id-type="pmid">23405084</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0054496</pub-id><pub-id pub-id-type="pmcid">PMC3566161</pub-id></mixed-citation></ref><ref id="bibr27-23259671231159063"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Uquillas</surname><given-names>CA</given-names></name><name name-style="western"><surname>Capogna</surname><given-names>BM</given-names></name><name name-style="western"><surname>Rossy</surname><given-names>WH</given-names></name></person-group>, <etal>et al.</etal><article-title>Postoperative pain control
+after arthroscopic rotator cuff repair</article-title>. <source>J Shoulder
+Elbow Surg</source>.
+<year>2016</year>;<volume>25</volume>(<issue>7</issue>):<fpage>1204</fpage>&#8211;<lpage>1213</lpage>.<pub-id pub-id-type="pmid">27079219</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2016.01.026</pub-id></mixed-citation></ref><ref id="bibr28-23259671231159063"><label>28</label><mixed-citation publication-type="webpage"><collab collab-type="author">US Department of
+Justice. Justice department takes first-of-its-kind-legal action to reduce
+opioid over-prescription</collab>. <comment>August 22, 2018</comment>.
+<comment>Accessed November 8, 2022</comment>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.justice.gov/opa/pr/justice-department-takes-first-its-kind-legal-action-reduce-opioid-over-prescription" ext-link-type="uri">https://www.justice.gov/opa/pr/justice-department-takes-first-its-kind-legal-action-reduce-opioid-over-prescription</ext-link></mixed-citation></ref><ref id="bibr29-23259671231159063"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Williams</surname><given-names>BT</given-names></name><name name-style="western"><surname>Redlich</surname><given-names>NJ</given-names></name><name name-style="western"><surname>Mickschl</surname><given-names>DJ</given-names></name></person-group>, <etal>et al.</etal><article-title>Influence of preoperative
+opioid use on postoperative outcomes and opioid use after arthroscopic
+rotator cuff repair</article-title>. <source>J Shoulder Elbow Surg</source>.
+<year>2019</year>;<volume>28</volume>(<issue>3</issue>):<fpage>453</fpage>&#8211;<lpage>460</lpage>.<pub-id pub-id-type="pmid">30503333</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2018.08.036</pub-id></mixed-citation></ref><ref id="bibr30-23259671231159063"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yoshihara</surname><given-names>H</given-names></name><name name-style="western"><surname>Yoneoka</surname><given-names>D</given-names></name></person-group>. <article-title>Understanding the statistics and limitations of
+large database analyses</article-title>. <source>Spine</source>.
+<year>2014</year>;<volume>39</volume>(<issue>16</issue>):<fpage>1311</fpage>&#8211;<lpage>1312</lpage>.<pub-id pub-id-type="pmid">24732861</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/BRS.0000000000000352</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,91 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" xml:lang="en" dtd-version="1.4"><!--The publisher of this article does not allow downloading of the full text in XML form.--><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Serv Res</journal-id><journal-id journal-id-type="iso-abbrev">Health Serv Res</journal-id><journal-id journal-id-type="pmc-domain-id">235</journal-id><journal-id journal-id-type="pmc-domain">hsresearch</journal-id><journal-id journal-id-type="publisher-id">HESR</journal-id><journal-title-group><journal-title>Health Services Research</journal-title></journal-title-group><issn pub-type="ppub">0017-9124</issn><issn pub-type="epub">1475-6773</issn><publisher><publisher-name>Health Research &amp; Educational Trust</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7080378</article-id><article-id pub-id-type="pmcid-ver">PMC7080378.1</article-id><article-id pub-id-type="pmcaid">7080378</article-id><article-id pub-id-type="pmcaiid">7080378</article-id><article-id pub-id-type="pmid">31930738</article-id><article-id pub-id-type="doi">10.1111/1475-6773.13259</article-id><article-id pub-id-type="publisher-id">HESR13259</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Brief</subject></subj-group><subj-group subj-group-type="heading"><subject>Evaluation of Safety&#8208;net Policies</subject></subj-group></article-categories><title-group><article-title>Trends in smoking documentation rates in safety net clinics</article-title><alt-title alt-title-type="left-running-head">FORTMANN et al.</alt-title></title-group><contrib-group><contrib id="hesr13259-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Fortmann</surname><given-names initials="SP">Stephen P.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1327-9341</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref><address><email>Stephen.P.Fortmann@kpchr.org</email></address></contrib><contrib id="hesr13259-cr-0002" contrib-type="author"><name name-style="western"><surname>Bailey</surname><given-names initials="SR">Steffani R.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4482-8083</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="hesr13259-cr-0003" contrib-type="author"><name name-style="western"><surname>Brooks</surname><given-names initials="NB">Neon B.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1079-5858</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr13259-cr-0004" contrib-type="author"><name name-style="western"><surname>Hitsman</surname><given-names initials="B">Brian</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2346-4521</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hesr13259-cr-0005" contrib-type="author"><name name-style="western"><surname>Rittner</surname><given-names initials="SS">Sarah Stuart</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="hesr13259-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="hesr13259-curr-0001">
+<sup>10</sup>
+</xref></contrib><contrib id="hesr13259-cr-0006" contrib-type="author"><name name-style="western"><surname>Gillespie</surname><given-names initials="SE">Suzanne E.</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr13259-cr-0007" contrib-type="author"><name name-style="western"><surname>Hill</surname><given-names initials="CN">Christian Nissen</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="hesr13259-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="hesr13259-cr-0008" contrib-type="author"><name name-style="western"><surname>Leo</surname><given-names initials="MC">Michael C.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7052-8183</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr13259-cr-0009" contrib-type="author"><name name-style="western"><surname>Crawford</surname><given-names initials="PM">Phillip M.</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr13259-cr-0010" contrib-type="author"><name name-style="western"><surname>Hu</surname><given-names initials="W">Weiming</given-names></name><degrees>MS</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5639-5043</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hesr13259-cr-0011" contrib-type="author"><name name-style="western"><surname>King</surname><given-names initials="DS">Dana S.</given-names></name><degrees>BA, ALM</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3310-2794</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="hesr13259-cr-0012" contrib-type="author"><name name-style="western"><surname>O'Cleirigh</surname><given-names initials="C">Conall</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3296-0407</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="hesr13259-aff-0007">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="hesr13259-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="hesr13259-cr-0013" contrib-type="author"><name name-style="western"><surname>Puro</surname><given-names initials="J">Jon</given-names></name><degrees>MPA, HA</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9155-7733</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="hesr13259-cr-0014" contrib-type="author"><name name-style="western"><surname>Ann McBurnie</surname><given-names initials="M">Mary</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0314-220X</contrib-id><xref ref-type="aff" rid="hesr13259-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="hesr13259-aff-0001">
+<label><sup>1</sup></label>
+<institution>Kaiser Permanente Center for Health Research</institution>
+<city>Portland</city>
+<named-content content-type="country-part">Oregon</named-content>
+</aff><aff id="hesr13259-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Family Medicine</named-content>
+<institution>Oregon Health and Science University</institution>
+<city>Portland</city>
+<named-content content-type="country-part">Oregon</named-content>
+</aff><aff id="hesr13259-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Preventive Medicine</named-content>
+<institution>Northwestern University Feinberg School of Medicine</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+</aff><aff id="hesr13259-aff-0004">
+<label><sup>4</sup></label>
+<institution>AllianceChicago</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+</aff><aff id="hesr13259-aff-0005">
+<label><sup>5</sup></label>
+<institution>Virginia Garcia Memorial Health Center</institution>
+<city>Aloha</city>
+<named-content content-type="country-part">Oregon</named-content>
+</aff><aff id="hesr13259-aff-0006">
+<label><sup>6</sup></label>
+<institution>The Fenway Institute</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="hesr13259-aff-0007">
+<label><sup>7</sup></label>
+<institution>Massachusetts General Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="hesr13259-aff-0008">
+<label><sup>8</sup></label>
+<institution>Harvard Medical School</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="hesr13259-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Research Informatics and Analytics</named-content>
+<institution>OCHIN, Inc.</institution>
+<city>Portland</city>
+<named-content content-type="country-part">Oregon</named-content>
+</aff><aff id="hesr13259-curr-0001"><label><sup>10</sup></label>Present address:
+<institution>SASU Project Management</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Stephen P. Fortmann, MD, Kaiser Permanente Center for Health Research, 3800 N. Interstate Ave., Portland, OR, 97227.<break/>
+Email: <email>Stephen.P.Fortmann@kpchr.org</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2020</year></pub-date><volume>55</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">354511</issue-id><issue-id pub-id-type="doi">10.1111/hesr.v55.2</issue-id><fpage>170</fpage><lpage>177</lpage><pub-history><event event-type="pmc-release"><date><day>01</day><month>04</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>01</day><month>04</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-26 12:25:14.880"><day>26</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">&#169; Health Research and Educational Trust</copyright-statement></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HESR-55-170.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HESR-55-170.pdf"/><abstract id="hesr13259-abs-0001"><title>Abstract</title><sec id="hesr13259-sec-0001"><title>Objective</title><p>To assess the impact of provider incentive policy on smoking status documentation.</p></sec><sec id="hesr13259-sec-0002"><title>Data Sources</title><p>Primary data were extracted from structured electronic medical records (EMRs) from 15 community health centers (CHCs).</p></sec><sec id="hesr13259-sec-0003"><title>Study Design</title><p>This was an observational study of data from 2006 to 2013, assessing changes in documentation of smoking status over time.</p></sec><sec id="hesr13259-sec-0004"><title>Data Extraction Methods</title><p>We extracted structured EMR data for patients age 18 and older with at least one primary care visit.</p></sec><sec id="hesr13259-sec-0005"><title>Principal Findings</title><p>Rates of documented smoking status rose from 30 percent in 2006 to 90 percent in 2013; the largest increase occurred from 2011 to 2012 following policy changes (21.3% [95% CI, 8.2%, 34.4%] from the overall trend). Rates varied by clinic and across patient subgroups.</p></sec><sec id="hesr13259-sec-0006"><title>Conclusions</title><p>Documentation of smoking status improved markedly after introduction of new federal standards. Further improvement in documentation is still needed, especially for males, nonwhite patients, those using opioids, and HIV&#160;+&#160;patients. More research is needed to study whether changes in documentation lead to improvements in counseling, cessation, and patient outcomes.</p></sec></abstract><kwd-group><kwd id="hesr13259-kwd-0001">community health centers</kwd><kwd id="hesr13259-kwd-0002">electronic health records</kwd><kwd id="hesr13259-kwd-0003">meaningful use criteria</kwd><kwd id="hesr13259-kwd-0004">tobacco use</kwd><kwd id="hesr13259-kwd-0005">uniform data system standards</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Health Resources and Services Administration </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000102</institution-id></institution-wrap></funding-source><award-id>HHSH250201400001C</award-id><award-id>UB3HA20236</award-id></award-group><award-group id="funding-0002"><funding-source>Department of Health and Human Services</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="8"/><word-count count="5608"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.8 mode:remove_FC converted:18.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hesr13259-cit-1001"><string-name name-style="western"><surname>Fortmann</surname><given-names>SP</given-names></string-name>, <string-name name-style="western"><surname>Bailey</surname><given-names>SR</given-names></string-name>, <string-name name-style="western"><surname>Brooks</surname><given-names>NB</given-names></string-name>, et al. <article-title>Trends in smoking documentation rates in safety net clinics</article-title>. <source xml:lang="en">Health Serv Res</source>. <year>2020</year>;<volume>55</volume>:<fpage>170</fpage>&#8211;<lpage>177</lpage>. <pub-id pub-id-type="doi">10.1111/1475-6773.13259</pub-id><pub-id pub-id-type="pmcid">PMC7080378</pub-id><pub-id pub-id-type="pmid">31930738</pub-id></mixed-citation>
+</p></notes></front></article></pmc-articleset>

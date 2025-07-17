@@ -1,0 +1,1023 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cureus</journal-id><journal-id journal-id-type="iso-abbrev">Cureus</journal-id><journal-id journal-id-type="pmc-domain-id">2757</journal-id><journal-id journal-id-type="pmc-domain">cureus</journal-id><journal-title-group><journal-title>Cureus</journal-title></journal-title-group><issn pub-type="epub">2168-8184</issn><publisher><publisher-name>Cureus Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10284563</article-id><article-id pub-id-type="pmcid-ver">PMC10284563.1</article-id><article-id pub-id-type="pmcaid">10284563</article-id><article-id pub-id-type="pmcaiid">10284563</article-id><article-id pub-id-type="pmid">37351248</article-id><article-id pub-id-type="doi">10.7759/cureus.39331</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Cardiology</subject></subj-group><subj-group><subject>Neurology</subject></subj-group><subj-group><subject>Public Health</subject></subj-group></article-categories><title-group><article-title>Substance Use Disorders (SUDs) and Risk of Cardiovascular Disease (CVD) and Cerebrovascular Disease (CeVD): Analysis of the Nationwide Inpatient Sample (NIS) Database</article-title></title-group><contrib-group><contrib contrib-type="editor"><name name-style="western"><surname>Muacevic</surname><given-names initials="A">Alexander</given-names></name></contrib><contrib contrib-type="editor"><name name-style="western"><surname>Adler</surname><given-names initials="JR">John R</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Patel</surname><given-names initials="H">Harshil</given-names></name><xref rid="aff-1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Patel</surname><given-names initials="UK">Urvish K</given-names></name><xref rid="aff-2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chowdhury</surname><given-names initials="M">Medhat</given-names></name><xref rid="aff-3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Assaf</surname><given-names initials="AD">Andrew D</given-names></name><xref rid="aff-1" ref-type="aff">1</xref><xref rid="aff-4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Avanthika</surname><given-names initials="C">Chaithanya</given-names></name><xref rid="aff-5" ref-type="aff">5</xref><xref rid="aff-6" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Nor</surname><given-names initials="MA">Mohammed A</given-names></name><xref rid="aff-7" ref-type="aff">7</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Rage</surname><given-names initials="M">Mohamed</given-names></name><xref rid="aff-8" ref-type="aff">8</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Madapu</surname><given-names initials="A">Apoorva</given-names></name><xref rid="aff-9" ref-type="aff">9</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Konatham</surname><given-names initials="S">Sravani</given-names></name><xref rid="aff-10" ref-type="aff">10</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Vodapally</surname><given-names initials="M">Mamatha</given-names></name><xref rid="aff-11" ref-type="aff">11</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bhat</surname><given-names initials="V">Vatsalya</given-names></name><xref rid="aff-12" ref-type="aff">12</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gnawali</surname><given-names initials="A">Anupa</given-names></name><xref rid="aff-13" ref-type="aff">13</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mohamed</surname><given-names initials="M">Mohamed</given-names></name><xref rid="aff-14" ref-type="aff">14</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Abdi</surname><given-names initials="N">Nawal</given-names></name><xref rid="aff-15" ref-type="aff">15</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Malik</surname><given-names initials="FA">Faizan A</given-names></name><xref rid="aff-16" ref-type="aff">16</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zughaib</surname><given-names initials="M">Marcel</given-names></name><xref rid="aff-17" ref-type="aff">17</xref></contrib></contrib-group><aff id="aff-1">
+<label>1</label>
+Cardiology, Ascension Providence Hospital, Southfield, USA </aff><aff id="aff-2">
+<label>2</label>
+Public Health and Neurology, Icahn School of Medicine at Mount Sinai, New York, USA </aff><aff id="aff-3">
+<label>3</label>
+Internal Medicine, Ascension Providence Hospital/MSUCHM, Southfield, USA </aff><aff id="aff-4">
+<label>4</label>
+Heart Institute, Ascension Providence Hospital, Southfield, USA </aff><aff id="aff-5">
+<label>5</label>
+Pediatrics, Icahn School of Medicine at Mount Sinai, Queens Hospital Center, New York City, USA </aff><aff id="aff-6">
+<label>6</label>
+Medicine and Surgery, Karnataka Institute of Medical Sciences, Hubli, IND </aff><aff id="aff-7">
+<label>7</label>
+Internal Medicine, Norman Bethune Health Science of Jilin University, Jilin, CHN </aff><aff id="aff-8">
+<label>8</label>
+Emergency Medicine, Northampton General Hospital, Northampton, GBR </aff><aff id="aff-9">
+<label>9</label>
+Internal Medicine, Huntsville Hospital, Huntsville, USA </aff><aff id="aff-10">
+<label>10</label>
+Internal Medicine, Kamineni Institute of Medical Sciences, Narketpalli, IND </aff><aff id="aff-11">
+<label>11</label>
+Internal Medicine, MNR Medical College, NTRUHS, Sangareddy, IND </aff><aff id="aff-12">
+<label>12</label>
+Internal Medicine, K. V. G. Medical College and Hospital, Sullia, IND </aff><aff id="aff-13">
+<label>13</label>
+Family Medicine, University of Cape Town, Caledon Provincial Hospital, Caledon, ZAF </aff><aff id="aff-14">
+<label>14</label>
+Internal Medicine, Wuhan University, Wuhan, CHN </aff><aff id="aff-15">
+<label>15</label>
+Internal Medicine, Capital Medical University, Beijing, CHN </aff><aff id="aff-16">
+<label>16</label>
+Internal Medicine, Texas Tech University Health Sciences Center at Permian Basin, Odessa, USA </aff><aff id="aff-17">
+<label>17</label>
+Cardiovascular Medicine, Ascension Providence Hospital, Southfield, USA </aff><author-notes><corresp id="cor1">
+Harshil Patel <email>harshil.patel@ascension.org</email></corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>22</day><month>5</month><year>2023</year></pub-date><pub-date date-type="collection" publication-format="electronic"><month>5</month><year>2023</year></pub-date><volume>15</volume><issue>5</issue><issue-id pub-id-type="pmc-issue-id">434677</issue-id><elocation-id>e39331</elocation-id><history><date date-type="accepted"><day>22</day><month>5</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>05</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>22</day><month>06</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-06-23 17:25:09.663"><day>23</day><month>06</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>Copyright &#169; 2023, Patel et al.</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Patel et al.</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/3.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="cureus-0015-00000039331.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cureus.com/articles/151342-substance-use-disorders-suds-and-risk-of-cardiovascular-disease-cvd-and-cerebrovascular-disease-cevd-analysis-of-the-nationwide-inpatient-sample-nis-database">This article is available from https://www.cureus.com/articles/151342-substance-use-disorders-suds-and-risk-of-cardiovascular-disease-cvd-and-cerebrovascular-disease-cevd-analysis-of-the-nationwide-inpatient-sample-nis-database</self-uri><abstract><p>Background:&#160;Substance use continues to be on the rise in the United States and has been linked to new onset cardiovascular diseases (CVDs) and cerebrovascular disorders (CeVDs). We aimed to study the association between the types of substance use disorders (SUDs) with specific subtypes of CVDs and CeVDs among hospitalized patients using the National Inpatient Sample (NIS) Database.</p><p>Methods:&#160;A retrospective study of the NIS database (2016-2017) using the ICD-10-CM codes was performed. The hospitalizations with a secondary diagnosis of SUDs were identified. Weighted univariate analysis using the Chi-square test and multivariate survey logistic regression analysis was performed to evaluate for the incidence, prevalence, and odds of association between vascular events and SUDs.</p><p>Results:&#160;There were a total of 58,259,589 hospitalizations, out of which 21.42% had SUDs. SUDs were more common in the younger age group of 18-50, males, and the lower median household income group. We found a significant association of acute ischemic stroke (AIS) with amphetamine dependence (adjusted odds ratio, aOR 1.23, 95% confidence interval, CI 1.14-1.33), cocaine-related disorders (1.17, 1.12-1.23), and nicotine dependence (1.42, 1.40-1.43). There was a significant association between intracerebral hemorrhage with amphetamine dependence (2.58, 2.26-2.93), cocaine-related disorders (1.62, 1.46-1.79), and alcohol-related disorders (1.35, 1.01-1.82). The association of subarachnoid hemorrhage (SAH) was noted to be higher with amphetamine dependence (1.82, 1.48-2.24) and nicotine dependence (1.47, 1.39-1.55). The patients with nicotine dependence had greater odds of having a myocardial infarction (1.85, 1.83-1.87), those with cocaine-related disorders had higher odds of having angina pectoris (2.21, 1.86-2.62), and patients with alcohol-related disorders had higher odds of developing atrial fibrillation (1.14, 1.11-1.17) in comparison to non-SUDs.</p><p>Conclusion:&#160;Our study demonstrates the variability of CVD and CeVD in patients hospitalized for SUD. Findings from our study may help promote increased awareness and early management of these events. Further studies are needed to evaluate the specific effects of frequency and dose on the incidence and prevalence of CVD and CeVD in patients with SUD.</p></abstract><kwd-group kwd-group-type="author"><kwd>smoking tobacco</kwd><kwd>amphetamine abuse</kwd><kwd>cocaine abuse</kwd><kwd>acute ischemic stroke</kwd><kwd>stroke</kwd><kwd>sudden cardiac death</kwd><kwd>marijuana use</kwd><kwd>marijuana</kwd><kwd>&#160;drug abuse</kwd><kwd>recreational substance abuse</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The past few decades have seen a rise in the incidence and prevalence of cardiovascular disease (CVD) concomitant with substance use disorders (SUDs) among younger adults aged 18-45 years of age&#160;[<xref rid="REF1" ref-type="bibr">1</xref>]. In the United States, common substances reportedly used include alcohol, tobacco, marijuana, sedatives, hallucinogens, cocaine, amphetamines, inhalants, and opioids&#160;[<xref rid="REF2" ref-type="bibr">2</xref>].</p><p>The SUDs comprise an estimated 6.7% of all inpatient admissions and has been associated with greater costs and longer hospitalizations relative to non-SUD admissions&#160;[<xref rid="REF3" ref-type="bibr">3</xref>].&#160;A recent epidemiological study in British Columbia, Canada found SUD to be an independent risk factor associated with a greater prevalence and incidence of CVD on cross-sectional and longitudinal analysis respectively&#160;[<xref rid="REF4" ref-type="bibr">4</xref>]. Accelerated atherosclerotic cardiovascular disease (ASCVD) is broadly suggested as a mechanism for increased CV events&#160;[<xref rid="REF5" ref-type="bibr">5</xref>]&#160;in patients with SUD.</p><p>However, there is known variability in the types of CV events, depending on the type of agent used. For instance, an analysis of the National Health and Nutrition Examination Survey (NHANES) revealed a statistically significant association of non-fatal myocardial infarction with lifetime users of cocaine, when compared with non-users. The study did not reveal a significant association between ischemic stroke with cocaine users&#160;[<xref rid="REF6" ref-type="bibr">6</xref>]. We, therefore, sought to investigate the spectrum of CVD and CeVD events in SUD among hospitalized patients in the United States.</p></sec><sec sec-type="materials|methods"><title>Materials and methods</title><p>Details of data</p><p>Data were obtained from the Agency for Healthcare Research and Quality's Healthcare Cost and Utilization Project (HCUP) Nationwide Inpatient Sample (NIS) files between January 2016 and December 2017. The NIS is the largest publicly available all-payer inpatient care database in the United States and contains discharge-level data provided by states that participate in the HCUP (including a total of 46 in 2011). This administrative dataset contains data on approximately 8 million hospitalizations in 1,000 hospitals that were chosen to approximate a 20% stratified sample of all US community hospitals, representing more than 95% of the national population. Criteria used for stratified sampling of hospitals into the NIS include hospital ownership, patient volume, teaching status, urban or rural location, and geographic region. Discharge weights are provided for each patient discharge record, which allows extrapolation to obtain national estimates. Each hospitalization is treated as an individual entry in the database and is coded with one principal diagnosis, up to 29 secondary diagnoses, and 15 procedural diagnoses associated with that stay. Detailed information on NIS is available at http://www.hcup-<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="us.ahrq.gov/db/nation/nis/nisdde.jsp." ext-link-type="uri">us.ahrq.gov/db/nation/nis/nisdde.jsp.</ext-link></p><p>Demographic characteristics of the population</p><p>We performed a retrospective cross-sectional observational study on adult hospitalizations in the USA from 2016 to 2017. Secondary diagnoses of SUDs were identified using the ICD-10-CM code. Here are the listed ICD codes for SUDs that we used in our study, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.icd10data.com/ICD10CM/Codes/F01-F99/F10-F19." ext-link-type="uri">https://www.icd10data.com/ICD10CM/Codes/F01-F99/F10-F19.</ext-link> The SUDs include alcohol-related disorders, amphetamine dependence, cannabis-related disorders, cocaine-related disorders, hallucinogen-related disorders, inhalant-related disorders, opioid-related disorders, and nicotine dependence.</p><p>The comparison was made between US hospitalizations with a history of SUDs and hospitalizations without a history of SUDs. In each group, primary and secondary diagnoses of CVDs and CeVDs were identified. We considered angina pectoris, myocardial infarction (STEMI), sudden cardiac arrest, ischemic heart disease, and atrial fibrillation as CVDs and acute ischemic stroke (AIS), transient ischemic attack, and hemorrhagic stroke as CeVDs. ICD-10-CM codes for vascular diseases are described in Table&#160;<xref rid="TAB1" ref-type="table">1</xref>. We used ICD-10-CM codes to identify comorbidities of hypertension, diabetes mellitus, obesity, dyslipidemia, renal failure, HIV/AIDS, solid tumors, depression, ischemic heart disease, atrial fibrillation, and congestive heart failure. Age &lt;18 years and admissions with missing data for age, sex, and race were excluded. We obtained patient characteristics of interest (age, sex, race, insurance status, admission day, admission type, median household income category, and concomitant diagnoses) and hospital characteristics (hospital size, hospital region, and teaching versus nonteaching hospital).&#160;</p><table-wrap position="float" id="TAB1" orientation="portrait"><label>Table 1</label><caption><title>Demographics of SUDs amongst USA hospitalizations.</title><p>*No-SUDs defined by the hospitalizations/patients who are not having alcohol-related disorders, amphetamine dependence, cannabis-related disorders, cocaine-related disorders, hallucinogen-related disorders, inhalant-related disorders, opioid-related disorders, and nicotine dependence</p><p>Column (%) comparisons were made between individual SUD vs. no-SUD</p><p>SUD,&#160;substance use disorder</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Variables
+</td><td rowspan="1" colspan="1">
+Alcohol-related disorders (n=3420548) (5.87%)
+</td><td rowspan="1" colspan="1">
+Amphetamine dependence (n=295060) (0.51%)
+</td><td rowspan="1" colspan="1">
+Cannabis-related disorders (n=1072879) (1.84%) &#160; &#160;
+</td><td rowspan="1" colspan="1">
+Cocaine-related disorders (n=341745) (0.59%)
+</td><td rowspan="1" colspan="1">
+Hallucinogen-related disorders&#160; (n=7345) (0.01%)
+</td><td rowspan="1" colspan="1">
+Inhalant-related disorders (n=2305) (0.0%) &#160;
+</td><td rowspan="1" colspan="1">
+Opioid-related disorders (n=889520) (1.53%) &#160; &#160;
+</td><td rowspan="1" colspan="1">
+Nicotine dependence (n=6451382) (11.07%) &#160;
+</td><td rowspan="1" colspan="1">
+No-SUDs*&#160; (n=45,778,806) (78.58%)
+</td><td rowspan="1" colspan="1">
+Total (n=58,259,589) (100%)
+</td><td rowspan="1" colspan="1">
+p value
+</td></tr><tr><td colspan="12" rowspan="1">
+Demographic and socioeconomic characteristics (%)
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Age groups (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+Age group 18-50 years
+</td><td rowspan="1" colspan="1">
+&#160; 42.61
+</td><td rowspan="1" colspan="1">
+&#160; 76.17
+</td><td rowspan="1" colspan="1">
+&#160; 75.17
+</td><td rowspan="1" colspan="1">
+&#160; 57.87
+</td><td rowspan="1" colspan="1">
+&#160; 82.91
+</td><td rowspan="1" colspan="1">
+&#160; 67.25
+</td><td rowspan="1" colspan="1">
+&#160; 52.86
+</td><td rowspan="1" colspan="1">
+&#160; 35.72
+</td><td rowspan="1" colspan="1">
+&#160; 31.83
+</td><td rowspan="1" colspan="1">
+&#160; 34.4
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Age group 50-75 years
+</td><td rowspan="1" colspan="1">
+&#160; 52.67
+</td><td rowspan="1" colspan="1">
+&#160; 23.64
+</td><td rowspan="1" colspan="1">
+&#160; 24.22
+</td><td rowspan="1" colspan="1">
+&#160; 41.75
+</td><td rowspan="1" colspan="1">
+&#160; 16.34
+</td><td rowspan="1" colspan="1">
+&#160; 29.93
+</td><td rowspan="1" colspan="1">
+41.74
+</td><td rowspan="1" colspan="1">
+&#160; 55.73
+</td><td rowspan="1" colspan="1">
+40.88
+</td><td rowspan="1" colspan="1">
+42.84
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Age group &gt;75 years
+</td><td rowspan="1" colspan="1">
+&#160; 4.73
+</td><td rowspan="1" colspan="1">
+&#160; 0.19
+</td><td rowspan="1" colspan="1">
+0.62
+</td><td rowspan="1" colspan="1">
+&#160; 0.38
+</td><td rowspan="1" colspan="1">
+&#160; 0.75
+</td><td rowspan="1" colspan="1">
+&#160; 2.82
+</td><td rowspan="1" colspan="1">
+&#160; 5.41
+</td><td rowspan="1" colspan="1">
+8.55
+</td><td rowspan="1" colspan="1">
+27.29
+</td><td rowspan="1" colspan="1">
+22.27
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Sex
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+Male
+</td><td rowspan="1" colspan="1">
+&#160; 71.81
+</td><td rowspan="1" colspan="1">
+&#160; 59.02
+</td><td rowspan="1" colspan="1">
+&#160; 57.54
+</td><td rowspan="1" colspan="1">
+&#160; 59.05
+</td><td rowspan="1" colspan="1">
+&#160; 62.42
+</td><td rowspan="1" colspan="1">
+&#160; 60.09
+</td><td rowspan="1" colspan="1">
+&#160; 44.67
+</td><td rowspan="1" colspan="1">
+&#160; 49.84
+</td><td rowspan="1" colspan="1">
+38.14
+</td><td rowspan="1" colspan="1">
+42.10
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Female
+</td><td rowspan="1" colspan="1">
+&#160; 28.19
+</td><td rowspan="1" colspan="1">
+&#160; 40.98
+</td><td rowspan="1" colspan="1">
+&#160; 42.46
+</td><td rowspan="1" colspan="1">
+&#160; 40.95
+</td><td rowspan="1" colspan="1">
+&#160; 37.58
+</td><td rowspan="1" colspan="1">
+&#160; 39.91
+</td><td rowspan="1" colspan="1">
+&#160; 55.33
+</td><td rowspan="1" colspan="1">
+&#160; 50.16
+</td><td rowspan="1" colspan="1">
+61.86
+</td><td rowspan="1" colspan="1">
+57.90
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Race (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt;0 .0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+White
+</td><td rowspan="1" colspan="1">
+&#160; 69.97
+</td><td rowspan="1" colspan="1">
+&#160; 70.81
+</td><td rowspan="1" colspan="1">
+&#160; 55.70
+</td><td rowspan="1" colspan="1">
+&#160; 40.05
+</td><td rowspan="1" colspan="1">
+&#160; 38.45
+</td><td rowspan="1" colspan="1">
+72.41
+</td><td rowspan="1" colspan="1">
+77.09
+</td><td rowspan="1" colspan="1">
+74.30
+</td><td rowspan="1" colspan="1">
+69.31
+</td><td rowspan="1" colspan="1">
+69.61
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Black
+</td><td rowspan="1" colspan="1">
+16.83
+</td><td rowspan="1" colspan="1">
+&#160; 9.97
+</td><td rowspan="1" colspan="1">
+&#160; 32.24
+</td><td rowspan="1" colspan="1">
+48.64
+</td><td rowspan="1" colspan="1">
+&#160; 43.50
+</td><td rowspan="1" colspan="1">
+13.25
+</td><td rowspan="1" colspan="1">
+13.40
+</td><td rowspan="1" colspan="1">
+&#160; &#160; 17.27
+</td><td rowspan="1" colspan="1">
+&#160; 14.76
+</td><td rowspan="1" colspan="1">
+15.64
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Hispanic
+</td><td rowspan="1" colspan="1">
+10.70
+</td><td rowspan="1" colspan="1">
+&#160; 14.96
+</td><td rowspan="1" colspan="1">
+10.07
+</td><td rowspan="1" colspan="1">
+&#160; 10.34
+</td><td rowspan="1" colspan="1">
+16.49
+</td><td rowspan="1" colspan="1">
+10.82
+</td><td rowspan="1" colspan="1">
+7.98
+</td><td rowspan="1" colspan="1">
+6.46
+</td><td rowspan="1" colspan="1">
+12.11
+</td><td rowspan="1" colspan="1">
+11.30
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Asian or Pacific Islander
+</td><td rowspan="1" colspan="1">
+0.99
+</td><td rowspan="1" colspan="1">
+2.41
+</td><td rowspan="1" colspan="1">
+&#160; 0.99
+</td><td rowspan="1" colspan="1">
+&#160; 0.55
+</td><td rowspan="1" colspan="1">
+&#160; 1.28
+</td><td rowspan="1" colspan="1">
+&#160; 2.21
+</td><td rowspan="1" colspan="1">
+&#160; 0.67
+</td><td rowspan="1" colspan="1">
+&#160; 1.21
+</td><td rowspan="1" colspan="1">
+&#160; 3.27
+</td><td rowspan="1" colspan="1">
+&#160; 2.81
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Native American
+</td><td rowspan="1" colspan="1">
+1.51
+</td><td rowspan="1" colspan="1">
+&#160; 1.85
+</td><td rowspan="1" colspan="1">
+&#160; 1
+</td><td rowspan="1" colspan="1">
+0.42
+</td><td rowspan="1" colspan="1">
+&#160; 0.28
+</td><td rowspan="1" colspan="1">
+&#160; 1.32
+</td><td rowspan="1" colspan="1">
+&#160; 0.86
+</td><td rowspan="1" colspan="1">
+&#160; 0.75
+</td><td rowspan="1" colspan="1">
+&#160; 0.54
+</td><td rowspan="1" colspan="1">
+&#160; 0.64
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Median household income for patient's ZIP code (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+0-25th percentile
+</td><td rowspan="1" colspan="1">
+34.77
+</td><td rowspan="1" colspan="1">
+39.52
+</td><td rowspan="1" colspan="1">
+42.33
+</td><td rowspan="1" colspan="1">
+52.87
+</td><td rowspan="1" colspan="1">
+46.09
+</td><td rowspan="1" colspan="1">
+40.68
+</td><td rowspan="1" colspan="1">
+35.33
+</td><td rowspan="1" colspan="1">
+38.80
+</td><td rowspan="1" colspan="1">
+&#160; 29.12
+</td><td rowspan="1" colspan="1">
+31.04
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+26th-50th percentile (median)
+</td><td rowspan="1" colspan="1">
+25.51
+</td><td rowspan="1" colspan="1">
+28.40
+</td><td rowspan="1" colspan="1">
+25.31
+</td><td rowspan="1" colspan="1">
+21.00
+</td><td rowspan="1" colspan="1">
+19.32
+</td><td rowspan="1" colspan="1">
+26.36
+</td><td rowspan="1" colspan="1">
+26.31
+</td><td rowspan="1" colspan="1">
+28.22
+</td><td rowspan="1" colspan="1">
+&#160; 25.70
+</td><td rowspan="1" colspan="1">
+25.96&#160;
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+51st to 75th percentile
+</td><td rowspan="1" colspan="1">
+22.28
+</td><td rowspan="1" colspan="1">
+21.00
+</td><td rowspan="1" colspan="1">
+19.71
+</td><td rowspan="1" colspan="1">
+15.61
+</td><td rowspan="1" colspan="1">
+18.76
+</td><td rowspan="1" colspan="1">
+18.86
+</td><td rowspan="1" colspan="1">
+22.24
+</td><td rowspan="1" colspan="1">
+20.70
+</td><td rowspan="1" colspan="1">
+&#160; 24.08
+</td><td rowspan="1" colspan="1">
+&#160;23.43
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+76th-100th percentile
+</td><td rowspan="1" colspan="1">
+17.43
+</td><td rowspan="1" colspan="1">
+11.08
+</td><td rowspan="1" colspan="1">
+12.65
+</td><td rowspan="1" colspan="1">
+10.51
+</td><td rowspan="1" colspan="1">
+15.83
+</td><td rowspan="1" colspan="1">
+14.09
+</td><td rowspan="1" colspan="1">
+16.12
+</td><td rowspan="1" colspan="1">
+12.28
+</td><td rowspan="1" colspan="1">
+21.10
+</td><td rowspan="1" colspan="1">
+19.57
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Primary payer insurance (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+Medicare
+</td><td rowspan="1" colspan="1">
+28.96
+</td><td rowspan="1" colspan="1">
+14.64
+</td><td rowspan="1" colspan="1">
+18.82
+</td><td rowspan="1" colspan="1">
+22.11
+</td><td rowspan="1" colspan="1">
+14.66
+</td><td rowspan="1" colspan="1">
+25.81
+</td><td rowspan="1" colspan="1">
+36.38
+</td><td rowspan="1" colspan="1">
+41.29
+</td><td rowspan="1" colspan="1">
+51.04
+</td><td rowspan="1" colspan="1">
+47.49
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Medicaid
+</td><td rowspan="1" colspan="1">
+33.08
+</td><td rowspan="1" colspan="1">
+57.05
+</td><td rowspan="1" colspan="1">
+44.59
+</td><td rowspan="1" colspan="1">
+49.56
+</td><td rowspan="1" colspan="1">
+51.06
+</td><td rowspan="1" colspan="1">
+31.24
+</td><td rowspan="1" colspan="1">
+38.60
+</td><td rowspan="1" colspan="1">
+24.92
+</td><td rowspan="1" colspan="1">
+15.19
+</td><td rowspan="1" colspan="1">
+18.64
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Private
+</td><td rowspan="1" colspan="1">
+22.71
+</td><td rowspan="1" colspan="1">
+11.03
+</td><td rowspan="1" colspan="1">
+21.63
+</td><td rowspan="1" colspan="1">
+12.26
+</td><td rowspan="1" colspan="1">
+19.02
+</td><td rowspan="1" colspan="1">
+25.16
+</td><td rowspan="1" colspan="1">
+16.74
+</td><td rowspan="1" colspan="1">
+23.08
+</td><td rowspan="1" colspan="1">
+28.13
+</td><td rowspan="1" colspan="1">
+26.78
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Self
+</td><td rowspan="1" colspan="1">
+15.25
+</td><td rowspan="1" colspan="1">
+17.27
+</td><td rowspan="1" colspan="1">
+14.96
+</td><td rowspan="1" colspan="1">
+16.07
+</td><td rowspan="1" colspan="1">
+15.27
+</td><td rowspan="1" colspan="1">
+17.79
+</td><td rowspan="1" colspan="1">
+8.28
+</td><td rowspan="1" colspan="1">
+10.71
+</td><td rowspan="1" colspan="1">
+5.63
+</td><td rowspan="1" colspan="1">
+7.09
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Admission type (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Emergency and urgent
+</td><td rowspan="1" colspan="1">
+90.68
+</td><td rowspan="1" colspan="1">
+90.82
+</td><td rowspan="1" colspan="1">
+87.00
+</td><td rowspan="1" colspan="1">
+91.42
+</td><td rowspan="1" colspan="1">
+89.84
+</td><td rowspan="1" colspan="1">
+84.13
+</td><td rowspan="1" colspan="1">
+85.49
+</td><td rowspan="1" colspan="1">
+82.08
+</td><td rowspan="1" colspan="1">
+73.86
+</td><td rowspan="1" colspan="1">
+76.37
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Elective
+</td><td rowspan="1" colspan="1">
+9.32
+</td><td rowspan="1" colspan="1">
+9.18
+</td><td rowspan="1" colspan="1">
+13.00
+</td><td rowspan="1" colspan="1">
+8.58
+</td><td rowspan="1" colspan="1">
+10.16
+</td><td rowspan="1" colspan="1">
+15.87
+</td><td rowspan="1" colspan="1">
+14.51
+</td><td rowspan="1" colspan="1">
+17.92
+</td><td rowspan="1" colspan="1">
+26.14
+</td><td rowspan="1" colspan="1">
+23.63
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Admission day (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+Weekdays (Monday-Friday)
+</td><td rowspan="1" colspan="1">
+75.71
+</td><td rowspan="1" colspan="1">
+75.14
+</td><td rowspan="1" colspan="1">
+77.44
+</td><td rowspan="1" colspan="1">
+74.62
+</td><td rowspan="1" colspan="1">
+75.43
+</td><td rowspan="1" colspan="1">
+79.18
+</td><td rowspan="1" colspan="1">
+76.92
+</td><td rowspan="1" colspan="1">
+78.58
+</td><td rowspan="1" colspan="1">
+80.15
+</td><td rowspan="1" colspan="1">
+&#160;79.54
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Weekends (Saturday-Sunday)
+</td><td rowspan="1" colspan="1">
+24.49
+</td><td rowspan="1" colspan="1">
+24.86
+</td><td rowspan="1" colspan="1">
+22.56
+</td><td rowspan="1" colspan="1">
+25.38
+</td><td rowspan="1" colspan="1">
+24.57
+</td><td rowspan="1" colspan="1">
+20.82
+</td><td rowspan="1" colspan="1">
+23.08
+</td><td rowspan="1" colspan="1">
+21.42
+</td><td rowspan="1" colspan="1">
+19.85
+</td><td rowspan="1" colspan="1">
+20.46
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Bedsize (%) (hospital size by number of beds)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Small
+</td><td rowspan="1" colspan="1">
+20.24
+</td><td rowspan="1" colspan="1">
+17.70
+</td><td rowspan="1" colspan="1">
+18.56
+</td><td rowspan="1" colspan="1">
+19.59
+</td><td rowspan="1" colspan="1">
+24.23
+</td><td rowspan="1" colspan="1">
+23.64
+</td><td rowspan="1" colspan="1">
+19.99
+</td><td rowspan="1" colspan="1">
+19.36
+</td><td rowspan="1" colspan="1">
+19.43
+</td><td rowspan="1" colspan="1">
+19.46
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Medium
+</td><td rowspan="1" colspan="1">
+29.75
+</td><td rowspan="1" colspan="1">
+24.71
+</td><td rowspan="1" colspan="1">
+28.43
+</td><td rowspan="1" colspan="1">
+30.28
+</td><td rowspan="1" colspan="1">
+28.25
+</td><td rowspan="1" colspan="1">
+34.27
+</td><td rowspan="1" colspan="1">
+28.11
+</td><td rowspan="1" colspan="1">
+28.96
+</td><td rowspan="1" colspan="1">
+29.51
+</td><td rowspan="1" colspan="1">
+29.40
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Large
+</td><td rowspan="1" colspan="1">
+50.02
+</td><td rowspan="1" colspan="1">
+57.59
+</td><td rowspan="1" colspan="1">
+53.01
+</td><td rowspan="1" colspan="1">
+50.14
+</td><td rowspan="1" colspan="1">
+47.52
+</td><td rowspan="1" colspan="1">
+42.08
+</td><td rowspan="1" colspan="1">
+51.90
+</td><td rowspan="1" colspan="1">
+51.69
+</td><td rowspan="1" colspan="1">
+51.06
+</td><td rowspan="1" colspan="1">
+51.14
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Location and teaching status (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Rural
+</td><td rowspan="1" colspan="1">
+7.95
+</td><td rowspan="1" colspan="1">
+9.31
+</td><td rowspan="1" colspan="1">
+7.30
+</td><td rowspan="1" colspan="1">
+4.05
+</td><td rowspan="1" colspan="1">
+4.08
+</td><td rowspan="1" colspan="1">
+11.26
+</td><td rowspan="1" colspan="1">
+7.70
+</td><td rowspan="1" colspan="1">
+11.31
+</td><td rowspan="1" colspan="1">
+8.95
+</td><td rowspan="1" colspan="1">
+9.08
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Urban, non-teaching
+</td><td rowspan="1" colspan="1">
+24.39
+</td><td rowspan="1" colspan="1">
+28.34
+</td><td rowspan="1" colspan="1">
+21.78
+</td><td rowspan="1" colspan="1">
+19.06
+</td><td rowspan="1" colspan="1">
+20.63
+</td><td rowspan="1" colspan="1">
+17.79
+</td><td rowspan="1" colspan="1">
+26.35
+</td><td rowspan="1" colspan="1">
+25.19
+</td><td rowspan="1" colspan="1">
+24.926
+</td><td rowspan="1" colspan="1">
+24.86
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Urban, teaching
+</td><td rowspan="1" colspan="1">
+67.66
+</td><td rowspan="1" colspan="1">
+62.35
+</td><td rowspan="1" colspan="1">
+70.90
+</td><td rowspan="1" colspan="1">
+76.89
+</td><td rowspan="1" colspan="1">
+75.29
+</td><td rowspan="1" colspan="1">
+70.93
+</td><td rowspan="1" colspan="1">
+65.95
+</td><td rowspan="1" colspan="1">
+63.50
+</td><td rowspan="1" colspan="1">
+66.13
+</td><td rowspan="1" colspan="1">
+66.06
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Hospital region (%)
+</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">&#160;</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Northeast
+</td><td rowspan="1" colspan="1">
+21.91
+</td><td rowspan="1" colspan="1">
+3.32
+</td><td rowspan="1" colspan="1">
+18.86
+</td><td rowspan="1" colspan="1">
+27.58
+</td><td rowspan="1" colspan="1">
+31.93
+</td><td rowspan="1" colspan="1">
+18.66
+</td><td rowspan="1" colspan="1">
+22.35
+</td><td rowspan="1" colspan="1">
+16.28
+</td><td rowspan="1" colspan="1">
+19.52
+</td><td rowspan="1" colspan="1">
+19.30
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+Midwest or North Central
+</td><td rowspan="1" colspan="1">
+21.95
+</td><td rowspan="1" colspan="1">
+14.46
+</td><td rowspan="1" colspan="1">
+24.12
+</td><td rowspan="1" colspan="1">
+20.79
+</td><td rowspan="1" colspan="1">
+18.58
+</td><td rowspan="1" colspan="1">
+18.87
+</td><td rowspan="1" colspan="1">
+20.27
+</td><td rowspan="1" colspan="1">
+25.45
+</td><td rowspan="1" colspan="1">
+20.97
+</td><td rowspan="1" colspan="1">
+21.54
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+South
+</td><td rowspan="1" colspan="1">
+35.85
+</td><td rowspan="1" colspan="1">
+28.13
+</td><td rowspan="1" colspan="1">
+35.35
+</td><td rowspan="1" colspan="1">
+42.63
+</td><td rowspan="1" colspan="1">
+36.15
+</td><td rowspan="1" colspan="1">
+49.46
+</td><td rowspan="1" colspan="1">
+34.92
+</td><td rowspan="1" colspan="1">
+42.74
+</td><td rowspan="1" colspan="1">
+40.23
+</td><td rowspan="1" colspan="1">
+40.14
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr><td rowspan="1" colspan="1">
+West
+</td><td rowspan="1" colspan="1">
+20.30
+</td><td rowspan="1" colspan="1">
+54.09
+</td><td rowspan="1" colspan="1">
+21.67
+</td><td rowspan="1" colspan="1">
+9.01
+</td><td rowspan="1" colspan="1">
+13.34
+</td><td rowspan="1" colspan="1">
+13.02
+</td><td rowspan="1" colspan="1">
+22.26
+</td><td rowspan="1" colspan="1">
+14.53
+</td><td rowspan="1" colspan="1">
+19.28
+</td><td rowspan="1" colspan="1">
+19.03
+</td><td rowspan="1" colspan="1">&#160;</td></tr><tr style="background-color:#ccc"><td colspan="12" rowspan="1">
+Concurrent comorbidities (%)
+</td></tr><tr><td rowspan="1" colspan="1">
+Diabetes (%)
+</td><td rowspan="1" colspan="1">
+16.20
+</td><td rowspan="1" colspan="1">
+16.10
+</td><td rowspan="1" colspan="1">
+15.30
+</td><td rowspan="1" colspan="1">
+21.58
+</td><td rowspan="1" colspan="1">
+12.73
+</td><td rowspan="1" colspan="1">
+15.40
+</td><td rowspan="1" colspan="1">
+21.38
+</td><td rowspan="1" colspan="1">
+27.42
+</td><td rowspan="1" colspan="1">
+27.65
+</td><td rowspan="1" colspan="1">
+26.54
+</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Hypertension (%)
+</td><td rowspan="1" colspan="1">
+51.86
+</td><td rowspan="1" colspan="1">
+30.81
+</td><td rowspan="1" colspan="1">
+31.96
+</td><td rowspan="1" colspan="1">
+47.29
+</td><td rowspan="1" colspan="1">
+28.25
+</td><td rowspan="1" colspan="1">
+33.62
+</td><td rowspan="1" colspan="1">
+43.87
+</td><td rowspan="1" colspan="1">
+57.10
+</td><td rowspan="1" colspan="1">
+56.29
+</td><td rowspan="1" colspan="1">
+55.29
+</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+Obesity (%)
+</td><td rowspan="1" colspan="1">
+8.88
+</td><td rowspan="1" colspan="1">
+8.36
+</td><td rowspan="1" colspan="1">
+11.27
+</td><td rowspan="1" colspan="1">
+9.79
+</td><td rowspan="1" colspan="1">
+8.51
+</td><td rowspan="1" colspan="1">
+9.76
+</td><td rowspan="1" colspan="1">
+13.75
+</td><td rowspan="1" colspan="1">
+15.95
+</td><td rowspan="1" colspan="1">
+15.88
+</td><td rowspan="1" colspan="1">
+15.28
+</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Dyslipidemia (%)
+</td><td rowspan="1" colspan="1">
+19.90
+</td><td rowspan="1" colspan="1">
+&#160;10.12
+</td><td rowspan="1" colspan="1">
+14.16
+</td><td rowspan="1" colspan="1">
+16.84
+</td><td rowspan="1" colspan="1">
+8.85
+</td><td rowspan="1" colspan="1">
+16.27
+</td><td rowspan="1" colspan="1">
+18.34
+</td><td rowspan="1" colspan="1">
+33.22
+</td><td rowspan="1" colspan="1">
+33.65
+</td><td rowspan="1" colspan="1">
+31.98
+</td><td rowspan="1" colspan="1">
+&lt; .0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+Renal failure (%)
+</td><td rowspan="1" colspan="1">
+17.19
+</td><td rowspan="1" colspan="1">
+16.65
+</td><td rowspan="1" colspan="1">
+13.74
+</td><td rowspan="1" colspan="1">
+24.06
+</td><td rowspan="1" colspan="1">
+15.52
+</td><td rowspan="1" colspan="1">
+14.75
+</td><td rowspan="1" colspan="1">
+&#160;20.40
+</td><td rowspan="1" colspan="1">
+&#160;20.18
+</td><td rowspan="1" colspan="1">
+25. 22
+</td><td rowspan="1" colspan="1">
+23.85
+</td><td rowspan="1" colspan="1">
+&lt; .0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Smoking (%)
+</td><td rowspan="1" colspan="1">
+46.54
+</td><td rowspan="1" colspan="1">
+57.52
+</td><td rowspan="1" colspan="1">
+49.39
+</td><td rowspan="1" colspan="1">
+56.77
+</td><td rowspan="1" colspan="1">
+41.87
+</td><td rowspan="1" colspan="1">
+&#160;41.00
+</td><td rowspan="1" colspan="1">
+&#160;42.92
+</td><td rowspan="1" colspan="1">
+100.00
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+16.00
+</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr><td rowspan="1" colspan="1">
+AIDS (%)
+</td><td rowspan="1" colspan="1">
+100.00
+</td><td rowspan="1" colspan="1">
+1.04
+</td><td rowspan="1" colspan="1">
+0.76
+</td><td rowspan="1" colspan="1">
+2.27
+</td><td rowspan="1" colspan="1">
+0.68
+</td><td rowspan="1" colspan="1">
+1.30
+</td><td rowspan="1" colspan="1">
+&#160; 0.69
+</td><td rowspan="1" colspan="1">
+0.41
+</td><td rowspan="1" colspan="1">
+0.17
+</td><td rowspan="1" colspan="1">
+6.09
+</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Metabolic syndrome (%)
+</td><td rowspan="1" colspan="1">
+0.09
+</td><td rowspan="1" colspan="1">
+0.08
+</td><td rowspan="1" colspan="1">
+0.11
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.07
+</td><td rowspan="1" colspan="1">
+0.00
+</td><td rowspan="1" colspan="1">
+&#160; 0.13
+</td><td rowspan="1" colspan="1">
+0.17
+</td><td rowspan="1" colspan="1">
+0.18
+</td><td rowspan="1" colspan="1">
+&#160;0.17
+</td><td rowspan="1" colspan="1">
+&lt; 0.0001&gt;
+</td></tr></tbody></table></table-wrap><p>Outcomes</p><p>The primary aim of this study was to evaluate the incidence and prevalence of CVDs and CeVDs amongst patients with SUDs. The secondary aim of this study was to evaluate the odds of CVDs and CeVDs amongst SUDs.</p><p>Statistical analysis</p><p>We analyzed the data using SAS software (Version 9.4) (SAS, Cary, NC). We performed univariate analysis to find the association of SUDs with CVDs&#160;and CeVDs. Categorical variables were evaluated using Chi-square and a <italic toggle="yes">t</italic>-test was used for continuous variables.&#160;Multivariable survey logistic regression models were generated to predict the association of CVDs and SUDs as well as CeVDs and SUDs after adjusting for confounding variables. There was no pre-decided sample size calculation. The p-value &lt;0.05 was considered significant and OR with its 95% CI was calculated.</p><p>Details of confounders</p><p>In regression analysis, the models were adjusted with socio-demographic variables like age, race, ethnicity, annual household income, education status, and comorbidities like diabetes, cholesterol, hypertension cardiovascular health, obesity, and preventive aspirin use.</p></sec><sec sec-type="results"><title>Results</title><p>Disease hospitalizations</p><p>We found 58,259,589 hospitalizations [weighted after removing missing data for age, sex, and race (unweighted:11,651,925)] from January 2016 to December 2017 after excluding patients with ages &lt;18 years. Out of these hospitalizations, 21.42% had a history (secondary diagnosis) of major SUDs. The prevalence of alcohol-related disorders was 5.87%, amphetamine dependence was 0.51%, cannabis-related disorders was 1.84%, cocaine-related disorders were 0.59%, hallucinogen-related disorders were 0.01%, opioid-related disorders were 1.53%,&#160;and nicotine dependence was 11.07%.</p><p>Demographic characteristics of patients with a history of substance abuse</p><p>Among patients admitted to the hospital with a diagnosis of SUD, the mean age was found to be relatively lower for all the subtypes of SUDs: alcohol-related disorders (52 years old, standard error - SE: 0.02), amphetamine dependence&#160;(40 years old, SE: 0.05), cannabis-related disorder&#160;(38 years old, SE: 0.03), cocaine-related disorders&#160;(46 years old, SE: 0.05), hallucinogen-related disorders (36 years old, SE: 0.33), inhalant-related disorders (43 years old, SE: 0.71), opioid-related disorders&#160;(48 years old, SE: 0.04), and nicotine dependence (54 years old, SE: 0.01) in comparison to patients without a diagnosis of SUD (59 years old, SE: 0.01) (p &lt; 0.0001). The patients were divided into three age groups for subgroup analysis: 18-50, 50-75, and &gt;75 years old. All SUDs were more prevalent in the age group of 18-50 in comparison to the other groups.&#160;Males had a higher prevalence of all types of SUDs in comparison to females (p &lt; 0.0001). Among all hospitalized patients, Native Americans were found to have a significantly higher prevalence of alcohol-related disorders, amphetamine dependence, inhalant-related disorders, opioid-related disorders, and nicotine dependence in comparison to other ethnic groups (p &lt; 0.0001). Similarly, African Americans had a significantly higher prevalence of cannabis-related disorders, cocaine-related disorders, and hallucinogen-related disorders (p &lt; 0.0001). We performed a subgroup analysis to look for differences in the prevalence of SUDs among hospitalized patients belonging to different economic backgrounds. The patients with the lowest median household income (0-25th percentile) had a higher prevalence of all types of SUDs in comparison to other household income groups (p &lt; 0.0001).&#160;The admitted patients who were self-payers had a significantly higher prevalence of alcohol use disorders and nicotine dependence as compared to all other insurance groups (Private, Medicare, and Medicaid). The rest of the SUDs was more prevalent among the patients insured with Medicaid (p &lt; 0.0001). Among all hospitalized patients with a diagnosis of SUD, a significantly higher proportion of patients were admitted over the weekend (p &lt; 0.0001)&#160;(Table&#160;<xref rid="TAB1" ref-type="table">1</xref>).</p><p>Incidence and prevalence of cerebrovascular disorders</p><p>The incidence of AIS was higher in patients with cocaine-related disorders (1.71%), and nicotine dependence (2.28%) when compared to those without SUDs (1.70%) (p &lt; 0.0001). The incidence of intracerebral hemorrhage (ICeH) was higher in patients with amphetamine dependence (0.40%), and cocaine-related disorders (0.35%) in comparison to those without SUDs (0.29%) (p &lt; 0.0001). The incidence of subarachnoid hemorrhage (SAH) was higher in patients admitted with alcohol-related disorders (0.27%), amphetamine dependence (0.40%), and cocaine-related disorders (0.35%) when compared to those with no SUDs (0.24%) (p &lt; 0.0001). The prevalence of a history of AIS was higher in patients admitted with cocaine-related disorders (2.22%) in comparison to those with no SUDs (2.14%) (p &lt; 0.0001). There was a higher prevalence of history of&#160;ICeH in patients admitted with alcohol-related disorders (0.42%), amphetamine dependence (0.60%), and cocaine-related disorders (0.53%) in comparison to those patients with no SUDs (0.33%) (p &lt; 0.0001). The prevalence of a history of SAH was higher among patients with amphetamine dependence (0.23%), cocaine-related disorders (0.23%), and nicotine dependence (0.18%) in comparison to those without SUDs (0.14%) (p &lt; 0.0001)&#160;(Table&#160;<xref rid="TAB2" ref-type="table">2</xref>).</p><table-wrap position="float" id="TAB2" orientation="portrait"><label>Table 2</label><caption><title>Incidence and prevalence of CeVDs and CVDs amongst active SUDs patients.</title><p>&#8804;10 (-) indicated unidentified lower frequencies</p><p>Column (%) comparisons were made between Individual SUD vs. no-SUD</p><p>CeVDs, cerebrovascular disorders;&#160;SUD, substance use disorder; AIS, acute ischemic stroke; TIA, transient ischemic attack; ICeH, intracerebral hemorrhage; SAH, subarachnoid hemorrhage; CVDs, cardiovascular disorders; SCA, sudden cardiac arrest; IHD, ischemic heart disease; MI, myocardial infarction; Afib, atrial fibrillation</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Outcomes</td><td rowspan="1" colspan="1">Alcohol-related disorders (n=3420548) (5.87%)</td><td rowspan="1" colspan="1">Amphetamine dependence (n=295060) (0.51%)</td><td rowspan="1" colspan="1">Cannabis-related disorders (n=1072879) (1.84%) &#160; &#160;</td><td rowspan="1" colspan="1">Cocaine-related disorders (n=341745) (0.59%)</td><td rowspan="1" colspan="1">Hallucinogen-related disorders&#160; (n=7345) (0.01%)</td><td rowspan="1" colspan="1">Inhalant-related disorders (n=2305) (0.0%) &#160;</td><td rowspan="1" colspan="1">Opioid-related disorders (n=889520) (1.53%) &#160; &#160;</td><td rowspan="1" colspan="1">Nicotine dependence (n=6451382) (11.07%) &#160;</td><td rowspan="1" colspan="1">No-SUDs*&#160; (n=45,778,806) (78.58%)</td><td rowspan="1" colspan="1">Total (n=58,259,589) (100%)</td><td rowspan="1" colspan="1">p value</td></tr><tr><td colspan="12" rowspan="1">Incidence (new primary diagnosis) of CeVDs (%)</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">AIS (%)</td><td rowspan="1" colspan="1">1.29</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">1.12</td><td rowspan="1" colspan="1">1.71</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.54</td><td rowspan="1" colspan="1">2.28</td><td rowspan="1" colspan="1">1.70</td><td rowspan="1" colspan="1">1.71</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">TIA (%)</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">0.37</td><td rowspan="1" colspan="1">0.41</td><td rowspan="1" colspan="1">0.38</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">&#160; ICeH (%)</td><td rowspan="1" colspan="1">0.2</td><td rowspan="1" colspan="1">0.40</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">0.35</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">SAH (%)</td><td rowspan="1" colspan="1">0.27</td><td rowspan="1" colspan="1">0.40</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">0.35</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#160;0.07</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td colspan="12" rowspan="1">Prevalence (primary and secondary diagnosis) of CeVDs (%)</td></tr><tr><td rowspan="1" colspan="1">AIS (%)</td><td rowspan="1" colspan="1">1.69</td><td rowspan="1" colspan="1">1.64</td><td rowspan="1" colspan="1">1.35</td><td rowspan="1" colspan="1">2.22</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">2.14</td><td rowspan="1" colspan="1">2.14</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">TIA (%)</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.28</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">0.56</td><td rowspan="1" colspan="1">0.67</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">&#160; ICeH (%)</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">0.60</td><td rowspan="1" colspan="1">0.22</td><td rowspan="1" colspan="1">0.53</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">&#160;&#160; 0.33</td><td rowspan="1" colspan="1">0.40</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">SAH (%)</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.9</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td colspan="12" rowspan="1">Incidence (new primary diagnosis) of CVDs (%)</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">SCA (%)</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">0.04</td><td rowspan="1" colspan="1">0.03</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#160;0.04</td><td rowspan="1" colspan="1">0.04</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">IHD (%)</td><td rowspan="1" colspan="1">1.81</td><td rowspan="1" colspan="1">1.75</td><td rowspan="1" colspan="1">2.28</td><td rowspan="1" colspan="1">2.97</td><td rowspan="1" colspan="1">1.09</td><td rowspan="1" colspan="1">0.65</td><td rowspan="1" colspan="1">1.24</td><td rowspan="1" colspan="1">5.74</td><td rowspan="1" colspan="1">3.32</td><td rowspan="1" colspan="1">3.44</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">MI (%)</td><td rowspan="1" colspan="1">1.21</td><td rowspan="1" colspan="1">1.38</td><td rowspan="1" colspan="1">1.62</td><td rowspan="1" colspan="1">2.01</td><td rowspan="1" colspan="1">1.02</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.78</td><td rowspan="1" colspan="1">3.97</td><td rowspan="1" colspan="1">2.01</td><td rowspan="1" colspan="1">2.15</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">Angina pectoris (%)</td><td rowspan="1" colspan="1">0.04</td><td rowspan="1" colspan="1">0.04</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.03</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Afib (%)</td><td rowspan="1" colspan="1">0.99</td><td rowspan="1" colspan="1">0.35</td><td rowspan="1" colspan="1">0.39</td><td rowspan="1" colspan="1">0.41</td><td rowspan="1" colspan="1">0.20</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.31</td><td rowspan="1" colspan="1">0.85</td><td rowspan="1" colspan="1">1.18</td><td rowspan="1" colspan="1">1.10</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td colspan="12" rowspan="1">Prevalence (primary and secondary diagnosis) of CVDs (%)</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">SCA (%)</td><td rowspan="1" colspan="1">0.79</td><td rowspan="1" colspan="1">0.77</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">0.68</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.75</td><td rowspan="1" colspan="1">0.63</td><td rowspan="1" colspan="1">0.67</td><td rowspan="1" colspan="1">0.67</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">IHD (%)</td><td rowspan="1" colspan="1">13.41</td><td rowspan="1" colspan="1">9.80</td><td rowspan="1" colspan="1">9.87</td><td rowspan="1" colspan="1">16.60</td><td rowspan="1" colspan="1">5.85</td><td rowspan="1" colspan="1">10.85</td><td rowspan="1" colspan="1">14.10</td><td rowspan="1" colspan="1">25.03</td><td rowspan="1" colspan="1">22.84</td><td rowspan="1" colspan="1">22.05</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">MI (%)</td><td rowspan="1" colspan="1">2.18</td><td rowspan="1" colspan="1">2.57</td><td rowspan="1" colspan="1">2.30</td><td rowspan="1" colspan="1">3.60</td><td rowspan="1" colspan="1">1.70</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">1.85</td><td rowspan="1" colspan="1">5.31</td><td rowspan="1" colspan="1">3.33</td><td rowspan="1" colspan="1">3.44</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td rowspan="1" colspan="1">Angina pectoris (%)</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">&#160;0.54</td><td rowspan="1" colspan="1">0.34</td><td rowspan="1" colspan="1">&#8804;10 (-)</td><td rowspan="1" colspan="1">0.14</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Afib (%)</td><td rowspan="1" colspan="1">7.03</td><td rowspan="1" colspan="1">2.77</td><td rowspan="1" colspan="1">2.77</td><td rowspan="1" colspan="1">3.94</td><td rowspan="1" colspan="1">1.57</td><td rowspan="1" colspan="1">3.47</td><td rowspan="1" colspan="1">5.41</td><td rowspan="1" colspan="1">7.65</td><td rowspan="1" colspan="1">12.21</td><td rowspan="1" colspan="1">11.03</td><td rowspan="1" colspan="1">&lt;0.0001</td></tr></tbody></table></table-wrap><p>Incidence and prevalence of cardiovascular disorders</p><p>The incidence of angina pectoris was higher in patients with cocaine-related disorders (0.14%) and nicotine dependence (0.08%) in comparison to those without SUDs (0.06%) (p &lt; 0.0001). Similarly, the prevalence of angina pectoris was higher in patients with cocaine-related disorders (0.54%), and nicotine dependence (0.25%) in comparison to those with no SUDs (0.19%) (p &lt; 0.0001). The prevalence of a history of myocardial infarction (MI) was higher in patients with cocaine-related disorders (3.60%) and nicotine dependence (5.31%) in comparison to those with no SUDs (3.33%) (p &lt; 0.0001). The incidence (1.71% vs. 1.70%) and prevalence (2.22% vs. 2.14%) of AIS were higher amongst patients with cocaine-related disorders compared to those without SUDs.</p><p>Multivariable regression showing odds of hospitalizations with new onset of cerebrovascular disorders and cardiovascular amongst SUDs patients</p><p>The odds of having hospitalizations with new onset of AIS were higher in patients with amphetamine dependence (OR 1.23, 95%CI 1.14-1.33; p &lt; 0.0001), cocaine-related disorders (1.17, 1.12-1.23; p &lt; 0.0001), and nicotine dependence (1.42, 1.40-1.43; p &lt; 0.0001). The odds of having hospitalizations with new onset ICH were higher in patients with amphetamine dependence (2.58, 2.26-2.93; p &lt; 0.0001), cocaine-related disorders (1.62, 1.46-1.79; p &lt; 0.0001), and alcohol-related disorders (1.35, 1.01-1.82; p=0.0439). The odds of having hospitalizations with new onset SAH were higher in patients with amphetamine dependence (1.82, 1.48-2.24; p &lt; 0.0001), and nicotine dependence (1.47, 1.39-1.55; p &lt; 0.0001). The odds of having hospitalizations with new-onset myocardial infarction were higher in patients with&#160;nicotine dependence (1.85, 1.83-1.87; p &lt; 0.0001) and cocaine-related disorders (1.09, 1.04-1.14; p=0.0002). The odds of having hospitalizations with new-onset angina pectoris were higher in patients with cocaine-related disorders (2.21, 1.86-2.62; p &lt; 0.0001). The odds of having hospitalizations with new-onset atrial fibrillation were higher in patients with alcohol-related disorders (1.14, 1.11-1.17; p &lt; 0.0001)&#160;(Table&#160;<xref rid="TAB3" ref-type="table">3</xref>).</p><table-wrap position="float" id="TAB3" orientation="portrait"><label>Table 3</label><caption><title>Risk of having hospitalizations with new onset of CeVD and CVD amongst active SUDs patients.</title><p>CeVD, cerebrovascular disorder; CVD, cardiovascular disease; SUD,&#160;substance use disorder; AIS, acute ischemic stroke; TIA, transient ischemic attack; ICeH, intracerebral hemorrhage; SAH, subarachnoid hemorrhage; SCA, sudden cardiac arrest; MI, myocardial infarction; AFib, atrial fibrillation; aOR, adjusted odds ratio; CI, confidence inrterval</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Outcomes</td><td rowspan="1" colspan="1">Alcohol-related disorder aOR (95%CI) p-value</td><td rowspan="1" colspan="1">Amphetamine dependence aOR (95%CI) p-value</td><td rowspan="1" colspan="1">Cannabis-related disorders aOR (95%CI) p-value</td><td rowspan="1" colspan="1">Cocaine-related disorder&#160; aOR (95%CI) p-value &#160;</td><td rowspan="1" colspan="1">Hallucinogen-related disorder aOR (95%CI) p-value</td><td rowspan="1" colspan="1">Inhalant-related disorder aOR (95%CI) p-value</td><td rowspan="1" colspan="1">Opioid-related disorder aOR (95%CI) p-value</td><td rowspan="1" colspan="1">Nicotine dependence aOR (95%CI) p-value</td><td rowspan="1" colspan="1">c value</td></tr><tr><td rowspan="1" colspan="1">Model 1 AIS</td><td rowspan="1" colspan="1">0.68 (0.61-0.76) &lt;.0001
+</td><td rowspan="1" colspan="1">1.23 (1.14-1.33) &lt;.0001
+</td><td rowspan="1" colspan="1">1.03 (0.99-1.06) 0.2058</td><td rowspan="1" colspan="1">1.17 (1.12-1.23) &lt;.0001
+</td><td rowspan="1" colspan="1">0.43 (0.28-0.67) 0.0002</td><td rowspan="1" colspan="1">0.39 (0.14-1.05) 0.0619</td><td rowspan="1" colspan="1">0.38 (0.36-0.40) &lt;.0001
+</td><td rowspan="1" colspan="1">1.42 (1.40-1.43) &lt;.0001
+</td><td rowspan="1" colspan="1">0.783</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Model 2 TIA</td><td rowspan="1" colspan="1">0.72 (0.54-0.96) &lt;.0001
+</td><td rowspan="1" colspan="1">0.64 (0.50-0.82) 0.0233</td><td rowspan="1" colspan="1">0.86 (0.78-0.95) 0.0032</td><td rowspan="1" colspan="1">0.77 (0.67-0.89) 0.0002</td><td rowspan="1" colspan="1">0.59 (0.22-1.58) 0.2967</td><td rowspan="1" colspan="1">0.56 (0.08-3.97) 0.5596</td><td rowspan="1" colspan="1">0.43 (0.38-0.49) &lt;.0001
+</td><td rowspan="1" colspan="1">0.95 (0.92-0.98) 0.0003</td><td rowspan="1" colspan="1">0.778</td></tr><tr><td rowspan="1" colspan="1">Model 3 ICeH</td><td rowspan="1" colspan="1">1.35 (1.01-1.82) 0.0439</td><td rowspan="1" colspan="1">2.58 (2.26-2.93) &lt;.0001
+</td><td rowspan="1" colspan="1">0.78 (0.71-0.87) &lt;.0001
+</td><td rowspan="1" colspan="1">1.62 (1.46-1.79) &lt;.0001
+</td><td rowspan="1" colspan="1">0.34 (0.11-1.07) 0.0650</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">0.37 (0.32-0.43) &lt;.0001
+</td><td rowspan="1" colspan="1">0.76 (0.73-0.79) &lt;.0001
+</td><td rowspan="1" colspan="1">0.771</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Model 4 SAH</td><td rowspan="1" colspan="1">0.82 (0.50-1.35) 0.4345</td><td rowspan="1" colspan="1">1.82 (1.48-2.24) &lt;.0001
+</td><td rowspan="1" colspan="1">0.94 (0.82-1.08) 0.3917</td><td rowspan="1" colspan="1">1.09 (0.91-1.31) 0.3551</td><td rowspan="1" colspan="1">0.52 (0.13-2.08) 0.3524</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">0.38 (0.31-0.47) &lt;.0001
+</td><td rowspan="1" colspan="1">1.47 (1.39-1.55) &lt;.0001
+</td><td rowspan="1" colspan="1">0.695</td></tr><tr><td rowspan="1" colspan="1">Model 5 SCA</td><td rowspan="1" colspan="1">1.23 (0.73-2.05) 0.4404</td><td rowspan="1" colspan="1">1.01 (0.68-1.48) 0.9731</td><td rowspan="1" colspan="1">0.95 (0.78-1.17) 0.6571</td><td rowspan="1" colspan="1">1.24 (0.99-1.55) 0.0581</td><td rowspan="1" colspan="1">1.91 (0.71-5.13) 0.1983</td><td rowspan="1" colspan="1">2.45 (0.34-17.4) 0.3723</td><td rowspan="1" colspan="1">1.20 (1.00-1.43) 0.0460</td><td rowspan="1" colspan="1">0.85 (0.78-0.92) 0.0001</td><td rowspan="1" colspan="1">0.544</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Model 7 MI</td><td rowspan="1" colspan="1">0.47 (0.43-0.52) &lt;.0001
+</td><td rowspan="1" colspan="1">0.90 (0.84-0.96) 0.0013</td><td rowspan="1" colspan="1">0.96 (0.93-0.99) 0.0124</td><td rowspan="1" colspan="1">1.09 (1.04-1.14) 0.0002</td><td rowspan="1" colspan="1">0.64 (0.46-0.90) 0.0090 &#160;</td><td rowspan="1" colspan="1">0.40 (0.18-0.90) 0.0266</td><td rowspan="1" colspan="1">0.37 (0.36-0.39) &lt;.0001
+</td><td rowspan="1" colspan="1">1.85 (1.83-1.87) &lt;.0001
+</td><td rowspan="1" colspan="1">0.785</td></tr><tr><td rowspan="1" colspan="1">Model 8 Angina pectoris</td><td rowspan="1" colspan="1">0.49 (0.29-0.84) 0.0095</td><td rowspan="1" colspan="1">0.76 (0.50-1.14) 0.1803</td><td rowspan="1" colspan="1">0.74 (0.61.0.89) 0.0013</td><td rowspan="1" colspan="1">2.21 (1.86-2.62) &lt;.0001
+</td><td rowspan="1" colspan="1">0.70 (0.18-2.79) 0.6147</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">0.46 (0.36-0.58) &lt;.0001
+</td><td rowspan="1" colspan="1">1.08 (1.01-1.15) 0.0312</td><td rowspan="1" colspan="1">0.598</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">Model 9 AFib</td><td rowspan="1" colspan="1">1.14 (1.11-1.17) &lt;.0001
+</td><td rowspan="1" colspan="1">0.97 (0.86-1.09) 0.5864</td><td rowspan="1" colspan="1">0.90 (0.84-0.95) 0.0002</td><td rowspan="1" colspan="1">0.93 (0.86-1.01) 0.0987</td><td rowspan="1" colspan="1">0.56 (0.29-1.06) 0.0758</td><td rowspan="1" colspan="1">0.77 (0.29-2.04) 0.5921</td><td rowspan="1" colspan="1">0.39 (0.36-0.41) &lt;.0001
+</td><td rowspan="1" colspan="1">0.78 (0.76-0.79) &lt;.0001
+</td><td rowspan="1" colspan="1">0.711</td></tr></tbody></table></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>Our analysis of 58,259,589 hospitalizations revealed the following findings: (1) amphetamine and cocaine use were associated with greater odds of ischemic stroke and ICH, (2) cocaine but not amphetamine use was associated with increased odds of angina and acute MI, (3) alcohol use was associated with an increased odds of ICH and atrial arrhythmias, (4) nicotine use was associated with an increased odds of ischemic stroke, acute MI, and sudden cardiac arrest (SCA).</p><p>Both amphetamine and cocaine are vasoactive agents that exert their effect through catecholaminergic modulation and have been previously associated with both ischemic and hemorrhagic stroke&#160;[<xref rid="REF7" ref-type="bibr">7</xref>]. A retrospective study in young adults by Westover et al. noted a statistically significant association between cocaine use and both ischemic and hemorrhagic stroke&#160;[<xref rid="REF8" ref-type="bibr">8</xref>]. Amphetamine use was only associated with hemorrhagic strokes and not ischemic strokes&#160;[<xref rid="REF8" ref-type="bibr">8</xref>]. In addition, a review of cases reported in the literature also found a preponderance of amphetamines for hemorrhagic stroke&#160;[<xref rid="REF9" ref-type="bibr">9</xref>]. Our analysis echoed these trends, whereby a stronger association was demonstrated between amphetamine use and hemorrhagic stroke (2.58, 2.26-2.93) as compared to ischemic stroke (1.23, 1.14-1.33), albeit both associations were statistically significant. Compared to the study by Westover et al, the statistical significance of the latter is likely due to the larger sample size, considering the lower event rate of ischemic strokes demonstrated in prior studies.&#160;Mechanistically, cocaine and amphetamines can cause hemorrhagic stroke through acute hypertension, aneurysm formation, and rupture. For ischemic strokes, common mechanisms include arrhythmias with cardio-embolism, severe vasospasm, and accelerated atherosclerosis&#160;[<xref rid="REF7" ref-type="bibr">7</xref>]. Cocaine additionally may trigger platelet hyper-aggregation and arterial dissections as additional mechanisms for ischemic stroke&#160;[<xref rid="REF7" ref-type="bibr">7</xref>]. We also found a statistically significant association between amphetamine and SAH, which lends support to a recent retrospective study by Noblett et al.&#160;that indicated an increased risk of rupture and SAH at smaller aneurysmal size in patients with a history of methamphetamine use&#160;[<xref rid="REF10" ref-type="bibr">10</xref>].</p><p>In terms of involvement of the cardiovascular system, hospitalization with angina pectoris and acute MI was greater in patients with cocaine use (1.09, 1.04-1.14; p=0.0002) but not amphetamine use. This is contrasted to the findings by Westover et al. who found a statistically significant association of acute MI with both cocaine and amphetamine use among hospitalizations in Texas&#160;[<xref rid="REF11" ref-type="bibr">11</xref>]. Their study also demonstrated regional variation in the strength of association between amphetamine use and acute MI, suggesting areas with heavier use might be more susceptible to cardiovascular events. Further studies investigating this association in other regions and the frequency/amount of amphetamine use with incident events will lend more clarity to the discrepancy observed between our findings and that of Westover et al.</p><p>The increased legalization of marijuana and its rising prevalence has led to increased concern regarding its long-term effects on the cardiovascular system (World Drug Report 2019, United Nations)&#160;[<xref rid="REF12" ref-type="bibr">12</xref>]. Our study revealed that while there was a statistically significant increase in both the incidence and prevalence of ischemic heart disease and MI in hospitalized patients with cannabis use, no significant association was noted when adjusted for potential confounders. Our results are consistent with data from the Behavioral Risk Factor Surveillance System (BRFSS) by Jivanji et al. (2020) [<xref rid="REF13" ref-type="bibr">13</xref>]&#160;that also failed to reveal an association between cardiovascular disease and cannabis use. Furthermore, longitudinal studies investigating marijuana use and the development of cardiovascular disease in 18-30-year-olds also showed no change in the risk of developing cardiovascular disease later in life&#160;[<xref rid="REF14" ref-type="bibr">14</xref>].</p><p>We found significantly increased odds of hospitalization with ICH in patients with alcohol-related disorders (1.35, 1.01-1.82; p=0.0439). A prior retrospective study by Casolla et al. demonstrated similar findings with the proposed mechanism being through coagulopathy and platelet dysfunction&#160;[<xref rid="REF15" ref-type="bibr">15</xref>]. In keeping with previous studies, we also demonstrated a statistically significant association between atrial arrhythmias and alcohol use&#160;[<xref rid="REF16" ref-type="bibr">16</xref>]. This is proposed to occur through alcohol-mediated myocyte injury and autonomic dysfunction leading to an increased likelihood for the formation of atrial re-entry circuits, precipitating atrial fibrillation&#160;[<xref rid="REF17" ref-type="bibr">17</xref>]. Chelikam et al., in the NHANES study, evaluated 263465 respondents with CVDs, in which marijuana (1.98, 1.98-1.98), injectable illegal drug use (2.15, 2.14-2.15), and cigarette smoking (1.55, 1.55-1.55) had significantly increased the risk CVDs&#160;[<xref rid="REF18" ref-type="bibr">18</xref>].</p><p>Tobacco use is a well-established risk factor and has been shown to have a dose-dependent effect on the risk of ischemic stroke, MI, and ruptured cerebral aneurysms&#160;[<xref rid="REF19" ref-type="bibr">19</xref>-<xref rid="REF21" ref-type="bibr">21</xref>]. Our findings are in agreement with prior studies; nicotine use was independently associated with ischemic stroke (1.23, 1.14-1.33; p &lt; 0.0001), MI (1.09, 1.04-1.14; p=0.0002), and SAH (1.47, 1.39-1.55; p &lt; 0.0001).&#160;Nicotine causes an increased adrenergic drive, combined with the toxic and prothrombotic effects of oxidant chemicals and carbon monoxide leading to ischemic events&#160;[<xref rid="REF22" ref-type="bibr">22</xref>]. The increased shear stress and endothelial inflammation are also suspected to be the mechanisms behind aneurysm formation and rupture in aneurysmal SAH&#160;[<xref rid="REF21" ref-type="bibr">21</xref>].</p><p>Strengths and limitations</p><p>Our study showed that there is a higher risk of CVDs among patients with SUDs, even though the evidence described in our findings is based on administrative billing codes, producing a decreased overall sensitivity when compared with clinical diagnosis. The data we provided, together with the relevant literature, show the importance of better education about drug use problems and the effects they have on cardiovascular health. While we were able to demonstrate an association of different types of SUDs with different subtypes of CVDs and CeVDs, our study was limited in further delineating the specific doses or frequency of drug uses and their association with CVDs and CeVDs. Moreover, the study was designed to establish association and not causality.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>In conclusion, our study highlights the significant variability among CVD and CeVD events among patients hospitalized for SUD. Our results may aid in raising the index of suspicion and early management, especially in young adults hospitalized for SUD. Further studies are needed to evaluate other parameters such as the frequency and dose-relationship of different substances and their effect on CVD and CeVD in hospitalized patients.</p></sec></body><back><ack><p>Thanks to Harshil Patel, Urvish Patel, and Medhat Chowdhury who were equally contributed first authors.</p></ack><fn-group content-type="other"><title>Human Ethics</title><fn fn-type="other"><p>Consent was obtained or waived by all participants in this study</p></fn></fn-group><fn-group content-type="other"><title>Animal Ethics</title><fn fn-type="other"><p><bold>Animal subjects:</bold> All authors have confirmed that this study did not involve animal subjects or tissue.</p></fn></fn-group><notes><fn-group content-type="competing-interests"><fn fn-type="COI-statement"><p>The authors have declared that no competing interests exist.</p></fn></fn-group></notes><ref-list><title>References</title><ref id="REF1"><label>1</label><element-citation publication-type="journal"><article-title>Epidemiology of cardiovascular disease in young individuals</article-title><source>Nat Rev Cardiol</source><person-group><name name-style="western"><surname>Andersson</surname><given-names>C</given-names></name><name name-style="western"><surname>Vasan</surname><given-names>RS</given-names></name></person-group><fpage>230</fpage><lpage>240</lpage><volume>15</volume><year>2018</year><pub-id pub-id-type="pmid">29022571</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrcardio.2017.154</pub-id></element-citation></ref><ref id="REF2"><label>2</label><element-citation publication-type="webpage"><article-title>Center for Behavioral Health Statistics, S. Key Substance Use and Mental Health Indicators in the United States: Results from the 2020 National Survey on Drug Use and Health</article-title><source>the</source><date-in-citation content-type="access-date"><month>4</month><year>2023</year></date-in-citation><year>2021</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/nchs/hus/sources-definitions/nsduh.htm">https://www.cdc.gov/nchs/hus/sources-definitions/nsduh.htm</uri></element-citation></ref><ref id="REF3"><label>3</label><element-citation publication-type="journal"><article-title>Hospitalizations involving mental and substance use disorders among adults, 2012</article-title><source>Healthcare Cost and Utilization Project (HCUP) Statistical Briefs, 2012</source><person-group><name name-style="western"><surname>Heslin</surname><given-names>KC</given-names></name><name name-style="western"><surname>Elixhauser</surname><given-names>A</given-names></name><name name-style="western"><surname>Steiner</surname><given-names>CA</given-names></name></person-group><year>2015</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://hcup-us.ahrq.gov/reports/statbriefs/sb191-Hospitalization-Mental-Substance-Use-Disorders-2012.jsp">https://hcup-us.ahrq.gov/reports/statbriefs/sb191-Hospitalization-Mental-Substance-Use-Disorders-2012.jsp</uri><pub-id pub-id-type="pmid">26290939</pub-id></element-citation></ref><ref id="REF4"><label>4</label><element-citation publication-type="journal"><article-title>Risk of cardiovascular diseases in relation to substance use disorders</article-title><source>Drug Alcohol Depend</source><person-group><name name-style="western"><surname>Gan</surname><given-names>WQ</given-names></name><name name-style="western"><surname>Buxton</surname><given-names>JA</given-names></name><name name-style="western"><surname>Scheuermeyer</surname><given-names>FX</given-names></name><etal/></person-group><volume>229</volume><year>2021</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2021.109132</pub-id><pub-id pub-id-type="pmid">34768052</pub-id></element-citation></ref><ref id="REF5"><label>5</label><element-citation publication-type="journal"><article-title>Recreational substance use among patients with premature atherosclerotic cardiovascular disease</article-title><source>Heart</source><person-group><name name-style="western"><surname>Mahtta</surname><given-names>D</given-names></name><name name-style="western"><surname>Ramsey</surname><given-names>D</given-names></name><name name-style="western"><surname>Krittanawong</surname><given-names>C</given-names></name><etal/></person-group><fpage>650</fpage><lpage>656</lpage><volume>107</volume><year>2021</year><pub-id pub-id-type="pmid">33589427</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/heartjnl-2020-318119</pub-id></element-citation></ref><ref id="REF6"><label>6</label><element-citation publication-type="journal"><article-title>Cocaine use and the likelihood of nonfatal myocardial infarction and stroke: data from the Third National Health and Nutrition Examination Survey</article-title><source>Circulation</source><person-group><name name-style="western"><surname>Qureshi</surname><given-names>AI</given-names></name><name name-style="western"><surname>Suri</surname><given-names>MF</given-names></name><name name-style="western"><surname>Guterman</surname><given-names>LR</given-names></name><name name-style="western"><surname>Hopkins</surname><given-names>LN</given-names></name></person-group><fpage>502</fpage><lpage>506</lpage><volume>103</volume><year>2001</year><pub-id pub-id-type="pmid">11157713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.cir.103.4.502</pub-id></element-citation></ref><ref id="REF7"><label>7</label><element-citation publication-type="journal"><article-title>A mechanistic and pathophysiological approach for stroke associated with drugs of abuse</article-title><source>J Clin Med</source><person-group><name name-style="western"><surname>Tsatsakis</surname><given-names>A</given-names></name><name name-style="western"><surname>Docea</surname><given-names>AO</given-names></name><name name-style="western"><surname>Calina</surname><given-names>D</given-names></name><etal/></person-group><fpage>1295</fpage><volume>8</volume><year>2019</year><pub-id pub-id-type="pmid">31450861</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm8091295</pub-id><pub-id pub-id-type="pmcid">PMC6780697</pub-id></element-citation></ref><ref id="REF8"><label>8</label><element-citation publication-type="journal"><article-title>Stroke in young adults who abuse amphetamines or cocaine: a population-based study of hospitalized patients</article-title><source>Arch Gen Psychiatry</source><person-group><name name-style="western"><surname>Westover</surname><given-names>AN</given-names></name><name name-style="western"><surname>McBride</surname><given-names>S</given-names></name><name name-style="western"><surname>Haley</surname><given-names>RW</given-names></name></person-group><fpage>495</fpage><lpage>502</lpage><volume>64</volume><year>2007</year><pub-id pub-id-type="pmid">17404126</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archpsyc.64.4.495</pub-id></element-citation></ref><ref id="REF9"><label>9</label><element-citation publication-type="journal"><article-title>Stroke and methamphetamine use in young adults: a review</article-title><source>J Neurol Neurosurg Psychiatry</source><person-group><name name-style="western"><surname>Lappin</surname><given-names>JM</given-names></name><name name-style="western"><surname>Darke</surname><given-names>S</given-names></name><name name-style="western"><surname>Farrell</surname><given-names>M</given-names></name></person-group><fpage>1079</fpage><lpage>1091</lpage><volume>88</volume><year>2017</year><pub-id pub-id-type="pmid">28835475</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp-2017-316071</pub-id></element-citation></ref><ref id="REF10"><label>10</label><element-citation publication-type="journal"><article-title>Increased rupture risk in small intracranial aneurysms associated with methamphetamine use</article-title><source>Interv Neuroradiol</source><person-group><name name-style="western"><surname>Noblett</surname><given-names>D</given-names></name><name name-style="western"><surname>Hacein-Bey</surname><given-names>L</given-names></name><name name-style="western"><surname>Waldau</surname><given-names>B</given-names></name><name name-style="western"><surname>Ziegler</surname><given-names>J</given-names></name><name name-style="western"><surname>Dahlin</surname><given-names>B</given-names></name><name name-style="western"><surname>Chang</surname><given-names>J</given-names></name></person-group><fpage>75</fpage><lpage>80</lpage><volume>27</volume><year>2021</year><pub-id pub-id-type="pmid">32967503</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1591019920959534</pub-id><pub-id pub-id-type="pmcid">PMC7903554</pub-id></element-citation></ref><ref id="REF11"><label>11</label><element-citation publication-type="journal"><article-title>Acute myocardial infarction in young adults who abuse amphetamines</article-title><source>Drug Alcohol Depend</source><person-group><name name-style="western"><surname>Westover</surname><given-names>AN</given-names></name><name name-style="western"><surname>Nakonezny</surname><given-names>PA</given-names></name><name name-style="western"><surname>Haley</surname><given-names>RW</given-names></name></person-group><fpage>49</fpage><lpage>56</lpage><volume>96</volume><year>2008</year><pub-id pub-id-type="pmid">18353567</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2008.01.027</pub-id><pub-id pub-id-type="pmcid">PMC2533107</pub-id></element-citation></ref><ref id="REF12"><label>12</label><element-citation publication-type="journal"><article-title> World Drug Report 2019</article-title><date-in-citation content-type="access-date"><month>8</month><year>2022</year></date-in-citation><fpage>26</fpage><volume>2019</volume><year>2019</year><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://wdr.unodc.org/wdr2019/">https://wdr.unodc.org/wdr2019/</uri></element-citation></ref><ref id="REF13"><label>13</label><element-citation publication-type="journal"><article-title>Association between marijuana use and cardiovascular disease in US adults</article-title><source>Cureus</source><person-group><name name-style="western"><surname>Jivanji</surname><given-names>D</given-names></name><name name-style="western"><surname>Mangosing</surname><given-names>M</given-names></name><name name-style="western"><surname>Mahoney</surname><given-names>SP</given-names></name><name name-style="western"><surname>Castro</surname><given-names>G</given-names></name><name name-style="western"><surname>Zevallos</surname><given-names>J</given-names></name><name name-style="western"><surname>Lozano</surname><given-names>J</given-names></name></person-group><fpage>0</fpage><volume>12</volume><year>2020</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.11868</pub-id><pub-id pub-id-type="pmcid">PMC7781563</pub-id><pub-id pub-id-type="pmid">33409101</pub-id></element-citation></ref><ref id="REF14"><label>14</label><element-citation publication-type="journal"><article-title>The impact of marijuana on the cardiovascular system: a review of the most common cardiovascular events associated with marijuana use</article-title><source>J Clin Med</source><person-group><name name-style="western"><surname>Latif</surname><given-names>Z</given-names></name><name name-style="western"><surname>Garg</surname><given-names>N</given-names></name></person-group><fpage>1925</fpage><volume>9</volume><year>2020</year><pub-id pub-id-type="pmid">32575540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9061925</pub-id><pub-id pub-id-type="pmcid">PMC7355963</pub-id></element-citation></ref><ref id="REF15"><label>15</label><element-citation publication-type="journal"><article-title>Heavy alcohol intake and intracerebral hemorrhage: characteristics and effect on outcome</article-title><source>Neurology</source><person-group><name name-style="western"><surname>Casolla</surname><given-names>B</given-names></name><name name-style="western"><surname>Dequatre-Ponchelle</surname><given-names>N</given-names></name><name name-style="western"><surname>Rossi</surname><given-names>C</given-names></name><name name-style="western"><surname>H&#233;non</surname><given-names>H</given-names></name><name name-style="western"><surname>Leys</surname><given-names>D</given-names></name><name name-style="western"><surname>Cordonnier</surname><given-names>C</given-names></name></person-group><fpage>1109</fpage><lpage>1115</lpage><volume>79</volume><year>2012</year><pub-id pub-id-type="pmid">22965674</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e3182698d00</pub-id></element-citation></ref><ref id="REF16"><label>16</label><element-citation publication-type="journal"><article-title>Alcohol consumption and risk of atrial fibrillation: a prospective study and dose-response meta-analysis</article-title><source>J Am Coll Cardiol</source><person-group><name name-style="western"><surname>Larsson</surname><given-names>SC</given-names></name><name name-style="western"><surname>Drca</surname><given-names>N</given-names></name><name name-style="western"><surname>Wolk</surname><given-names>A</given-names></name></person-group><fpage>281</fpage><lpage>289</lpage><volume>64</volume><year>2014</year><pub-id pub-id-type="pmid">25034065</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2014.03.048</pub-id></element-citation></ref><ref id="REF17"><label>17</label><element-citation publication-type="journal"><article-title>Alcohol and atrial fibrillation: a sobering review</article-title><source>J Am Coll Cardiol</source><person-group><name name-style="western"><surname>Voskoboinik</surname><given-names>A</given-names></name><name name-style="western"><surname>Prabhu</surname><given-names>S</given-names></name><name name-style="western"><surname>Ling</surname><given-names>LH</given-names></name><name name-style="western"><surname>Kalman</surname><given-names>JM</given-names></name><name name-style="western"><surname>Kistler</surname><given-names>PM</given-names></name></person-group><fpage>2567</fpage><lpage>2576</lpage><volume>68</volume><year>2016</year><pub-id pub-id-type="pmid">27931615</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2016.08.074</pub-id></element-citation></ref><ref id="REF18"><label>18</label><element-citation publication-type="journal"><article-title>Epidemiology, burden, and association of substance abuse amongst patients with cardiovascular disorders: national cross-sectional survey study</article-title><source>Cureus</source><person-group><name name-style="western"><surname>Chelikam</surname><given-names>N</given-names></name><name name-style="western"><surname>Vyas</surname><given-names>V</given-names></name><name name-style="western"><surname>Dondapati</surname><given-names>L</given-names></name><etal/></person-group><fpage>0</fpage><volume>14</volume><year>2022</year><pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.27016</pub-id><pub-id pub-id-type="pmcid">PMC9386401</pub-id><pub-id pub-id-type="pmid">35989848</pub-id></element-citation></ref><ref id="REF19"><label>19</label><element-citation publication-type="journal"><article-title>Smoking and stroke: the more you smoke the more you stroke</article-title><source>Expert Rev Cardiovasc Ther</source><person-group><name name-style="western"><surname>Shah</surname><given-names>RS</given-names></name><name name-style="western"><surname>Cole</surname><given-names>JW</given-names></name></person-group><fpage>917</fpage><lpage>932</lpage><volume>8</volume><year>2010</year><pub-id pub-id-type="pmid">20602553</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/erc.10.56</pub-id><pub-id pub-id-type="pmcid">PMC2928253</pub-id></element-citation></ref><ref id="REF20"><label>20</label><element-citation publication-type="journal"><article-title>Smoking effect on ischemic heart disease in young patients</article-title><source>Heart Views</source><person-group><name name-style="western"><surname>Hbejan</surname><given-names>K</given-names></name></person-group><fpage>1</fpage><lpage>6</lpage><volume>12</volume><year>2011</year><pub-id pub-id-type="pmid">21731801</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/1995-705X.81547</pub-id><pub-id pub-id-type="pmcid">PMC3123509</pub-id></element-citation></ref><ref id="REF21"><label>21</label><element-citation publication-type="journal"><article-title>Association of intracranial aneurysm rupture with smoking duration, intensity, and cessation</article-title><source>Neurology</source><person-group><name name-style="western"><surname>Can</surname><given-names>A</given-names></name><name name-style="western"><surname>Castro</surname><given-names>VM</given-names></name><name name-style="western"><surname>Ozdemir</surname><given-names>YH</given-names></name><etal/></person-group><fpage>1408</fpage><lpage>1415</lpage><volume>89</volume><year>2017</year><pub-id pub-id-type="pmid">28855408</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000004419</pub-id><pub-id pub-id-type="pmcid">PMC5649762</pub-id></element-citation></ref><ref id="REF22"><label>22</label><element-citation publication-type="journal"><article-title>Cardiovascular toxicity of nicotine: implications for electronic cigarette use</article-title><source>Trends Cardiovasc Med</source><person-group><name name-style="western"><surname>Benowitz</surname><given-names>NL</given-names></name><name name-style="western"><surname>Burbank</surname><given-names>AD</given-names></name></person-group><fpage>515</fpage><lpage>523</lpage><volume>26</volume><year>2016</year><pub-id pub-id-type="pmid">27079891</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tcm.2016.03.001</pub-id><pub-id pub-id-type="pmcid">PMC4958544</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

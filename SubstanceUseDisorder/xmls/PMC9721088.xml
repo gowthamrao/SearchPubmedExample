@@ -1,0 +1,136 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" id="hsr2619" xml:lang="en" article-type="research-article" dtd-version="1.4"><!--The publisher of this article does not allow downloading of the full text in XML form.--><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Health Sci Rep</journal-id><journal-id journal-id-type="pmc-domain-id">3569</journal-id><journal-id journal-id-type="pmc-domain">hscirep</journal-id><journal-id journal-id-type="publisher-id">HSR2</journal-id><journal-title-group><journal-title>Health Science Reports</journal-title></journal-title-group><issn pub-type="epub">2398-8835</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9721088</article-id><article-id pub-id-type="pmcid-ver">PMC9721088.1</article-id><article-id pub-id-type="pmcaid">9721088</article-id><article-id pub-id-type="pmcaiid">9721088</article-id><article-id pub-id-type="pmid">36479389</article-id><article-id pub-id-type="doi">10.1002/hsr2.619</article-id><article-id pub-id-type="publisher-id">HSR2619</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>An observational, prospective, multicenter study on the utilization and effectiveness of elbasvir&#8211;grazoprevir treatment association for chronic hepatitis C in France (ZEPHYR study)</article-title><alt-title alt-title-type="left-running-head">BRONOWICKI <sc>et al.</sc></alt-title></title-group><contrib-group><contrib id="hsr2619-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bronowicki</surname><given-names initials="JP">Jean&#8208;Pierre</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1631-500X</contrib-id><xref rid="hsr2619-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jp.bronowicki@chru-nancy.fr</email></address></contrib><contrib id="hsr2619-cr-0002" contrib-type="author"><name name-style="western"><surname>Miailhes</surname><given-names initials="P">Patrick</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7979-3829</contrib-id><xref rid="hsr2619-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hsr2619-cr-0003" contrib-type="author"><name name-style="western"><surname>Hanslik</surname><given-names initials="B">Bertrand</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1803-0799</contrib-id><xref rid="hsr2619-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hsr2619-cr-0004" contrib-type="author"><name name-style="western"><surname>Ouzan</surname><given-names initials="D">Denis</given-names></name><xref rid="hsr2619-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hsr2619-cr-0005" contrib-type="author"><name name-style="western"><surname>Larrey</surname><given-names initials="D">Dominique</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0892-3489</contrib-id><xref rid="hsr2619-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hsr2619-cr-0006" contrib-type="author"><name name-style="western"><surname>Riachi</surname><given-names initials="G">Ghassan</given-names></name><xref rid="hsr2619-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hsr2619-cr-0007" contrib-type="author"><name name-style="western"><surname>Truchi</surname><given-names initials="R">R&#233;gine</given-names></name><xref rid="hsr2619-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="hsr2619-cr-0008" contrib-type="author"><name name-style="western"><surname>Jouannaud</surname><given-names initials="V">Vincent</given-names></name><xref rid="hsr2619-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="hsr2619-cr-0009" contrib-type="author"><name name-style="western"><surname>Pospait</surname><given-names initials="D">Dan</given-names></name><xref rid="hsr2619-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="hsr2619-cr-0010" contrib-type="author"><name name-style="western"><surname>Abergel</surname><given-names initials="A">Armand</given-names></name><xref rid="hsr2619-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="hsr2619-cr-0011" contrib-type="author"><name name-style="western"><surname>Causse</surname><given-names initials="X">Xavier</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8682-2042</contrib-id><xref rid="hsr2619-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="hsr2619-cr-0012" contrib-type="author"><name name-style="western"><surname>Perot</surname><given-names initials="S">St&#233;phanie</given-names></name><xref rid="hsr2619-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="hsr2619-cr-0013" contrib-type="author"><name name-style="western"><surname>Skrzypski</surname><given-names initials="J">J&#233;r&#233;my</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4538-1516</contrib-id><xref rid="hsr2619-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="hsr2619-cr-0014" contrib-type="author"><name name-style="western"><surname>De Hautecloque</surname><given-names initials="A">Astrid</given-names></name><xref rid="hsr2619-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="hsr2619-cr-0015" contrib-type="author"><name name-style="western"><surname>Spampinato</surname><given-names initials="A">Axelle</given-names></name><xref rid="hsr2619-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="hsr2619-cr-0016" contrib-type="author"><name name-style="western"><surname>Mariot</surname><given-names initials="P">Philippe</given-names></name><xref rid="hsr2619-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="hsr2619-cr-0017" contrib-type="author"><name name-style="western"><surname>Sogni</surname><given-names initials="P">Philippe</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3316-8785</contrib-id><xref rid="hsr2619-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="hsr2619-cr-0018" contrib-type="author"><collab collab-type="authors">the Zephyr Study group</collab></contrib></contrib-group><aff id="hsr2619-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>H&#233;pato&#8208;gastroent&#233;rologie, CHRU Nancy, INSERM 1256, Universit&#233; de Lorraine, Nancy, CHRU Vandoeuvre les Nancy</institution>
+<city>Nancy</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Infectious disease Unit, H&#244;pital Croix Rousse, HCL</institution>
+<city>Lyon</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Centre for Liver and Digestive Tract Diseases</institution>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Institut Arnault Tzanck</institution>
+<city>Saint Laurent Du Var</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Liver Unit, H&#244;pital Saint Eloi</institution>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>H&#244;pital Charles Nicolle</institution>
+<city>Rouen</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Liver Unit, H&#244;pital l'Archet</institution>
+<city>Nice</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>GHI Le Raincy</institution>
+<city>Montfermeil</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Gastroenterology Unit, H&#244;pital Bichat&#8208;Claude Bernard</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Liver Unit, CHU d'Estaing</institution>
+<city>Clermont&#8208;Ferrand</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>H&#244;pital de la source</institution>
+<city>Orleans</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>ICTA PM, Fontaine l&#232;s</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>MSD</institution>
+<city>Puteaux</city>
+<country country="FR">France</country>
+</aff><aff id="hsr2619-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>Paris&#8208;University and Liver Unit, Cochin Hospital</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Jean&#8208;Pierre Bronowicki, H&#233;pato&#8208;gastroent&#233;rologie, CHRU Nancy, INSERM 1256, Universit&#233; de Lorraine, Nancy, CHRU Vandoeuvre les Nancy, France.<break/>
+Email: <email>jp.bronowicki@chru-nancy.fr</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>12</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2023</year></pub-date><volume>6</volume><issue seq="10">1</issue><issue-id pub-id-type="pmc-issue-id">422560</issue-id><issue-id pub-id-type="doi">10.1002/hsr2.v6.1</issue-id><elocation-id>e619</elocation-id><history><date date-type="rev-recd"><day>11</day><month>3</month><year>2022</year></date><date date-type="received"><day>01</day><month>10</month><year>2021</year></date><date date-type="accepted"><day>01</day><month>4</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>12</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>06</day><month>12</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-09-07 14:25:25.323"><day>07</day><month>09</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">&#169; 2022 The Authors. <italic toggle="yes">Health Science Reports</italic> published by Wiley Periodicals LLC.</copyright-statement></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HSR2-6-e619.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HSR2-6-e619.pdf"/><abstract><title>Abstract</title><sec id="hsr2619-sec-0010"><title>Background and Aim</title><p>The efficacy and safety profiles of elbasvir&#8211;grazoprevir (EBR/GZR) has been established in more than 10 clinical trials. However, the characteristics of patients treated in routine clinical practice may differ. The present study was therefore designed to assess the real&#8208;life effectiveness of EBR/GZR therapy in the general population and among subgroups with a high hepatitis C virus&#160;(HCV) prevalence in France.</p></sec><sec id="hsr2619-sec-0020"><title>Methods</title><p>The Zephyr study was designed as a French, multicentre, prospective, observational study on EBR/GZR use and effectiveness in current practice in chronic hepatitis C&#160;patients. These results are based on data regarding&#160;the adult patients who received at least one dose of EBR/GZR between December 2017 and June 2019 in 67 French hospitals and clinics.</p></sec><sec id="hsr2619-sec-0030"><title>Results</title><p>Overall, 478 patients were included. The Full Analysis Set&#160;corresponded to the 467 patients who met all the inclusion criteria and none of the exclusion criteria. Gender was balanced and the mean age was 55.7&#8201;&#177;&#8201;13.3 years. The patients were mainly treatment&#8208;naive (89.5%) and infected with Genotype 1b (70.4%). Among the 75 patients with HCV Gt1a genotype, 56% had HCV RNA&#8201;&#8805;&#8201;800,000&#8201;IU/ml. F3&#8211;F4 fibrosis stage involved 24.2% of our population. Our subgroups were distributed among 110 migrants (23.6%), 58 (15.3%) using opioid agonist treatment, including people who inject drugs, 30 (6.8%) with chronic kidney disease Stages 3&#8211;5, 9 (1.9%) with an&#160;inherited blood disorder, and 4 (0.9%) coinfected with HIV. The remaining 269 (58.7%) were included in the general population subgroup. Overall, sustained virologic response 12 weeks after the end of treatment reached 98.0% and remained consistent among genotype, HCV RNA values, fibrosis stage, and the subgroup of interest. The rate of Alcohol Use Disorders Identification Test&#8208;Consumption&#8203;&#8203;&#8203;&#160;and Life Habit questionnaire completion was high at each visit, with data suggesting alcohol consumption decrease and an improvement in quality of life.</p></sec><sec id="hsr2619-sec-0040"><title>Conclusions</title><p>Using real&#8208;world evidence data on a French population representative of HCV patients, we confirmed the results obtained during EBR/GZR development program.</p></sec></abstract><kwd-group><kwd id="hsr2619-kwd-0001">elbasvir/grazoprevir association</kwd><kwd id="hsr2619-kwd-0002">hepatitis C virus</kwd><kwd id="hsr2619-kwd-0003">real&#8208;world evidence study</kwd><kwd id="hsr2619-kwd-0004">sustained virologic response</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>MSD France</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="5"/><page-count count="10"/><word-count count="6219"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.1 mode:remove_FC converted:05.12.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hsr2619-cit-0023"><string-name name-style="western"><surname>Bronowicki</surname><given-names>J&#8208;P</given-names></string-name>, <string-name name-style="western"><surname>Miailhes</surname><given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Hanslik</surname><given-names>B</given-names></string-name>, et al. <article-title>An observational, prospective, multicenter study on the utilization and effectiveness of elbasvir&#8211;grazoprevir treatment association for chronic hepatitis C in France (ZEPHYR study)</article-title>. <source>Health Sci. Rep.</source><year>2022</year>;<volume>6</volume>:<elocation-id>e619</elocation-id>. <pub-id pub-id-type="doi">10.1002/hsr2.619</pub-id><pub-id pub-id-type="pmcid">PMC9721088</pub-id><pub-id pub-id-type="pmid">36479389</pub-id></mixed-citation>
+</p></notes></front></article></pmc-articleset>
